@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:38:32 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🏙️ Evacuation orders issued as wildfire burns in Orange County, California</title>
+      <link>https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</link>
+      <guid isPermaLink="true">https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</guid>
+      <pubDate>Fri, 16 Oct 2026 23:35:41 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Oct 16, 07:35 PM ET</description>
+    </item>
     <item>
       <title>🦅 Eagles opposing player to stop, Week 6 edition</title>
       <link>https://www.bleedinggreennation.com/philadelphia-eagles-game-information/187108/eagles-opposing-player-to-stop-week-6-edition</link>
@@ -13,6 +21,22 @@
       <pubDate>Fri, 16 Oct 2026 18:53:06 +0000</pubDate>
       <category>sports</category>
       <description>Bleeding Green Nation, Google News Philly Sports - Oct 16, 02:53 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Oregon school shooter attacked special education classroom, police say</title>
+      <link>https://www.pbs.org/newshour/show/oregon-school-shooter-attacked-special-education-classroom-police-say</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/show/oregon-school-shooter-attacked-special-education-classroom-police-say</guid>
+      <pubDate>Fri, 16 Oct 2026 22:55:49 +0000</pubDate>
+      <category>breaking</category>
+      <description>PBS NewsHour - Oct 16, 06:55 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Oregon school shooter identified as 16-year-old whose mother purchased the gun he used, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxONDlKLVQtcURnNl91VmJXM0ZFLTZLNkhjcHNCNGdKcWJNLTRYX1hlaHk5X0JMdjFUWU1meEZwRjlHbFdxWnM5YkNSTE1FUjVjQTdtYmQ2dzFOSmlHdDFtSFNxZldRcEVMV19NRGZqb2l5WGNmcFl1NlRRZXBxbDI2WDdVYld6VnF3QXV1MkJ6UmtvQWVXT0NfeUJJRll0aHNhRjdta0hsS243LTduWkJmSEFZMWlLQnowdkE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxONDlKLVQtcURnNl91VmJXM0ZFLTZLNkhjcHNCNGdKcWJNLTRYX1hlaHk5X0JMdjFUWU1meEZwRjlHbFdxWnM5YkNSTE1FUjVjQTdtYmQ2dzFOSmlHdDFtSFNxZldRcEVMV19NRGZqb2l5WGNmcFl1NlRRZXBxbDI2WDdVYld6VnF3QXV1MkJ6UmtvQWVXT0NfeUJJRll0aHNhRjdta0hsS243LTduWkJmSEFZMWlLQnowdkE?oc=5</guid>
+      <pubDate>Fri, 16 Oct 2026 22:15:55 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Oct 16, 06:15 PM ET</description>
     </item>
     <item>
       <title>🦅 Eagles place Will Shipley on injured reserve to make room for Joe Milton</title>
@@ -31,14 +55,6 @@
       <description>6abc Action News, Google News Breaking, Google News Top Stories - Oct 16, 05:11 PM ET</description>
     </item>
     <item>
-      <title>🏙️ Threats prompt lockdowns, evacuations at 3 Philadelphia schools</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWxycTd0N2xfbGxiY1JYb3hpX2l2bHRKZXNLbHJUSllmLUtfbEJoNzdjeTdqMHBsdGJzOTd4SzUwRXBWSGtQR3loX1NPck92ZFFjXy00YV9tc1JjVkM4OFdHY0dRdFBEOFJGSFFSMXNNUDBqVWtmdW1ub1RSZHVMdThKbW1WaXM1bDNYdHRfRQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWxycTd0N2xfbGxiY1JYb3hpX2l2bHRKZXNLbHJUSllmLUtfbEJoNzdjeTdqMHBsdGJzOTd4SzUwRXBWSGtQR3loX1NPck92ZFFjXy00YV9tc1JjVkM4OFdHY0dRdFBEOFJGSFFSMXNNUDBqVWtmdW1ub1RSZHVMdThKbW1WaXM1bDNYdHRfRQ?oc=5</guid>
-      <pubDate>Fri, 16 Oct 2026 15:47:24 +0000</pubDate>
-      <category>local</category>
-      <description>Google News Philadelphia - Oct 16, 11:47 AM ET</description>
-    </item>
-    <item>
       <title>⚡ Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt</title>
       <link>https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/</link>
       <guid isPermaLink="true">https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/</guid>
@@ -55,36 +71,20 @@
       <description>Bleeding Green Nation, Crossing Broad, Google News Philly Sports - Oct 16, 11:14 AM ET</description>
     </item>
     <item>
-      <title>🌍 Division in Lebanon over Hezbollah’s confiscated explosives</title>
-      <link>https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss</guid>
-      <pubDate>Fri, 16 Oct 2026 16:09:43 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Oct 16, 12:09 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Iran's president denies nuclear ambitions, says he's ready for talks</title>
-      <link>https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/</guid>
-      <pubDate>Fri, 16 Oct 2026 17:09:25 +0000</pubDate>
-      <category>breaking</category>
-      <description>CBS News - Oct 16, 01:09 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Slovakia Becomes 9th European Country to Approve Tesla FSD</title>
-      <link>https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd</guid>
-      <pubDate>Fri, 16 Oct 2026 19:02:00 +0000</pubDate>
+      <title>⚡ Watch Tesla FSD Clear a Path for an Ambulance at a Red Light [VIDEO]</title>
+      <link>https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video</guid>
+      <pubDate>Fri, 16 Oct 2026 22:14:00 +0000</pubDate>
       <category>tesla</category>
-      <description>Not a Tesla App - Oct 16, 03:02 PM ET</description>
+      <description>Not a Tesla App - Oct 16, 06:14 PM ET</description>
     </item>
     <item>
-      <title>🌍 New York City college student dead after being drugged with fentanyl and raped in her dorm room, prosecutors say</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVQ1aXBHYzRoWFo4aDV0enVlU3RseVNkbU4yM1Y5UFNNRTUxUDhGWXl6VjkyR1REOTlWMVFjaDNTY3gycVpSMm1zbndjY2tqRjdIU3VHcWVqLU1PTHZqdmJxLTBBS3NBSWdBV2VkWmF3cEFjSkRYRnN3YnZWQV84SXZENEswM2VKQ1gweWtESWpOS3l2VktyOWRfa1RLVlhubEdhVlkyeEpOQVBFUWU5cENERVc3WmdMeEE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVQ1aXBHYzRoWFo4aDV0enVlU3RseVNkbU4yM1Y5UFNNRTUxUDhGWXl6VjkyR1REOTlWMVFjaDNTY3gycVpSMm1zbndjY2tqRjdIU3VHcWVqLU1PTHZqdmJxLTBBS3NBSWdBV2VkWmF3cEFjSkRYRnN3YnZWQV84SXZENEswM2VKQ1gweWtESWpOS3l2VktyOWRfa1RLVlhubEdhVlkyeEpOQVBFUWU5cENERVc3WmdMeEE?oc=5</guid>
-      <pubDate>Fri, 16 Oct 2026 17:33:38 +0000</pubDate>
+      <title>🌍 Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5</guid>
+      <pubDate>Fri, 16 Oct 2026 23:19:00 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Breaking, Google News Top Stories - Oct 16, 01:33 PM ET</description>
+      <description>Google News Top Stories - Oct 16, 07:19 PM ET</description>
     </item>
   </channel>
 </rss>
