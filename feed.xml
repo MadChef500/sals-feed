@@ -4,15 +4,23 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:12:12 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 10/15: CBS Evening News</title>
+      <link>https://www.cbsnews.com/video/101526-cbs-evening-news/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/101526-cbs-evening-news/</guid>
+      <pubDate>Thu, 15 Oct 2026 22:30:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News - Oct 15, 06:30 PM ET</description>
+    </item>
     <item>
       <title>🌍 Live updates: 3 children among dead in Bend school shooting, OPB sources say - Oregon Public Broadcasting</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5GWmdRdXJBZy1uRWplOENEWU92cU5VbFNJcDdJTW5ycjB5MlZyYVlVcVZoYUc2MzE3MzkwWDZCZW45U1ZBdmxDSnZfbHA4bU4xTG54dzJ4MHNTN3gwdmJ6VlljSGJDbnFVU2dWVUFMbm9EbTlF?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE5GWmdRdXJBZy1uRWplOENEWU92cU5VbFNJcDdJTW5ycjB5MlZyYVlVcVZoYUc2MzE3MzkwWDZCZW45U1ZBdmxDSnZfbHA4bU4xTG54dzJ4MHNTN3gwdmJ6VlljSGJDbnFVU2dWVUFMbm9EbTlF?oc=5</guid>
       <pubDate>Thu, 15 Oct 2026 23:53:21 +0000</pubDate>
       <category>breaking</category>
-      <description>ABC News, Al Jazeera, CBS News, Google News Breaking, Google News Top Stories, PBS NewsHour - Oct 15, 07:53 PM ET</description>
+      <description>6abc Action News, ABC News, Al Jazeera, CBS News, Google News Breaking, Google News Top Stories, PBS NewsHour - Oct 15, 07:53 PM ET</description>
     </item>
     <item>
       <title>🦅 Jalen Hurts ruled out of Eagles vs. Panthers with superficial blood clot</title>
@@ -23,12 +31,20 @@
       <description>6abc Action News, Bleeding Green Nation, Google News Breaking, Google News Philadelphia, Google News Philly Sports, Google News Top Stories, PhillyVoice - Oct 15, 04:22 PM ET</description>
     </item>
     <item>
-      <title>🌍 Breaking News: Small Plane Crash in Sauk County</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHk5LXl1c2QxZFd0ME5FSFpNSzhJcnZhdjBZX0xWbTJzX3hnR3VIRXNjRDV2NjN0dV80MFhIc3lUeW9iejZOVmNMcGUxRkoySFB3U3RiS2kxRi1SemY3bUJFQ1gtUFRBdlZ3dWFpWEpCYzBWVVEzcGJUbE00akoxbmFfX0lPS0hWNWU4N2h1eW5FYkswbm9CaDNnb092UEs4Yk9BbzRXY2l1c2l0ZVYyQ204SkY0d3diZGlLVTJjYkU1UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNHk5LXl1c2QxZFd0ME5FSFpNSzhJcnZhdjBZX0xWbTJzX3hnR3VIRXNjRDV2NjN0dV80MFhIc3lUeW9iejZOVmNMcGUxRkoySFB3U3RiS2kxRi1SemY3bUJFQ1gtUFRBdlZ3dWFpWEpCYzBWVVEzcGJUbE00akoxbmFfX0lPS0hWNWU4N2h1eW5FYkswbm9CaDNnb092UEs4Yk9BbzRXY2l1c2l0ZVYyQ204SkY0d3diZGlLVTJjYkU1UQ?oc=5</guid>
-      <pubDate>Wed, 14 Oct 2026 11:07:00 +0000</pubDate>
+      <title>🌍 Pakistan school roof collapses in Peshawar, killing almost 30 young students and a teacher</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3J5UGhfX2RJclh6X0RtMmhnSVNZMk9Fb1RReXZQTm9WVDVNaGtNV2JqY2F0RWhwRWRNUWRUYWxfNG1NbXVCeUV0T1Q0ejNSRzJJWjNlUWpUaDg4TUR2SVV5YXdGVzhGOEFvd0lNLVNFclJzTnlJUWhfTXl1SkFmNkVSSUNyTjhvaENyYzItSQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3J5UGhfX2RJclh6X0RtMmhnSVNZMk9Fb1RReXZQTm9WVDVNaGtNV2JqY2F0RWhwRWRNUWRUYWxfNG1NbXVCeUV0T1Q0ejNSRzJJWjNlUWpUaDg4TUR2SVV5YXdGVzhGOEFvd0lNLVNFclJzTnlJUWhfTXl1SkFmNkVSSUNyTjhvaENyYzItSQ?oc=5</guid>
+      <pubDate>Thu, 15 Oct 2026 09:03:00 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Breaking - Oct 14, 07:07 AM ET</description>
+      <description>Google News Top Stories - Oct 15, 05:03 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 3 students and a teacher killed in Oregon elementary school shooting, police say</title>
+      <link>https://www.pbs.org/newshour/nation/at-least-2-people-hospitalized-after-shooting-at-oregon-elementary-school-police-say</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/nation/at-least-2-people-hospitalized-after-shooting-at-oregon-elementary-school-police-say</guid>
+      <pubDate>Thu, 15 Oct 2026 21:54:06 +0000</pubDate>
+      <category>breaking</category>
+      <description>ABC News, BBC News, Google News Philadelphia, PBS NewsHour - Oct 15, 05:54 PM ET</description>
     </item>
     <item>
       <title>🦅 Eagles-Panthers Week 6 injury report, with analysis</title>
@@ -39,44 +55,28 @@
       <description>Google News Philadelphia, Google News Philly Sports, PhillyVoice - Oct 15, 06:04 PM ET</description>
     </item>
     <item>
-      <title>🌍 Feds investigating letters with 'suspicious substances' sent to multiple congressional offices - ABC News</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWVaUG1oRmJlYTZDNHZXZjAyR1VmSUs0UG1pUFNaRHc2RGpoRWVrQjNKY2szLUVGaExzQ1ZPb0lXVWFFQmV3TkRWMmdudFA3TW1zb3lTbXVlTUtBb0VNVnk0a1NEc1pvSl9IS2F5ei1jMUdPelVncF8tRVp0ZVhKUm5LZFJtQlZHbW44TnpRelBScDhxM3M1bEk1M1NIUjUyWnB2ZTQ1X1ZHS2JVU3NIdVk5dGFNYXRZNkZtRC1B0gHDAUFVX3lxTE43Mzd5TVRZOE9ZQmJXRFREZ25NNjhZenF4aFZvNGN0ZjFsYzl4QXVaT2ZfS1lsVUZCM09TdkZrTUY3R3VTUmMtVW1ITjdEWjh4c3VzcEJXdVgyeEthOTQzaU5sTkpoalJaVTlwNmRNbUhVRS1QYU50VlhPVm1iSk5tRUJhYUNqSTR0eEF4ZmsxTWFtblB2SnZfUFhqWjlTM0VFREN6bGpUajhiMkJ6ZWtKcHRaOUFfUFNUNXNyZlczU3JmVQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWVaUG1oRmJlYTZDNHZXZjAyR1VmSUs0UG1pUFNaRHc2RGpoRWVrQjNKY2szLUVGaExzQ1ZPb0lXVWFFQmV3TkRWMmdudFA3TW1zb3lTbXVlTUtBb0VNVnk0a1NEc1pvSl9IS2F5ei1jMUdPelVncF8tRVp0ZVhKUm5LZFJtQlZHbW44TnpRelBScDhxM3M1bEk1M1NIUjUyWnB2ZTQ1X1ZHS2JVU3NIdVk5dGFNYXRZNkZtRC1B0gHDAUFVX3lxTE43Mzd5TVRZOE9ZQmJXRFREZ25NNjhZenF4aFZvNGN0ZjFsYzl4QXVaT2ZfS1lsVUZCM09TdkZrTUY3R3VTUmMtVW1ITjdEWjh4c3VzcEJXdVgyeEthOTQzaU5sTkpoalJaVTlwNmRNbUhVRS1QYU50VlhPVm1iSk5tRUJhYUNqSTR0eEF4ZmsxTWFtblB2SnZfUFhqWjlTM0VFREN6bGpUajhiMkJ6ZWtKcHRaOUFfUFNUNXNyZlczU3JmVQ?oc=5</guid>
-      <pubDate>Thu, 15 Oct 2026 21:57:42 +0000</pubDate>
-      <category>breaking</category>
-      <description>6abc Action News, ABC News, Google News Breaking, Google News Top Stories - Oct 15, 05:57 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
-      <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
-      <guid isPermaLink="true">https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</guid>
-      <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
-      <category>tesla</category>
-      <description>Electrek, Not a Tesla App - Oct 12, 09:24 AM ET</description>
-    </item>
-    <item>
-      <title>🏒 Danny Briere reportedly getting calls from NHL GMs amid Flyers’ struggles</title>
-      <link>https://www.broadstreethockey.com/post/danny-briere-reportedly-getting-calls-from-nhl-gms-amid-flyers-struggles/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/danny-briere-reportedly-getting-calls-from-nhl-gms-amid-flyers-struggles/</guid>
-      <pubDate>Wed, 14 Oct 2026 02:39:29 +0000</pubDate>
+      <title>🏒 Takeaways: Flyers’ streak stretches to 9 with 2-1 loss to Red Wings</title>
+      <link>https://www.broadstreethockey.com/post/takeaways-flyers-streak-stretches-to-9-with-2-1-loss-to-red-wings/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/takeaways-flyers-streak-stretches-to-9-with-2-1-loss-to-red-wings/</guid>
+      <pubDate>Fri, 16 Oct 2026 03:16:25 +0000</pubDate>
       <category>sports</category>
-      <description>Broad Street Hockey, Crossing Broad - Oct 13, 10:39 PM ET</description>
+      <description>Broad Street Hockey, Google News Philadelphia, Google News Philly Sports - Oct 15, 11:16 PM ET</description>
     </item>
     <item>
-      <title>🌍 School roof collapse in Pakistan kills at least 35 and injures more than 50</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk03U2RteGtaLTl1SXhmZXUxeTRDTzc5UnJSM1RRVWx3a1hWeU51UGszTGJIMHQ3U3l6NWkwUUxURENCOFVJbXdCekxRclZsQlRTNnU2eFdnXzBGOEt3S2ZlcW9QcXdVd2JJTDBScVhqa0FzOENDdFR1VG9iZTVQdGFRT0xoMXJIbGVHUlBMN3lGSlVIZjk1QXBrTkJlQ3M?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk03U2RteGtaLTl1SXhmZXUxeTRDTzc5UnJSM1RRVWx3a1hWeU51UGszTGJIMHQ3U3l6NWkwUUxURENCOFVJbXdCekxRclZsQlRTNnU2eFdnXzBGOEt3S2ZlcW9QcXdVd2JJTDBScVhqa0FzOENDdFR1VG9iZTVQdGFRT0xoMXJIbGVHUlBMN3lGSlVIZjk1QXBrTkJlQ3M?oc=5</guid>
-      <pubDate>Thu, 15 Oct 2026 16:23:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 15, 12:23 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla App Update 4.61.5: Home Charging Quotes, Improvements to Charging Cards</title>
-      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes</guid>
-      <pubDate>Tue, 06 Oct 2026 13:37:37 +0000</pubDate>
+      <title>⚡ Tesla Renames FSD to ‘Tesla Assisted Driving’ in Europe</title>
+      <link>https://www.notateslaapp.com/news/4794/tesla-renames-fsd-to-tesla-assisted-driving-in-europe</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4794/tesla-renames-fsd-to-tesla-assisted-driving-in-europe</guid>
+      <pubDate>Thu, 08 Oct 2026 20:41:00 +0000</pubDate>
       <category>tesla</category>
-      <description>Not a Tesla App - Oct 06, 09:37 AM ET</description>
+      <description>Electrek, Google News Tesla, Not a Tesla App - Oct 08, 04:41 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla FSD v14.3.12 With Halloween Mode Release Notes (Update 2026.38.5)</title>
+      <link>https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes</guid>
+      <pubDate>Sat, 10 Oct 2026 22:28:56 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Not a Tesla App - Oct 10, 06:28 PM ET</description>
     </item>
     <item>
       <title>🏙️ Armed man barricaded with rifle causes evacuations in Southwest Philly</title>
