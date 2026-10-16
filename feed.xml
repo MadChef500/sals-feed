@@ -4,23 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:48:23 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 3 children, 1 adult killed in Oregon elementary school shooting, sources say</title>
-      <link>https://www.cbsnews.com/video/3-children-1-adult-killed-in-oregon-elementary-school-shooting/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/video/3-children-1-adult-killed-in-oregon-elementary-school-shooting/</guid>
-      <pubDate>Thu, 15 Oct 2026 23:10:07 +0000</pubDate>
-      <category>breaking</category>
-      <description>ABC News, Al Jazeera, CBS News, Google News Breaking, PBS NewsHour - Oct 15, 07:10 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Police report active shooter at elementary school in Bend - Oregon Public Broadcasting</title>
+      <title>🌍 Live updates: 3 children among dead in Bend school shooting, OPB sources say - Oregon Public Broadcasting</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5GWmdRdXJBZy1uRWplOENEWU92cU5VbFNJcDdJTW5ycjB5MlZyYVlVcVZoYUc2MzE3MzkwWDZCZW45U1ZBdmxDSnZfbHA4bU4xTG54dzJ4MHNTN3gwdmJ6VlljSGJDbnFVU2dWVUFMbm9EbTlF?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE5GWmdRdXJBZy1uRWplOENEWU92cU5VbFNJcDdJTW5ycjB5MlZyYVlVcVZoYUc2MzE3MzkwWDZCZW45U1ZBdmxDSnZfbHA4bU4xTG54dzJ4MHNTN3gwdmJ6VlljSGJDbnFVU2dWVUFMbm9EbTlF?oc=5</guid>
-      <pubDate>Thu, 15 Oct 2026 23:48:45 +0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 23:53:21 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Breaking, Google News Top Stories - Oct 15, 07:48 PM ET</description>
+      <description>ABC News, Al Jazeera, CBS News, Google News Breaking, Google News Top Stories, PBS NewsHour - Oct 15, 07:53 PM ET</description>
     </item>
     <item>
       <title>🦅 Jalen Hurts ruled out of Eagles vs. Panthers with superficial blood clot</title>
@@ -69,6 +61,14 @@
       <pubDate>Wed, 14 Oct 2026 02:39:29 +0000</pubDate>
       <category>sports</category>
       <description>Broad Street Hockey, Crossing Broad - Oct 13, 10:39 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 School roof collapse in Pakistan kills at least 35 and injures more than 50</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk03U2RteGtaLTl1SXhmZXUxeTRDTzc5UnJSM1RRVWx3a1hWeU51UGszTGJIMHQ3U3l6NWkwUUxURENCOFVJbXdCekxRclZsQlRTNnU2eFdnXzBGOEt3S2ZlcW9QcXdVd2JJTDBScVhqa0FzOENDdFR1VG9iZTVQdGFRT0xoMXJIbGVHUlBMN3lGSlVIZjk1QXBrTkJlQ3M?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk03U2RteGtaLTl1SXhmZXUxeTRDTzc5UnJSM1RRVWx3a1hWeU51UGszTGJIMHQ3U3l6NWkwUUxURENCOFVJbXdCekxRclZsQlRTNnU2eFdnXzBGOEt3S2ZlcW9QcXdVd2JJTDBScVhqa0FzOENDdFR1VG9iZTVQdGFRT0xoMXJIbGVHUlBMN3lGSlVIZjk1QXBrTkJlQ3M?oc=5</guid>
+      <pubDate>Thu, 15 Oct 2026 16:23:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Oct 15, 12:23 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla App Update 4.61.5: Home Charging Quotes, Improvements to Charging Cards</title>
