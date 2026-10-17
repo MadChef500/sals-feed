@@ -4,15 +4,31 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 23:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:30:54 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🏙️ Evacuation orders issued as wildfire burns in Orange County, California</title>
-      <link>https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</link>
-      <guid isPermaLink="true">https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</guid>
-      <pubDate>Fri, 16 Oct 2026 23:35:41 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 16, 07:35 PM ET</description>
+      <title>🌍 BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2QzNER0SEk1ZWwtTF9BQVBncXZYZ2xtWEw2SnRYeUd2dEtsTmNpYzNiamRUeEtMeEpLUHRjRzZscEN1MVhGMVJETUdBVFZBX20ySVpIUlpUd0ZPOXZMM0hfZ2dpbl9nYmpIZDQ5MnBCQ0IwQ0E4dDNtVVUtVVd5N1FfQjhhMlljVGoxamVyaWx5WDZtT2diU19FNWFfdXJu?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2QzNER0SEk1ZWwtTF9BQVBncXZYZ2xtWEw2SnRYeUd2dEtsTmNpYzNiamRUeEtMeEpLUHRjRzZscEN1MVhGMVJETUdBVFZBX20ySVpIUlpUd0ZPOXZMM0hfZ2dpbl9nYmpIZDQ5MnBCQ0IwQ0E4dDNtVVUtVVd5N1FfQjhhMlljVGoxamVyaWx5WDZtT2diU19FNWFfdXJu?oc=5</guid>
+      <pubDate>Sat, 17 Oct 2026 00:15:48 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Breaking - Oct 16, 08:15 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Teacher tried to stop 16-year-old shooter after he entered Oregon school, police say</title>
+      <link>https://www.cbsnews.com/video/teacher-tried-to-stop-16-year-old-shooter-after-he-entered-oregon-school-police-say/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/teacher-tried-to-stop-16-year-old-shooter-after-he-entered-oregon-school-police-say/</guid>
+      <pubDate>Fri, 16 Oct 2026 23:53:06 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News - Oct 16, 07:53 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Sacramento mom says &quot;hero&quot; son shot, killed Oregon school shooter</title>
+      <link>https://www.cbsnews.com/news/sacramento-mother-says-son-confronts-oregon-school-shooter/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/sacramento-mother-says-son-confronts-oregon-school-shooter/</guid>
+      <pubDate>Sat, 17 Oct 2026 01:13:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News - Oct 16, 09:13 PM ET</description>
     </item>
     <item>
       <title>🦅 Eagles opposing player to stop, Week 6 edition</title>
@@ -23,20 +39,28 @@
       <description>Bleeding Green Nation, Google News Philly Sports - Oct 16, 02:53 PM ET</description>
     </item>
     <item>
+      <title>🏒 Travis Konecny is far from the Flyers’ biggest problem — and trading him won’t help</title>
+      <link>https://www.broadstreethockey.com/post/travis-konecny-is-far-from-the-flyers-biggest-problem-and-trading-him-wont-help/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/travis-konecny-is-far-from-the-flyers-biggest-problem-and-trading-him-wont-help/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:52 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 16, 08:00 PM ET</description>
+    </item>
+    <item>
+      <title>🏙️ Evacuation orders issued as wildfire burns in Orange County, California</title>
+      <link>https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</link>
+      <guid isPermaLink="true">https://6abc.com/story/evacuation-orders-issued-wildfire-burns-orange-county-california/19945260/</guid>
+      <pubDate>Fri, 16 Oct 2026 23:35:41 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Oct 16, 07:35 PM ET</description>
+    </item>
+    <item>
       <title>🌍 Oregon school shooter attacked special education classroom, police say</title>
       <link>https://www.pbs.org/newshour/show/oregon-school-shooter-attacked-special-education-classroom-police-say</link>
       <guid isPermaLink="true">https://www.pbs.org/newshour/show/oregon-school-shooter-attacked-special-education-classroom-police-say</guid>
       <pubDate>Fri, 16 Oct 2026 22:55:49 +0000</pubDate>
       <category>breaking</category>
-      <description>PBS NewsHour - Oct 16, 06:55 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Oregon school shooter identified as 16-year-old whose mother purchased the gun he used, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxONDlKLVQtcURnNl91VmJXM0ZFLTZLNkhjcHNCNGdKcWJNLTRYX1hlaHk5X0JMdjFUWU1meEZwRjlHbFdxWnM5YkNSTE1FUjVjQTdtYmQ2dzFOSmlHdDFtSFNxZldRcEVMV19NRGZqb2l5WGNmcFl1NlRRZXBxbDI2WDdVYld6VnF3QXV1MkJ6UmtvQWVXT0NfeUJJRll0aHNhRjdta0hsS243LTduWkJmSEFZMWlLQnowdkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxONDlKLVQtcURnNl91VmJXM0ZFLTZLNkhjcHNCNGdKcWJNLTRYX1hlaHk5X0JMdjFUWU1meEZwRjlHbFdxWnM5YkNSTE1FUjVjQTdtYmQ2dzFOSmlHdDFtSFNxZldRcEVMV19NRGZqb2l5WGNmcFl1NlRRZXBxbDI2WDdVYld6VnF3QXV1MkJ6UmtvQWVXT0NfeUJJRll0aHNhRjdta0hsS243LTduWkJmSEFZMWlLQnowdkE?oc=5</guid>
-      <pubDate>Fri, 16 Oct 2026 22:15:55 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 16, 06:15 PM ET</description>
+      <description>Al Jazeera, PBS NewsHour - Oct 16, 06:55 PM ET</description>
     </item>
     <item>
       <title>🦅 Eagles place Will Shipley on injured reserve to make room for Joe Milton</title>
@@ -61,30 +85,6 @@
       <pubDate>Fri, 16 Oct 2026 17:14:43 +0000</pubDate>
       <category>tesla</category>
       <description>Electrek, Google News Tesla - Oct 16, 01:14 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Feeling Much Better About the Eagles After Zack Baun Compares Tanner McKee to Tom Brady</title>
-      <link>https://www.crossingbroad.com/news/eagles/zack-baun-compares-tanner-mckee-to-tom-brady/</link>
-      <guid isPermaLink="true">https://www.crossingbroad.com/news/eagles/zack-baun-compares-tanner-mckee-to-tom-brady/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:14:04 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Crossing Broad, Google News Philly Sports - Oct 16, 11:14 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Watch Tesla FSD Clear a Path for an Ambulance at a Red Light [VIDEO]</title>
-      <link>https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/4841/watch-tesla-fsd-clear-a-path-for-an-ambulance-at-a-red-light-video</guid>
-      <pubDate>Fri, 16 Oct 2026 22:14:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 16, 06:14 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5</guid>
-      <pubDate>Fri, 16 Oct 2026 23:19:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 16, 07:19 PM ET</description>
     </item>
   </channel>
 </rss>
