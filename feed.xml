@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 16:49:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:54:47 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 U.S. is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers</title>
+      <link>https://whyy.org/articles/united-states-nuclear-plants-reopening-three-mile-island-electricity-data-centers/</link>
+      <guid isPermaLink="true">https://whyy.org/articles/united-states-nuclear-plants-reopening-three-mile-island-electricity-data-centers/</guid>
+      <pubDate>Sat, 17 Oct 2026 18:02:06 +0000</pubDate>
+      <category>breaking</category>
+      <description>WHYY - Oct 17, 02:02 PM ET</description>
+    </item>
     <item>
       <title>🏀 Report: Sixers signing Tacko Fall to two-way contract</title>
       <link>https://www.phillyvoice.com/sixers-news-analysis-tacko-fall-two-way-contract-roster-depth-chart/?utm_source=pv-rss&amp;utm_medium=rss&amp;utm_campaign=pv-site</link>
@@ -15,12 +23,28 @@
       <description>Google News Philly Sports, PhillyVoice - Oct 17, 11:47 AM ET</description>
     </item>
     <item>
-      <title>🌍 Oregon father is the latest armed civilian to confront a gunman in a US mass shooting</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 11:14:00 +0000</pubDate>
+      <title>🏒 Alex Bump is off to a scorching start with Phantoms</title>
+      <link>https://www.broadstreethockey.com/post/alex-bump-is-off-to-a-scorching-start-with-phantoms/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/alex-bump-is-off-to-a-scorching-start-with-phantoms/</guid>
+      <pubDate>Sat, 17 Oct 2026 16:50:43 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 17, 12:50 PM ET</description>
+    </item>
+    <item>
+      <title>🦅 Is losing getting to the Eagles?</title>
+      <link>https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187119/is-losing-getting-to-the-eagles</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187119/is-losing-getting-to-the-eagles</guid>
+      <pubDate>Sat, 17 Oct 2026 14:38:57 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philly Sports - Oct 17, 10:38 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’</title>
+      <link>https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss</guid>
+      <pubDate>Sat, 17 Oct 2026 18:26:59 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Breaking, Google News Top Stories - Oct 17, 07:14 AM ET</description>
+      <description>Al Jazeera, Google News Breaking - Oct 17, 02:26 PM ET</description>
     </item>
     <item>
       <title>⚡ Why the New Tesla Roadster Won’t Get Full FSD</title>
@@ -31,44 +55,20 @@
       <description>Google News Tesla, Not a Tesla App - Oct 17, 11:00 AM ET</description>
     </item>
     <item>
-      <title>🦅 Is losing getting to the Eagles?</title>
-      <link>https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187119/is-losing-getting-to-the-eagles</link>
-      <guid isPermaLink="true">https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187119/is-losing-getting-to-the-eagles</guid>
-      <pubDate>Sat, 17 Oct 2026 14:38:57 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation - Oct 17, 10:38 AM ET</description>
-    </item>
-    <item>
-      <title>🦅 Buffalo Bills Tabbed As Logical Trade Partner For Eagles’ Star CB</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0pDM3dxRW1FN01kRlJzYlNub3lZdU9rR0p0SHNsWjVQSjhGVDhZYUtEUzZ2MDAzQWZ5Z2ZBdnJTdnkzclRVS0lRd0ROdmMtS0ZSSVJTdTlPT1lfMFp1a29wQ2lwNFNXTkJiNUZVMnBzU1JyamZkSzVGZTVJZlNZNm9RS3VnRFhtLVQ4?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0pDM3dxRW1FN01kRlJzYlNub3lZdU9rR0p0SHNsWjVQSjhGVDhZYUtEUzZ2MDAzQWZ5Z2ZBdnJTdnkzclRVS0lRd0ROdmMtS0ZSSVJTdTlPT1lfMFp1a29wQ2lwNFNXTkJiNUZVMnBzU1JyamZkSzVGZTVJZlNZNm9RS3VnRFhtLVQ4?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 14:56:32 +0000</pubDate>
-      <category>sports</category>
-      <description>Google News Philly Sports - Oct 17, 10:56 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 US: California wildfires destroy homes, leave thousands without power</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjhVeS1rNk41aXJxcVB4VHV3MURZdzZRcW42WWxDWU03c0E0QzIxdmt0SElteUpRY2l2TlhZUWtDQzBLMjJjbEx3X2NQZWZEdWQ1S2FtOWZpUG4xcTdIbUZ2dEkxVnVfbTJMRmlDQ0t0YzhPZmZlbllyNmR4Zi1kRzA1T1k5Vm1DVDI1OFROeG93SEEwNERnckJZUDlFekFhdkHSAaIBQVVfeXFMTXVKRk1CcG1kVGdvWWUxWUhKT25iWnZRR0lRV0F2MExqSWI1RWdXRXh6TnN5MUJrRG53WkU2cFdreEJHZkdSamc5SVQ5eWItb1EyZDdocEMtQXlkSlhyU25MZWJxSmRPQng0TWpic0VJWmtIQ1Y5YzlPc0YtYXJEWWFraHU5dHd0MGdkSFhUN1JCTlFCUy1seTVmby14NTV4cTV3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjhVeS1rNk41aXJxcVB4VHV3MURZdzZRcW42WWxDWU03c0E0QzIxdmt0SElteUpRY2l2TlhZUWtDQzBLMjJjbEx3X2NQZWZEdWQ1S2FtOWZpUG4xcTdIbUZ2dEkxVnVfbTJMRmlDQ0t0YzhPZmZlbllyNmR4Zi1kRzA1T1k5Vm1DVDI1OFROeG93SEEwNERnckJZUDlFekFhdkHSAaIBQVVfeXFMTXVKRk1CcG1kVGdvWWUxWUhKT25iWnZRR0lRV0F2MExqSWI1RWdXRXh6TnN5MUJrRG53WkU2cFdreEJHZkdSamc5SVQ5eWItb1EyZDdocEMtQXlkSlhyU25MZWJxSmRPQng0TWpic0VJWmtIQ1Y5YzlPc0YtYXJEWWFraHU5dHd0MGdkSFhUN1JCTlFCUy1seTVmby14NTV4cTV3?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 09:23:29 +0000</pubDate>
+      <title>🌍 Magnitude 5.6 earthquake rattles Northern California: Some injuries reported, thousands lose power</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE5qTjNubERTdHVBSWNjc0JST3doQy1iMDVsOUc5c2NXYWdCaFdlWldEZl9xVWJpcUs1VGYyajQwN1ViVTNMU1NrME9pNFVVMUVlel91enBUbXRXTGg1dEt5a2FFelJBSldRMTg1TW9HVjB1SnZsVDdMZTNFY2RCaXpkdVFnX2hTd3FZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE5qTjNubERTdHVBSWNjc0JST3doQy1iMDVsOUc5c2NXYWdCaFdlWldEZl9xVWJpcUs1VGYyajQwN1ViVTNMU1NrME9pNFVVMUVlel91enBUbXRXTGg1dEt5a2FFelJBSldRMTg1TW9HVjB1SnZsVDdMZTNFY2RCaXpkdVFnX2hTd3FZ?oc=5</guid>
+      <pubDate>Thu, 25 Jun 2026 07:00:00 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Top Stories - Oct 17, 05:23 AM ET</description>
+      <description>Google News Breaking - Jun 25, 03:00 AM ET</description>
     </item>
     <item>
-      <title>🌍 Hurricane Trudy makes its way towards Mexico, threatening heavy rain</title>
-      <link>https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss</guid>
-      <pubDate>Sat, 17 Oct 2026 14:28:07 +0000</pubDate>
+      <title>🌍 Oregon father is the latest armed civilian to confront a gunman in a US mass shooting</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFpQdl9rRFV5NXpScnNPbzFlNEdsb3BWX0c0OGJZR2pFZm1POWJlczZoOFpXQUlzX1lkM05WSnVDa28tby1ObWtNaVBMdmxiV1l5ajJwU1had0ZfZDVBSHJ5akM1UEtKanB1eDlwTm5MQmMyVFljQWxfNm1tU1hONnktaGlqSWt3ZUYtRzJOUHdsQUt6Zy1lcmM2Z0FITW5ETmJsMDdiM0d6U3BTWU9B?oc=5</guid>
+      <pubDate>Sat, 17 Oct 2026 11:14:00 +0000</pubDate>
       <category>breaking</category>
-      <description>Al Jazeera - Oct 17, 10:28 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 Thousands evacuate as massive California fires engulf homes</title>
-      <link>https://www.cbsnews.com/video/thousands-evacuate-as-massive-california-fires-engulf-homes/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/video/thousands-evacuate-as-massive-california-fires-engulf-homes/</guid>
-      <pubDate>Sat, 17 Oct 2026 14:58:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>CBS News - Oct 17, 10:58 AM ET</description>
+      <description>Google News Breaking, Google News Top Stories - Oct 17, 07:14 AM ET</description>
     </item>
     <item>
       <title>⚡ Feds Investigating Tesla Cybercab Robotaxis For Speeding In School Zones</title>
