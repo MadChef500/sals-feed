@@ -4,8 +4,40 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:44:55 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 A compassionate teacher and her young students: What we know about the victims of the Bend school shooting</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTGxXMFZaeWFWcUJSMlhHRmlGUGlPQzZJRE9uRlE1RFBob0VxTlg3S25XUTNRZUhNMkpVVmRCd2M0c3dGRl9TZEpHYV80RXh6UjRBWEVEMV9qMERJZllOU0pTaDVNd2tYdmlTd2h3RE9pdTFiM2VGQw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTGxXMFZaeWFWcUJSMlhHRmlGUGlPQzZJRE9uRlE1RFBob0VxTlg3S25XUTNRZUhNMkpVVmRCd2M0c3dGRl9TZEpHYV80RXh6UjRBWEVEMV9qMERJZllOU0pTaDVNd2tYdmlTd2h3RE9pdTFiM2VGQw?oc=5</guid>
+      <pubDate>Sun, 18 Oct 2026 10:30:44 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Oct 18, 06:30 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
+      <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</guid>
+      <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek - Oct 12, 09:24 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla still leads US fast-charger growth – but it’s raised its prices</title>
+      <link>https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek - Oct 13, 08:00 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Large fire breaks out after deadly incident at Canadian military base, officials say</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHVyQWVXZnB0YTllV3p0aElfOWY2eWlNS3lOM05aMVBMaGVBUURtc0ZUU00xR3pGcGV6MVRQcnVuLXotOEpCOG8wTE1KUHhPcW9LRDhVb2FNOTU3TTlKY3NFY0FVZjBkZFk2c1FtOXNfWFpCU2cyekd1MzNBMzRsNGtvbHFhUHhZbjBYRlRHWWtPdGtMSE1ETU9R?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHVyQWVXZnB0YTllV3p0aElfOWY2eWlNS3lOM05aMVBMaGVBUURtc0ZUU00xR3pGcGV6MVRQcnVuLXotOEpCOG8wTE1KUHhPcW9LRDhVb2FNOTU3TTlKY3NFY0FVZjBkZFk2c1FtOXNfWFpCU2cyekd1MzNBMzRsNGtvbHFhUHhZbjBYRlRHWWtPdGtMSE1ETU9R?oc=5</guid>
+      <pubDate>Sun, 18 Oct 2026 12:32:44 +0000</pubDate>
+      <category>breaking</category>
+      <description>ABC News, CBS News, Google News Top Stories, NPR News - Oct 18, 08:32 AM ET</description>
+    </item>
     <item>
       <title>🦅 Eagles QB Jalen Hurts ruled out for Week 6 after blood clot found in his leg</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWNEclJnR3NkN2puNzYwOWdPRjBWT3Y2a3RVLWFvbTB5Wmwxb2hUSDdFV20zRk96T3d3N2Fkdlp3T0pRQkRlM290WDJkUThXeFRPWTRmUF93QXcyMGdWQWVIWTZlbWk2QzNVS0VrTUk5dWR0dTFTdWJiRHVUWFpiYlpVMVRkYUxZSlluMmNuTkZkNnRpczRYc1lXU3VqeFVpMmJlMl80Ykk4NDdoa0U1Tk1KSHlFRFRaQnNYa2U2ZHZVbUsxNUNXTE9fa0s2anJKTWEzSGpmQzlJZw?oc=5</link>
@@ -15,76 +47,44 @@
       <description>Google News Breaking, Google News Philadelphia, Google News Philly Sports, PhillyVoice - Oct 15, 01:08 PM ET</description>
     </item>
     <item>
-      <title>⚡ Tesla FSD v14.3.12 With Halloween Mode Release Notes (Update 2026.38.5)</title>
-      <link>https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes</guid>
-      <pubDate>Sat, 10 Oct 2026 22:28:56 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Not a Tesla App - Oct 10, 06:28 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmMya2FnZU5XMTFnVTdtRG5SMVVrNXBsNUZyamtKUDBoVWw0Z1A0U1NOMUFuY2dnWkVRNjBFVjlUNmZRc0djVEc2ZUxqY3VkWi1mbFduRU5rWW82RW5CT0xHMXVlN2NZb0IyOTdJaXNtLV9qNWFnbTYwVE5CRjhpLWVDREtxTXF2SVJWYTRQNVAxa0IzT2s4ZHZPRXF6OC1JcUNSNklBMjd1cF9fWTJmMjAtQ1U5WDFaTllvZC1NZDVZbTNVRnExRXhoN00zQTJnZGRFRFV0Zm1UaFppUkI0dGdB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmMya2FnZU5XMTFnVTdtRG5SMVVrNXBsNUZyamtKUDBoVWw0Z1A0U1NOMUFuY2dnWkVRNjBFVjlUNmZRc0djVEc2ZUxqY3VkWi1mbFduRU5rWW82RW5CT0xHMXVlN2NZb0IyOTdJaXNtLV9qNWFnbTYwVE5CRjhpLWVDREtxTXF2SVJWYTRQNVAxa0IzT2s4ZHZPRXF6OC1JcUNSNklBMjd1cF9fWTJmMjAtQ1U5WDFaTllvZC1NZDVZbTNVRnExRXhoN00zQTJnZGRFRFV0Zm1UaFppUkI0dGdB?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 23:37:31 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Breaking - Oct 17, 07:37 PM ET</description>
-    </item>
-    <item>
-      <title>🏟️ Now Everyone’s a Blood Clot Expert</title>
-      <link>https://www.crossingbroad.com/news/eagles/now-everyones-a-blood-clot-expert/</link>
-      <guid isPermaLink="true">https://www.crossingbroad.com/news/eagles/now-everyones-a-blood-clot-expert/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:26:51 +0000</pubDate>
+      <title>⚾ Phillies news: Dave Dombrowski, Don Mattingly, Miguel Rojas</title>
+      <link>https://www.thegoodphight.com/philadelphia-phillies-news/88655/phillies-news-dave-dombrowski-don-mattingly-miguel-rojas</link>
+      <guid isPermaLink="true">https://www.thegoodphight.com/philadelphia-phillies-news/88655/phillies-news-dave-dombrowski-don-mattingly-miguel-rojas</guid>
+      <pubDate>Sat, 17 Oct 2026 11:00:00 +0000</pubDate>
       <category>sports</category>
-      <description>Crossing Broad - Oct 15, 04:26 PM ET</description>
+      <description>Crossing Broad, Google News Philly Sports, The Good Phight - Oct 17, 07:00 AM ET</description>
     </item>
     <item>
-      <title>🦅 Eagles fans react to Jalen Hurts' blood clot diagnosis: ‘Next man up'</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHoxOGFLOTVjRXJBQnNra1VVUW1sMllVTzlMeGxqUFcxWkF6a0VXelcxWDVtdGpGWFB4eXhvNkxEWXZ5UnNnUi03NEk2MmxCMlFOX3JURXlYTjlSbjNaemhZM1h6QXpPSEtndFVKYWpjM0NLN2RtSmNmTzRJX3N3QS02WVVQUFVEQzhkVDl1YlZzWHVkNjJ4Mzk2WmdNd3F2Q1l5OGFhTTg1Mkl0cmQyZTVydnNlc1Zs0gHAAUFVX3lxTE5iUTVkcEF3X2s0Z0ZKUkFvS1dwbTRmendBbHZjbDhsb3pVYjRCcmVtd21hNENHZnh5cjhDOHlYWWVBOUlpTUJza1NZX0d2QlNTdWVIeHFYMWpKdlJBcjFWVWhYUkM5WmRjZTU2c1VhRTVxS1ZBU0sydlhGZUQtTGFTQ01xWmx5b2lSRE9nRnktQ2JSWTJ6UExWZ2w3SERDakZNbml5S2hqZmNjNWJ2WWhrQVNCbkRTdWl0VlN1dkZ5Nw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUHoxOGFLOTVjRXJBQnNra1VVUW1sMllVTzlMeGxqUFcxWkF6a0VXelcxWDVtdGpGWFB4eXhvNkxEWXZ5UnNnUi03NEk2MmxCMlFOX3JURXlYTjlSbjNaemhZM1h6QXpPSEtndFVKYWpjM0NLN2RtSmNmTzRJX3N3QS02WVVQUFVEQzhkVDl1YlZzWHVkNjJ4Mzk2WmdNd3F2Q1l5OGFhTTg1Mkl0cmQyZTVydnNlc1Zs0gHAAUFVX3lxTE5iUTVkcEF3X2s0Z0ZKUkFvS1dwbTRmendBbHZjbDhsb3pVYjRCcmVtd21hNENHZnh5cjhDOHlYWWVBOUlpTUJza1NZX0d2QlNTdWVIeHFYMWpKdlJBcjFWVWhYUkM5WmRjZTU2c1VhRTVxS1ZBU0sydlhGZUQtTGFTQ01xWmx5b2lSRE9nRnktQ2JSWTJ6UExWZ2w3SERDakZNbml5S2hqZmNjNWJ2WWhrQVNCbkRTdWl0VlN1dkZ5Nw?oc=5</guid>
-      <pubDate>Sun, 18 Oct 2026 02:54:35 +0000</pubDate>
-      <category>sports</category>
-      <description>Google News Philadelphia, PhillyVoice - Oct 17, 10:54 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Deadly ‘Incident’ at Canadian Army Base Sets Off Major Fire</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUZObU0tTWtHYUpFOGJDbUdUd2xlRDh3TnluVUVGU1U1dGJEMGtiX2U4dFFBdFhmT0xEQjFNVEREUXNleEJ4NHJsWVU5OThtNE90SHhpTFREU0N3azlVblRWUnpGVENldV9kZkVJaEJMMno0TzhybEtRS3d2RHlNcDVWRWI2eGVxNXR4bGNLTGk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUZObU0tTWtHYUpFOGJDbUdUd2xlRDh3TnluVUVGU1U1dGJEMGtiX2U4dFFBdFhmT0xEQjFNVEREUXNleEJ4NHJsWVU5OThtNE90SHhpTFREU0N3azlVblRWUnpGVENldV9kZkVJaEJMMno0TzhybEtRS3d2RHlNcDVWRWI2eGVxNXR4bGNLTGk?oc=5</guid>
-      <pubDate>Sun, 18 Oct 2026 02:43:52 +0000</pubDate>
-      <category>breaking</category>
-      <description>ABC News, CBS News, Google News Top Stories, NPR News - Oct 17, 10:43 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla App Update 4.61.5: Home Charging Quotes, Improvements to Charging Cards</title>
-      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes</guid>
-      <pubDate>Tue, 06 Oct 2026 13:37:37 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 06, 09:37 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 At least 19 dead in stampede at Kolkata Hindu festival</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss</guid>
-      <pubDate>Sun, 18 Oct 2026 04:21:46 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Oct 18, 12:21 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc?oc=5</guid>
-      <pubDate>Sat, 17 Oct 2026 22:31:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>CBS News, Google News Top Stories - Oct 17, 06:31 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Man stabbed on SEPTA Broad Street Line train in Philadelphia, official says</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3RoR3hlOFAtSy1HeGduencwQ3g5MGI0WXItWnNXWWFNMHRDaDJrM0Z2bUxPVEFPdE0xLTk3elFhS3NaQlJ4VEF2WVU0cVNkdmVYOHlzeDA4UzU0WHZtcHNNdm1LN3BwTThoQTktVm1pZHl6elVEdXVDRFdZN21kTFkxcTRNYzRONnFTOA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3RoR3hlOFAtSy1HeGduencwQ3g5MGI0WXItWnNXWWFNMHRDaDJrM0Z2bUxPVEFPdE0xLTk3elFhS3NaQlJ4VEF2WVU0cVNkdmVYOHlzeDA4UzU0WHZtcHNNdm1LN3BwTThoQTktVm1pZHl6elVEdXVDRFdZN21kTFkxcTRNYzRONnFTOA?oc=5</guid>
-      <pubDate>Sun, 18 Oct 2026 01:47:48 +0000</pubDate>
+      <title>🏙️ Person found dead after vehicle catches fire in Southwest Philadelphia</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVJYd3BPS0FwOEpsWjNNaHdKUFFSVGFHOVpHUnJhd0x5MkRIYzZxY25zSnVZZ0ZBa3pSMFpVNE8wZGxxbkljMmZZV2V1dzFGUE53ejVDbmh5YTNfcVA3eDNIaElDemtBZWRid0VadGI0TXVOUGVCZ1VGQ1VhVTRaaFZ5TnUwSXN2OEpSV19YLVh2UExvY3ZDV9IBngFBVV95cUxNYXpSMkVxblJvaFIxYWpGZTNYRjBFbE9EM3NSREotYzRVQXZsRV90MHFOc3dXQTNsNjlhb1RnY0YzRUlXN19fbWo3YVFuUnpXTHlUMUd2anI3Q0tORFpsN3Y1TWtZMG9vOG5TX1pWdlM0TzJySjNjZTVSRTFEWGx2Y0gzcEtEb3NocVBDQTZTLVc1MEduNDFUbFlkWnJRZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVJYd3BPS0FwOEpsWjNNaHdKUFFSVGFHOVpHUnJhd0x5MkRIYzZxY25zSnVZZ0ZBa3pSMFpVNE8wZGxxbkljMmZZV2V1dzFGUE53ejVDbmh5YTNfcVA3eDNIaElDemtBZWRid0VadGI0TXVOUGVCZ1VGQ1VhVTRaaFZ5TnUwSXN2OEpSV19YLVh2UExvY3ZDV9IBngFBVV95cUxNYXpSMkVxblJvaFIxYWpGZTNYRjBFbE9EM3NSREotYzRVQXZsRV90MHFOc3dXQTNsNjlhb1RnY0YzRUlXN19fbWo3YVFuUnpXTHlUMUd2anI3Q0tORFpsN3Y1TWtZMG9vOG5TX1pWdlM0TzJySjNjZTVSRTFEWGx2Y0gzcEtEb3NocVBDQTZTLVc1MEduNDFUbFlkWnJRZw?oc=5</guid>
+      <pubDate>Sun, 18 Oct 2026 13:37:36 +0000</pubDate>
       <category>local</category>
-      <description>Google News Philadelphia - Oct 17, 09:47 PM ET</description>
+      <description>6abc Action News, Google News Philadelphia - Oct 18, 09:37 AM ET</description>
+    </item>
+    <item>
+      <title>⚾ Phillies' Former Top Trade Target is No Longer a Viable Option</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2xXdnFuYTd0cnFZWWJmVklKMXU1Z3FXS3RhNTR2ZG9QejFTOFQ2RVp5bFdrb1B5cTNuUC1JdnBUMThhWExKNEFwdUpPM2gyMFNodTR6WEhuY3hVZTF6M0thaVJNT19MU0ZoRk1weG9zclgxWnFVd1Q1WEx3WGpBNUxPaklfUHFl?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2xXdnFuYTd0cnFZWWJmVklKMXU1Z3FXS3RhNTR2ZG9QejFTOFQ2RVp5bFdrb1B5cTNuUC1JdnBUMThhWExKNEFwdUpPM2gyMFNodTR6WEhuY3hVZTF6M0thaVJNT19MU0ZoRk1weG9zclgxWnFVd1Q1WEx3WGpBNUxPaklfUHFl?oc=5</guid>
+      <pubDate>Sun, 18 Oct 2026 11:00:43 +0000</pubDate>
+      <category>sports</category>
+      <description>Google News Philly Sports - Oct 18, 07:00 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Pope Leo says he will gradually resume duties after cancer surgery</title>
+      <link>https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery</guid>
+      <pubDate>Sun, 18 Oct 2026 12:55:01 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, CBS News, NPR News - Oct 18, 08:55 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Oil facilities hit in deadly overnight attack on St Petersburg</title>
+      <link>https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 18 Oct 2026 11:57:49 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News, Google News Top Stories - Oct 18, 07:57 AM ET</description>
     </item>
   </channel>
 </rss>
