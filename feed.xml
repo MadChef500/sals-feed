@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 19:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:31:25 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 ‘Anger and shame’: Macron denounces France’s nationwide rioting, looting</title>
+      <link>https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss</guid>
+      <pubDate>Sun, 18 Oct 2026 20:19:22 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Oct 18, 04:19 PM ET</description>
+    </item>
     <item>
       <title>🦅 Eagles-Panthers Week 6 inactives, with analysis</title>
       <link>https://www.phillyvoice.com/eagles-panthers-week-6-inactives-analysis-2026-jalen-hurts-saquon-barkley/?utm_source=pv-rss&amp;utm_medium=rss&amp;utm_campaign=pv-site</link>
@@ -15,12 +23,60 @@
       <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports, PhillyVoice - Oct 18, 11:43 AM ET</description>
     </item>
     <item>
-      <title>🏒 Takeaways: Matvei Michkov and Porter Martone step up and the Flyers win</title>
-      <link>https://www.broadstreethockey.com/post/takeaways-matvei-michkov-and-porter-martone-step-up-and-the-flyers-win/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/takeaways-matvei-michkov-and-porter-martone-step-up-and-the-flyers-win/</guid>
-      <pubDate>Sun, 18 Oct 2026 02:15:47 +0000</pubDate>
+      <title>🌍 Canadian military base fire: Death toll confirmed and cause under investigation</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5</guid>
+      <pubDate>Sun, 18 Oct 2026 19:42:37 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Oct 18, 03:42 PM ET</description>
+    </item>
+    <item>
+      <title>⚾ The Brewers overcame their playoff defeats. Can the Phillies do it, too?</title>
+      <link>https://www.thegoodphight.com/phillies-analysis/88660/the-brewers-overcame-their-playoff-defeats-can-the-phillies-do-it-too</link>
+      <guid isPermaLink="true">https://www.thegoodphight.com/phillies-analysis/88660/the-brewers-overcame-their-playoff-defeats-can-the-phillies-do-it-too</guid>
+      <pubDate>Fri, 16 Oct 2026 17:00:00 +0000</pubDate>
       <category>sports</category>
-      <description>Broad Street Hockey, Google News Philly Sports, PhillyVoice - Oct 17, 10:15 PM ET</description>
+      <description>The Good Phight - Oct 16, 01:00 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Flyers’ Foerster, Couturier, Tippett to be game-time decisions vs. Avalanche</title>
+      <link>https://www.broadstreethockey.com/post/flyers-foerster-couturier-tippett-to-be-game-time-decisions-vs-avalanche/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-foerster-couturier-tippett-to-be-game-time-decisions-vs-avalanche/</guid>
+      <pubDate>Sun, 18 Oct 2026 20:31:37 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 18, 04:31 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt</title>
+      <link>https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/</guid>
+      <pubDate>Fri, 16 Oct 2026 17:14:43 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek, Google News Tesla - Oct 16, 01:14 PM ET</description>
+    </item>
+    <item>
+      <title>🏙️ Threats prompt lockdowns, evacuations at 3 Philadelphia schools</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWxycTd0N2xfbGxiY1JYb3hpX2l2bHRKZXNLbHJUSllmLUtfbEJoNzdjeTdqMHBsdGJzOTd4SzUwRXBWSGtQR3loX1NPck92ZFFjXy00YV9tc1JjVkM4OFdHY0dRdFBEOFJGSFFSMXNNUDBqVWtmdW1ub1RSZHVMdThKbW1WaXM1bDNYdHRfRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWxycTd0N2xfbGxiY1JYb3hpX2l2bHRKZXNLbHJUSllmLUtfbEJoNzdjeTdqMHBsdGJzOTd4SzUwRXBWSGtQR3loX1NPck92ZFFjXy00YV9tc1JjVkM4OFdHY0dRdFBEOFJGSFFSMXNNUDBqVWtmdW1ub1RSZHVMdThKbW1WaXM1bDNYdHRfRQ?oc=5</guid>
+      <pubDate>Fri, 16 Oct 2026 15:47:24 +0000</pubDate>
+      <category>local</category>
+      <description>Google News Philadelphia - Oct 16, 11:47 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ Slovakia Becomes 9th European Country to Approve Tesla FSD</title>
+      <link>https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd</guid>
+      <pubDate>Fri, 16 Oct 2026 19:02:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Oct 16, 03:02 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Fire engulfs Albania’s Supreme Court as protests enter fifth day</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss</guid>
+      <pubDate>Sun, 18 Oct 2026 20:26:03 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Oct 18, 04:26 PM ET</description>
     </item>
     <item>
       <title>🌍 Multiple people killed, dozens injured in explosion at Canadian military training base</title>
@@ -29,62 +85,6 @@
       <pubDate>Sun, 18 Oct 2026 19:00:41 +0000</pubDate>
       <category>breaking</category>
       <description>6abc Action News - Oct 18, 03:00 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Canadian military base fire: Death toll confirmed and cause under investigation</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d3l6Z2FRaTlwVkJicUp1RHhqbHZReHA5QUZJOFlxckJWYklPcWRoWGZXOTVteDhIQV9SZ1VJVGMzYnQ0VnduT2FlcGp6bFpLWm52SUdMUmJBYVE?oc=5</guid>
-      <pubDate>Sun, 18 Oct 2026 17:48:53 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 18, 01:48 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Feeling Much Better About the Eagles After Zack Baun Compares Tanner McKee to Tom Brady</title>
-      <link>https://www.crossingbroad.com/news/eagles/zack-baun-compares-tanner-mckee-to-tom-brady/</link>
-      <guid isPermaLink="true">https://www.crossingbroad.com/news/eagles/zack-baun-compares-tanner-mckee-to-tom-brady/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:14:04 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Crossing Broad - Oct 16, 11:14 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 Carney says 4 service members killed and dozens injured in fire at Alberta military base</title>
-      <link>https://www.pbs.org/newshour/world/major-fire-breaks-out-in-alberta-after-deadly-incident-at-canadian-military-base</link>
-      <guid isPermaLink="true">https://www.pbs.org/newshour/world/major-fire-breaks-out-in-alberta-after-deadly-incident-at-canadian-military-base</guid>
-      <pubDate>Sun, 18 Oct 2026 15:16:06 +0000</pubDate>
-      <category>breaking</category>
-      <description>NPR News, PBS NewsHour - Oct 18, 11:16 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 ‘Heartbreaking day for Wichita’: Truck drives through soccer field, killing 2, injuring 10</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFlCZk1GQVRMNTRRa3kwLUx5d2hPaEpKbnhnMUZ3MU9LUmR4Mm03VDRITTRjTU4zcUkxenIzN1ZZMzNDSkVacThDejNLZVNZWXJPaW42aS1CQVU1YUppcEQ0SXJ2dUpMTXRScHVrbXNkcXpmN1hFWU9nYmlKbFNmWVUtMTNFejhlb1AtRGtlR01Zd2JyWnVoZElrUFdaUzMxZlZFOdIBqgFBVV95cUxOQU0wdGJEQnRVdHdQQ2ZibHdteWtMMEV5NFBmYk5BeDN5ZGY4ZVc0blBnTWJRY1dyWHBwZFZmMy1PX1I2U0FHOFZicDZVRmNpamN1cGRpeExnc2Z2cXV6YjlSX2VzR1c0c21IZFQ5eGo4N0kzLXJVa3JNRTZFWXJQeVVkXzYxZjNrS0RDRjRxbnJyYUVQTHRlT0d4Z0g0aUpMOExFVElGRmMxQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFlCZk1GQVRMNTRRa3kwLUx5d2hPaEpKbnhnMUZ3MU9LUmR4Mm03VDRITTRjTU4zcUkxenIzN1ZZMzNDSkVacThDejNLZVNZWXJPaW42aS1CQVU1YUppcEQ0SXJ2dUpMTXRScHVrbXNkcXpmN1hFWU9nYmlKbFNmWVUtMTNFejhlb1AtRGtlR01Zd2JyWnVoZElrUFdaUzMxZlZFOdIBqgFBVV95cUxOQU0wdGJEQnRVdHdQQ2ZibHdteWtMMEV5NFBmYk5BeDN5ZGY4ZVc0blBnTWJRY1dyWHBwZFZmMy1PX1I2U0FHOFZicDZVRmNpamN1cGRpeExnc2Z2cXV6YjlSX2VzR1c0c21IZFQ5eGo4N0kzLXJVa3JNRTZFWXJQeVVkXzYxZjNrS0RDRjRxbnJyYUVQTHRlT0d4Z0g0aUpMOExFVElGRmMxQQ?oc=5</guid>
-      <pubDate>Sun, 18 Oct 2026 14:27:41 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 18, 10:27 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
-      <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
-      <guid isPermaLink="true">https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</guid>
-      <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
-      <category>tesla</category>
-      <description>Electrek - Oct 12, 09:24 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla still leads US fast-charger growth – but it’s raised its prices</title>
-      <link>https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</link>
-      <guid isPermaLink="true">https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Electrek - Oct 13, 08:00 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Influential evolutionary biologist’s papers arrive at Philadelphia’s American Philosophical Society</title>
-      <link>https://whyy.org/articles/philadelphia-american-philosophical-society-lynn-margulis/</link>
-      <guid isPermaLink="true">https://whyy.org/articles/philadelphia-american-philosophical-society-lynn-margulis/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:21:24 +0000</pubDate>
-      <category>local</category>
-      <description>WHYY - Oct 16, 12:21 PM ET</description>
     </item>
   </channel>
 </rss>
