@@ -4,8 +4,24 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:30:07 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Ukrainian refugees face growing hostility in Poland</title>
+      <link>https://www.pbs.org/newshour/show/ukrainian-refugees-face-growing-hostility-in-poland</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/show/ukrainian-refugees-face-growing-hostility-in-poland</guid>
+      <pubDate>Tue, 20 Oct 2026 22:25:03 +0000</pubDate>
+      <category>breaking</category>
+      <description>PBS NewsHour - Oct 20, 06:25 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Oliver Bonk’s breakout is coming at the perfect time</title>
+      <link>https://www.broadstreethockey.com/post/oliver-bonks-breakout-is-coming-at-the-perfect-time/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/oliver-bonks-breakout-is-coming-at-the-perfect-time/</guid>
+      <pubDate>Tue, 20 Oct 2026 22:00:00 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 20, 06:00 PM ET</description>
+    </item>
     <item>
       <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
       <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
@@ -13,6 +29,14 @@
       <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
       <category>tesla</category>
       <description>Electrek, Not a Tesla App - Oct 12, 09:24 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 2 people killed in Delaware fire, officials say</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3ptU2tvNVVUSFVLSGtjVS1vQUo1dnNidkpGa3lJNDAteHluSUFNdnhLTVo4dGlBMGJ2YjBRVWhWSk4xMVZyaXE5SHVVYWRrSTdzaUhFRXA4VzJPLU1FMnA0MFMxeHRrcTljeS1tN3FQaEFfVFROSEkxSWdOZURQTFktdVpaVTFzWUN1di1POWtpUHBt?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3ptU2tvNVVUSFVLSGtjVS1vQUo1dnNidkpGa3lJNDAteHluSUFNdnhLTVo4dGlBMGJ2YjBRVWhWSk4xMVZyaXE5SHVVYWRrSTdzaUhFRXA4VzJPLU1FMnA0MFMxeHRrcTljeS1tN3FQaEFfVFROSEkxSWdOZURQTFktdVpaVTFzWUN1di1POWtpUHBt?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 21:33:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Philadelphia - Oct 20, 05:33 PM ET</description>
     </item>
     <item>
       <title>🦅 It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well</title>
@@ -23,14 +47,6 @@
       <description>Bleeding Green Nation, Google News Philadelphia, Google News Top Stories - Oct 20, 11:03 AM ET</description>
     </item>
     <item>
-      <title>🦅 NFL finds Eagles handled Hurts’ blood clots ‘appropriately’</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 18:39:41 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Oct 20, 02:39 PM ET</description>
-    </item>
-    <item>
       <title>⚡ China-Built Tesla Model 3 Premium Hit With Safety Recall, Over 131,000 Units Affected</title>
       <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn?oc=5</guid>
@@ -39,52 +55,36 @@
       <description>Google News Tesla - Oct 20, 03:06 PM ET</description>
     </item>
     <item>
-      <title>🦅 Commanders WR Terry McLaurin out for rest of season with torn patellar tendon</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0FELTVRYjl3YWhZeTJRQnlkcnRWd0kwQnhid2hudGdBSzd0aTFWZFZuUGVSS2k0b09KbWRKblI2emRzZUJyOEVoZG5MaE1vLUg2SUFsdmJmaHlQUnVQelpmLUJnUFI0Mm1GWkF3RUNFT1FKa003Nnk0a21NNFAtWVdVa2FUVTdZZHRMOWxuNWpYNUh6UHRmTw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0FELTVRYjl3YWhZeTJRQnlkcnRWd0kwQnhid2hudGdBSzd0aTFWZFZuUGVSS2k0b09KbWRKblI2emRzZUJyOEVoZG5MaE1vLUg2SUFsdmJmaHlQUnVQelpmLUJnUFI0Mm1GWkF3RUNFT1FKa003Nnk0a21NNFAtWVdVa2FUVTdZZHRMOWxuNWpYNUh6UHRmTw?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 19:17:06 +0000</pubDate>
+      <title>🦅 NFL finds Eagles handled Hurts’ blood clots ‘appropriately’</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 18:39:41 +0000</pubDate>
       <category>sports</category>
-      <description>Google News Top Stories - Oct 20, 03:17 PM ET</description>
+      <description>Bleeding Green Nation, Google News Philly Sports - Oct 20, 02:39 PM ET</description>
     </item>
     <item>
-      <title>🏙️ Alyssa Wilson killed: Willie Herndon, Taiya Herndon charged in fatal shooting of 17-year-old on her way to St. Louis Zoo</title>
-      <link>https://6abc.com/story/alyssa-wilson-killed-willie-herndon-taiya-charged-fatal-shooting-17-year-old-st-louis-zoo/19961035/</link>
-      <guid isPermaLink="true">https://6abc.com/story/alyssa-wilson-killed-willie-herndon-taiya-charged-fatal-shooting-17-year-old-st-louis-zoo/19961035/</guid>
-      <pubDate>Tue, 20 Oct 2026 19:54:02 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News, ABC News - Oct 20, 03:54 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 US nearing deal with Russia to free multiple jailed Americans: Sources</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk1wVEMzOGhOSXR6R1BfUWhUVTBhbEZadk1SbDRXOUtweUtXVWNXQ1VOR0lkNVlSNWxiNDRBVWVnT2dNVW83R1dvYy1JdmszYUNGZ3gxN2ZDSm9BZkZFbFE2Um0tOEF2YlNtUTFmVVFoQ3k2bG9WeldJZUkzV2dkTlNFQ0ZlQ1pOcmNhTThjN1A4VVRTbVhlSVBNTUpDQzg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk1wVEMzOGhOSXR6R1BfUWhUVTBhbEZadk1SbDRXOUtweUtXVWNXQ1VOR0lkNVlSNWxiNDRBVWVnT2dNVW83R1dvYy1JdmszYUNGZ3gxN2ZDSm9BZkZFbFE2Um0tOEF2YlNtUTFmVVFoQ3k2bG9WeldJZUkzV2dkTlNFQ0ZlQ1pOcmNhTThjN1A4VVRTbVhlSVBNTUpDQzg?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 17:48:42 +0000</pubDate>
+      <title>🌍 Hurricanes Trade Pitch Lands $70 Million Forward, Offloads Nikishin &amp; More</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG5oODJhVkpnS2Z3TU92ek5la283Z2szb29PSmNXZ2lYRmQwS01LZDVSdkJFaE5PcC1kdmkyaWhFY3ZDNDhUVm9uX3lzTnlzQ3hMMXBHV0xEMDdqSHpjQng4XzctV2FmS19DLUdlbDl2aWRlLW1yekRmYTFTYWZtUW9rTnB1ZTg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG5oODJhVkpnS2Z3TU92ek5la283Z2szb29PSmNXZ2lYRmQwS01LZDVSdkJFaE5PcC1kdmkyaWhFY3ZDNDhUVm9uX3lzTnlzQ3hMMXBHV0xEMDdqSHpjQng4XzctV2FmS19DLUdlbDl2aWRlLW1yekRmYTFTYWZtUW9rTnB1ZTg?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 17:53:01 +0000</pubDate>
       <category>breaking</category>
-      <description>6abc Action News, ABC News, Google News Breaking - Oct 20, 01:48 PM ET</description>
+      <description>Google News Philly Sports - Oct 20, 01:53 PM ET</description>
     </item>
     <item>
-      <title>🌍 Christina Applegate reveals she was misdiagnosed with multiple sclerosis: &quot;Not happy at all&quot;</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 16:14:38 +0000</pubDate>
+      <title>🌍 Carolina Hurricanes troll Flyers, Eagles, Phillies after Sunday's victory</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFZxSkpPckMzRldvOUZNT1RWRVVXSUNGZjZrTEN6ZFlFc3JNU2NveGRJUVM5c096UjRMcGVOWFJLZElWVzM0OTVRekh4amxsWjNvejNtaHBmbWxMRXdnMlJhR28wQUFHTjl1VGxYd2g0bVFHNXMyNW10RGdTbUttQ1k1bzdfR2NKblBOMDM1c0JsTVNna0JXTk5OQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFZxSkpPckMzRldvOUZNT1RWRVVXSUNGZjZrTEN6ZFlFc3JNU2NveGRJUVM5c096UjRMcGVOWFJLZElWVzM0OTVRekh4amxsWjNvejNtaHBmbWxMRXdnMlJhR28wQUFHTjl1VGxYd2g0bVFHNXMyNW10RGdTbUttQ1k1bzdfR2NKblBOMDM1c0JsTVNna0JXTk5OQQ?oc=5</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
       <category>breaking</category>
-      <description>CBS News, Google News Breaking, Google News Top Stories, PBS NewsHour - Oct 20, 12:14 PM ET</description>
+      <description>Google News Philadelphia - Oct 12, 03:00 AM ET</description>
     </item>
     <item>
-      <title>🏙️ Rick Tocchet’s Noel Acciari gamble paid off — but will it last?</title>
-      <link>https://www.broadstreethockey.com/post/rick-tocchets-noel-acciari-gamble-paid-off-but-will-it-last/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/rick-tocchets-noel-acciari-gamble-paid-off-but-will-it-last/</guid>
-      <pubDate>Tue, 20 Oct 2026 18:43:29 +0000</pubDate>
+      <title>🏙️ Crews battle house fire in West Deptford, NJ</title>
+      <link>https://6abc.com/post/crews-battle-house-fire-west-deptford-new-jersey/19960562/</link>
+      <guid isPermaLink="true">https://6abc.com/post/crews-battle-house-fire-west-deptford-new-jersey/19960562/</guid>
+      <pubDate>Tue, 20 Oct 2026 17:27:10 +0000</pubDate>
       <category>local</category>
-      <description>Broad Street Hockey - Oct 20, 02:43 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ NJ Transit is expanding a project to present art exhibitions at bus and train stations</title>
-      <link>https://whyy.org/articles/new-jersey-transit-art-exhibitions-bus-train-stations/</link>
-      <guid isPermaLink="true">https://whyy.org/articles/new-jersey-transit-art-exhibitions-bus-train-stations/</guid>
-      <pubDate>Tue, 20 Oct 2026 19:57:16 +0000</pubDate>
-      <category>local</category>
-      <description>WHYY - Oct 20, 03:57 PM ET</description>
+      <description>6abc Action News, Google News Breaking - Oct 20, 01:27 PM ET</description>
     </item>
   </channel>
 </rss>
