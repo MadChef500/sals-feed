@@ -4,55 +4,79 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:28:46 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 A 16-year-old carried out the Bend school shooting. Could his parents face charges?</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE52dk9RZVhkMFhHMF93MzdWcE92Q1VwRlFleG9LU0l2YUcySW02ZDBhUG5qbDAwMXdoZ18yUGEyWkxRMFcyUkRMc2FnbElYZzhVQWdMRjJjdzlIQ3l1aUhiYWRLVWp1Zk5iTmQ3QWNWVENNTmFWZDUyVG92ZnA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE52dk9RZVhkMFhHMF93MzdWcE92Q1VwRlFleG9LU0l2YUcySW02ZDBhUG5qbDAwMXdoZ18yUGEyWkxRMFcyUkRMc2FnbElYZzhVQWdMRjJjdzlIQ3l1aUhiYWRLVWp1Zk5iTmQ3QWNWVENNTmFWZDUyVG92ZnA?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:45 +0000</pubDate>
+      <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
+      <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</guid>
+      <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek, Not a Tesla App - Oct 12, 09:24 AM ET</description>
+    </item>
+    <item>
+      <title>🦅 It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFBHRjR6bnk5Y3lkOG1kbGI2ckt5YkhkT0RiSUc2YzR1TVpwRWgwX3pTcFNJQk0tejNNS2Q1aHl1bDB0c3JERjVWNF9hOHhRQU5pMGJYeGd5MUQ2dzBaSjFQTmJlSHhKcFZ1SWxMRnltS0RzSlBwQWtxcTVhME1sVzY0OWFnN3NGNzNsZjQ0eUFZRnRZbUJwVzVIU3hSTnlpMHZ1VTlmTmswUU4tUWpkYWpLdGNJRG91aVZkQ05jTVlBaGpza2t0M2QxNXR3dkhyU0htLThKNHBfSXM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFBHRjR6bnk5Y3lkOG1kbGI2ckt5YkhkT0RiSUc2YzR1TVpwRWgwX3pTcFNJQk0tejNNS2Q1aHl1bDB0c3JERjVWNF9hOHhRQU5pMGJYeGd5MUQ2dzBaSjFQTmJlSHhKcFZ1SWxMRnltS0RzSlBwQWtxcTVhME1sVzY0OWFnN3NGNzNsZjQ0eUFZRnRZbUJwVzVIU3hSTnlpMHZ1VTlmTmswUU4tUWpkYWpLdGNJRG91aVZkQ05jTVlBaGpza2t0M2QxNXR3dkhyU0htLThKNHBfSXM?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 15:03:08 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philadelphia, Google News Top Stories - Oct 20, 11:03 AM ET</description>
+    </item>
+    <item>
+      <title>🏒 Flyers’ next man up mentality drives them to big win over Avalanche</title>
+      <link>https://www.broadstreethockey.com/post/flyers-next-man-up-mentality-drives-them-to-big-win-over-avalanche/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-next-man-up-mentality-drives-them-to-big-win-over-avalanche/</guid>
+      <pubDate>Tue, 20 Oct 2026 15:25:54 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 20, 11:25 AM ET</description>
+    </item>
+    <item>
+      <title>🦅 The Eagles left Nick Sirianni hanging</title>
+      <link>https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187683/the-eagles-left-nick-sirianni-hanging</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/philadelphia-eagles-analysis/187683/the-eagles-left-nick-sirianni-hanging</guid>
+      <pubDate>Tue, 20 Oct 2026 15:55:06 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philly Sports - Oct 20, 11:55 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla still leads US fast-charger growth – but it’s raised its prices</title>
+      <link>https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek - Oct 13, 08:00 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Christina Applegate reveals she was misdiagnosed with multiple sclerosis: &quot;Not happy at all&quot;</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 16:14:38 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Top Stories - Oct 20, 04:00 AM ET</description>
+      <description>CBS News, Google News Breaking, Google News Top Stories - Oct 20, 12:14 PM ET</description>
     </item>
     <item>
-      <title>🏀 Season of a lifetime begins as Sixers face defending champion Knicks</title>
-      <link>https://www.libertyballers.com/76ers-game-previews/99319/season-of-a-lifetime-begins-sixers-defending-champion-new-york-knicks-philadelphia-76ers-nba</link>
-      <guid isPermaLink="true">https://www.libertyballers.com/76ers-game-previews/99319/season-of-a-lifetime-begins-sixers-defending-champion-new-york-knicks-philadelphia-76ers-nba</guid>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Liberty Ballers - Oct 20, 06:00 AM ET</description>
-    </item>
-    <item>
-      <title>🏟️ Now Everyone’s a Blood Clot Expert</title>
-      <link>https://www.crossingbroad.com/news/eagles/now-everyones-a-blood-clot-expert/</link>
-      <guid isPermaLink="true">https://www.crossingbroad.com/news/eagles/now-everyones-a-blood-clot-expert/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:26:51 +0000</pubDate>
-      <category>sports</category>
-      <description>Crossing Broad - Oct 15, 04:26 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Takeaways From Nick Sirianni’s Press Conference After Jalen Hurts Was Ruled Out for the Season</title>
-      <link>https://www.crossingbroad.com/news/eagles/takeaways-from-nick-siriannis-press-conference-after-jalen-hurts-was-ruled-out-for-the-season/</link>
-      <guid isPermaLink="true">https://www.crossingbroad.com/news/eagles/takeaways-from-nick-siriannis-press-conference-after-jalen-hurts-was-ruled-out-for-the-season/</guid>
-      <pubDate>Mon, 19 Oct 2026 21:12:32 +0000</pubDate>
-      <category>sports</category>
-      <description>Crossing Broad, Google News Philly Sports - Oct 19, 05:12 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Trump’s Push for Deals With Russia Powers His Frustration With Ukraine</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE0tYW5fR2cwVTAxdks2cGRmU0xjNTZuZ3ZpUWJfWkp5TU1zRjFVaGFRZUxodFJtZW1PM1ZuNWhmaWxxOFlIYlZpaVJ5YVBYS3JqTkIxYXBSREROeHhQT2FiR08yUmV0Z0g1LTVTRWpoLWRsZGdUak9zT0tB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE0tYW5fR2cwVTAxdks2cGRmU0xjNTZuZ3ZpUWJfWkp5TU1zRjFVaGFRZUxodFJtZW1PM1ZuNWhmaWxxOFlIYlZpaVJ5YVBYS3JqTkIxYXBSREROeHhQT2FiR08yUmV0Z0g1LTVTRWpoLWRsZGdUak9zT0tB?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 00:33:10 +0000</pubDate>
+      <title>🌍 Eagles News: Jalen Hurts situation “shakes the foundation of what we think we know about how the team operates”</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV09SSGItYTllZU04czJBMnB1Y2d0SF9BMGswYXlfQVp5S3E3ajh6OThrWWx6VW02SXZ1cTBmS1I5d2h2cjhZcG1JSWpkZmU1ZzFZNklZc1BpNGg2M1drY1lvdURVTU9MZEp1TWxyOEZNQlZtXy1aeTFUQllwSmtLbklhODUwSzF3aHZGQXlOTkpYalBKNFQ1aEFNeWR4RGhKbjhpaUZDOXRhR0hRTjFJWVNlbnhyNnppQVlUV2tmXzhXUzgxSFlFTEVXVTY5RDl6YjB0Z3BWMGFCTVo1YThmWkc5NzdsUDA5emtHcw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV09SSGItYTllZU04czJBMnB1Y2d0SF9BMGswYXlfQVp5S3E3ajh6OThrWWx6VW02SXZ1cTBmS1I5d2h2cjhZcG1JSWpkZmU1ZzFZNklZc1BpNGg2M1drY1lvdURVTU9MZEp1TWxyOEZNQlZtXy1aeTFUQllwSmtLbklhODUwSzF3aHZGQXlOTkpYalBKNFQ1aEFNeWR4RGhKbjhpaUZDOXRhR0hRTjFJWVNlbnhyNnppQVlUV2tmXzhXUzgxSFlFTEVXVTY5RDl6YjB0Z3BWMGFCTVo1YThmWkc5NzdsUDA5emtHcw?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 13:50:03 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Top Stories - Oct 19, 08:33 PM ET</description>
+      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports - Oct 20, 09:50 AM ET</description>
     </item>
     <item>
-      <title>🏙️ Couple dead, 2 firefighters injured after house fire in Wilmington, Delaware</title>
-      <link>https://6abc.com/post/2-dead-firefighters-injured-house-fire-wilmington-delaware/19959168/</link>
-      <guid isPermaLink="true">https://6abc.com/post/2-dead-firefighters-injured-house-fire-wilmington-delaware/19959168/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:16:45 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News, Google News Philadelphia - Oct 20, 07:16 AM ET</description>
+      <title>🌍 LeBron James to make regular season debut as a Philadelphia 76ers against New York Knicks - ABC News</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3U0ZVN2Qnh3N3Q1aFZPYUQ0Wno3OWQ1dkVxc21kZ2VsUlFCX0lwOGJFdFQySWVZX0VEbUJVWjdUUlZGbUdLdGdyeDg0Y1J4RVRIQUZRSXNRcDBRZWlaRDc4VzZoV3RoSlFJT1ZQM2p4WUhCdmR5RVg4UC1DbWZYcy1BTm14aEdIUXh0UXB5NldNMUdvaXJZck9sUjNoQnB1dDJmOHR0OXAwWVBF0gGyAUFVX3lxTE5oajZMeU8wMkZNeUtaYVVCUmlvZmw1ZEhrM2g5NW8yNGxsZzF2OWljRUhQSmpNWFc1VzBzSDQxT1pHbm5JbE5zR01LUlFYY2JYOHJwc3VEeXo2UlQ5Y0Vxd2g2SnJicDR4MERDN3BlN3lzX2ZIeXMtQnlYYVozcUVXQUdYYnpHQndpT3RhQ3lWd2plWWQ2aUZNbUwyTnRIWk9YVFhpQXVTdDQ4SmRMTUJ4bUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3U0ZVN2Qnh3N3Q1aFZPYUQ0Wno3OWQ1dkVxc21kZ2VsUlFCX0lwOGJFdFQySWVZX0VEbUJVWjdUUlZGbUdLdGdyeDg0Y1J4RVRIQUZRSXNRcDBRZWlaRDc4VzZoV3RoSlFJT1ZQM2p4WUhCdmR5RVg4UC1DbWZYcy1BTm14aEdIUXh0UXB5NldNMUdvaXJZck9sUjNoQnB1dDJmOHR0OXAwWVBF0gGyAUFVX3lxTE5oajZMeU8wMkZNeUtaYVVCUmlvZmw1ZEhrM2g5NW8yNGxsZzF2OWljRUhQSmpNWFc1VzBzSDQxT1pHbm5JbE5zR01LUlFYY2JYOHJwc3VEeXo2UlQ5Y0Vxd2g2SnJicDR4MERDN3BlN3lzX2ZIeXMtQnlYYVozcUVXQUdYYnpHQndpT3RhQ3lWd2plWWQ2aUZNbUwyTnRIWk9YVFhpQXVTdDQ4SmRMTUJ4bUE?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 09:12:49 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Philadelphia, Google News Philly Sports - Oct 20, 05:12 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Trump official claims record-breaking 300,000 visas were revoked</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTc2OFJLQmU4VHRvaE5zNUdqamJ3NW9EWGZTQjJIdkVzQ0ZqRnZtbW83a2hCSkg3MUtxX3FnRFBjT1RpZjczRVE4bHBxTlBQRk5sNnFCWUhSSUFNejFpWm9lQ3hhWkZrYk56SzNLOFo5eWZQQ0hrRnVjdi1ieHI1cnkzOUhwcVVaMHpmbjhxT0FmU1RTT0s1T0FlZVZ6RHBPRk1YQ2xGVnDSAa4BQVVfeXFMTm95VElHcTg5SU1ScWZDcjF0Y2NDOW1SY1NsM2lJLXRSRHVZckc1Wm1UMkVlbDFlb3NUbEtfSDZfWmdJM3VObGtia2ZyQnZEVWtOS2lzTmFtTTJZUDdYbTJOSlpzdUFUeFFnbVhPYzlHcFRXcjFYVnFQaEl6R21vNWJoWThvcVBIZnZ6U2dKVENkSVp0OUNLM2F3dl9HWUtmM192ZTROTHc4UTBiLXNR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTc2OFJLQmU4VHRvaE5zNUdqamJ3NW9EWGZTQjJIdkVzQ0ZqRnZtbW83a2hCSkg3MUtxX3FnRFBjT1RpZjczRVE4bHBxTlBQRk5sNnFCWUhSSUFNejFpWm9lQ3hhWkZrYk56SzNLOFo5eWZQQ0hrRnVjdi1ieHI1cnkzOUhwcVVaMHpmbjhxT0FmU1RTT0s1T0FlZVZ6RHBPRk1YQ2xGVnDSAa4BQVVfeXFMTm95VElHcTg5SU1ScWZDcjF0Y2NDOW1SY1NsM2lJLXRSRHVZckc1Wm1UMkVlbDFlb3NUbEtfSDZfWmdJM3VObGtia2ZyQnZEVWtOS2lzTmFtTTJZUDdYbTJOSlpzdUFUeFFnbVhPYzlHcFRXcjFYVnFQaEl6R21vNWJoWThvcVBIZnZ6U2dKVENkSVp0OUNLM2F3dl9HWUtmM192ZTROTHc4UTBiLXNR?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 16:12:24 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera, Google News Breaking - Oct 20, 12:12 PM ET</description>
     </item>
     <item>
       <title>🏙️ Downed wires leave SEPTA riders stranded for hours in SW Philadelphia</title>
@@ -61,30 +85,6 @@
       <pubDate>Tue, 20 Oct 2026 04:33:00 +0000</pubDate>
       <category>local</category>
       <description>6abc Action News, Google News Philadelphia - Oct 20, 12:33 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ How to Check If Your Tesla Supports Powershare Home Backup</title>
-      <link>https://www.notateslaapp.com/news/4791/how-to-check-if-your-tesla-supports-powershare-home-backup</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/4791/how-to-check-if-your-tesla-supports-powershare-home-backup</guid>
-      <pubDate>Thu, 08 Oct 2026 15:59:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 08, 11:59 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Updates App to 4.61.6: Adds Ability to Speak With Spooky Voice Through Car, Adds Sentry Mode Filter</title>
-      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.61.6/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.61.6/release-notes</guid>
-      <pubDate>Sun, 11 Oct 2026 15:57:21 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 11, 11:57 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 Sahara Ray, model and rumored ex of Justin Bieber, dies at 34</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVhMVV9NRDNTdkQ4TkRrcW5Va2xiUEVvblFjcFRldWNuYTFmQU9OaG1Zc21GeHpzaV91T0xOczVlenZnRVY1Wi13WVlQYkFJYTlIdUZ1cUFKenF2NXUwRlZGMGtPQ2tlLTVad0swOEpmS2U4dHdmdzJQelpEY0hjbVB6UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVhMVV9NRDNTdkQ4TkRrcW5Va2xiUEVvblFjcFRldWNuYTFmQU9OaG1Zc21GeHpzaV91T0xOczVlenZnRVY1Wi13WVlQYkFJYTlIdUZ1cUFKenF2NXUwRlZGMGtPQ2tlLTVad0swOEpmS2U4dHdmdzJQelpEY0hjbVB6UQ?oc=5</guid>
-      <pubDate>Mon, 19 Oct 2026 23:23:54 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories - Oct 19, 07:23 PM ET</description>
     </item>
   </channel>
 </rss>
