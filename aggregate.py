@@ -84,11 +84,11 @@ SOURCES = [
 KEYWORDS = {
     "breaking": [
         (["terrorist attack", "terror attack", "assassination", "assassinated",
-          "plane crash", "airliner", "passenger jet",
+          "airliner", "passenger jet",
           "rocket explod", "nuclear ", "invasion", "invades", "declare war",
           "declares war", "missile strike", "military coup", "martial law",
           "state of emergency"], 120),
-        (["mass shooting", "school shooting",
+        (["mass shooting", "school shooting", "plane crash",
           "earthquake", "hurricane", "tornado emergency", "tsunami",
           "volcano eruption", "major wildfire", "explosion", "building collapse",
           "bridge collapse", "train derail", "hostage", "evacuation order",
@@ -174,6 +174,10 @@ LOCAL_VETO = ["best restaurants", "now open", "for sale", "housing market",
               "home prices", "gift guide", "sponsored", "spotted", "gossip"]
 ROUTINE_LOCAL = ["house fire", "vehicle fire", "trash fire", "brush fire",
                  "garage fire", "kitchen fire"]
+# Small general-aviation crashes are routine news, not national breaking
+# news, unless the headline itself reports a major death toll.
+SMALL_AIRCRAFT = ["small plane", "single-engine", "single engine",
+                  "private plane", "small aircraft", "prop plane", "cessna"]
 
 LANE_VETO = {"sports": SPORTS_VETO, "tesla": TESLA_VETO, "ai": AI_VETO,
              "breaking": BREAKING_VETO, "local": LOCAL_VETO}
@@ -312,6 +316,8 @@ def score_title(title_lower, cat):
 def qualifies(cat, tiers, casualties, title_lower):
     """The news-event gate: a headline must describe an actual event."""
     if cat == "breaking":
+        if any(p in title_lower for p in SMALL_AIRCRAFT) and casualties < 5:
+            return False
         return bool(tiers & {120, 60}) or casualties >= 3
     if cat == "local":
         if any(p in title_lower for p in ROUTINE_LOCAL) and casualties < 2:
@@ -446,7 +452,7 @@ def main():
             # best lane that also passes the news-event gate
             title_lower = title.lower()
             casualties = casualty_count(title_lower)
-            best_cat, base = None, -1000
+            best_cat, base, best_tiers = None, -1000, set()
             for c in lanes:
                 if not lane_eligible(c, title, src2):
                     continue
@@ -456,9 +462,10 @@ def main():
                 if not qualifies(c, tiers, casualties, title_lower):
                     continue
                 if sc > base:
-                    best_cat, base = c, sc
+                    best_cat, base, best_tiers = c, sc, tiers
             if best_cat is None:
                 continue
+            gate = 120 if 120 in best_tiers else 60 if 60 in best_tiers else 0
 
             # dedupe against stories still within their publication window
             toks = tokens(title)
@@ -486,6 +493,8 @@ def main():
                 s = stories[match_id]
                 s["sources"] = sorted(set(s["sources"]) | {src["name"]})
                 s["last_seen"] = now.isoformat()
+                s["gate"] = max(s.get("gate", 60), gate)
+                s["cas"] = max(s.get("cas", 0), casualties)
                 if base > s["base"]:
                     s.update({"base": base, "cat": best_cat, "title": title,
                               "link": link,
@@ -500,6 +509,7 @@ def main():
                     "last_seen": now.isoformat(),
                     "team": guess_team(title_lower, src.get("team")),
                     "trust": src.get("trust", 2),
+                    "gate": gate, "cas": casualties,
                 }
             fetched += 1
 
@@ -540,6 +550,8 @@ def main():
             K["first_seen"] = min(K["first_seen"], D["first_seen"])
             K["last_seen"] = max(K["last_seen"], D["last_seen"])
             K["pub"] = min(K["pub"], D["pub"])
+            K["gate"] = max(K.get("gate", 60), D.get("gate", 60))
+            K["cas"] = max(K.get("cas", 0), D.get("cas", 0))
             drop.add(aid if K is B else bid)
     for sid in drop:
         del stories[sid]
@@ -558,6 +570,13 @@ def main():
         pub_age_h = max(0.05, (now - datetime.fromisoformat(s["pub"])).total_seconds() / 3600)
         if pub_age_h > MAX_PUB_AGE.get(s["cat"], 48):
             continue
+        if s["cat"] == "breaking":
+            # "True breaking" needs weight behind it: a top-tier event,
+            # a serious death toll in the headline, or multiple outlets
+            # carrying it. A lone report of a mid-tier event is not enough.
+            if not (s.get("gate", 60) >= 120 or s.get("cas", 0) >= 4
+                    or len(s["sources"]) >= 2):
+                continue
         decay = 0.5 ** (pub_age_h / HALF_LIFE.get(s["cat"], 16))
         corroboration = min(30, 15 * (len(s["sources"]) - 1))
         final = (s["base"] + corroboration) * decay + s.get("trust", 2)

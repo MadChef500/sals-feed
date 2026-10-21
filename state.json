@@ -1,6 +1,6 @@
 {
  "stories": {
-  "s1792545551_0": {
+  "s1792546034_0": {
    "title": "Eagles are not being punished for handling of Jalen Hurts' blood clots, AP source says",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5",
    "sources": [
@@ -12,26 +12,30 @@
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-20T19:26:05+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:23:04.074393+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": "eagles",
-   "trust": 2
+   "trust": 2,
+   "gate": 0,
+   "cas": 0
   },
-  "s1792545551_2": {
+  "s1792546034_1": {
    "title": "Moment plane crashes on a busy highway in the US",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
    "sources": [
     "Al Jazeera"
    ],
    "cat": "breaking",
-   "base": 135,
+   "base": 75,
    "pub": "2026-10-20T23:54:50+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:11.529215+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": null,
-   "trust": 2
+   "trust": 2,
+   "gate": 60,
+   "cas": 0
   },
-  "s1792545551_5": {
+  "s1792546034_4": {
    "title": "Downed wires leave SEPTA riders stranded for hours in SW Philadelphia",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzN4NWFkbURGbVoyOG93ZkZiTzc1dlNUUzBwbHE5YXFFMWlxRFloeFlKYmJfaThQQXdYS21WR1kxTGh2SWlnZTZsY0J3SFQ4ZVlNYXBZYXg0Qjk1UWl5eXhRQUktV2ZHOUhHQTE0YnRoWVFSb0RzZlF6d3EwVE1aNnFmd0hOWG80YWN6NVNwS2NIM28zREwzZ1FR0gGfAUFVX3lxTE5MSHBITm1taEdZUXJiQnFINzhnZ2R3dHJSaWdHNXJBREttQmZxazNXZ1VDY0JKYzFIbUFKZVJTVjg3TkVKemJ4MGptUFpoUUh2YkZTcUVFS19HSEQycFYyMVFfS3VOWm41UWJUZktyeGZLX2I4VGZzZnVqVjB0OWJlSExPX1NVby01QmlPSVBxdE9sVVVSQnNkUE5ZeGVHMA?oc=5",
    "sources": [
@@ -40,12 +44,14 @@
    "cat": "local",
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:23:04.074393+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": null,
-   "trust": 2
+   "trust": 2,
+   "gate": 0,
+   "cas": 0
   },
-  "s1792545551_28": {
+  "s1792546034_27": {
    "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
    "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
    "sources": [
@@ -55,12 +61,14 @@
    "cat": "tesla",
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:23:04.074393+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": null,
-   "trust": 3
+   "trust": 3,
+   "gate": 0,
+   "cas": 0
   },
-  "s1792545551_30": {
+  "s1792546034_29": {
    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
    "sources": [
@@ -69,12 +77,14 @@
    "cat": "ai",
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:23:04.074393+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": null,
-   "trust": 2
+   "trust": 2,
+   "gate": 0,
+   "cas": 0
   },
-  "s1792545551_31": {
+  "s1792546034_30": {
    "title": "One Developer Used Claude AI to Build 7 Free Adobe Alternatives",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5",
    "sources": [
@@ -83,10 +93,12 @@
    "cat": "ai",
    "base": 80,
    "pub": "2026-10-20T19:43:52+00:00",
-   "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:23:04.074393+00:00",
+   "first_seen": "2026-10-21T01:27:14.176885+00:00",
+   "last_seen": "2026-10-21T01:27:14.176885+00:00",
    "team": null,
-   "trust": 2
+   "trust": 2,
+   "gate": 0,
+   "cas": 0
   }
  },
  "feeds": {
@@ -99,8 +111,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"4df8d432f6a846330c700fd75c3bd7d3\"",
-   "modified": "Wed, 21 Oct 2026 01:15:22 GMT"
+   "etag": "W/\"a0b9110876ed2b832d6eefcbad682041\"",
+   "modified": "Wed, 21 Oct 2026 01:25:23 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -128,7 +140,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:23:56 GMT"
+   "modified": "Wed, 21 Oct 2026 01:27:57 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -151,7 +163,7 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"768902e40152aa374310e80b8b96cb0d\"",
+   "etag": "W/\"a2c87239cdeab96ca72a36f2815ed158\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -168,7 +180,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Tue, 20 Oct 2026 19:01:14 GMT"
+   "modified": "Tue, 20 Oct 2026 19:01:59 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"ff101ee8d81c854bd5f6b031ef1be380\"",
