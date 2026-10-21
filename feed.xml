@@ -4,8 +4,24 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:51:49 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Yemen holds mass funeral for 75 recruits killed in Houthi strike</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 18:29:38 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Oct 21, 02:29 PM ET</description>
+    </item>
+    <item>
+      <title>🏙️ Philly teens advocate for universal free student SEPTA passes</title>
+      <link>https://whyy.org/articles/philadelphia-teens-advocate-for-universal-free-student-septa-passes/</link>
+      <guid isPermaLink="true">https://whyy.org/articles/philadelphia-teens-advocate-for-universal-free-student-septa-passes/</guid>
+      <pubDate>Wed, 21 Oct 2026 19:41:09 +0000</pubDate>
+      <category>local</category>
+      <description>WHYY - Oct 21, 03:41 PM ET</description>
+    </item>
     <item>
       <title>🏙️ SEPTA Spotlight: How train operator Taneisha Moody was inspired by her female mentors</title>
       <link>https://6abc.com/post/septa-spotlight-how-train-operator-taneisha-moody-was-inspired-female-mentors-came-before/19965225/</link>
@@ -20,23 +36,7 @@
       <guid isPermaLink="true">https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates</guid>
       <pubDate>Wed, 21 Oct 2026 16:17:51 +0000</pubDate>
       <category>breaking</category>
-      <description>6abc Action News, PBS NewsHour - Oct 21, 12:17 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Chemical leak at tubing and piping facility forces evacuations in Toledo, Ohio</title>
-      <link>https://abc7.com/post/toledo-ohio-hazmat-chemical-leak-tubing-piping-facility-forces-evacuation-residents/19963941/</link>
-      <guid isPermaLink="true">https://abc7.com/post/toledo-ohio-hazmat-chemical-leak-tubing-piping-facility-forces-evacuation-residents/19963941/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:41:50 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 21, 06:41 AM ET</description>
-    </item>
-    <item>
-      <title>🏒 Flyers’ turnaround gives Danny Briere leverage in trade talks</title>
-      <link>https://www.broadstreethockey.com/post/flyers-turnaround-gives-danny-briere-leverage-in-trade-talks/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-turnaround-gives-danny-briere-leverage-in-trade-talks/</guid>
-      <pubDate>Wed, 21 Oct 2026 03:44:23 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey - Oct 20, 11:44 PM ET</description>
+      <description>6abc Action News, Google News Breaking, PBS NewsHour - Oct 21, 12:17 PM ET</description>
     </item>
   </channel>
 </rss>
