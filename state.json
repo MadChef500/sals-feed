@@ -47,7 +47,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -64,7 +64,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -78,13 +78,14 @@
     "Google News Breaking",
     "Google News Philadelphia",
     "Google News Philly Sports",
-    "Google News Top Stories"
+    "Google News Top Stories",
+    "WHYY"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -119,7 +120,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -136,7 +137,7 @@
    "base": 110,
    "pub": "2026-10-20T18:28:50+00:00",
    "first_seen": "2026-10-21T01:42:13.789593+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -147,13 +148,14 @@
    "title": "Justice Kagan warns Supreme Court rulings fueling polarization, undermining democracy",
    "link": "https://abcnews.com/US/wireStory/justice-kagan-warns-supreme-court-rulings-fueling-polarization-137434175",
    "sources": [
-    "ABC News"
+    "ABC News",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-10-21T06:44:12+00:00",
    "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -238,7 +240,7 @@
    "base": 120,
    "pub": "2026-10-21T12:19:29+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -278,6 +280,179 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792604187_0": {
+   "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
+   "sources": [
+    "Google News Top Stories",
+    "NPR News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T15:46:27+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_1": {
+   "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+   "link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
+   "sources": [
+    "6abc Action News",
+    "PBS NewsHour"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T16:17:51+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_2": {
+   "title": "Chemical tank explosion in Ohio of glycidyl methacrylate forces evacuations, prompts fears of another blast",
+   "link": "https://www.pbs.org/newshour/nation/chemical-tank-explosion-in-ohio-of-glycidyl-methacrylate-forces-evacuations-prompts-fears-of-another-blast",
+   "sources": [
+    "Google News Top Stories",
+    "PBS NewsHour"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T15:43:50+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_7": {
+   "title": "Supreme Court rejects bid to restrict treatments for trans inmates",
+   "link": "https://www.cbsnews.com/news/supreme-court-trump-gender-affirming-care-transgender-inmates/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T17:03:56+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_12": {
+   "title": "Driver, 4 passengers injured after SEPTA bus strikes cement barrier on I-76",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUS11YldtSHotYXVKRGlzdVBPa0E4OVB1Z1RlT1B6aE5FOWtmMzFuTTRQeTB3VzRBeXE3WW5KTEFQcWhMTG1ldGRMWFR4TlZpQ3pPcER3N3I5RVVHX2diU29wM3kzNWpJUERQcHdpai1UODRfbzRQM08zeHN4UGdIaEp4OHRZRlVMWUZ2S0V0V2QwOUZ4NkFvbXhNU2N1aWZrdEt4TWxnTmFtZ21xcG95MDZ2SDRvc0hxUmphX0lDMVNfREw50gHMAUFVX3lxTE94OFFWajRCQmtka2VjLVVhS25BT296S3dHLWdsZTNldEkxWFZjRzRQT0lCcTZhc1JmUWlaelFGRmJhMFBYVUd3Y2RXM243OFpqcWF1MmlNdW14T1d6N2NNMV9jSW1LZU9Ca0NqT3BMTV9tRmVfcDVPSGwtTUhfeHZPaDhJMVZLV25XXzVqbEo1OUtxcHBZeE9fNFVEMVUzcEIxQVVGaDREQ1ltOFktZDItMDYyOWZCRlZnOGxTQmNFYzBjcnFvOGtaeHhWVA?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-21T12:46:38+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_17": {
+   "title": "Crash involving SEPTA bus causing nearly 2 hours delay on Schuylkill Expressway EB in Philadelphia area",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3pfa3pPdDU5VVJ6a3FOOS1rOWJnX0NkM0pSRVZMREZPcVVma2taQnc2VkJRc0d2Zm0tTGJVMVFWczAtdXVfelFOSUZocmhoZVFadVNUMHdzdUdHLXBCTzhVM0FfNjdKMXZTT1lpTV8xSkt5Y1hSQ1RvaFVDbEh3Y19peS1pUldKZjNVVXFmXzhpeFpQME9ab042cWk2MUVfT284ay1CMlloQW5wOWZpWG9UeGhQWGJaaE55S01TUVNIbVHSAcgBQVVfeXFMUE50YnlIS0RkS3o2SzNuZUZqZzBvU0JIRU9OTzUxRmw5MFkydi1nb2VhdnlIQ2t2Q055NHNWSk0yd0VmN2NiRFNKTTIzeTFadnJaemJObkdQNGx2OXlJa0JKRlZzM1c3NkxyWmkzQmZINWdOaWFHalZ5dTQ5VUNJLVdFSksybEd3eGMwdDZwQnhaN2dab3JaTmNjaXhESW81WTRKeElSN2p1TW03WFI0azJiVFJ3NzcyZ2ROblFiTVA0MnJEQlotWjM?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-21T12:49:36+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_18": {
+   "title": "SEPTA bus crash on westbound I-76 injures 5, snarls morning commute in Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzJLdUt4bm9vWDRRX3JfQU1JQWhjUjNlelZrNVhFYzVyeGoyMEZDanE5QnRLX21SVjhJRTRhNFNNY2pXbzFaVFFIMEZmcDFaNGR6YWkwMm1oQXlfdVpZMDBFay1lcm9BMjUyYk41VHV5S2VET1JLV1hwZGI1RVVsSlJuVWR4M2FYVzlKcjViTEg?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-21T13:01:00+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_20": {
+   "title": "SEPTA Spotlight: How train operator Taneisha Moody was inspired by her female mentors",
+   "link": "https://6abc.com/post/septa-spotlight-how-train-operator-taneisha-moody-was-inspired-female-mentors-came-before/19965225/",
+   "sources": [
+    "6abc Action News"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-21T17:01:44+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_27": {
+   "title": "Philadelphia Eagles face costly fine print if they want to cash out on Saquon Barkley at the NFL trade deadline",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1VzNmZiQ1dFZTQxOUtST2RZMmpkWWdyRklXbXdDT0pRU3RJVkNPRnFxWGxweW5EeTJpLTJnRjhkWGZUMGNOcWZVLXhvMnBTNFNTbnRXRDN3MzBiMmhWTW5GeVRJWXo5S0NPMWFoWnB0ejEtUV9YTDFPblN1ejlJY05ld2pYU2VhWWJGckxKeFhHbFM0ZWVlVW9fQWUwYmxKcUU0amdUYzNzMzRoWFE3aC0xM1A2UExnM0s4ZFg5YVp6WEZSX3lIQ1NmWmtBa1phbl9zUG12RGxrUlhZR1pzakRrUmtTUEJLTGZpWmk4MjNhWHV3SVo4?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-21T14:58:51+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792604187_32": {
+   "title": "Elon Musk recalls firing Tesla employee who later killed 3 people in Austin shooting: 'He was fired because he assaulted a woman' | Hindustan Times",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMzJUc3E2Z00zcVl0Q3dEVV9yNjNEWWNoNTBCRzBBRjBORTV1cFFnRGI0VWhmUGlCV0VFQWhtYUlMUkhlVlFscG1QYmtIZGVaZlhLd09Zb0VRTkRHclppUjlwZnpJWDBLcnFwUkM2Yk1jSy1jVEFlZ1dxZ2dIVzdJTUlCNmpqaFFLeFB6WVM2U2JKLUtpeElOZTFpdUJiWElkWHdxdHRVbzNxUnZ0eU5XVHdJeWtxRUVRREpDWkYxQzNjTXVXR3BMR3B2eGpJckJIWGNHVGQ2MnFSVGd6dk03Mll5U0phVGJFV00yNEtGOGVmdEx4SFVWLW5zaHlLS21FdWg4ck4tbEVVbGhFLUxSTFFDYUNRZGlETnfSAZ8CQVVfeXFMTnp4UWJyaXU0MkJXYWdoSkNReS1WMXNTeE9DLTFFSHRxbHBVM3VPelJyb2RvMEROZkFMak5jX1RHaGpIQjRmMTVGNnNaVHFXY2RQcmE3LWR6Tnk4ekJ6aU5BTDlOZG1LUTdLbUZsU29hRmJRTHBYbTNZZnRwYU1CaURhN3EwbExmOXZPeWk4cUtvdHRQa0NQaFdKWm94NkJGcVpOZDJMV0dkbkFzSkdURWxzWTdyS0p6aHlTcjNrQXotSlFBZ0VYZzFCWGQ5LXBDckN1a016UE5ZWERGOVZtX0xWVENxUlBqUjBWeUQtaUR0LW5vVU51eE0wXzhMa1lYRm1vaDRseHFPWGRrLU8tQlc3Z2M5M1lfZEtEcGRRUWc?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T10:32:08+00:00",
+   "first_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -290,8 +465,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"11c63cb408f01507fbb54670863990ad\"",
-   "modified": "Wed, 21 Oct 2026 12:27:31 GMT"
+   "etag": "W/\"68614c5d6c8fa17612623480e0736381\"",
+   "modified": "Wed, 21 Oct 2026 17:35:34 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -303,15 +478,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 12:29:45 GMT"
+   "modified": "Wed, 21 Oct 2026 17:33:20 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"b1be27337207cb4cdbc6900e72144144\"",
-   "modified": "Wed, 21 Oct 2026 12:19:01 GMT"
+   "etag": "W/\"f1825e9c7bbe81a4cf753ca662051124\"",
+   "modified": "Wed, 21 Oct 2026 17:10:24 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -319,18 +494,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 12:30:23 GMT"
+   "modified": "Wed, 21 Oct 2026 17:37:30 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"0b514e6d0fbc2d6c5a72e88906371c77\"",
-   "modified": "Wed, 21 Oct 2026 10:10:53 GMT"
+   "etag": "\"2c5de224bab593619a6700a27ee687b0\"",
+   "modified": "Wed, 21 Oct 2026 17:35:30 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 10:50:18 GMT"
+   "modified": "Wed, 21 Oct 2026 16:55:44 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"ff20a9374c7f0df336b49bd554841436\"",
+   "etag": "W/\"80c1fe99de5e5be6e717f96d2a803316\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -338,32 +513,32 @@
    "modified": "Wed, 21 Oct 2026 10:00:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"261c7e622aee33479a6660149c3c6bb4\"",
+   "etag": "W/\"163b069d4542ce967d190a3eceb9e218\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"e57a5fd761b1c151cb77d39891722b9a\"",
+   "etag": "W/\"6ceea462428f07a8cb522971692330d8\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"e02bb46fdfa765ab2d861aa5e612e818\"",
-   "modified": "Wed, 21 Oct 2026 02:13:21 GMT"
+   "etag": "\"799557482c421ad72d7a0e55812af1cd\"",
+   "modified": "Wed, 21 Oct 2026 17:08:25 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"7f187b36ad43ec9e51c74b2c311d92b8\"",
-   "modified": "Wed, 21 Oct 2026 04:44:49 GMT"
+   "etag": "\"820b77e872a33a691d2e376c470aef8b\"",
+   "modified": "Wed, 21 Oct 2026 16:56:56 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
    "modified": "Tue, 20 Oct 2026 19:03:14 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"7ff131ec75161eeebadc759e77f27129\"",
-   "modified": "Wed, 21 Oct 2026 12:11:16 GMT"
+   "etag": "W/\"4845e8132b85d6ceedbe68e41fe6c95b\"",
+   "modified": "Wed, 21 Oct 2026 17:09:30 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -374,8 +549,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"a37aa704f147841ca2945f01047ff8c3\"",
-   "modified": "Wed, 21 Oct 2026 06:02:29 GMT"
+   "etag": "W/\"a4fba61d483c547a21bde09589a19f94\"",
+   "modified": "Wed, 21 Oct 2026 17:18:40 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
