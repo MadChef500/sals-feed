@@ -47,7 +47,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -64,7 +64,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -79,13 +79,14 @@
     "Google News Philadelphia",
     "Google News Philly Sports",
     "Google News Top Stories",
+    "PBS NewsHour",
     "WHYY"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -103,7 +104,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -120,7 +121,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -137,7 +138,7 @@
    "base": 110,
    "pub": "2026-10-20T18:28:50+00:00",
    "first_seen": "2026-10-21T01:42:13.789593+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -240,7 +241,7 @@
    "base": 120,
    "pub": "2026-10-21T12:19:29+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -274,7 +275,7 @@
    "base": 80,
    "pub": "2026-10-21T10:00:00+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -285,6 +286,7 @@
    "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
    "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
    "sources": [
+    "ABC News",
     "Google News Breaking",
     "Google News Top Stories",
     "NPR News"
@@ -293,7 +295,7 @@
    "base": 60,
    "pub": "2026-10-21T15:46:27+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -312,7 +314,7 @@
    "base": 60,
    "pub": "2026-10-21T16:17:51+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -364,7 +366,7 @@
    "base": 115,
    "pub": "2026-10-21T12:46:38+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -381,7 +383,7 @@
    "base": 115,
    "pub": "2026-10-21T12:49:36+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -398,7 +400,7 @@
    "base": 115,
    "pub": "2026-10-21T13:01:00+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T17:36:27.281746+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -432,7 +434,7 @@
    "base": 80,
    "pub": "2026-10-21T14:58:51+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -484,7 +486,7 @@
    "base": 60,
    "pub": "2026-10-21T20:13:43+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -518,7 +520,7 @@
    "base": 80,
    "pub": "2026-10-21T19:41:09+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -535,7 +537,7 @@
    "base": 80,
    "pub": "2026-10-21T18:35:25+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -552,7 +554,7 @@
    "base": 80,
    "pub": "2026-10-21T18:16:11+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -569,7 +571,7 @@
    "base": 80,
    "pub": "2026-10-21T18:22:55+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -586,7 +588,7 @@
    "base": 80,
    "pub": "2026-10-21T18:26:57+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -597,13 +599,14 @@
    "title": "Tesla FSD \u2018subscriptions\u2019 hit 1.74M, counted the way Musk\u2019s pay package wants",
    "link": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
    "sources": [
-    "Electrek"
+    "Electrek",
+    "Google News Tesla"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -654,7 +657,196 @@
    "base": 80,
    "pub": "2026-10-21T19:19:45+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_3": {
+   "title": "Breaking News: Officials ordered nearly 1,000 residents near a chemical trucking company in Toledo, Ohio, to evacuate after an explosion caused a leak of hazardous material. It was unclear what caused the explosion.",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0JfdlNYeWNld1A1Zjc2SUYwWHVsZ05WSmoyLWpuX0RFcmZneFdpRy1TQjFNTzVHM1hhTGIyQTlIdTZsc3RCY1FTOFl2TUVhczdNQmlpWU5DblRsU2FuRmFEMmZzeFp1amFKLUhrUnlQYmNrRHZqWHByUmgyRDVvWDVrVldtV2lQX2trNVlEWUFlUk9nZkJUTzVRbVpEd1pEUW5mOGd5di1yX1IxUk5uSTZaRk5GLUJ4SWplQnUxRHhxWF9VdHFaWmZIY3RuVVRrb3o0?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-10-21T15:41:51+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_6": {
+   "title": "Teacher who survived Oregon school shooting recounts playing dead",
+   "link": "https://www.cbsnews.com/news/oregon-school-shooting-survivor-teacher-beck-drury/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-10-21T21:45:00+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_25": {
+   "title": "3 Potential Hollywood Brown Trade Destinations as Eagles Debate Deadline Sale",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGJiWWQwWV8waV9IWWd4MENmekFmaEFIaVBpUEFKTXlFTXRTV3VrZWpfUDQ5aHRtYWYyQjFSbjY3WjM1cWQxcmNpcHFZdkJJZlY3U0FaUFVIdThPSFRGYy1xWER5Z3hpWll3MDhXaURpNnE5cENDY0F3bTlfUXoyd1MyTXNfMWcyNkoxaUtMV2NZb0pYX0Q4ZlNGaWNSVDRWNnFJN3VwTWg5Wk14U2RLNzRHZTZRcEkzTUZjSFhUUQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-21T21:10:02+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_33": {
+   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
+   "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T21:30:00+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_35": {
+   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+   "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T22:18:57+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_37": {
+   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+   "link": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
+   "sources": [
+    "Google News Tesla",
+    "InsideEVs"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T23:39:41+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_39": {
+   "title": "Tesla Says 75% of Deliveries Include FSD Subscriptions",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcnFCVTFlRk5qeW1ISWhrcEs3ajB1YnRIODJKd0M1c0xaYTRwWGwxMXd2bTlsaWcwdkdxcjRmMFptSUdDSXEwZktRNk9CbC04Z3lTbGU0TjlyazhOOWUxNEV6eU54cDVNUDV6S2FSZGpOakpROTh0M0xza2pvRWJNV3VQUUFHYWxBQmVEa1V2dHE3dldqdmxKOXFtR3Vidnl4MjhzSzduRUViVHY4ZVZjQVFHeFB3TFZsSzc3R1d0NTVoTm9YV29BUnZOZlA1Ym8yekVqYlhkczBHc3c5MWZvZk1UclFxUDI3dEJQSTVKTjhQZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T09:16:00+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_40": {
+   "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year \u2014 will it happen?",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWM5dnVTbXd6TGlPWF9nSm93V3NiSWl6YXRueFd4VTRraGpDUWprQ3NkNjluZFh4YWJYT19IMnBJSmdDdWJjY0ZDZXN2OTZicUhvMTVtalZCbHRtUkswdDFkTFdXTWd3OVdXLS04c3JNSWEtakVtTDlaekRzX2ZnX0hHMTFZLUZSUVRqWE9xb2ZpYWdRU21FTVBvMTNUeHZhZUxMSWswLW1Dak5FenI3ZDNXYXNnYVU?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T23:36:31+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_41": {
+   "title": "Tesla posted a highlight reel of its robotaxi avoiding collisions with rivals Waymo and Avride",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMm43ZGNLbE1IOG45a1l6WF9DSVI4UkVfSlZzX1p0R3kxem5tdGxtU0s4VTA0ckZ6VjdlYV9wTThyN3kyWTUwX0dpWlRlTGtZX2FLaHM4cjFENEpjeC1qUlQ5akREWlR2WGVWWE9kUUc4ZkFVbFNpaHdycDdIVEl6YmlTOGhKQnlscHh5MEFDTzVoaTY3MmVzd05wWFIxVFo2?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-21T22:03:00+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_45": {
+   "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-10-21T21:42:54+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792626338_46": {
+   "title": "HHS Plans Sole-Source Anthropic Claude Contract Ahead of Enterprise AI BPA",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LVTZDYmM3dFJ5NFBBOWdpTFE2cnBoTHh1VUY5ZXAxTjFSSnExeUNST0VYTFFKa1hlWnhsSXFoOW04bWZicVlqSXlVOWR5bXlUNXRsSFc1dy1mcGkyTGl6SFhZY3ZrRTAyUjBBX3R6aFBXZzNid3NZSHlB?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-21T21:28:14+00:00",
+   "first_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-21T23:45:38.867740+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -672,8 +864,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"ffd960f53e353547d2649a450684d76c\"",
-   "modified": "Wed, 21 Oct 2026 20:51:22 GMT"
+   "etag": "W/\"6d58b7049d8260b40b90df15229fd1bd\"",
+   "modified": "Wed, 21 Oct 2026 23:42:24 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -685,15 +877,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 20:50:47 GMT"
+   "modified": "Wed, 21 Oct 2026 23:44:02 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"d75884bf6e3f6b2b4a815fe4e4c4e126\"",
-   "modified": "Wed, 21 Oct 2026 20:38:55 GMT"
+   "etag": "W/\"66272f10e8d42f044ffca639374631a5\"",
+   "modified": "Wed, 21 Oct 2026 23:15:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -701,15 +893,15 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 20:51:59 GMT"
+   "modified": "Wed, 21 Oct 2026 23:45:50 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"14f4737f379ebb97ae8c63ddd1d8874d\"",
-   "modified": "Wed, 21 Oct 2026 20:22:36 GMT"
+   "etag": "\"24e297601c898b0f9532e6da316304cc\"",
+   "modified": "Wed, 21 Oct 2026 23:10:30 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 19:32:33 GMT"
+   "modified": "Wed, 21 Oct 2026 21:04:45 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"80c1fe99de5e5be6e717f96d2a803316\"",
@@ -728,8 +920,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"9217b73e7034a4ab68b1f4b6d10e1479\"",
-   "modified": "Wed, 21 Oct 2026 19:59:37 GMT"
+   "etag": "\"94cfe59cc9419f972b6e13bb609109c7\"",
+   "modified": "Wed, 21 Oct 2026 23:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -741,11 +933,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 20:26:36 GMT"
+   "modified": "Wed, 21 Oct 2026 21:31:08 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"1d2d0190320cc7413003d95d079593a9\"",
-   "modified": "Wed, 21 Oct 2026 20:45:58 GMT"
+   "etag": "W/\"a0a513c5e2513f5430d65e2d0614d8b6\"",
+   "modified": "Wed, 21 Oct 2026 22:41:41 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -756,8 +948,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"bb428e8818eccb181367df80c743f408\"",
-   "modified": "Wed, 21 Oct 2026 20:27:41 GMT"
+   "etag": "W/\"6af3495e2a753bc4a3adca73fcd59958\"",
+   "modified": "Wed, 21 Oct 2026 23:46:04 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
