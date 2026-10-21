@@ -1,25 +1,23 @@
 {
  "stories": {
-  "s1792546034_0": {
-   "title": "Eagles are not being punished for handling of Jalen Hurts' blood clots, AP source says",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5",
+  "s1792546724_0": {
+   "title": "Gun used in Bend school shooting was birthday gift from shooter's mom",
+   "link": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-gun-birthday-gift-mom/",
    "sources": [
-    "Google News Breaking",
-    "Google News Philadelphia",
-    "Google News Philly Sports",
-    "WHYY"
+    "CBS News"
    ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-20T19:26:05+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:29:55.656798+00:00",
-   "team": "eagles",
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-20T18:01:44+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:38:44.247890+00:00",
+   "team": null,
    "trust": 2,
-   "gate": 0,
-   "cas": 0
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
   },
-  "s1792546034_1": {
+  "s1792546724_1": {
    "title": "Moment plane crashes on a busy highway in the US",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
    "sources": [
@@ -28,14 +26,34 @@
    "cat": "breaking",
    "base": 75,
    "pub": "2026-10-20T23:54:50+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:27:14.176885+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:38:44.247890+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
-   "cas": 0
+   "cas": 0,
+   "changelog": false
   },
-  "s1792546034_4": {
+  "s1792546724_2": {
+   "title": "Jalen Hurts likely out for season, Philadelphia Eagles announce",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjRIcGM2VzM4NVhXRTBCSmRyWlk4T1VLZVA2cmh3eTZMWUUzQzNuRHQtbnNGaXhfYXl0YkZSN0tSeklTSkY2QmliME03ZWx1a2tSUkNDWDZMUHBXLTl1a3AyTjBUczZOOGNjWXJRSEszbzhNSENvSzVRSWVCUEo4LUVoSHAtVFV6TF9qNDczX242dFNocmcxRm9OUFdVb0V0TERqLW1sWXN5bTJLd0xBZGlFT2xWM09oTE1ZcXA1eTc3SGJRY1RoYzVMSHJFa3pa0gHYAUFVX3lxTE1EVjFkUUJWUWxHRGJSSkZBcWIxU2N1VDhjalFpdUd0YU1oVUpuUGtyZjlXb3RvbnN3T1JVWHZHWjBMZHBlZDFhM3UtR1pRamdRSkdyai0tRlVLb09ObTN5VEQ1ajdxSWFaTTdOckNtSldoajdsQ0JvQU5mWTB0dTdidFhlSm1DcjRXQ1dxR0p4OW5hUHVqcHdCTThiVGRKb1V5MUF0V2x0YlE0Q0lYWFd2RGFQTWY3Um9UelBMQlhCTXhVMVY4UXlDRFJKZnRVR2g0OUhEUTNFOQ?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports",
+    "WHYY"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-19T14:24:15+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792546724_4": {
    "title": "Downed wires leave SEPTA riders stranded for hours in SW Philadelphia",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzN4NWFkbURGbVoyOG93ZkZiTzc1dlNUUzBwbHE5YXFFMWlxRFloeFlKYmJfaThQQXdYS21WR1kxTGh2SWlnZTZsY0J3SFQ4ZVlNYXBZYXg0Qjk1UWl5eXhRQUktV2ZHOUhHQTE0YnRoWVFSb0RzZlF6d3EwVE1aNnFmd0hOWG80YWN6NVNwS2NIM28zREwzZ1FR0gGfAUFVX3lxTE5MSHBITm1taEdZUXJiQnFINzhnZ2R3dHJSaWdHNXJBREttQmZxazNXZ1VDY0JKYzFIbUFKZVJTVjg3TkVKemJ4MGptUFpoUUh2YkZTcUVFS19HSEQycFYyMVFfS3VOWm41UWJUZktyeGZLX2I4VGZzZnVqVjB0OWJlSExPX1NVby01QmlPSVBxdE9sVVVSQnNkUE5ZeGVHMA?oc=5",
    "sources": [
@@ -44,14 +62,32 @@
    "cat": "local",
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:29:55.656798+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:39:51.713716+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0
+   "cas": 0,
+   "changelog": false
   },
-  "s1792546034_27": {
+  "s1792546724_12": {
+   "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElHMHRndEVVSVhJckhMUDV6bWNxeWhvYUFOZDNhXy1PMmFyS2xSUUVUZ2VLb0d6V0E3S1F4Qkwway1EVlp3QjZkTkVoSDhJRkgtMlptOUlnS3doT1g5X01veExLMDhBSXM2eVYtTkd6Unk1QVVDN09HQmhNT0NiaTJLdDRJQV90N1JWRjB2WVo1SmdrVjdn?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-20T19:48:00+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792546724_24": {
    "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
    "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
    "sources": [
@@ -61,14 +97,15 @@
    "cat": "tesla",
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:29:55.656798+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:39:51.713716+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
-   "cas": 0
+   "cas": 0,
+   "changelog": true
   },
-  "s1792546034_29": {
+  "s1792546724_26": {
    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
    "sources": [
@@ -77,28 +114,13 @@
    "cat": "ai",
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:29:55.656798+00:00",
+   "first_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:39:51.713716+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0
-  },
-  "s1792546034_30": {
-   "title": "One Developer Used Claude AI to Build 7 Free Adobe Alternatives",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-20T19:43:52+00:00",
-   "first_seen": "2026-10-21T01:27:14.176885+00:00",
-   "last_seen": "2026-10-21T01:29:55.656798+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -111,8 +133,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"a0b9110876ed2b832d6eefcbad682041\"",
-   "modified": "Wed, 21 Oct 2026 01:25:23 GMT"
+   "etag": "W/\"07a5ee22f6192b1aa3dda8366f73b5a6\"",
+   "modified": "Wed, 21 Oct 2026 01:35:26 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -124,15 +146,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:27:20 GMT"
+   "modified": "Wed, 21 Oct 2026 01:38:39 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"5eb72fe8248959e1cd133ca4dde9b0b6\"",
-   "modified": "Wed, 21 Oct 2026 01:04:16 GMT"
+   "etag": "W/\"90a67b5e3e5193ee12da33bd86f85ae8\"",
+   "modified": "Wed, 21 Oct 2026 01:30:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -140,7 +162,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:29:59 GMT"
+   "modified": "Wed, 21 Oct 2026 01:40:13 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -151,7 +173,7 @@
    "modified": "Wed, 21 Oct 2026 00:31:12 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"dcf556bd8ff0aebaa939ea3590997f0b\"",
+   "etag": "W/\"c9aaa0384768e7cec9a45be19166dd17\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -163,7 +185,7 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"3282f55e8c5cb13628d6be791e623fc0\"",
+   "etag": "W/\"a2c87239cdeab96ca72a36f2815ed158\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -180,7 +202,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Tue, 20 Oct 2026 19:01:59 GMT"
+   "modified": "Tue, 20 Oct 2026 19:01:14 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"ff101ee8d81c854bd5f6b031ef1be380\"",
@@ -195,8 +217,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"4a635622a8ea4bdfd8ede77a00e006ab\"",
-   "modified": "Wed, 21 Oct 2026 01:19:05 GMT"
+   "etag": "W/\"0e264386fa92153bfbe354f5052487de\"",
+   "modified": "Wed, 21 Oct 2026 01:31:53 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",

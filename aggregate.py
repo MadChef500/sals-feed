@@ -156,7 +156,10 @@ SPORTS_VETO = ["breakout is coming", "perfect time", "getting harder to see",
                "landing spots", "best fits", "believes", "fire sale",
                "urged to", "smell blood", "why", "simulator",
                "playoff picture", "exploring trade", "trade market for",
-               "could replace"]
+               "could replace", "not being punished", "no punishment",
+               "won't punish", "will not punish", "not punish",
+               "no discipline", "appropriately", "clears of wrongdoing",
+               "cleared of wrongdoing", "no charges", "will not be punished"]
 TESLA_VETO = ["stock", "tsla", "shares ", "shareholder", "analyst",
               "price target", "earnings", "grok", "spacex", "neuralink",
               "sponsored", "rumor", "render", "concept", "musk's pay",
@@ -166,7 +169,9 @@ TESLA_VETO = ["stock", "tsla", "shares ", "shareholder", "analyst",
               "urged to probe", "asked to probe", "could probe", "may probe"]
 AI_VETO = ["stock", "shares ", "shareholder", "price target", "earnings",
            "sponsored", "gift guide", "raises", "funding", "seed round",
-           "series a", "valuation", "rumor", "leak", "bets on", "bet on"]
+           "series a", "valuation", "rumor", "leak", "bets on", "bet on",
+           "alternatives", "used claude to", "used chatgpt to",
+           "free tools", "i built", "i used chatgpt", "i used claude"]
 BREAKING_VETO = ["one family's", "essay", "what it was like", "test identifies",
                  "recipe", "kardashian", "taylor swift", "bachelor",
                  "real housewives"]
@@ -466,6 +471,10 @@ def main():
             if best_cat is None:
                 continue
             gate = 120 if 120 in best_tiers else 60 if 60 in best_tiers else 0
+            # point-release changelogs (v14.3.13, "(Update 2026.38.5.10)")
+            # are maintenance noise unless real outlets cover them
+            changelog = bool(re.search(r"v\d+\.\d+\.\d+", title_lower)
+                             or re.search(r"\(update\s+20\d\d\.", title_lower))
 
             # dedupe against stories still within their publication window
             toks = tokens(title)
@@ -495,6 +504,7 @@ def main():
                 s["last_seen"] = now.isoformat()
                 s["gate"] = max(s.get("gate", 60), gate)
                 s["cas"] = max(s.get("cas", 0), casualties)
+                s["changelog"] = bool(s.get("changelog")) or changelog
                 if base > s["base"]:
                     s.update({"base": base, "cat": best_cat, "title": title,
                               "link": link,
@@ -510,6 +520,7 @@ def main():
                     "team": guess_team(title_lower, src.get("team")),
                     "trust": src.get("trust", 2),
                     "gate": gate, "cas": casualties,
+                    "changelog": changelog,
                 }
             fetched += 1
 
@@ -552,6 +563,7 @@ def main():
             K["pub"] = min(K["pub"], D["pub"])
             K["gate"] = max(K.get("gate", 60), D.get("gate", 60))
             K["cas"] = max(K.get("cas", 0), D.get("cas", 0))
+            K["changelog"] = bool(K.get("changelog")) or bool(D.get("changelog"))
             drop.add(aid if K is B else bid)
     for sid in drop:
         del stories[sid]
@@ -570,12 +582,22 @@ def main():
         pub_age_h = max(0.05, (now - datetime.fromisoformat(s["pub"])).total_seconds() / 3600)
         if pub_age_h > MAX_PUB_AGE.get(s["cat"], 48):
             continue
+        # Significance (v3): coverage is counted in INDEPENDENT publishers.
+        # Google News search results are echoes of one article, not
+        # corroboration. A weak story is one nobody else is carrying.
+        indep = [x for x in s["sources"] if not x.startswith("Google News")]
+        if not (len(indep) >= 2 or (len(indep) == 1 and s.get("trust", 2) >= 3)
+                or s.get("cas", 0) >= 4):
+            continue
+        if s.get("changelog") and len(indep) < 2:
+            continue  # point-release notes need real coverage to matter
         if s["cat"] == "breaking":
             # "True breaking" needs weight behind it: a top-tier event,
-            # a serious death toll in the headline, or multiple outlets
-            # carrying it. A lone report of a mid-tier event is not enough.
+            # a serious death toll in the headline, or multiple independent
+            # outlets carrying it. A lone report of a mid-tier event is
+            # not enough.
             if not (s.get("gate", 60) >= 120 or s.get("cas", 0) >= 4
-                    or len(s["sources"]) >= 2):
+                    or len(indep) >= 2):
                 continue
         decay = 0.5 ** (pub_age_h / HALF_LIFE.get(s["cat"], 16))
         corroboration = min(30, 15 * (len(s["sources"]) - 1))

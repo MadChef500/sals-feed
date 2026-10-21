@@ -4,31 +4,8 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:39:51 +0000</lastBuildDate>
     <ttl>20</ttl>
-    <item>
-      <title>🦅 Eagles are not being punished for handling of Jalen Hurts' blood clots, AP source says</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 19:26:05 +0000</pubDate>
-      <category>sports</category>
-      <description>Google News Breaking, Google News Philadelphia, Google News Philly Sports, WHYY - Oct 20, 03:26 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)</title>
-      <link>https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes</guid>
-      <pubDate>Tue, 20 Oct 2026 07:52:54 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Not a Tesla App - Oct 20, 03:52 AM ET</description>
-    </item>
-    <item>
-      <title>🤖 One Developer Used Claude AI to Build 7 Free Adobe Alternatives</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 19:43:52 +0000</pubDate>
-      <category>ai</category>
-      <description>Google News AI - Oct 20, 03:43 PM ET</description>
-    </item>
+
   </channel>
 </rss>
