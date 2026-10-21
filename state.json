@@ -13,7 +13,7 @@
    "base": 80,
    "pub": "2026-10-20T19:26:05+00:00",
    "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:40.824169+00:00",
+   "last_seen": "2026-10-21T01:23:04.074393+00:00",
    "team": "eagles",
    "trust": 2
   },
@@ -41,7 +41,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:40.824169+00:00",
+   "last_seen": "2026-10-21T01:23:04.074393+00:00",
    "team": null,
    "trust": 2
   },
@@ -56,7 +56,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:40.824169+00:00",
+   "last_seen": "2026-10-21T01:23:04.074393+00:00",
    "team": null,
    "trust": 3
   },
@@ -70,7 +70,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:40.824169+00:00",
+   "last_seen": "2026-10-21T01:23:04.074393+00:00",
    "team": null,
    "trust": 2
   },
@@ -84,7 +84,7 @@
    "base": 80,
    "pub": "2026-10-20T19:43:52+00:00",
    "first_seen": "2026-10-21T01:19:11.529215+00:00",
-   "last_seen": "2026-10-21T01:19:40.824169+00:00",
+   "last_seen": "2026-10-21T01:23:04.074393+00:00",
    "team": null,
    "trust": 2
   }
@@ -112,7 +112,7 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:17:23 GMT"
+   "modified": "Wed, 21 Oct 2026 01:22:23 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
@@ -128,7 +128,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:19:53 GMT"
+   "modified": "Wed, 21 Oct 2026 01:23:56 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -151,7 +151,7 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"a2c87239cdeab96ca72a36f2815ed158\"",
+   "etag": "W/\"768902e40152aa374310e80b8b96cb0d\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
