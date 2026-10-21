@@ -46,7 +46,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -63,7 +63,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -74,13 +74,14 @@
    "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElHMHRndEVVSVhJckhMUDV6bWNxeWhvYUFOZDNhXy1PMmFyS2xSUUVUZ2VLb0d6V0E3S1F4Qkwway1EVlp3QjZkTkVoSDhJRkgtMlptOUlnS3doT1g5X01veExLMDhBSXM2eVYtTkd6Unk1QVVDN09HQmhNT0NiaTJLdDRJQV90N1JWRjB2WVo1SmdrVjdn?oc=5",
    "sources": [
+    "Google News Breaking",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -98,7 +99,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -115,8 +116,25 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:39:51.713716+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
    "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792546933_22": {
+   "title": "Former Pro Bowler Named Trade Target for Eagles After Jalen Hurts Injury News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1czbWNFNTFDRldXM3RQSC1xRFlYUDVLcGZuUlJmakUzQm0tckl5cWtNc3RaRHJRZWVJNFJEUlpQWUVNYWFsUXBGU1poWWtpTFBodzhzVHhZMjRGUk9tX08xZVV6UFAtTkFUVW5iWlJTNWhIdDZrdEk1RFptaDluNzFqLUo?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 110,
+   "pub": "2026-10-20T18:28:50+00:00",
+   "first_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -133,8 +151,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"07a5ee22f6192b1aa3dda8366f73b5a6\"",
-   "modified": "Wed, 21 Oct 2026 01:35:26 GMT"
+   "etag": "W/\"dda5e8ab16f4fea257d28031c709a18d\"",
+   "modified": "Wed, 21 Oct 2026 01:40:26 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -162,7 +180,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:40:13 GMT"
+   "modified": "Wed, 21 Oct 2026 01:43:15 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -202,7 +220,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Tue, 20 Oct 2026 19:01:14 GMT"
+   "modified": "Tue, 20 Oct 2026 19:03:14 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"ff101ee8d81c854bd5f6b031ef1be380\"",
