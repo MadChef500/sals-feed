@@ -10,7 +10,7 @@
    "base": 60,
    "pub": "2026-10-20T18:01:44+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -47,7 +47,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -64,7 +64,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -84,7 +84,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -119,7 +119,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -153,7 +153,7 @@
    "base": 60,
    "pub": "2026-10-21T06:44:12+00:00",
    "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -170,7 +170,7 @@
    "base": 80,
    "pub": "2026-10-21T03:44:23+00:00",
    "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -210,6 +210,74 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792585803_0": {
+   "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaODZTWUh2YjVMZjlwdGRSUFN1X19PbW4wa2NPTXc0UDJaTWdRRTdfMFJvQ2NXNGdOQ25Db1hSaHVIZjdVUkJ6WGx0YWJEcllseXNhcnlmaEwzWFdpRTdiOGRHQWNmWjl6QnQtZ0hTNA?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T04:10:39+00:00",
+   "first_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792585803_4": {
+   "title": "Iran live updates: Rubio says Iran nuclear question 'at the core' of US approach",
+   "link": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
+   "sources": [
+    "ABC News"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-21T12:19:29+00:00",
+   "first_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792585803_12": {
+   "title": "Chemical leak at tubing and piping facility forces evacuations in Toledo, Ohio",
+   "link": "https://abc7.com/post/toledo-ohio-hazmat-chemical-leak-tubing-piping-facility-forces-evacuation-residents/19963941/",
+   "sources": [
+    "6abc Action News"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-21T10:41:50+00:00",
+   "first_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792585803_22": {
+   "title": "Could the Eagles trade Saquon Barkley? 5 deals that make sense as the season spirals",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWNra0FUNTRkWHpQXzZxclBvQ05yN0gxLUhNZlg5Qm5xOHlqdzRObF9OT3pKN0k5UlZwMlNqa083T0J1ODVybVVka09SS1E0cnJMU2ZXTU9MU2lrSkdNdy1lc3prQ01VZEQ2UEhRMG9BbldZVU5tQldNSDl6NXlJWDQ2X1BmNXhtTTVzZkNucG5EdFZDcHRlRFZOR3NnbkNyWENuQ3lCMjRxVk5qWnNVaDlaQWphZEZLUnFiSnY1R2tpR19VNFF2bkxQS2p5NTJISTdpalFrWQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-21T10:00:00+00:00",
+   "first_seen": "2026-10-21T12:30:03.945626+00:00",
+   "last_seen": "2026-10-21T12:30:03.945626+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -222,8 +290,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"9195a3276f1072b74bb59c6d175d3472\"",
-   "modified": "Wed, 21 Oct 2026 06:46:27 GMT"
+   "etag": "W/\"11c63cb408f01507fbb54670863990ad\"",
+   "modified": "Wed, 21 Oct 2026 12:27:31 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -235,15 +303,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 06:47:30 GMT"
+   "modified": "Wed, 21 Oct 2026 12:29:45 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"a7ead721129db30e08ccacbde1fa27f1\"",
-   "modified": "Wed, 21 Oct 2026 06:31:39 GMT"
+   "etag": "W/\"b1be27337207cb4cdbc6900e72144144\"",
+   "modified": "Wed, 21 Oct 2026 12:19:01 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -251,26 +319,26 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 06:52:05 GMT"
+   "modified": "Wed, 21 Oct 2026 12:30:23 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
-   "modified": "Tue, 20 Oct 2026 23:10:25 GMT"
+   "etag": "\"0b514e6d0fbc2d6c5a72e88906371c77\"",
+   "modified": "Wed, 21 Oct 2026 10:10:53 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 05:24:45 GMT"
+   "modified": "Wed, 21 Oct 2026 10:50:18 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"ff20a9374c7f0df336b49bd554841436\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"d0ff09e20563768c0d87d5b4cf14bf0a\"",
-   "modified": "Wed, 21 Oct 2026 06:13:20 GMT"
+   "etag": "\"f1bba217abde93e4d821c2605832d2f9\"",
+   "modified": "Wed, 21 Oct 2026 10:00:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"72c4a08c63b43431643dc422ad33d4d8\"",
+   "etag": "W/\"261c7e622aee33479a6660149c3c6bb4\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -294,8 +362,8 @@
    "modified": "Tue, 20 Oct 2026 19:03:14 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"a99a7cd7304d3fec5e5b4d907915c1df\"",
-   "modified": "Wed, 21 Oct 2026 06:47:07 GMT"
+   "etag": "W/\"7ff131ec75161eeebadc759e77f27129\"",
+   "modified": "Wed, 21 Oct 2026 12:11:16 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
