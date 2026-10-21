@@ -10,7 +10,7 @@
    "base": 60,
    "pub": "2026-10-20T18:01:44+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -46,7 +46,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -63,7 +63,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -81,7 +81,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -99,7 +99,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -116,7 +116,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:42:13.789593+00:00",
+   "last_seen": "2026-10-21T01:57:17.241176+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -151,8 +151,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"dda5e8ab16f4fea257d28031c709a18d\"",
-   "modified": "Wed, 21 Oct 2026 01:40:26 GMT"
+   "etag": "W/\"1ff61534049b645ec0a69ed1261f7d93\"",
+   "modified": "Wed, 21 Oct 2026 01:55:30 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -164,7 +164,7 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:38:39 GMT"
+   "modified": "Wed, 21 Oct 2026 01:54:37 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
@@ -180,7 +180,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:43:15 GMT"
+   "modified": "Wed, 21 Oct 2026 01:58:22 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -191,7 +191,7 @@
    "modified": "Wed, 21 Oct 2026 00:31:12 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"c9aaa0384768e7cec9a45be19166dd17\"",
+   "etag": "W/\"dcf556bd8ff0aebaa939ea3590997f0b\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
