@@ -1,11 +1,23 @@
 #!/usr/bin/env python3
 """
-Sal's Feed - a free personal RSS aggregator.
+Sal's Feed - a free personal RSS aggregator. (v2, 2026-10-20)
 
-Fetches ~25 reputable RSS feeds across four lanes (major breaking news,
-Philadelphia local, Philly sports, Tesla), scores each story for genuine
+Fetches ~28 reputable RSS feeds across five lanes (major breaking news,
+Philadelphia local, Philly sports, Tesla, AI), scores each story for genuine
 significance, deduplicates across outlets, ranks by importance x recency,
-and emits a tight RSS 2.0 feed of the ~6-10 stories actually worth reading.
+and emits a tight RSS 2.0 feed of the stories actually worth reading.
+
+v2 lessons from v1's failures (Sal, 2026-10-20: "the feeds suck"):
+- Freshness is judged by PUBLICATION date, never by when we first saw a
+  story. A source re-listing an 8-day-old story must not resurrect it.
+- Scoring reads the HEADLINE only. Summaries inflated opinion pieces.
+- A story can only compete in lanes its sources belong to (plus breaking
+  for general/local sources). A Flyers rumor can never become "breaking".
+- Every lane has a hard news-event gate: no event keyword in the headline,
+  no slot - no matter how many outlets carry the piece.
+- Opinion / column / feature / trade-pitch / troll phrasing is vetoed.
+- Tesla items must be relevant to a US owner (no China-built-only recalls,
+  no "petition asking for a probe" non-news).
 
 Runs on GitHub Actions (free) every 20 minutes; GitHub Pages serves feed.xml.
 State (seen stories, HTTP caches) persists in state.json in the repo.
@@ -14,11 +26,9 @@ import json
 import os
 import re
 import sys
-import time
 import html as htmlmod
 from datetime import datetime, timezone
 from email.utils import format_datetime
-from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 ET = ZoneInfo("America/New_York")
@@ -31,7 +41,7 @@ import requests
 STATE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "state.json")
 FEED_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feed.xml")
 
-UA = {"User-Agent": "SalsFeedBot/1.0 (personal RSS aggregator, polling every 20 min)"}
+UA = {"User-Agent": "SalsFeedBot/2.0 (personal RSS aggregator, polling every 20 min)"}
 TIMEOUT = 25
 
 SOURCES = [
@@ -62,9 +72,15 @@ SOURCES = [
     {"cat": "tesla", "name": "Electrek", "url": "https://electrek.co/feed/", "trust": 2, "tesla_only": True},
     {"cat": "tesla", "name": "InsideEVs", "url": "https://insideevs.com/feed/", "trust": 2, "tesla_only": True},
     {"cat": "tesla", "name": "Google News Tesla", "url": "https://news.google.com/rss/search?q=Tesla&hl=en-US&gl=US&ceid=US:en", "trust": 2, "strip_suffix": True},
+    # ---- ai (new models, skills, real-world use) ----
+    {"cat": "ai", "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "trust": 3},
+    {"cat": "ai", "name": "Google News AI", "url": "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en", "trust": 2, "strip_suffix": True},
 ]
 
-# (phrase, points). Matched case-insensitively against title + summary text.
+# (phrase, points) tiers, matched against the HEADLINE only.
+# The first tier of each lane is its news-event tier: the gate below
+# requires a hit there (breaking also accepts its second tier or a
+# real casualty count in the headline).
 KEYWORDS = {
     "breaking": [
         (["terrorist attack", "terror attack", "assassination", "assassinated",
@@ -77,64 +93,101 @@ KEYWORDS = {
           "volcano eruption", "major wildfire", "explosion", "building collapse",
           "bridge collapse", "train derail", "hostage", "evacuation order",
           "evacuations ordered", "supreme court", "strikes down",
-          "deadly shooting", "plane down"], 60),
-        (["breaking", "emergency", "killed", "dead", "deadly", "resigns", "dies at",
-          "passed away", "indicted", "crash", "crashed", "erupts"], 30),
-        (["opinion", "editorial", "op-ed", "review:", "best ", "how to ",
-          "recipe", "horoscope", "crossword", "kardashian", "taylor swift",
-          "bachelor", "real housewives", "sponsored", "gift guide"], -1000),
-        (["prevented", "averted", "foiled", "possible mass", "plot to"], -80),
-        (["heartbreak", "one family's", "quiz", "test identifies", "essay:",
-          "memoir", "what it was like"], -70),
+          "plane down"], 60),
+        (["breaking", "emergency", "killed", "dead", "deadly", "deadly shooting",
+          "resigns", "dies at",
+          "passed away", "indicted", "crash", "crashed", "erupts"], 15),
     ],
     "local": [
         (["tornado warning", "tornado emergency", "flash flood",
           "severe thunderstorm warning", "septa", "phl airport",
           "amtrak", "i-95", "schuylkill", "evacuation", "state of emergency",
           "without power", "power outage", "water main", "bridge collapse",
-          "bridge closed"], 80),
-        (["mayor", "airport", "crash", "pileup", "shutdown", "strike", "school district",
+          "bridge closed", "shut down", "shutdown", "closure"], 80),
+        (["mayor", "airport", "crash", "pileup", "strike", "school district",
           "city council", "infrastructure", "transit", "delaware county",
           "shooting", "stabbing", "fire"], 35),
-        (["best restaurants", "now open", "for sale", "housing market",
-          "home prices", "gift guide", "sponsored", "spotted", "gossip"], -60),
     ],
     "sports": [
         (["out for season", "season-ending", "torn acl", "achilles", "injured reserve",
-          "trade", "traded", "acquires", "signs ", "signing", "contract extension",
-          "agree to deal", "fired", "firing", "part ways", "head coach",
-          "general manager", "playoff", "clinch", "eliminated", "suspended",
+          "trade", "traded", "acquires", "acquired", "signs ", "signing", "signed",
+          "contract extension", "agree to deal", "agrees to deal", "fired", "firing",
+          "part ways", "playoff", "clinch", "eliminated", "suspended", "suspension",
           "arrest", "retire", "retirement", "blood clot",
-          "winning streak", "losing streak", "win streak"], 80),
-        (["injury", "injuries", "injured", "questionable", "doubtful", "will miss", "ruled out",
-          "roster move", "waived", "released", "depth chart", "starting"], 30),
-        (["promo code", "prizepicks", "polymarket", "fanduel", "draftkings",
-          "gamethread", "live chat", "how to watch", "game thread"], -80),
-        (["game recap", "final score", "preview", "odds", "betting", "fantasy",
-          "mock draft", "power rankings", "mailbag", "podcast"], -40),
-        (["rumor", "rumors", "rumored", "speculation"], -50),
+          "winning streak", "losing streak", "win streak", "no-hitter",
+          "franchise record", "career-high", "career high"], 80),
+        (["injury", "injuries", "injured", "questionable", "doubtful", "will miss",
+          "ruled out", "roster move", "waived", "released", "depth chart"], 30),
     ],
     "tesla": [
         (["recall", "software update", "fsd", "full self-driving", "robotaxi",
           "supercharger", "new model", "price cut", "price increase",
           "raises prices", "lowers prices", "cuts prices", "release notes",
-          "hardware 5", "ai5"], 80),
+          "hardware 5", "ai5", "nhtsa investigation", "nhtsa opens",
+          "nhtsa launches", "probe opened", "investigation opened"], 80),
         (["update", "version 20", "model y", "model 3", "cybertruck", "semi",
           "roadster", "range", "charging"], 30),
-        (["stock", "tsla", "shares ", "shareholder", "analyst", "price target",
-          "earnings", "grok", "spacex", "neuralink", "twitter", "sponsored"], -1000),
-        (["rumor", "render", "concept", "musk's pay", "compensation package"], -60),
+    ],
+    "ai": [
+        (["new model", "model release", "model update", "gpt-",
+          "claude ", "outage", "data breach", "shuts down",
+          "new feature", "new skill", "small business"], 80),
+        (["chatgpt", "gemini", "copilot", "launches", "release", "unveil",
+          "ai agent", "agents", "skills", "at work", "workplace"], 30),
     ],
 }
 
-HALF_LIFE = {"breaking": 7, "local": 10, "sports": 12, "tesla": 16}
-THRESHOLD = {"breaking": 55, "local": 45, "sports": 45, "tesla": 45}
-CAT_CAP = {"breaking": 4, "local": 3, "sports": 3, "tesla": 2}
-MAX_ITEMS = 10
-STORY_TTL_HOURS = 36
+# Hard vetoes, checked on the headline before any scoring.
+GLOBAL_VETO = ["opinion", "editorial", "op-ed", "trade pitch", "trade proposal",
+               "mock draft", "power rankings", "mailbag", "podcast",
+               "winners and losers", "bold predictions", "overreactions",
+               "sponsored", "gift guide", "horoscope", "crossword",
+               "troll", "trolls", "trolled", "promo code", "how to watch",
+               "live chat", "game thread", "gamethread", "fantasy football",
+               "best bets", "betting odds", "prevented", "averted", "foiled",
+               "plot to", "heartbreak", "quiz", "memoir",
+               "explained", "explainer"]
+SPORTS_VETO = ["breakout is coming", "perfect time", "getting harder to see",
+               "ends well", "stock up", "stock down", "takeaways",
+               "what we learned", "grades", "film review", "film study",
+               "preview", "prediction", "predictions", "predicted", "predicts",
+               "rumor", "rumors",
+               "rumored", "speculation", "could trade", "should trade",
+               "landing spots", "best fits", "believes", "fire sale",
+               "urged to", "smell blood", "why", "simulator",
+               "playoff picture", "exploring trade", "trade market for",
+               "could replace"]
+TESLA_VETO = ["stock", "tsla", "shares ", "shareholder", "analyst",
+              "price target", "earnings", "grok", "spacex", "neuralink",
+              "sponsored", "rumor", "render", "concept", "musk's pay",
+              "compensation package", "china-built", "china built",
+              "made in china", "shanghai", "giga shanghai", "berlin-built",
+              "germany-built", "petition", "weighs probe", "considers probe",
+              "urged to probe", "asked to probe", "could probe", "may probe"]
+AI_VETO = ["stock", "shares ", "shareholder", "price target", "earnings",
+           "sponsored", "gift guide", "raises", "funding", "seed round",
+           "series a", "valuation", "rumor", "leak", "bets on", "bet on"]
+BREAKING_VETO = ["one family's", "essay", "what it was like", "test identifies",
+                 "recipe", "kardashian", "taylor swift", "bachelor",
+                 "real housewives"]
+LOCAL_VETO = ["best restaurants", "now open", "for sale", "housing market",
+              "home prices", "gift guide", "sponsored", "spotted", "gossip"]
+ROUTINE_LOCAL = ["house fire", "vehicle fire", "trash fire", "brush fire",
+                 "garage fire", "kitchen fire"]
+
+LANE_VETO = {"sports": SPORTS_VETO, "tesla": TESLA_VETO, "ai": AI_VETO,
+             "breaking": BREAKING_VETO, "local": LOCAL_VETO}
+
+HALF_LIFE = {"breaking": 10, "local": 16, "sports": 18, "tesla": 30, "ai": 30}
+THRESHOLD = {"breaking": 60, "local": 45, "sports": 45, "tesla": 45, "ai": 45}
+CAT_CAP = {"breaking": 3, "local": 2, "sports": 3, "tesla": 2, "ai": 1}
+MAX_ITEMS = 8
+# Hard age limits by PUBLICATION date, per lane. Older = never shown.
+MAX_PUB_AGE = {"breaking": 36, "local": 48, "sports": 48, "tesla": 72, "ai": 72}
 
 EMOJI = {"breaking": "\U0001F30D", "local": "\U0001F3D9\uFE0F",
-         "sports": "\U0001F3DF\uFE0F", "tesla": "\u26A1"}
+         "sports": "\U0001F3DF\uFE0F", "tesla": "\u26A1",
+         "ai": "\U0001F916"}
 TEAM_EMOJI = {"eagles": "\U0001F985", "flyers": "\U0001F3D2",
               "phillies": "\u26BE", "sixers": "\U0001F3C0"}
 
@@ -147,9 +200,6 @@ STOPWORDS = set(("the a an and or of to in on for with at by from as is are was 
                  "watch sources source multiple several people person persons police officials "
                  "official including report reports reported".split()))
 
-# A story only counts as "local" if it is actually about the Philly area,
-# and as "sports" if it is actually about a Philly team. (Google News
-# searches return national stories too; this keeps lanes honest.)
 PHILLY_ANCHOR = re.compile(
     r"philadelphia|philly|delaware county|\bdelco\b|septa|schuylkill|center city|"
     r"south jersey|pennsylvania|new jersey", re.I)
@@ -157,8 +207,6 @@ TEAM_ANCHOR = re.compile(r"eagles|flyers|phillies|sixers|76ers", re.I)
 LOCAL_OUTLETS = {"6abc Action News", "WHYY", "PhillyVoice"}
 DEDUP_JACCARD = 0.4
 
-# Shared "event phrases" let differently-worded headlines about the same
-# incident merge (e.g. two wordings of one school shooting).
 EVENT_BIGRAMS = ["school shooting", "mass shooting", "plane crash",
                  "train derailment", "building collapse", "bridge collapse",
                  "evacuation order", "state of emergency", "ruled out",
@@ -170,8 +218,9 @@ EVENT_BIGRAMS = ["school shooting", "mass shooting", "plane crash",
 def proper_nouns(title):
     out = set()
     for w in re.findall(r"[A-Z][a-zA-Z']{2,}", title):
-        if w.lower() not in STOPWORDS:
-            out.add(w.lower())
+        w = norm_word(w.lower())
+        if w not in STOPWORDS:
+            out.add(w)
     return out
 
 
@@ -188,9 +237,19 @@ def strip_html(s):
     return htmlmod.unescape(s)
 
 
+def norm_word(w):
+    """Light normalization so 'Hurts'' / 'Hurts' and 'clots' / 'clot' match."""
+    w = w.rstrip("'")
+    if w.endswith("'s"):
+        w = w[:-2]
+    if len(w) > 3 and w.endswith("s") and not w.endswith("ss"):
+        w = w[:-1]
+    return w
+
+
 def tokens(text):
     toks = re.findall(r"[a-z0-9']+", text.lower())
-    return set(t for t in toks if t not in STOPWORDS and len(t) > 2)
+    return set(norm_word(t) for t in toks if t not in STOPWORDS and len(t) > 2)
 
 
 def jaccard(a, b):
@@ -200,14 +259,12 @@ def jaccard(a, b):
 
 
 def phrase_re(p):
-    # word-boundary match, tolerant of plural/past-tense endings
     return r"\b" + re.escape(p.strip()) + r"(s|es|ed|d)?\b"
 
 
 def casualty_count(text):
-    """Best-effort death toll from phrasing like '3 children, 1 adult killed'."""
+    """Best-effort death toll from headline phrasing."""
     total = 0
-    # standalone numbers only: "NBC10" or "6abc" must not count as casualties
     num = r"(?<![a-z0-9])(\d+)(?![a-z0-9])"
     for m in re.finditer(
             num + r"\s+(children|child|adults|adult|people|students|victims|"
@@ -223,31 +280,45 @@ def casualty_count(text):
     return total
 
 
-def score_text(text, cat, detail=False):
+def score_title(title_lower, cat):
+    """Score a headline in one lane. Returns (score, tiers_hit)."""
+    for p in GLOBAL_VETO:
+        if re.search(phrase_re(p), title_lower):
+            return -1000, set()
+    for p in LANE_VETO.get(cat, []):
+        if re.search(phrase_re(p), title_lower):
+            return -1000, set()
     total = 0
-    matched = []
+    tiers = set()
     for phrases, pts in KEYWORDS[cat]:
         for p in phrases:
-            if p == "breaking" and "breaking down" in text:
-                continue  # "breaking down the film", not breaking news
-            if re.search(phrase_re(p), text):
-                if pts <= -1000:
-                    return (-1000, ["VETO:" + p]) if detail else -1000
+            if p == "breaking" and "breaking down" in title_lower:
+                continue
+            if re.search(phrase_re(p), title_lower):
                 total += pts
-                matched.append(f"{p}({pts})")
+                tiers.add(pts)
                 break  # count each tier once per story
     if cat == "breaking":
-        n = casualty_count(text)
+        n = casualty_count(title_lower)
         if n >= 10:
             total += 80
-            matched.append(f"casualties~{n}(+80)")
         elif n >= 4:
             total += 50
-            matched.append(f"casualties~{n}(+50)")
         elif n >= 1:
             total += 20
-            matched.append(f"casualties~{n}(+20)")
-    return (total, matched) if detail else total
+    return total, tiers
+
+
+def qualifies(cat, tiers, casualties, title_lower):
+    """The news-event gate: a headline must describe an actual event."""
+    if cat == "breaking":
+        return bool(tiers & {120, 60}) or casualties >= 3
+    if cat == "local":
+        if any(p in title_lower for p in ROUTINE_LOCAL) and casualties < 2:
+            return False
+        return 80 in tiers or casualties >= 2
+    # sports / tesla / ai: top-tier event keyword required
+    return 80 in tiers
 
 
 def guess_team(text, source_team):
@@ -261,17 +332,27 @@ def guess_team(text, source_team):
     return None
 
 
-def lane_allowed(cat, text, src):
-    """A story can only win a lane if it genuinely belongs there."""
+def allowed_lanes(src, title):
+    """Lanes a story from this source may compete in (v2 lane lock)."""
+    lanes = {src["cat"]}
+    if src["cat"] in ("breaking", "local"):
+        lanes.add("breaking")
+    if TEAM_ANCHOR.search(title) and src["cat"] in ("breaking", "local", "sports"):
+        lanes.add("sports")
+    return lanes
+
+
+def lane_eligible(cat, title, src):
+    """Within an allowed lane, the story must genuinely belong there."""
     if cat == "breaking":
-        return True
+        # PBS /show/ items are TV feature segments, not headlines
+        return "/newshour/show/" not in (src.get("_link") or "")
     if cat == "tesla":
-        return "tesla" in text
+        return "tesla" in title.lower()
     if cat == "local":
-        return bool(PHILLY_ANCHOR.search(text)) or src["name"] in LOCAL_OUTLETS
+        return bool(PHILLY_ANCHOR.search(title)) or src["name"] in LOCAL_OUTLETS
     if cat == "sports":
-        return (bool(TEAM_ANCHOR.search(text)) or src.get("team")
-                or src["name"] == "Crossing Broad")
+        return bool(TEAM_ANCHOR.search(title)) or bool(src.get("team"))
     return True
 
 
@@ -342,7 +423,6 @@ def main():
             if not title:
                 continue
             if src.get("strip_suffix"):
-                # Google News appends " - Source Name" to every headline
                 title = re.sub(r"\s+-\s+[^-]{1,60}$", "", title).strip()
             link = entry.get("link", "").strip()
             summary = strip_html(entry.get("summary", "") or entry.get("description", ""))
@@ -350,29 +430,44 @@ def main():
             if src.get("tesla_only") and "tesla" not in text:
                 continue
 
-            # score in every lane; the story takes its best *eligible* lane
-            scored = {c: (score_text(text, c) if lane_allowed(c, text, src) else -1000)
-                      for c in KEYWORDS}
-            best_cat = max(scored, key=scored.get)
-            base = scored[best_cat]
-            if base <= -1000:
-                continue
-
             pub = parse_time(entry) or now
-            # stories fresher than the feeds' own clocks still count as now
             if pub > now:
                 pub = now
+            pub_age_h = (now - pub).total_seconds() / 3600
 
-            # dedupe: find an existing story telling the same tale.
-            # Fingerprints are recomputed from each story's current (best)
-            # title every time, so they never go stale.
+            # v2: publication age is a hard gate, judged per allowed lane
+            lanes = allowed_lanes(src, title)
+            lanes = {c for c in lanes if pub_age_h <= MAX_PUB_AGE[c]}
+            if not lanes:
+                continue
+            src2 = dict(src, _link=link)
+
+            # score the HEADLINE in each allowed, eligible lane; keep the
+            # best lane that also passes the news-event gate
+            title_lower = title.lower()
+            casualties = casualty_count(title_lower)
+            best_cat, base = None, -1000
+            for c in lanes:
+                if not lane_eligible(c, title, src2):
+                    continue
+                sc, tiers = score_title(title_lower, c)
+                if sc <= -1000:
+                    continue
+                if not qualifies(c, tiers, casualties, title_lower):
+                    continue
+                if sc > base:
+                    best_cat, base = c, sc
+            if best_cat is None:
+                continue
+
+            # dedupe against stories still within their publication window
             toks = tokens(title)
             proper = proper_nouns(title)
-            bigram = event_bigram(title.lower())
+            bigram = event_bigram(title_lower)
             match_id = None
             for sid, s in stories.items():
-                age_h = (now - datetime.fromisoformat(s["first_seen"])).total_seconds() / 3600
-                if age_h > 48:
+                s_pub_age = (now - datetime.fromisoformat(s["pub"])).total_seconds() / 3600
+                if s_pub_age > MAX_PUB_AGE.get(s["cat"], 48) + 12:
                     continue
                 st = s["title"]
                 j = jaccard(toks, tokens(st))
@@ -393,8 +488,9 @@ def main():
                 s["last_seen"] = now.isoformat()
                 if base > s["base"]:
                     s.update({"base": base, "cat": best_cat, "title": title,
-                              "link": link, "pub": pub.isoformat(),
-                              "team": guess_team(text, src.get("team"))})
+                              "link": link,
+                              "pub": min(s["pub"], pub.isoformat()),
+                              "team": guess_team(title_lower, src.get("team"))})
             else:
                 sid = f"s{int(now.timestamp())}_{fetched}"
                 stories[sid] = {
@@ -402,7 +498,7 @@ def main():
                     "sources": [src["name"]], "cat": best_cat, "base": base,
                     "pub": pub.isoformat(), "first_seen": now.isoformat(),
                     "last_seen": now.isoformat(),
-                    "team": guess_team(text, src.get("team")),
+                    "team": guess_team(title_lower, src.get("team")),
                     "trust": src.get("trust", 2),
                 }
             fetched += 1
@@ -426,7 +522,8 @@ def main():
                          and a["first_seen"] <= b["first_seen"])) else b
 
     sids = [sid for sid, s in stories.items()
-            if (now - datetime.fromisoformat(s["first_seen"])).total_seconds() / 3600 <= 48]
+            if (now - datetime.fromisoformat(s["pub"])).total_seconds() / 3600
+            <= MAX_PUB_AGE.get(s["cat"], 48) + 12]
     drop = set()
     for i, aid in enumerate(sids):
         if aid in drop:
@@ -442,35 +539,34 @@ def main():
             K["sources"] = sorted(set(K["sources"]) | set(D["sources"]))
             K["first_seen"] = min(K["first_seen"], D["first_seen"])
             K["last_seen"] = max(K["last_seen"], D["last_seen"])
+            K["pub"] = min(K["pub"], D["pub"])
             drop.add(aid if K is B else bid)
     for sid in drop:
         del stories[sid]
 
-    # prune stale stories
+    # prune: publication age beyond the lane limit (+12h grace) is dead,
+    # no matter how often a source re-lists it; last_seen backstop 72h
     for sid in [s for s in stories
-                if (now - datetime.fromisoformat(stories[s]["last_seen"])).total_seconds() / 3600 > STORY_TTL_HOURS]:
-        del stories[sid]
-    # keep state.json small: drop weak, uncorroborated stories after 6h
-    for sid in [s for s in stories
-                if (now - datetime.fromisoformat(stories[s]["first_seen"])).total_seconds() / 3600 > 6
-                and stories[s]["base"] < 30 and len(stories[s]["sources"]) < 2]:
+                if (now - datetime.fromisoformat(stories[s]["pub"])).total_seconds() / 3600
+                > MAX_PUB_AGE.get(stories[s]["cat"], 48) + 12
+                or (now - datetime.fromisoformat(stories[s]["last_seen"])).total_seconds() / 3600 > 72]:
         del stories[sid]
 
-    # rank: importance x recency
+    # rank: importance x recency, with age measured from PUBLICATION
     ranked = []
     for sid, s in stories.items():
-        age_h = max(0.05, (now - datetime.fromisoformat(s["first_seen"])).total_seconds() / 3600)
-        decay = 0.5 ** (age_h / HALF_LIFE.get(s["cat"], 10))
-        corroboration = min(90, 30 * (len(s["sources"]) - 1))
-        fresh = 1.25 if (age_h < 1 and s["cat"] in ("breaking", "local")) else 1.0
-        final = (s["base"] + corroboration) * decay * fresh + s.get("trust", 2)
+        pub_age_h = max(0.05, (now - datetime.fromisoformat(s["pub"])).total_seconds() / 3600)
+        if pub_age_h > MAX_PUB_AGE.get(s["cat"], 48):
+            continue
+        decay = 0.5 ** (pub_age_h / HALF_LIFE.get(s["cat"], 16))
+        corroboration = min(30, 15 * (len(s["sources"]) - 1))
+        final = (s["base"] + corroboration) * decay + s.get("trust", 2)
         s["_final"] = round(final, 1)
-        s["_age_h"] = round(age_h, 1)
+        s["_age_h"] = round(pub_age_h, 1)
         if final >= THRESHOLD.get(s["cat"], 45):
             ranked.append((final, sid))
     ranked.sort(reverse=True)
 
-    # per-category caps, then overall cap
     picked, counts = [], {c: 0 for c in CAT_CAP}
     for final, sid in ranked:
         c = stories[sid]["cat"]
@@ -485,7 +581,7 @@ def main():
     print(f"fetched_items={fetched} live_stories={len(stories)} picked={len(picked)}")
     for final, sid in picked:
         s = stories[sid]
-        print(f"  [{s['cat']:8s}] {final:6.1f} ({s['_age_h']}h, {len(s['sources'])} src) {s['title'][:95]}")
+        print(f"  [{s['cat']:8s}] {final:6.1f} (pub {s['_age_h']}h, {len(s['sources'])} src) {s['title'][:95]}")
     for e in errors:
         print(f"  ERROR: {e}", file=sys.stderr)
 
@@ -521,7 +617,7 @@ def write_rss(picked, stories, now):
         '  <channel>\n'
         '    <title>Sal\'s Feed</title>\n'
         '    <description>Only the stories worth your time: major breaking news, '
-        'Philadelphia headlines, Philly sports, and Tesla owner news.</description>\n'
+        'Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>\n'
         '    <language>en-us</language>\n'
         f'    <lastBuildDate>{format_datetime(now)}</lastBuildDate>\n'
         '    <ttl>20</ttl>\n'

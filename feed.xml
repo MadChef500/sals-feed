@@ -2,89 +2,41 @@
 <rss version="2.0">
   <channel>
     <title>Sal's Feed</title>
-    <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, and Tesla owner news.</description>
+    <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:19:40 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 Ukrainian refugees face growing hostility in Poland</title>
-      <link>https://www.pbs.org/newshour/show/ukrainian-refugees-face-growing-hostility-in-poland</link>
-      <guid isPermaLink="true">https://www.pbs.org/newshour/show/ukrainian-refugees-face-growing-hostility-in-poland</guid>
-      <pubDate>Tue, 20 Oct 2026 22:25:03 +0000</pubDate>
+      <title>🌍 Moment plane crashes on a busy highway in the US</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss</guid>
+      <pubDate>Tue, 20 Oct 2026 23:54:50 +0000</pubDate>
       <category>breaking</category>
-      <description>PBS NewsHour - Oct 20, 06:25 PM ET</description>
+      <description>Al Jazeera - Oct 20, 07:54 PM ET</description>
     </item>
     <item>
-      <title>🏒 Oliver Bonk’s breakout is coming at the perfect time</title>
-      <link>https://www.broadstreethockey.com/post/oliver-bonks-breakout-is-coming-at-the-perfect-time/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/oliver-bonks-breakout-is-coming-at-the-perfect-time/</guid>
-      <pubDate>Tue, 20 Oct 2026 22:00:00 +0000</pubDate>
+      <title>🦅 Eagles are not being punished for handling of Jalen Hurts' blood clots, AP source says</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdzRzh3RjZ5bXNVQjcyZmN0MkNRU3AxTzY5Z2d5dmQwZ1JpUl85aTRXdWFfM1h0bWxiVXN4bnBiN01Qb2d4enVPcGM2dFF1NU8tZlJxTDA3MUJzR1VoOHRWcENPWGJXZ0wtaVVaSzNVX0Zyd1dsMFhXOW1uaHhEV0xraUV5UVpTLWxsdFlQT1FJVFk1UE5McG1Fc1pWUWhkTmtTUHoxbDZoNzFfTnIyV2FXUndqVXpQWVF2bnVIekhrOEFGSGVj?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 19:26:05 +0000</pubDate>
       <category>sports</category>
-      <description>Broad Street Hockey - Oct 20, 06:00 PM ET</description>
+      <description>Google News Breaking, Google News Philadelphia, Google News Philly Sports, WHYY - Oct 20, 03:26 PM ET</description>
     </item>
     <item>
-      <title>⚡ NHTSA weighs probe into claims Tesla Robotaxis speed in school zones</title>
-      <link>https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</link>
-      <guid isPermaLink="true">https://electrek.co/2026/10/12/nhtsa-tesla-robotaxi-school-zone-speeding-petition/</guid>
-      <pubDate>Mon, 12 Oct 2026 13:24:01 +0000</pubDate>
+      <title>⚡ Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)</title>
+      <link>https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes</guid>
+      <pubDate>Tue, 20 Oct 2026 07:52:54 +0000</pubDate>
       <category>tesla</category>
-      <description>Electrek, Not a Tesla App - Oct 12, 09:24 AM ET</description>
+      <description>Google News Tesla, Not a Tesla App - Oct 20, 03:52 AM ET</description>
     </item>
     <item>
-      <title>🌍 2 people killed in Delaware fire, officials say</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3ptU2tvNVVUSFVLSGtjVS1vQUo1dnNidkpGa3lJNDAteHluSUFNdnhLTVo4dGlBMGJ2YjBRVWhWSk4xMVZyaXE5SHVVYWRrSTdzaUhFRXA4VzJPLU1FMnA0MFMxeHRrcTljeS1tN3FQaEFfVFROSEkxSWdOZURQTFktdVpaVTFzWUN1di1POWtpUHBt?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3ptU2tvNVVUSFVLSGtjVS1vQUo1dnNidkpGa3lJNDAteHluSUFNdnhLTVo4dGlBMGJ2YjBRVWhWSk4xMVZyaXE5SHVVYWRrSTdzaUhFRXA4VzJPLU1FMnA0MFMxeHRrcTljeS1tN3FQaEFfVFROSEkxSWdOZURQTFktdVpaVTFzWUN1di1POWtpUHBt?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 21:33:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Philadelphia - Oct 20, 05:33 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFBHRjR6bnk5Y3lkOG1kbGI2ckt5YkhkT0RiSUc2YzR1TVpwRWgwX3pTcFNJQk0tejNNS2Q1aHl1bDB0c3JERjVWNF9hOHhRQU5pMGJYeGd5MUQ2dzBaSjFQTmJlSHhKcFZ1SWxMRnltS0RzSlBwQWtxcTVhME1sVzY0OWFnN3NGNzNsZjQ0eUFZRnRZbUJwVzVIU3hSTnlpMHZ1VTlmTmswUU4tUWpkYWpLdGNJRG91aVZkQ05jTVlBaGpza2t0M2QxNXR3dkhyU0htLThKNHBfSXM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFBHRjR6bnk5Y3lkOG1kbGI2ckt5YkhkT0RiSUc2YzR1TVpwRWgwX3pTcFNJQk0tejNNS2Q1aHl1bDB0c3JERjVWNF9hOHhRQU5pMGJYeGd5MUQ2dzBaSjFQTmJlSHhKcFZ1SWxMRnltS0RzSlBwQWtxcTVhME1sVzY0OWFnN3NGNzNsZjQ0eUFZRnRZbUJwVzVIU3hSTnlpMHZ1VTlmTmswUU4tUWpkYWpLdGNJRG91aVZkQ05jTVlBaGpza2t0M2QxNXR3dkhyU0htLThKNHBfSXM?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 15:03:08 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philadelphia, Google News Top Stories - Oct 20, 11:03 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ China-Built Tesla Model 3 Premium Hit With Safety Recall, Over 131,000 Units Affected</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lVODdWRFpjZDBlUFRuQjZaU0s3TzdDLTljRFJzYms0YzRTTDJhdXFoZzJ4QTBMUm5mYTFWY1RlRkxCbUh1SUpIV0VfRmhHTXZRaTRvRExZRW9TNzRialNWeGM0S185Rlc1dkZ0QjhEbi16dWtUY0lVNy1xNjhyT3g3dVdtRGxWTFV4WW5KM2tFdTNHV2pPanQwc1JPZFl5UjlxOVJrazRPVFVFNEoxeUJhWUtRc1VUUDNjdVl0LUM2N2tpV0JYVXdn?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 19:06:02 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla - Oct 20, 03:06 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 NFL finds Eagles handled Hurts’ blood clots ‘appropriately’</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxOTHg1QUl6emEyVFB5dHgybUE5c1RadnBjMldSbWpsOG1Pdk5FelR4RDFhUElmZHY3dHk1SUtwd05hczBCaHZYOWVLWF80c1doQjdoalZWQWY0NHZqWVlsbmsydU1oZ0hDaGluQmlLQmMyWUd6UVpUb0t3WEhvYkc3UGFqUjEwVTZOaFZWZ2tGd2JyVnNzWjNpcExmRmRQYlJqa3lhRW9jS0U3QkpKYW9SNw?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 18:39:41 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Oct 20, 02:39 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Hurricanes Trade Pitch Lands $70 Million Forward, Offloads Nikishin &amp; More</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG5oODJhVkpnS2Z3TU92ek5la283Z2szb29PSmNXZ2lYRmQwS01LZDVSdkJFaE5PcC1kdmkyaWhFY3ZDNDhUVm9uX3lzTnlzQ3hMMXBHV0xEMDdqSHpjQng4XzctV2FmS19DLUdlbDl2aWRlLW1yekRmYTFTYWZtUW9rTnB1ZTg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG5oODJhVkpnS2Z3TU92ek5la283Z2szb29PSmNXZ2lYRmQwS01LZDVSdkJFaE5PcC1kdmkyaWhFY3ZDNDhUVm9uX3lzTnlzQ3hMMXBHV0xEMDdqSHpjQng4XzctV2FmS19DLUdlbDl2aWRlLW1yekRmYTFTYWZtUW9rTnB1ZTg?oc=5</guid>
-      <pubDate>Tue, 20 Oct 2026 17:53:01 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Philly Sports - Oct 20, 01:53 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Carolina Hurricanes troll Flyers, Eagles, Phillies after Sunday's victory</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFZxSkpPckMzRldvOUZNT1RWRVVXSUNGZjZrTEN6ZFlFc3JNU2NveGRJUVM5c096UjRMcGVOWFJLZElWVzM0OTVRekh4amxsWjNvejNtaHBmbWxMRXdnMlJhR28wQUFHTjl1VGxYd2g0bVFHNXMyNW10RGdTbUttQ1k1bzdfR2NKblBOMDM1c0JsTVNna0JXTk5OQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFZxSkpPckMzRldvOUZNT1RWRVVXSUNGZjZrTEN6ZFlFc3JNU2NveGRJUVM5c096UjRMcGVOWFJLZElWVzM0OTVRekh4amxsWjNvejNtaHBmbWxMRXdnMlJhR28wQUFHTjl1VGxYd2g0bVFHNXMyNW10RGdTbUttQ1k1bzdfR2NKblBOMDM1c0JsTVNna0JXTk5OQQ?oc=5</guid>
-      <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Philadelphia - Oct 12, 03:00 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Crews battle house fire in West Deptford, NJ</title>
-      <link>https://6abc.com/post/crews-battle-house-fire-west-deptford-new-jersey/19960562/</link>
-      <guid isPermaLink="true">https://6abc.com/post/crews-battle-house-fire-west-deptford-new-jersey/19960562/</guid>
-      <pubDate>Tue, 20 Oct 2026 17:27:10 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News, Google News Breaking - Oct 20, 01:27 PM ET</description>
+      <title>🤖 One Developer Used Claude AI to Build 7 Free Adobe Alternatives</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWxnZ0Jqa0lUMmJLMmFEbHhma3owSWd1RHRoVzJlVlQtWFZkbzNsSjBFTDBLOU9GZXozbXV2YkJVTXlmMmpkNWlVUWZtRWtNU2I4WFVZQnFGeV84Tnhqdk1OWkdGNjdYQUxoM2tTczd2eGFqaVp3TlVfMTZIZlZ3OUJtbFphMGx3T2ZyU0hHc3NQNkZ4X25QUkg5QkVLSVF2TkE?oc=5</guid>
+      <pubDate>Tue, 20 Oct 2026 19:43:52 +0000</pubDate>
+      <category>ai</category>
+      <description>Google News AI - Oct 20, 03:43 PM ET</description>
     </item>
   </channel>
 </rss>
