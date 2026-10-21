@@ -10,7 +10,7 @@
    "base": 60,
    "pub": "2026-10-20T18:01:44+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -27,7 +27,7 @@
    "base": 75,
    "pub": "2026-10-20T23:54:50+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:38:44.247890+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -38,6 +38,7 @@
    "title": "Jalen Hurts likely out for season, Philadelphia Eagles announce",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjRIcGM2VzM4NVhXRTBCSmRyWlk4T1VLZVA2cmh3eTZMWUUzQzNuRHQtbnNGaXhfYXl0YkZSN0tSeklTSkY2QmliME03ZWx1a2tSUkNDWDZMUHBXLTl1a3AyTjBUczZOOGNjWXJRSEszbzhNSENvSzVRSWVCUEo4LUVoSHAtVFV6TF9qNDczX242dFNocmcxRm9OUFdVb0V0TERqLW1sWXN5bTJLd0xBZGlFT2xWM09oTE1ZcXA1eTc3SGJRY1RoYzVMSHJFa3pa0gHYAUFVX3lxTE1EVjFkUUJWUWxHRGJSSkZBcWIxU2N1VDhjalFpdUd0YU1oVUpuUGtyZjlXb3RvbnN3T1JVWHZHWjBMZHBlZDFhM3UtR1pRamdRSkdyai0tRlVLb09ObTN5VEQ1ajdxSWFaTTdOckNtSldoajdsQ0JvQU5mWTB0dTdidFhlSm1DcjRXQ1dxR0p4OW5hUHVqcHdCTThiVGRKb1V5MUF0V2x0YlE0Q0lYWFd2RGFQTWY3Um9UelBMQlhCTXhVMVY4UXlDRFJKZnRVR2g0OUhEUTNFOQ?oc=5",
    "sources": [
+    "Google News Breaking",
     "Google News Philadelphia",
     "Google News Philly Sports",
     "WHYY"
@@ -46,7 +47,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -63,7 +64,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -75,13 +76,15 @@
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElHMHRndEVVSVhJckhMUDV6bWNxeWhvYUFOZDNhXy1PMmFyS2xSUUVUZ2VLb0d6V0E3S1F4Qkwway1EVlp3QjZkTkVoSDhJRkgtMlptOUlnS3doT1g5X01veExLMDhBSXM2eVYtTkd6Unk1QVVDN09HQmhNT0NiaTJLdDRJQV90N1JWRjB2WVo1SmdrVjdn?oc=5",
    "sources": [
     "Google News Breaking",
-    "Google News Philly Sports"
+    "Google News Philadelphia",
+    "Google News Philly Sports",
+    "Google News Top Stories"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -99,7 +102,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -116,7 +119,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T01:57:17.241176+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -139,6 +142,74 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792565485_5": {
+   "title": "Justice Kagan warns Supreme Court rulings fueling polarization, undermining democracy",
+   "link": "https://abcnews.com/US/wireStory/justice-kagan-warns-supreme-court-rulings-fueling-polarization-137434175",
+   "sources": [
+    "ABC News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-21T06:44:12+00:00",
+   "first_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792565485_13": {
+   "title": "Flyers\u2019 turnaround gives Danny Briere leverage in trade talks",
+   "link": "https://www.broadstreethockey.com/post/flyers-turnaround-gives-danny-briere-leverage-in-trade-talks/",
+   "sources": [
+    "Broad Street Hockey"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-21T03:44:23+00:00",
+   "first_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "team": "flyers",
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792565485_23": {
+   "title": "Putting together a Philadelphia Flyers winning STREAK: Will they and should they run it back?",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQzh1a1d5cE9tMzYtMlZ3a0lReTZNVEhKUjRidEwzSkRqQ2JYRjJHS3A1WWdPX3F0YzBaeXVnT0pnbXBzWUV1ekVGYzdzOWNGWWlZQVc2QVcwb2dteVZUQ3lSREM3eURrX3dHZUFNc2xnYzEzcU1zZzROYlRJWndIS0o4cHBTQ0JZbUduNGh2Qk94bE9tYVlMMUUzcEN5cHB6dXFNNE1uSmZKVUVLMWFFbWFxeFNScWFKY01CTXJEb1kzY2tJS3E3ZkNFTXE3dlljam9uT3hqallqOHc2c0trSmtmRzM3WGJiNVY0ZjYweC01OGVnaWpWX0lySmNnUEFxd3NpclNVZXlnYmRvYVlieFFSSFM3bV9lZ3p0SmpyczY0eTdqWWFqNzR0UXY?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-21T02:38:00+00:00",
+   "first_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792565485_28": {
+   "title": "Claude Code found on servers used in AI-linked cyberattacks",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RQl85RzBFX1k4N2o5cERPd0ozTG11cWdSR200ZXYxX1lXQzFyZDM2OUZHVmpLRTFFUk1Gc1Y3ZzRTUGlnNG1SMG5TcWJGVjI4RWRNdF9n?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-21T04:04:00+00:00",
+   "first_seen": "2026-10-21T06:51:25.228291+00:00",
+   "last_seen": "2026-10-21T06:51:25.228291+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -151,8 +222,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"1ff61534049b645ec0a69ed1261f7d93\"",
-   "modified": "Wed, 21 Oct 2026 01:55:30 GMT"
+   "etag": "W/\"9195a3276f1072b74bb59c6d175d3472\"",
+   "modified": "Wed, 21 Oct 2026 06:46:27 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -164,15 +235,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:54:37 GMT"
+   "modified": "Wed, 21 Oct 2026 06:47:30 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"90a67b5e3e5193ee12da33bd86f85ae8\"",
-   "modified": "Wed, 21 Oct 2026 01:30:00 GMT"
+   "etag": "W/\"a7ead721129db30e08ccacbde1fa27f1\"",
+   "modified": "Wed, 21 Oct 2026 06:31:39 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -180,7 +251,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 01:58:22 GMT"
+   "modified": "Wed, 21 Oct 2026 06:52:05 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"bf7f9c8c011d9bd318b4fb84017b7a83\"",
@@ -188,43 +259,43 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 00:31:12 GMT"
+   "modified": "Wed, 21 Oct 2026 05:24:45 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"dcf556bd8ff0aebaa939ea3590997f0b\"",
+   "etag": "W/\"ff20a9374c7f0df336b49bd554841436\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"df0a703c766191a6b10add9034734129\"",
-   "modified": "Tue, 20 Oct 2026 22:00:00 GMT"
+   "etag": "\"d0ff09e20563768c0d87d5b4cf14bf0a\"",
+   "modified": "Wed, 21 Oct 2026 06:13:20 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"8bb1efbf0aa7ed02d33fc3ecde974d48\"",
+   "etag": "W/\"72c4a08c63b43431643dc422ad33d4d8\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"a2c87239cdeab96ca72a36f2815ed158\"",
+   "etag": "W/\"e57a5fd761b1c151cb77d39891722b9a\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"e24e2127ac50df4d1f527e74e86551c8\"",
-   "modified": "Tue, 20 Oct 2026 23:13:35 GMT"
+   "etag": "\"e02bb46fdfa765ab2d861aa5e612e818\"",
+   "modified": "Wed, 21 Oct 2026 02:13:21 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"b3e73b851a2d78491ab612cf541e9806\"",
-   "modified": "Tue, 20 Oct 2026 23:30:59 GMT"
+   "etag": "\"7f187b36ad43ec9e51c74b2c311d92b8\"",
+   "modified": "Wed, 21 Oct 2026 04:44:49 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
    "modified": "Tue, 20 Oct 2026 19:03:14 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"ff101ee8d81c854bd5f6b031ef1be380\"",
-   "modified": "Tue, 20 Oct 2026 22:29:42 GMT"
+   "etag": "W/\"a99a7cd7304d3fec5e5b4d907915c1df\"",
+   "modified": "Wed, 21 Oct 2026 06:47:07 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -235,8 +306,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"0e264386fa92153bfbe354f5052487de\"",
-   "modified": "Wed, 21 Oct 2026 01:31:53 GMT"
+   "etag": "W/\"a37aa704f147841ca2945f01047ff8c3\"",
+   "modified": "Wed, 21 Oct 2026 06:02:29 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
