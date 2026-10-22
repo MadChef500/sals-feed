@@ -66,7 +66,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -119,7 +119,7 @@
    "base": 110,
    "pub": "2026-10-20T18:28:50+00:00",
    "first_seen": "2026-10-21T01:42:13.789593+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -154,7 +154,7 @@
    "base": 80,
    "pub": "2026-10-21T03:44:23+00:00",
    "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -256,7 +256,7 @@
    "base": 80,
    "pub": "2026-10-21T10:00:00+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -276,7 +276,7 @@
    "base": 60,
    "pub": "2026-10-21T15:46:27+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -348,7 +348,7 @@
    "base": 115,
    "pub": "2026-10-21T12:46:38+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -365,7 +365,7 @@
    "base": 115,
    "pub": "2026-10-21T12:49:36+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -502,7 +502,7 @@
    "base": 80,
    "pub": "2026-10-21T19:41:09+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -588,7 +588,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -656,7 +656,7 @@
    "base": 75,
    "pub": "2026-10-21T15:41:51+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -726,7 +726,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -744,7 +744,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -778,7 +778,7 @@
    "base": 80,
    "pub": "2026-10-21T23:36:31+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -812,7 +812,7 @@
    "base": 110,
    "pub": "2026-10-21T21:42:54+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -863,7 +863,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -880,7 +880,7 @@
    "base": 80,
    "pub": "2026-10-22T02:50:59+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -903,6 +903,160 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792674615_5": {
+   "title": "SEPTA real-time tracking tools temporarily down as transit agency installs update amid PHP vulnerability",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzlSWU1DUlNrSEZYSnFreVBGRUtjc3FiVkxIcDVxcW9rbWJGZzlCUHAyZzFIajgxN1dQODZCVWJHbW80eS1DbHJFYlEzdnloU2s1X2xOTjVJWklkS01KaW5DUkd6bGNuNy1oZlJ6N2xrY3AwTnlqbDg4OW4xUTdDTUM3Q2tnRmRLQ044T3NfZ1hTMExPaTV4SnBZMGZxZUNCa0FLVS04Z3dVYjJ1bW5HQ0hVTmRxcmRfc3ZuZnBsZkhrQVd2S0MtY3ZtUDdWUdIB0wFBVV95cUxQOE8tajFNenJvekpvdG1Md29RamNIeTdkU0x5aU9zZ2RqQjdtb1dQdHBsVHY2N0xiVHppWE9nQVgwNlZfbEZBbVhIWTczOWNzaTRjYWlBNlZicUZXMHQ4YzktWFNjbU16Y2xXNm0xajJwX3dubjZzd0FBc1pQNVlCcmw1MkRWdjZwSHdvNHpRdk92TURsLWNXYlY4SHZQYkpZSmNzempoY20talFYT0d4dmhDeGxTUDZDMXJhZmI4ajI4VlFSZ0d4NGFaT0djWUhsM1hF?oc=5",
+   "sources": [
+    "6abc Action News",
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-22T10:30:00+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_6": {
+   "title": "SEPTA offering free rides from Sixers' home opener at Xfinity Mobile Arena",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTdSc3hTX2xaSnVKTHR6N3RuMVNpSTVud2p3RzlmVk1NMklEV25aZlkyalRLb04yRlU5ZUVvVU1QOHlBX0V0c2JuS01oQS1laHhLanBkc2hIcXFTX1lZYklmSnUtN1U0LVgtT2ZSZ2Exb1BJUnNObDV3Ulh4ZXpDX2MtQ3hNQ2IxMmR0UUZybXJhVjNSNHQ5WG1CYXJUYVNQMFFVanlBWEVERWx3WjRjZnh4NWNBb1FB?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-22T11:16:00+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_9": {
+   "title": "PHP vulnerability 2026: Websites shut down globally as operators address AI-detected flaw in web programming language",
+   "link": "https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/",
+   "sources": [
+    "6abc Action News"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-22T11:29:20+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_18": {
+   "title": "Phillies Can't Ignore Obvious $400 Million Warning Signs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlU3QWozU1drTzIyQ096Qjl5UjQwSW85NWhleXJOdXBoT3VyR2FadkNuSHhqSDJhR3F1eVVPdV9RWVAzcDVHMm5rQ2wxYzNJdll2YkVkMFN2aGdWT0NQWk1kY3hyY1h1bkgycmtVcy1WalZlTnNLd0xYbXJFbFVEOGhEbnh6YzFF?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T11:00:42+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_20": {
+   "title": "Are The Philadelphia Eagles BETTER OFF Not Making The Playoffs In 2026? To Buy Or Sell?",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMnc2UzY1VUtvT2k3QVh1TmwxS2xMRDZjU3RXQXFJVWV4cWpqaVhjS3NEeldhMFE2cmludmU0NnVpNlZpQzVNM3pYSmlJZTktRW5GY2xxSkM5bmZzUEtfUUg1em1ER3ExUHlTR2VxQ2xiTkpIblBuUVVJZGsxNmlHOUUtdE0wbkZwRHYxS2RpVW80TVdHU2d1R0NpZFA4Z3hFd0Jjc1M0Q0I3NENYYTRpdXdTQWRUNUJKV0EwMUwzSUJ2YXZ4eWN6dFlGeEYxazl6WmxBV2tLcnVxSEZWdUE2RDA5RnhKaXl2Nll5YjRjUXl0S19Wc1FudnZ3dzZiejhPQXpNOG9YdVcxYklFa2tmd21RMG02cFVCU1FockR5R25jRUpJ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T12:48:00+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_25": {
+   "title": "Is now the time for Flyers to make a trade? 6 thoughts after 12 games",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDEzM01RcFJpMlBWLUhkdDJORkc3OVlGbWl1QWNSOVd0Ul90SV9pekVyYW5iLU5MRG85Q1hvR3ExQl8zOWlqVzhuLUdOUzlENDR0U09XSzl1SmpEX0hVRTBDazVndXc4S0N4Y1B5TjBhY2hQTjBNQWllRUo0TXg3OEZuOUo0bUpmOFJpbHhLTFFzQUNFY3lR?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T10:07:54+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_33": {
+   "title": "Tesla Says Robotaxi Will Lift Results Starting in 2027",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjJNcFF6bGU2TUdoZmZnQkZWVlZoZ1VvYVdzLW1kdFBoeFdfRmVDWFl5elVPSXB2dEVmUlFwUjNyUXhZeE9BQ1BuSndHS21ZemJxRnY0aHEtbXZLYzVwLTlzSXB1c2p1NHNlV0xWd2k1ZUg5Zy14MDR2V1NkTUhPQWhsRHdvREEzYk9nbjV6T3h5LXdXNmM4Q1NyU19sZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T12:37:25+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_35": {
+   "title": "Claude did not invent scorpion antivenom",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDJ0SkZfUUhOVmNLVkY0TkFrSFduTFlnZ2JWQ3l3VWlwLUtEeVBfbVctWlpPa1dDaVhvaGFSTllkWl9PaTFqaEdseHRTdnJmbTRNMkgxNGV5T3BmRUU3UWlpVHd1RUNNSzgxckZOaThOOWVIRlVTQ1FkdGJrd3hLN1ZxT3J1c3pFVTlrSjA0SVlUY1dhR1Nhajg3aF9fcTlQMk1OT1VWLTB1R1JDbUFpMU50aUY?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-22T12:21:07+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792674615_36": {
+   "title": "Claude helps investment researchers test scorpion antivenom ideas",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEs1djhGQ2JpSzFQNjdYMDNjQXhsYmg3bElpSGVOOWFfVTQwQUJZS25ydkVQQ2d2dzlQOWV3dU04ZkFva3RqSFFZYThTTHhPNUNwcHZNSGlKSUVIaGtRbUJlc3B1NmdQYzZfR0ZIaWY3aldMVTFBWjBvWW54OUt1OA?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-22T08:21:36+00:00",
+   "first_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -915,8 +1069,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"35e860306e1c9742ae515df6c0a79b73\"",
-   "modified": "Thu, 22 Oct 2026 07:34:06 GMT"
+   "etag": "W/\"2c35ec4bc230a4d46b8a3ed704fbc4d1\"",
+   "modified": "Thu, 22 Oct 2026 13:10:13 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -928,15 +1082,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 07:32:08 GMT"
+   "modified": "Thu, 22 Oct 2026 13:09:58 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"aaf6c37b3d98df60e30dbbd612dea4dd\"",
-   "modified": "Thu, 22 Oct 2026 07:30:00 GMT"
+   "etag": "W/\"da14e3bac337df383671c63c1518884b\"",
+   "modified": "Thu, 22 Oct 2026 12:48:40 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -944,35 +1098,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 07:36:03 GMT"
+   "modified": "Thu, 22 Oct 2026 13:10:43 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"eb03af083f38bee80e5138ee11912b03\"",
-   "modified": "Wed, 21 Oct 2026 23:54:28 GMT"
+   "etag": "\"62d79f37461a3cda79e79238f25821a9\"",
+   "modified": "Thu, 22 Oct 2026 12:29:16 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 01:50:45 GMT"
+   "modified": "Thu, 22 Oct 2026 09:00:00 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"80c1fe99de5e5be6e717f96d2a803316\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"aa0ed779b9268767eecb154b834ac95d\"",
-   "modified": "Thu, 22 Oct 2026 03:47:13 GMT"
+   "etag": "\"a4fdf22785561eaaa835b606944256a5\"",
+   "modified": "Thu, 22 Oct 2026 10:00:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"163b069d4542ce967d190a3eceb9e218\"",
+   "etag": "W/\"b009fa83f2e8874726e3662255135267\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"d36b3f979335090547f51161a4b9052d\"",
+   "etag": "W/\"c3589e03e6782b38d74f60e5b13fe7f7\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"fbf48f8395f5ccb0611d077b3c2e2018\"",
-   "modified": "Thu, 22 Oct 2026 00:00:00 GMT"
+   "etag": "\"049a9e95fbf5d0ede439aadc3b7721f0\"",
+   "modified": "Thu, 22 Oct 2026 12:49:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -987,8 +1141,8 @@
    "modified": "Wed, 21 Oct 2026 21:31:14 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"03e2ebcccb235d661eff55687bd6554b\"",
-   "modified": "Thu, 22 Oct 2026 06:54:25 GMT"
+   "etag": "W/\"c1e581cbe40b020beb94914c3d522611\"",
+   "modified": "Tue, 20 Oct 2026 18:41:15 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -999,8 +1153,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"959c0cddc4658b9eb461ae602749adbd\"",
-   "modified": "Thu, 22 Oct 2026 06:55:20 GMT"
+   "etag": "W/\"73a8a8d59b2fbfcec2c230111ff5b9b8\"",
+   "modified": "Thu, 22 Oct 2026 13:07:32 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",

@@ -4,15 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:10:15 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🏒 Flyers reportedly engaged in Simon Edvinsson trade talks</title>
-      <link>https://www.broadstreethockey.com/post/flyers-reportedly-engaged-in-simon-edvinsson-trade-talks/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-engaged-in-simon-edvinsson-trade-talks/</guid>
-      <pubDate>Thu, 22 Oct 2026 02:50:59 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey - Oct 21, 10:50 PM ET</description>
+      <title>🏙️ PHP vulnerability 2026: Websites shut down globally as operators address AI-detected flaw in web programming language</title>
+      <link>https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/</link>
+      <guid isPermaLink="true">https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:29:20 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Oct 22, 07:29 AM ET</description>
     </item>
     <item>
       <title>⚡ Tesla FSD Hits Record Subs, Purchased With 75% of New Orders</title>
@@ -23,20 +23,12 @@
       <description>Not a Tesla App - Oct 21, 05:30 PM ET</description>
     </item>
     <item>
-      <title>🏙️ Philly teens advocate for universal free student SEPTA passes</title>
-      <link>https://whyy.org/articles/philadelphia-teens-advocate-for-universal-free-student-septa-passes/</link>
-      <guid isPermaLink="true">https://whyy.org/articles/philadelphia-teens-advocate-for-universal-free-student-septa-passes/</guid>
-      <pubDate>Wed, 21 Oct 2026 19:41:09 +0000</pubDate>
-      <category>local</category>
-      <description>WHYY - Oct 21, 03:41 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ SEPTA Spotlight: How train operator Taneisha Moody was inspired by her female mentors</title>
-      <link>https://6abc.com/post/septa-spotlight-how-train-operator-taneisha-moody-was-inspired-female-mentors-came-before/19965225/</link>
-      <guid isPermaLink="true">https://6abc.com/post/septa-spotlight-how-train-operator-taneisha-moody-was-inspired-female-mentors-came-before/19965225/</guid>
-      <pubDate>Wed, 21 Oct 2026 17:01:44 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 21, 01:01 PM ET</description>
+      <title>🏒 Flyers reportedly engaged in Simon Edvinsson trade talks</title>
+      <link>https://www.broadstreethockey.com/post/flyers-reportedly-engaged-in-simon-edvinsson-trade-talks/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-engaged-in-simon-edvinsson-trade-talks/</guid>
+      <pubDate>Thu, 22 Oct 2026 02:50:59 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 21, 10:50 PM ET</description>
     </item>
   </channel>
 </rss>
