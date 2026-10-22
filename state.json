@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1792546724_0": {
-   "title": "Gun used in Bend school shooting was birthday gift from shooter's mom",
-   "link": "https://www.cbsnews.com/news/bend-oregon-elementary-school-shooting-gun-birthday-gift-mom/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-20T18:01:44+00:00",
-   "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T12:30:03.945626+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792546724_1": {
    "title": "Moment plane crashes on a busy highway in the US",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
@@ -49,7 +32,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -67,7 +50,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -239,7 +222,7 @@
    "base": 80,
    "pub": "2026-10-21T10:00:00+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -259,7 +242,7 @@
    "base": 60,
    "pub": "2026-10-21T15:46:27+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -571,7 +554,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -639,7 +622,7 @@
    "base": 75,
    "pub": "2026-10-21T15:41:51+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -693,7 +676,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -711,7 +694,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -729,7 +712,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -848,7 +831,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -865,7 +848,7 @@
    "base": 80,
    "pub": "2026-10-22T02:50:59+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -900,7 +883,7 @@
    "base": 115,
    "pub": "2026-10-22T10:30:00+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -951,7 +934,7 @@
    "base": 80,
    "pub": "2026-10-22T11:00:42+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1019,7 +1002,7 @@
    "base": 80,
    "pub": "2026-10-22T12:21:07+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1053,7 +1036,7 @@
    "base": 75,
    "pub": "2026-10-22T13:30:00+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1104,7 +1087,7 @@
    "base": 80,
    "pub": "2026-10-22T16:52:29+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1122,7 +1105,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1139,7 +1122,181 @@
    "base": 80,
    "pub": "2026-10-22T15:46:58+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_1": {
+   "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
+   "link": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
+   "sources": [
+    "CBS News",
+    "Google News Breaking",
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 155,
+   "pub": "2026-10-22T17:16:02+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 16,
+   "changelog": false
+  },
+  "s1792703361_5": {
+   "title": "A 7.0 earthquake hits China\u2019s Tibet, killing 16 and injuring 32",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUhKZXdwaVhrMDBPY0JkZUVmRk1yRHV6LTdiRDZEVXctd05FZHNMbHNvNVNELW1fLXo2ZW1UcVdyVTZ6VWxIak1WWDI1OW1qZ2pKNkZESi1NeDJZNFd1TllHcnhRdTNqSUE4Y2ZzRjA4OXBGdmdaTmp2eDVRZ0dkOW8zMUNOeEhTYmtlcUtDRFY1dk04N0stNFJnNlEwTEpFanZKNUxFS0RiYkluWERVSlktd0PSAcgBQVVfeXFMTjgyUlNDVHA0QjM4UDBMb044bnYxLVFVVHVQbng0d091STF5bmlGb3Jheks1Ym90Sk9HMnRHdGRlWmtXV3dKUjgyYktlVTZNNHZFTWhyZG5xM1k5N2NmdjU0TE1TTDc5RGxENFMwSUdJZkozV3BTaGwtcHpZRXR4dWI4RXBua3BkRzBpVmxzNW11YVpwYVo0QkpQYXpIcFZKTmpjemNON2lTVVVsTTE2aE1sRWxkVmdXZ09tVnJCUEJkb1gxdWRZOTI?oc=5",
+   "sources": [
+    "6abc Action News",
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-22T20:53:58+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_10": {
+   "title": "After Marsha's abrupt closure, is there an appetite for a women's sports bar in Philly?",
+   "link": "https://www.phillyvoice.com/marshas-closure-future-womens-sports-bars-philly/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-22T18:53:13+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_15": {
+   "title": "Former Alabama OL signs with the Philadelphia Eagles",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUl8tNTlFd3dYeDdGYWw2U1JpclNCNHc5THBXLUEwOTRkNy1RMlhMallTcHpFTG5LdXRVbDRVaTk5eG5LZ0JEemRKWTFMWTBIWHBLWk1ya21mYTRuYzNFUXVwMXgzTGdvSUYxVkxWVEJrRF9LZzlua3RDVmJLeGw5V2k3ZUNLeTBfNDRINFNyUWw5UE0?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T20:34:49+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_18": {
+   "title": "Eagles confirm Evan Neal signing, add Jaydon Blue and Anfernee Orji",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWx6dVowazl4U3FyWVgwSExPaXhHaThiNkVjeVdwN3owQVlOMWdwWThCR1R0T2R4MEo1ODViMmdjTW9KUlBDNS1xbDVvYlRnbTNMN3FmcXZJOU5vQnRBZXQwOGhUVm0tb3kyeFFoV3pfNUI1d2ptSm1VNElTRURUM0Jrd240bkJw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T20:06:10+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_20": {
+   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
+   "link": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T19:54:00+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_24": {
+   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
+   "link": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T20:03:18+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_29": {
+   "title": "Tesla lists Jacksonville robotaxi service as \u2018coming soon\u2019; no launch date announced",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2xKVmhvTUEzYktCQk51MzFOYlNGLUViVC1jN0p1MTk0Y3FlOHR2NHBoUy1FQVJ5QUx5em5WNncxT3ZsOG84MHlhWWFSNmZYV1NrWlhrOEFLTGc3cXA0Y1NoczZtVndGdXNsTU5fSm1Vd1BVSl95QU1xVUZhcXpOUUc2aFM4RndpUFlXQ0N0M3dGQ2ZiZzNNbFpB?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T20:23:43+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_37": {
+   "title": "Harvard Students Put Expanded Claude Access to Use in Classes, Personal Projects",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ETzFrRHIxOV8zTzhLU0FlYk9iU3pPRjFRNFR0aFktOEV5U05MczBXT2ZhbUZLQ0VqTlFtRG1ja0x5NjJ0MlpIb25EbC1zNkdKLThMdXF0NFFJMDRINFJ5RXgwUjdqd0N0VktBU2NjbkRJYkk5R2thU1IwRVd5MmM?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-22T19:02:55+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792703361_38": {
+   "title": "Anthropic Launches Claude Duet to Handle Your Work Before You Ask",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEhUdF90ZjhxQWN2OFFjakJhYUlia18wbmdVcjdodGc0Vk1yeFZTenRVUkRCTVdiQnRtM3JUcmVOV3hmbTFxTzZJSm9nUDI1bHlTT3doY2x4V1JxWl9XVy1fLUk3VTAxbFlaME5NYm5sUXR0cnA4dV9oOHBhTjU4dG53aWwzWTFwcTU0?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-10-22T14:09:54+00:00",
+   "first_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-22T21:09:21.974295+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1157,8 +1314,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"7b655ab5b97441e6c797bfbc8f857621\"",
-   "modified": "Thu, 22 Oct 2026 17:56:15 GMT"
+   "etag": "W/\"aba6a6f9dd391bcb1716b78e010ee283\"",
+   "modified": "Thu, 22 Oct 2026 21:07:01 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1170,15 +1327,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 17:55:43 GMT"
+   "modified": "Thu, 22 Oct 2026 21:07:19 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"086bc4846452a8d68cb4a587ce6d1fd0\"",
-   "modified": "Thu, 22 Oct 2026 17:55:22 GMT"
+   "etag": "W/\"6cf1e0da94f8e8f999e44847df8c4634\"",
+   "modified": "Thu, 22 Oct 2026 20:51:35 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1186,35 +1343,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 17:58:48 GMT"
+   "modified": "Thu, 22 Oct 2026 21:09:32 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"5cda4f3d711640b0a7d81e95195cebfb\"",
-   "modified": "Thu, 22 Oct 2026 17:58:24 GMT"
+   "etag": "\"41f97f89429dc0dfb2a42487a8905f0f\"",
+   "modified": "Thu, 22 Oct 2026 20:43:57 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 17:13:37 GMT"
+   "modified": "Thu, 22 Oct 2026 20:20:10 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"660c11ba821ad50a92dbb8edf81f85de\"",
+   "etag": "W/\"ff471beecaa23c5dd2561ad0ec3f41c9\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"d644491a88aa8b1f44e44f7c59ecf860\"",
-   "modified": "Thu, 22 Oct 2026 17:37:19 GMT"
+   "etag": "\"dd8d5bdeca2482a4b51ddc29f715d031\"",
+   "modified": "Thu, 22 Oct 2026 18:29:14 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"ad6cf499503ffc619418ee1b3c2ccc6d\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"f87dd9f40dc296a0bd242eaf33795f9f\"",
+   "etag": "W/\"99c14e3f87b74400af89eb89781fe45b\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"fb704f3811e19b2568d579ea2fe9b7c3\"",
-   "modified": "Thu, 22 Oct 2026 15:55:43 GMT"
+   "etag": "\"f576ab76f48b89ea8e79112b10037ddb\"",
+   "modified": "Thu, 22 Oct 2026 19:33:26 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1226,11 +1383,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 17:21:26 GMT"
+   "modified": "Thu, 22 Oct 2026 19:55:47 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"e6ab012f0659b43a9e41f8db882074a8\"",
-   "modified": "Thu, 22 Oct 2026 17:35:25 GMT"
+   "etag": "W/\"2c6097ed082440e10c48bf088f987092\"",
+   "modified": "Thu, 22 Oct 2026 20:57:37 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1241,8 +1398,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"127d5878625e06a598f55f6c8580182e\"",
-   "modified": "Thu, 22 Oct 2026 17:53:47 GMT"
+   "etag": "W/\"555d05299bf5710d01fbf640f24d3433\"",
+   "modified": "Thu, 22 Oct 2026 20:33:39 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
