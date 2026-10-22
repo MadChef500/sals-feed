@@ -47,7 +47,7 @@
    "base": 80,
    "pub": "2026-10-19T14:24:15+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -64,7 +64,7 @@
    "base": 80,
    "pub": "2026-10-20T04:39:25+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -86,7 +86,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -104,7 +104,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -121,7 +121,7 @@
    "base": 80,
    "pub": "2026-10-19T23:32:19+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -132,13 +132,14 @@
    "title": "Former Pro Bowler Named Trade Target for Eagles After Jalen Hurts Injury News",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1czbWNFNTFDRldXM3RQSC1xRFlYUDVLcGZuUlJmakUzQm0tckl5cWtNc3RaRHJRZWVJNFJEUlpQWUVNYWFsUXBGU1poWWtpTFBodzhzVHhZMjRGUk9tX08xZVV6UFAtTkFUVW5iWlJTNWhIdDZrdEk1RFptaDluNzFqLUo?oc=5",
    "sources": [
+    "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 110,
    "pub": "2026-10-20T18:28:50+00:00",
    "first_seen": "2026-10-21T01:42:13.789593+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -275,7 +276,7 @@
    "base": 80,
    "pub": "2026-10-21T10:00:00+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -295,7 +296,7 @@
    "base": 60,
    "pub": "2026-10-21T15:46:27+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -314,7 +315,7 @@
    "base": 60,
    "pub": "2026-10-21T16:17:51+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -366,7 +367,7 @@
    "base": 115,
    "pub": "2026-10-21T12:46:38+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -383,7 +384,7 @@
    "base": 115,
    "pub": "2026-10-21T12:49:36+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -400,7 +401,7 @@
    "base": 115,
    "pub": "2026-10-21T13:01:00+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -434,7 +435,7 @@
    "base": 80,
    "pub": "2026-10-21T14:58:51+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -486,7 +487,7 @@
    "base": 60,
    "pub": "2026-10-21T20:13:43+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -520,7 +521,7 @@
    "base": 80,
    "pub": "2026-10-21T19:41:09+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -537,7 +538,7 @@
    "base": 80,
    "pub": "2026-10-21T18:35:25+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -606,7 +607,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -657,7 +658,7 @@
    "base": 80,
    "pub": "2026-10-21T19:19:45+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -674,7 +675,7 @@
    "base": 75,
    "pub": "2026-10-21T15:41:51+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -685,13 +686,14 @@
    "title": "Teacher who survived Oregon school shooting recounts playing dead",
    "link": "https://www.cbsnews.com/news/oregon-school-shooting-survivor-teacher-beck-drury/",
    "sources": [
-    "CBS News"
+    "CBS News",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-10-21T21:45:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -708,7 +710,7 @@
    "base": 80,
    "pub": "2026-10-21T21:10:02+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -725,7 +727,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -743,7 +745,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -761,7 +763,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -795,7 +797,7 @@
    "base": 80,
    "pub": "2026-10-21T23:36:31+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -812,7 +814,7 @@
    "base": 80,
    "pub": "2026-10-21T22:03:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -829,7 +831,7 @@
    "base": 110,
    "pub": "2026-10-21T21:42:54+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -846,7 +848,41 @@
    "base": 80,
    "pub": "2026-10-21T21:28:14+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792634610_8": {
+   "title": "Iran war live: IRGC vows invasion as defence doctrine turns \u2018offensive\u2019",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-22T00:00:00+00:00",
+   "first_seen": "2026-10-22T02:03:30.926705+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792634610_33": {
+   "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T01:36:00+00:00",
+   "first_seen": "2026-10-22T02:03:30.926705+00:00",
+   "last_seen": "2026-10-22T02:03:30.926705+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -864,8 +900,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"6d58b7049d8260b40b90df15229fd1bd\"",
-   "modified": "Wed, 21 Oct 2026 23:42:24 GMT"
+   "etag": "W/\"a62ab6b52918da0a10b28b9dbe8af444\"",
+   "modified": "Thu, 22 Oct 2026 01:57:51 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -877,15 +913,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 23:44:02 GMT"
+   "modified": "Thu, 22 Oct 2026 01:59:05 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"66272f10e8d42f044ffca639374631a5\"",
-   "modified": "Wed, 21 Oct 2026 23:15:00 GMT"
+   "etag": "W/\"a2bb52393efe7a4bd82d877f95f2c52f\"",
+   "modified": "Thu, 22 Oct 2026 01:47:47 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -893,11 +929,11 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 23:45:50 GMT"
+   "modified": "Thu, 22 Oct 2026 02:03:41 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"24e297601c898b0f9532e6da316304cc\"",
-   "modified": "Wed, 21 Oct 2026 23:10:30 GMT"
+   "etag": "\"eb03af083f38bee80e5138ee11912b03\"",
+   "modified": "Wed, 21 Oct 2026 23:54:28 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
@@ -916,24 +952,24 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"6ceea462428f07a8cb522971692330d8\"",
+   "etag": "W/\"d36b3f979335090547f51161a4b9052d\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"94cfe59cc9419f972b6e13bb609109c7\"",
-   "modified": "Wed, 21 Oct 2026 23:00:00 GMT"
+   "etag": "\"fbf48f8395f5ccb0611d077b3c2e2018\"",
+   "modified": "Thu, 22 Oct 2026 00:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"272f78485b9e31ec1da390e973867eb9\"",
-   "modified": "Wed, 21 Oct 2026 20:22:23 GMT"
+   "etag": "\"98b57833e50885c2316b6cfd474a5110\"",
+   "modified": "Thu, 22 Oct 2026 00:51:48 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 21:31:08 GMT"
+   "modified": "Wed, 21 Oct 2026 21:31:14 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"a0a513c5e2513f5430d65e2d0614d8b6\"",
@@ -948,8 +984,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"6af3495e2a753bc4a3adca73fcd59958\"",
-   "modified": "Wed, 21 Oct 2026 23:46:04 GMT"
+   "etag": "W/\"1c580982f9e73ddc933c009036ff82ac\"",
+   "modified": "Thu, 22 Oct 2026 01:17:41 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
