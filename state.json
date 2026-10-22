@@ -34,23 +34,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792546724_4": {
-   "title": "Downed wires leave SEPTA riders stranded for hours in SW Philadelphia",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzN4NWFkbURGbVoyOG93ZkZiTzc1dlNUUzBwbHE5YXFFMWlxRFloeFlKYmJfaThQQXdYS21WR1kxTGh2SWlnZTZsY0J3SFQ4ZVlNYXBZYXg0Qjk1UWl5eXhRQUktV2ZHOUhHQTE0YnRoWVFSb0RzZlF6d3EwVE1aNnFmd0hOWG80YWN6NVNwS2NIM28zREwzZ1FR0gGfAUFVX3lxTE5MSHBITm1taEdZUXJiQnFINzhnZ2R3dHJSaWdHNXJBREttQmZxazNXZ1VDY0JKYzFIbUFKZVJTVjg3TkVKemJ4MGptUFpoUUh2YkZTcUVFS19HSEQycFYyMVFfS3VOWm41UWJUZktyeGZLX2I4VGZzZnVqVjB0OWJlSExPX1NVby01QmlPSVBxdE9sVVVSQnNkUE5ZeGVHMA?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-20T04:39:25+00:00",
-   "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T02:03:30.926705+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792546724_12": {
    "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdElHMHRndEVVSVhJckhMUDV6bWNxeWhvYUFOZDNhXy1PMmFyS2xSUUVUZ2VLb0d6V0E3S1F4Qkwway1EVlp3QjZkTkVoSDhJRkgtMlptOUlnS3doT1g5X01veExLMDhBSXM2eVYtTkd6Unk1QVVDN09HQmhNT0NiaTJLdDRJQV90N1JWRjB2WVo1SmdrVjdn?oc=5",
@@ -66,7 +49,7 @@
    "base": 80,
    "pub": "2026-10-20T19:48:00+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -84,7 +67,7 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -119,7 +102,7 @@
    "base": 110,
    "pub": "2026-10-20T18:28:50+00:00",
    "first_seen": "2026-10-21T01:42:13.789593+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -154,7 +137,7 @@
    "base": 80,
    "pub": "2026-10-21T03:44:23+00:00",
    "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -276,7 +259,7 @@
    "base": 60,
    "pub": "2026-10-21T15:46:27+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -365,7 +348,7 @@
    "base": 115,
    "pub": "2026-10-21T12:49:36+00:00",
    "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -468,7 +451,7 @@
    "base": 60,
    "pub": "2026-10-21T20:13:43+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -502,7 +485,7 @@
    "base": 80,
    "pub": "2026-10-21T19:41:09+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -588,7 +571,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -668,13 +651,14 @@
    "link": "https://www.cbsnews.com/news/oregon-school-shooting-survivor-teacher-beck-drury/",
    "sources": [
     "CBS News",
+    "Google News Breaking",
     "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-10-21T21:45:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -702,13 +686,14 @@
    "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
    "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
    "sources": [
+    "Google News Tesla",
     "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T02:03:30.926705+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -726,7 +711,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -744,7 +729,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -880,7 +865,7 @@
    "base": 80,
    "pub": "2026-10-22T02:50:59+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -915,7 +900,7 @@
    "base": 115,
    "pub": "2026-10-22T10:30:00+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -966,7 +951,7 @@
    "base": 80,
    "pub": "2026-10-22T11:00:42+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -983,7 +968,7 @@
    "base": 80,
    "pub": "2026-10-22T12:48:00+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1034,7 +1019,7 @@
    "base": 80,
    "pub": "2026-10-22T12:21:07+00:00",
    "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1057,6 +1042,109 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792691916_2": {
+   "title": "Hurricane's $40M city hall, police station project moves closer to breaking ground",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOWlJUU0ySHZ4REFqNkJMWUJ3WVVTWFphaFhtOFZLNTI0UFRrak1UZnFoYTRmbEtDWDdXVW02elpDQnlOMnpLMzJiMVZRZXZfX3RVR242OVMwNU1JOFdvT2JxN1hfX0p2bHNENWQzbXRyR3VraVZ5dFRMZVJleHdxMG9oZkhlQzZCLS0wbjNBVGl3bGFSLXUweXc5SnU5NnlrXzZwX3dyUzlQaHg5VmJrSmRwX1BEakxYS1UwM0VQMU5aSU01ZUQ0cG1WQ0J3QU9IZDUtWlB4NnZialVoOGt3cld2N3lMRExDWmYzS1V3S2VrMzhrWEE?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-10-22T13:30:00+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792691916_7": {
+   "title": "Magnitude 1.6 earthquake reported in Morris County, New Jersey",
+   "link": "https://6abc.com/post/magnitude-16-earthquake-reported-morris-county-new-jersey/19969060/",
+   "sources": [
+    "6abc Action News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-22T16:02:11+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792691916_18": {
+   "title": "Traded Eagles Champion Addressed Emotional Fresh Start With Ravens",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGc2Tzd5d0VDbVUycmRUQ21oRzhCZ3NqQlQzVjc2aFh2RHd0dklabkdlc2JrQTM3UVBDSWJvWHU2THBfRThLTXNHYkVaOUdPamgzVWtubWQySVZISVNhNlBPN0hEWkFPbHQ2Q0UxZG5DSG4xQnRUYkVRc3VBcDE2ZVM1ZExPUEtYb2ZzOEFqN0lTOFhoWVE?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T14:20:31+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792691916_23": {
+   "title": "Vikings and Eagles considered viable partners for blockbuster trade",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGgxV01WUXRrRkRRZnhNRmxHS04tRWM1NHdaYTZkQUs2cjlfaGRuTUxXRjRRTW51UUZqMkYtdTFZWGt6aUU0czJyenFueGxzV3pyX3AxaWx3OW05YU10cklrNVhNZ1BodW1rdkFBaTBVZV9BSUxNXzkweHBMLV9rM0Q3WllOZmEtUkNVbW9ObmhlRDBK?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-22T16:52:29+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792691916_25": {
+   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
+   "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
+   "sources": [
+    "Google News Tesla",
+    "Teslarati"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T17:25:12+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792691916_32": {
+   "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGYzTEYzYkhWX3Utdm9WQnduTERIZEZ1Q1c5Mm5aT1R0WE80NkJsYThUa3h4OTFVSGJIcHFWTVhLXzBWWF9ncUd0U1FDTFVTZXNnWUhMUHc5Nk43UWpoZDZLbE4xbDNCOWFzckQyREprS1BfdUJYSm5XaVo0SXRMaEZtVzZZelQ3cXRIMDVibmphNU82d0E2d0ZocndyMF8tV01Z?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-22T15:46:58+00:00",
+   "first_seen": "2026-10-22T17:58:36.401481+00:00",
+   "last_seen": "2026-10-22T17:58:36.401481+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1069,8 +1157,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"2c35ec4bc230a4d46b8a3ed704fbc4d1\"",
-   "modified": "Thu, 22 Oct 2026 13:10:13 GMT"
+   "etag": "W/\"7b655ab5b97441e6c797bfbc8f857621\"",
+   "modified": "Thu, 22 Oct 2026 17:56:15 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1082,15 +1170,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 13:09:58 GMT"
+   "modified": "Thu, 22 Oct 2026 17:55:43 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"da14e3bac337df383671c63c1518884b\"",
-   "modified": "Thu, 22 Oct 2026 12:48:40 GMT"
+   "etag": "W/\"086bc4846452a8d68cb4a587ce6d1fd0\"",
+   "modified": "Thu, 22 Oct 2026 17:55:22 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1098,51 +1186,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 13:10:43 GMT"
+   "modified": "Thu, 22 Oct 2026 17:58:48 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"62d79f37461a3cda79e79238f25821a9\"",
-   "modified": "Thu, 22 Oct 2026 12:29:16 GMT"
+   "etag": "\"5cda4f3d711640b0a7d81e95195cebfb\"",
+   "modified": "Thu, 22 Oct 2026 17:58:24 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 09:00:00 GMT"
+   "modified": "Thu, 22 Oct 2026 17:13:37 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"80c1fe99de5e5be6e717f96d2a803316\"",
+   "etag": "W/\"660c11ba821ad50a92dbb8edf81f85de\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"a4fdf22785561eaaa835b606944256a5\"",
-   "modified": "Thu, 22 Oct 2026 10:00:00 GMT"
+   "etag": "\"d644491a88aa8b1f44e44f7c59ecf860\"",
+   "modified": "Thu, 22 Oct 2026 17:37:19 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"b009fa83f2e8874726e3662255135267\"",
+   "etag": "W/\"ad6cf499503ffc619418ee1b3c2ccc6d\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"c3589e03e6782b38d74f60e5b13fe7f7\"",
+   "etag": "W/\"f87dd9f40dc296a0bd242eaf33795f9f\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"049a9e95fbf5d0ede439aadc3b7721f0\"",
-   "modified": "Thu, 22 Oct 2026 12:49:00 GMT"
+   "etag": "\"fb704f3811e19b2568d579ea2fe9b7c3\"",
+   "modified": "Thu, 22 Oct 2026 15:55:43 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"98b57833e50885c2316b6cfd474a5110\"",
-   "modified": "Thu, 22 Oct 2026 00:51:48 GMT"
+   "etag": "\"5641d46fd92ac1bcf9bdc6430fa95579\"",
+   "modified": "Thu, 22 Oct 2026 17:26:30 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Wed, 21 Oct 2026 21:31:14 GMT"
+   "modified": "Thu, 22 Oct 2026 17:21:26 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"c1e581cbe40b020beb94914c3d522611\"",
-   "modified": "Tue, 20 Oct 2026 18:41:15 GMT"
+   "etag": "W/\"e6ab012f0659b43a9e41f8db882074a8\"",
+   "modified": "Thu, 22 Oct 2026 17:35:25 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1153,8 +1241,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"73a8a8d59b2fbfcec2c230111ff5b9b8\"",
-   "modified": "Thu, 22 Oct 2026 13:07:32 GMT"
+   "etag": "W/\"127d5878625e06a598f55f6c8580182e\"",
+   "modified": "Thu, 22 Oct 2026 17:53:47 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
