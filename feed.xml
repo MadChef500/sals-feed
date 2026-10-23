@@ -4,15 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:48:27 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet</title>
-      <link>https://www.cbsnews.com/news/powerful-earthquake-tibet-china/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/powerful-earthquake-tibet-china/</guid>
-      <pubDate>Thu, 22 Oct 2026 17:16:02 +0000</pubDate>
-      <category>breaking</category>
-      <description>CBS News, Google News Breaking, Google News Top Stories - Oct 22, 01:16 PM ET</description>
+      <title>⚡ Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15</title>
+      <link>https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15</guid>
+      <pubDate>Thu, 22 Oct 2026 19:54:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Not a Tesla App - Oct 22, 03:54 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla buyers are buying for Full Self-Driving and not for the car, data shows</title>
@@ -23,12 +23,12 @@
       <description>Google News Tesla, Teslarati - Oct 22, 01:25 PM ET</description>
     </item>
     <item>
-      <title>⚡ Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15</title>
-      <link>https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15</guid>
-      <pubDate>Thu, 22 Oct 2026 19:54:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 22, 03:54 PM ET</description>
+      <title>🌍 At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet</title>
+      <link>https://www.cbsnews.com/news/powerful-earthquake-tibet-china/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/powerful-earthquake-tibet-china/</guid>
+      <pubDate>Thu, 22 Oct 2026 17:16:02 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News, Google News Breaking, Google News Top Stories - Oct 22, 01:16 PM ET</description>
     </item>
   </channel>
 </rss>
