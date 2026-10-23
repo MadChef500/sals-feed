@@ -11,46 +11,12 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
    "cas": 0,
    "changelog": true
-  },
-  "s1792565485_13": {
-   "title": "Flyers\u2019 turnaround gives Danny Briere leverage in trade talks",
-   "link": "https://www.broadstreethockey.com/post/flyers-turnaround-gives-danny-briere-leverage-in-trade-talks/",
-   "sources": [
-    "Broad Street Hockey"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T03:44:23+00:00",
-   "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
-   "team": "flyers",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792565485_23": {
-   "title": "Putting together a Philadelphia Flyers winning STREAK: Will they and should they run it back?",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQzh1a1d5cE9tMzYtMlZ3a0lReTZNVEhKUjRidEwzSkRqQ2JYRjJHS3A1WWdPX3F0YzBaeXVnT0pnbXBzWUV1ekVGYzdzOWNGWWlZQVc2QVcwb2dteVZUQ3lSREM3eURrX3dHZUFNc2xnYzEzcU1zZzROYlRJWndIS0o4cHBTQ0JZbUduNGh2Qk94bE9tYVlMMUUzcEN5cHB6dXFNNE1uSmZKVUVLMWFFbWFxeFNScWFKY01CTXJEb1kzY2tJS3E3ZkNFTXE3dlljam9uT3hqallqOHc2c0trSmtmRzM3WGJiNVY0ZjYweC01OGVnaWpWX0lySmNnUEFxd3NpclNVZXlnYmRvYVlieFFSSFM3bV9lZ3p0SmpyczY0eTdqWWFqNzR0UXY?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T02:38:00+00:00",
-   "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
   },
   "s1792565485_28": {
    "title": "Claude Code found on servers used in AI-linked cyberattacks",
@@ -101,81 +67,6 @@
    "team": "eagles",
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_0": {
-   "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
-   "sources": [
-    "ABC News",
-    "Google News Breaking",
-    "Google News Top Stories",
-    "NPR News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-21T15:46:27+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T23:59:17.886715+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_1": {
-   "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
-   "link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
-   "sources": [
-    "6abc Action News",
-    "Al Jazeera",
-    "Google News Breaking",
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-21T16:17:51+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_2": {
-   "title": "Chemical tank explosion in Ohio of glycidyl methacrylate forces evacuations, prompts fears of another blast",
-   "link": "https://www.pbs.org/newshour/nation/chemical-tank-explosion-in-ohio-of-glycidyl-methacrylate-forces-evacuations-prompts-fears-of-another-blast",
-   "sources": [
-    "Google News Top Stories",
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-21T15:43:50+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_7": {
-   "title": "Supreme Court rejects bid to restrict treatments for trans inmates",
-   "link": "https://www.cbsnews.com/news/supreme-court-trump-gender-affirming-care-transgender-inmates/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-21T17:03:56+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -429,7 +320,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -487,23 +378,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792626338_3": {
-   "title": "Breaking News: Officials ordered nearly 1,000 residents near a chemical trucking company in Toledo, Ohio, to evacuate after an explosion caused a leak of hazardous material. It was unclear what caused the explosion.",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0JfdlNYeWNld1A1Zjc2SUYwWHVsZ05WSmoyLWpuX0RFcmZneFdpRy1TQjFNTzVHM1hhTGIyQTlIdTZsc3RCY1FTOFl2TUVhczdNQmlpWU5DblRsU2FuRmFEMmZzeFp1amFKLUhrUnlQYmNrRHZqWHByUmgyRDVvWDVrVldtV2lQX2trNVlEWUFlUk9nZkJUTzVRbVpEd1pEUW5mOGd5di1yX1IxUk5uSTZaRk5GLUJ4SWplQnUxRHhxWF9VdHFaWmZIY3RuVVRrb3o0?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-10-21T15:41:51+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T23:59:17.886715+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792626338_6": {
    "title": "Teacher who survived Oregon school shooting recounts playing dead",
    "link": "https://www.cbsnews.com/news/oregon-school-shooting-survivor-teacher-beck-drury/",
@@ -517,7 +391,7 @@
    "base": 75,
    "pub": "2026-10-21T21:45:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -552,7 +426,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -564,13 +438,14 @@
    "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
    "sources": [
     "Electrek",
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -588,7 +463,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -605,7 +480,7 @@
    "base": 80,
    "pub": "2026-10-21T09:16:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -707,7 +582,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -724,7 +599,7 @@
    "base": 80,
    "pub": "2026-10-22T02:50:59+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -981,7 +856,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1036,7 +911,7 @@
    "base": 60,
    "pub": "2026-10-22T20:53:58+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1053,7 +928,7 @@
    "base": 80,
    "pub": "2026-10-22T18:53:13+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1105,7 +980,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1123,7 +998,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1157,7 +1032,7 @@
    "base": 80,
    "pub": "2026-10-22T19:02:55+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1188,13 +1063,14 @@
     "ABC News",
     "CBS News",
     "Google News Breaking",
-    "Google News Top Stories"
+    "Google News Top Stories",
+    "PBS NewsHour"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-10-22T22:05:38+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1263,7 +1139,7 @@
    "base": 80,
    "pub": "2026-10-22T21:33:53+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1332,7 +1208,7 @@
    "base": 80,
    "pub": "2026-10-23T00:45:00+00:00",
    "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1366,7 +1242,7 @@
    "base": 80,
    "pub": "2026-10-23T02:47:00+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1434,7 +1310,7 @@
    "base": 95,
    "pub": "2026-10-23T03:26:11+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1445,13 +1321,14 @@
    "title": "Many feared trapped as a tall building collapses in Kenya",
    "link": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771",
    "sources": [
-    "ABC News"
+    "ABC News",
+    "Al Jazeera"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-10-23T13:49:16+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1468,7 +1345,7 @@
    "base": 80,
    "pub": "2026-10-23T10:00:19+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1502,7 +1379,7 @@
    "base": 80,
    "pub": "2026-10-23T12:00:06+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1519,7 +1396,7 @@
    "base": 80,
    "pub": "2026-10-23T09:38:59+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1570,7 +1447,7 @@
    "base": 110,
    "pub": "2026-10-23T09:35:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1587,7 +1464,7 @@
    "base": 80,
    "pub": "2026-10-23T13:42:34+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1621,7 +1498,126 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_1": {
+   "title": "LIVE MAP: Track the path of Hurricane Vance",
+   "link": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-vance",
+   "sources": [
+    "PBS NewsHour"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-23T15:19:25+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_2": {
+   "title": "Rescuers search for survivors after deadly earthquake in China's Tibet region",
+   "link": "https://www.pbs.org/newshour/world/rescuers-search-for-survivors-after-deadly-earthquake-in-chinas-tibet-region",
+   "sources": [
+    "PBS NewsHour"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-10-23T14:25:24+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_4": {
+   "title": "Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXZlM0poTTA3bXNBbm91NWpOMTVlb1pWREFoRHVBMjlnczkwUzhaOWY5d3dVeW5pS2gxRXZFT0Q3WTRyYmVuaHpiSUVVOExvQUI1Z2REYzNQMDQtQ1VJM2JGYWh2QWVjdVBSQjdLX0ZFRVJHNGNiaU1keExEMUhCUElEWU1WdHFSbUZfVjRFZXFWYTBjOG9pb3k0X0kzbll5bkhmTjhaTkY0VVRnd2dONE1lNklhd9IBuwFBVV95cUxQbmV2NERxUWk2Qjh3U3BsQXgtYXZ5NWpnUVhCOU5CSmFVTWJ6T1NQeE5GNGJwUk9IbUphOUFvQU52ZW03emFFZFdCZFZDMkV2Vi1xX05BRkZYV2FPWWdpV2FrbGNmUlQwWDRaNG52SkJLd3Utc1FBWHdaV3FnRmtZSmhKcVdjZ3JlUkZBUzdSUFV5Zlh3a1YzZnp2WXAwQXZBNW1QSm1ya1JtZVVRVC1wd0tyVXYyYm9XWkk4?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-23T14:11:24+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_10": {
+   "title": "Finland nearing opening of world\u2019s first permanent nuclear waste repository",
+   "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-23T13:50:26+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_11": {
+   "title": "SEPTA ridership hits highest level since COVID-19 pandemic",
+   "link": "https://www.phillyvoice.com/septa-ridership-2026-covid19-pandemic/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-23T15:48:29+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_14": {
+   "title": "Eagles News: Patriots fans aren\u2019t feeling so great about the A.J. Brown trade",
+   "link": "https://www.bleedinggreennation.com/news/187972/eagles-news-patriots-fans-arent-feeling-so-great-about-the-a-j-brown-trade",
+   "sources": [
+    "Bleeding Green Nation"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T15:50:50+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
+   "team": "eagles",
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792778351_32": {
+   "title": "71-year-old man killed as Tesla in full self-driving mode hits him on California freeway",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-23T15:41:00+00:00",
+   "first_seen": "2026-10-23T17:59:11.072696+00:00",
+   "last_seen": "2026-10-23T17:59:11.072696+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1639,8 +1635,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"1e40a46f6afd762da699c315ede0ae66\"",
-   "modified": "Fri, 23 Oct 2026 13:51:04 GMT"
+   "etag": "W/\"4143f5517c5b471898f9e552031a0bd9\"",
+   "modified": "Fri, 23 Oct 2026 17:57:13 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1652,15 +1648,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 13:48:04 GMT"
+   "modified": "Fri, 23 Oct 2026 17:57:30 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"459fb7195088e81ac83ffb973fbc1a35\"",
-   "modified": "Fri, 23 Oct 2026 13:42:42 GMT"
+   "etag": "W/\"470806eaa7ca5fb659db09a66155f2c5\"",
+   "modified": "Fri, 23 Oct 2026 17:27:32 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1668,51 +1664,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 13:53:13 GMT"
+   "modified": "Fri, 23 Oct 2026 17:59:25 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"262fa82bcdb2585f9798cea38c50fa69\"",
-   "modified": "Fri, 23 Oct 2026 13:35:14 GMT"
+   "etag": "\"936112841ddb1200d33b35a73b4628dd\"",
+   "modified": "Fri, 23 Oct 2026 17:48:04 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 12:58:47 GMT"
+   "modified": "Fri, 23 Oct 2026 17:14:10 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"b70f9f08adabb4fb9c41a75939c7d285\"",
+   "etag": "W/\"04ac7dfae99c307e453c5d432f636989\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"6bd165d77350328cb61d995b1e4f2882\"",
-   "modified": "Fri, 23 Oct 2026 13:40:07 GMT"
+   "etag": "\"0d94a82e8348a03098a21fa8cb338c7d\"",
+   "modified": "Fri, 23 Oct 2026 17:21:21 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"1525194336c1dc5d841280b384513bca\"",
+   "etag": "W/\"27d37eac0b6dc824583a8c822abd53aa\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"6b78d092b9028ea3c87114a7f477f7cd\"",
+   "etag": "W/\"de1dfbaa760d8da06bb7ebe27ce33a37\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"f64f011b7dc27144c20d0f3bd82c3385\"",
-   "modified": "Fri, 23 Oct 2026 13:47:31 GMT"
+   "etag": "\"09203232840c0bfd5b1850c59990f31a\"",
+   "modified": "Fri, 23 Oct 2026 16:59:10 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"779a5834c580a2e9cc9caf851951e45c\"",
-   "modified": "Fri, 23 Oct 2026 03:52:07 GMT"
+   "etag": "\"45d96f3b602e901ac6950198e6dd09e2\"",
+   "modified": "Fri, 23 Oct 2026 17:11:56 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 13:37:43 GMT"
+   "modified": "Fri, 23 Oct 2026 16:27:09 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"d4a54113b9e7391307b7e960acd9f639\"",
-   "modified": "Fri, 23 Oct 2026 12:47:12 GMT"
+   "etag": "W/\"4bb1d3e1f15785161e41bdcc006ca76b\"",
+   "modified": "Fri, 23 Oct 2026 17:46:22 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1723,8 +1719,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"f08347949b2891e3efc6453651246504\"",
-   "modified": "Fri, 23 Oct 2026 13:28:36 GMT"
+   "etag": "W/\"1c4e364eea17f2755469f90f52844b53\"",
+   "modified": "Fri, 23 Oct 2026 17:24:45 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
