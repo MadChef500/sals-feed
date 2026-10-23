@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:25:19 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🌍 At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet</title>
@@ -29,14 +29,6 @@
       <pubDate>Thu, 22 Oct 2026 19:54:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Oct 22, 03:54 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ PHP vulnerability 2026: Websites shut down globally as operators address AI-detected flaw in web programming language</title>
-      <link>https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/</link>
-      <guid isPermaLink="true">https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:29:20 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 22, 07:29 AM ET</description>
     </item>
   </channel>
 </rss>
