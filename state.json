@@ -11,29 +11,12 @@
    "base": 110,
    "pub": "2026-10-20T07:52:54+00:00",
    "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
    "cas": 0,
    "changelog": true
-  },
-  "s1792546724_26": {
-   "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-19T23:32:19+00:00",
-   "first_seen": "2026-10-21T01:38:44.247890+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
   },
   "s1792565485_13": {
    "title": "Flyers\u2019 turnaround gives Danny Briere leverage in trade talks",
@@ -86,23 +69,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792585803_4": {
-   "title": "Iran live updates: Rubio says Iran nuclear question 'at the core' of US approach",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
-   "sources": [
-    "ABC News"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-21T12:19:29+00:00",
-   "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792585803_12": {
    "title": "Chemical leak at tubing and piping facility forces evacuations in Toledo, Ohio",
    "link": "https://abc7.com/post/toledo-ohio-hazmat-chemical-leak-tubing-piping-facility-forces-evacuation-residents/19963941/",
@@ -131,7 +97,7 @@
    "base": 80,
    "pub": "2026-10-21T10:00:00+00:00",
    "first_seen": "2026-10-21T12:30:03.945626+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -394,7 +360,7 @@
    "base": 80,
    "pub": "2026-10-21T18:35:25+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -463,7 +429,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-23T03:25:19.807130+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -551,7 +517,7 @@
    "base": 75,
    "pub": "2026-10-21T21:45:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -586,7 +552,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T21:09:21.974295+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -604,7 +570,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -622,7 +588,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -741,7 +707,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -758,7 +724,7 @@
    "base": 80,
    "pub": "2026-10-22T02:50:59+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-22T23:59:17.886715+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1015,7 +981,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1051,7 +1017,7 @@
    "base": 155,
    "pub": "2026-10-22T17:16:02+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1070,7 +1036,7 @@
    "base": 60,
    "pub": "2026-10-22T20:53:58+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1087,7 +1053,7 @@
    "base": 80,
    "pub": "2026-10-22T18:53:13+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1139,7 +1105,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1157,7 +1123,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1191,7 +1157,7 @@
    "base": 80,
    "pub": "2026-10-22T19:02:55+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1219,6 +1185,7 @@
    "title": "Supreme Court says New Hampshire student IDs can\u2019t be used to vote in November",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTQzWEp3dGV0T1ZtNHdaam5JYy1hQlpoQmtzMEVvaFc3cjNMTjQ0dEd3R2xjdUZzQjA0RnJ6NU1PMUI0SFhiU1I4NTZlM3RvZ080RDJjaUtBUDV3UHBMNHNxdWJIQkdTUUYwaW8td2J4c1V1bHdZdU01Ymk2a2pIM1BPa3hfQTA0amRFWFc0OEkzcXZ3WUVHTW1YN0duRWs2Z1VOa3VtUU5tS1lsZy1TYU9UbGozeFkzZzByS1hFbEtncTVHM3c?oc=5",
    "sources": [
+    "ABC News",
     "CBS News",
     "Google News Breaking",
     "Google News Top Stories"
@@ -1227,7 +1194,7 @@
    "base": 60,
    "pub": "2026-10-22T22:05:38+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1296,7 +1263,7 @@
    "base": 80,
    "pub": "2026-10-22T21:33:53+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1365,7 +1332,7 @@
    "base": 80,
    "pub": "2026-10-23T00:45:00+00:00",
    "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1382,7 +1349,7 @@
    "base": 80,
    "pub": "2026-10-23T08:11:01+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1399,7 +1366,7 @@
    "base": 80,
    "pub": "2026-10-23T02:47:00+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1422,6 +1389,244 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792763546_2": {
+   "title": "At least 7 people killed in shooting at church in Jordan, state media says",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JLWJRc0kySFVRMFhucnZDakhvd3dVRUlvVUN6Wm0zQTZDMHowRURmSXZDSkVJbDhnZnlDa2ZHY1FrczdfVTBYd2xPZGwtN0RUWkxnRzFERHJtVjNzYko1S3pwbkRfaG84Q3FKaUdoNnRVX3RKWDMyTA?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 65,
+   "pub": "2026-10-23T12:18:04+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 7,
+   "changelog": false
+  },
+  "s1792763546_5": {
+   "title": "Vance becomes a hurricane as it churns off the coast of Mexico",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSC0wYW5HYncxemhwQ25VNUwxNThkZ0dWWVY2SEZVZUxQSlRvTS0yVGYyRHhweGdUUllJU2hGU1cwZ3A4bUw4YkdnNjdEblpnekJwVUM5aFYzZkhVSDVFZHRSUTdSRDc0VTZXc3o3eDVVRDBTaUtwcTZ2S09KcTVqQ3NiZElGWEtWaE52bkw3ZHNDM1NBODRWX1NId3FJQW1leG95NWJPdw?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-23T09:18:27+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_6": {
+   "title": "Live updates: 16 killed after M7.0 quake hits China's Xizang",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDR3Ti1zU2xaYlFiNXhUQjhJek94a3NBaGg5Ml94UlRoMmhaQ1J4ckNzSkxpVFJ6dHZJVWl0TWNwZnluMm5yWlZQN2x1ZHg5aUVxdERyb05hbDEyY3Bua0tpWDFfZHRkUXIwTEE3SHl3UmNDUzd1dll4QnJMZHJOck1xYzYwb3FpcmRreGxCbFZ1UW9qWUxOYg?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 95,
+   "pub": "2026-10-23T03:26:11+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 16,
+   "changelog": false
+  },
+  "s1792763546_9": {
+   "title": "Many feared trapped as a tall building collapses in Kenya",
+   "link": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771",
+   "sources": [
+    "ABC News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-23T13:49:16+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_16": {
+   "title": "LeBron pondered Cavaliers return before 76ers signing: \u2018It was in consideration for sure\u2019",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTlvYllfQlNway04Nm55bllqQ1pKNDJ1WHBuckJ2T3N1S2xNV2NieFRZTTVyVDhiNktLYXNMUGhZNkVSeU55cFJsMHFhZ1dfUUhsSnl0VGNMbWI5ZVdDbDE5V1FwdFRFMDBMSkZaYzhKOFZVVXRwdWhpdWRHTHpGNFVGUHBIM25RYzB2Mm9iSmFFX0U?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T10:00:19+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_17": {
+   "title": "\u201cPlayed His Last Down\u201d: Jalen Hurts\u2019 Eagles Exit Is a Serious Possibility After Blood Clot Diagnosis, per ESPN Reporter",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT2RoVld6WDl2OG9tMnVvSjFSNF9waEIxdUJvVmVQX28xQVVUQ0c0MDYyVE80WDk1VldYY05mOUtOVDNuLU1WbmNXN2Zhb18xaVk0dHUzdXgtRnNHX1hUVkJTY1MteFBYS2lxbWk1aGtEVktOSUxnOWNkOEtwQjJwMGx2VQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T10:40:00+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_18": {
+   "title": "If Eagles Trade Landon Dickerson, One Team Stands Out as Obvious Suitor",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGJ6TzUzcWxvYmstV2ZIY0hOWWVuc2tEQ256d3BvN2xJZUJFd2FqeXZDZnI2NjlQaEFsRi1ySDBJaENEazhrck16RWNKTWNBdThldkdFNmV0MzI2Qlk3SlQ4a1hFQmdBd1VGeG5BNXBZVGZlcWhUZkZrTDA4MWoxN1NjUXV2TXNpOXc?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T12:00:06+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_19": {
+   "title": "76ers\u2019 Jaylen Brown Accuses Celtics\u2019 Jayson Tatum of Lying About Trade",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVExrRWhqUWpVSEpnRWFWUUFzc0pPMnk4NENldmhnMXhlR09haVZaRW90Y3pUNTVVRjNIWGVqWnlfME1temtrY1JXUEhRRTRIYktvMVp4dE90eGxCR0FCc1JINVJaR1d5WTluUllITnhqMDJ6NVBncE9OcWtrcHl3UHVNT042YXppeVdF?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T09:38:59+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_20": {
+   "title": "3 Realistic Riq Woolen Trade Destinations That Would Net Eagles Biggest Return",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRjJmWllVMjNBLVpPeDlzU01VaURoeVJweWkxdm5FUmVTN1pTd3I5RVpVbDFRRXVKZ3BOSmJJa1lyQjlESFlnSG5yYjdWZmpScWN3UUlLdTdHa1FybTBubU94b3ZfeElRR0ZJejczdTM3TXNQeVRMRFRmclllQ1FFQ18zNU1iX0VQMHRNYVRIckRyOGRWcVZuQlVfekxFQUJaNlF2a2ZoZzdELXNSNWVMMnF1U2FsSVI0TTBaWnI1b0xNWHpu?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T10:00:01+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_21": {
+   "title": "Super Bowl contenders at a crossroads: Will Rams, Seahawks and Eagles all miss NFL playoffs?",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVZ3NGkta05HZm9kdjRjUUV5dzlOZ2dTOFliVE80aWI4eGFaSTYwOWlEcUl4NVpiRHpFYV9qeFhGbmo0bUV1QkdNdV81bHVsTDI5bTdnc1VCMlk0YVlJOTk4Zi1GdTl2UXdKX2tyVXVUeTUyZUZNMlNUNEI5Q2YzOGliTDFzV3Y1QnJrZDY3QQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-23T09:00:01+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_25": {
+   "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
+   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-23T09:35:00+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_39": {
+   "title": "Enter Elon: Tesla robotaxis \u2018coming soon\u2019 to Jacksonville \u2014 but will they reach St. Johns?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRvQ0w4MzdOS2lnam1TaE53b1Y3QkdNTTc5RzFqR25RQ2FlRE9SbGdSOTBsVVNyc0lMeVRDMmI2TlJmM2VrQU5LZVRvN3plUHl4amc4dXUyWmVBSzllMWdoUm5aN1E4MFk1M3VJQ1RUTGlwcjhxWTN5NUx0dHZyU1QwcnM3SHQ2NjFWZ2o1cGw2ZkFCcHRxSlhRTzhBZk8wQ05wZnVwZF9Sdw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-23T13:42:34+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_40": {
+   "title": "Tesla Model Y Years to Avoid\u2014One Year Drew 1,186 Complaints and a Steering Recall",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNTVPcDV6SlFzbWlzTTJLTmVWMXNobEUySW9sU2M2TllvaEZTcG04YnFjM1haMkVLbkRmOHJiZVRlV25YcnNnU2xObHV2WWlubVNGa2p2cmxzRldfYVVLdGlXT2g4ejVYa1E?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-23T12:58:06+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792763546_42": {
+   "title": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions \u2014 passwords and details stolen from over 400 institutions, including banks and payment apps",
+   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-10-23T11:00:00+00:00",
+   "first_seen": "2026-10-23T13:52:26.165934+00:00",
+   "last_seen": "2026-10-23T13:52:26.165934+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1434,8 +1639,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"35558edcaf9daa8e875b0f4f0c4c6c10\"",
-   "modified": "Fri, 23 Oct 2026 08:39:51 GMT"
+   "etag": "W/\"1e40a46f6afd762da699c315ede0ae66\"",
+   "modified": "Fri, 23 Oct 2026 13:51:04 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1447,15 +1652,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 08:48:04 GMT"
+   "modified": "Fri, 23 Oct 2026 13:48:04 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"cb982d14dc2b2d241e5114e8bf33824f\"",
-   "modified": "Fri, 23 Oct 2026 08:19:50 GMT"
+   "etag": "W/\"459fb7195088e81ac83ffb973fbc1a35\"",
+   "modified": "Fri, 23 Oct 2026 13:42:42 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1463,35 +1668,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 08:48:48 GMT"
+   "modified": "Fri, 23 Oct 2026 13:53:13 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"6c9dc6fbf8f7a18b744749999317179b\"",
-   "modified": "Fri, 23 Oct 2026 08:30:38 GMT"
+   "etag": "\"262fa82bcdb2585f9798cea38c50fa69\"",
+   "modified": "Fri, 23 Oct 2026 13:35:14 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 23 Oct 2026 06:43:31 GMT"
+   "modified": "Fri, 23 Oct 2026 12:58:47 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"b70f9f08adabb4fb9c41a75939c7d285\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"1ca3ee888cc9e33d84825ed35525e31f\"",
-   "modified": "Thu, 22 Oct 2026 23:21:48 GMT"
+   "etag": "\"6bd165d77350328cb61d995b1e4f2882\"",
+   "modified": "Fri, 23 Oct 2026 13:40:07 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"1277f60a67b6ed43b128a2671bc89c15\"",
+   "etag": "W/\"1525194336c1dc5d841280b384513bca\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"c3589e03e6782b38d74f60e5b13fe7f7\"",
+   "etag": "W/\"6b78d092b9028ea3c87114a7f477f7cd\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"7caaa02e4a21ab13ded4762fdc67121b\"",
-   "modified": "Fri, 23 Oct 2026 02:50:29 GMT"
+   "etag": "\"f64f011b7dc27144c20d0f3bd82c3385\"",
+   "modified": "Fri, 23 Oct 2026 13:47:31 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1503,11 +1708,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 22 Oct 2026 19:55:47 GMT"
+   "modified": "Fri, 23 Oct 2026 13:37:43 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"8b31f9743f7eed72ba48bc0d095b5650\"",
-   "modified": "Fri, 23 Oct 2026 00:11:04 GMT"
+   "etag": "W/\"d4a54113b9e7391307b7e960acd9f639\"",
+   "modified": "Fri, 23 Oct 2026 12:47:12 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1518,8 +1723,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"b1dedcb5b8c870c41da7a71a2b18dcba\"",
-   "modified": "Wed, 21 Oct 2026 21:07:08 GMT"
+   "etag": "W/\"f08347949b2891e3efc6453651246504\"",
+   "modified": "Fri, 23 Oct 2026 13:28:36 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
