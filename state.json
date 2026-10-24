@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1792604187_32": {
-   "title": "Elon Musk recalls firing Tesla employee who later killed 3 people in Austin shooting: 'He was fired because he assaulted a woman' | Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMzJUc3E2Z00zcVl0Q3dEVV9yNjNEWWNoNTBCRzBBRjBORTV1cFFnRGI0VWhmUGlCV0VFQWhtYUlMUkhlVlFscG1QYmtIZGVaZlhLd09Zb0VRTkRHclppUjlwZnpJWDBLcnFwUkM2Yk1jSy1jVEFlZ1dxZ2dIVzdJTUlCNmpqaFFLeFB6WVM2U2JKLUtpeElOZTFpdUJiWElkWHdxdHRVbzNxUnZ0eU5XVHdJeWtxRUVRREpDWkYxQzNjTXVXR3BMR3B2eGpJckJIWGNHVGQ2MnFSVGd6dk03Mll5U0phVGJFV00yNEtGOGVmdEx4SFVWLW5zaHlLS21FdWg4ck4tbEVVbGhFLUxSTFFDYUNRZGlETnfSAZ8CQVVfeXFMTnp4UWJyaXU0MkJXYWdoSkNReS1WMXNTeE9DLTFFSHRxbHBVM3VPelJyb2RvMEROZkFMak5jX1RHaGpIQjRmMTVGNnNaVHFXY2RQcmE3LWR6Tnk4ekJ6aU5BTDlOZG1LUTdLbUZsU29hRmJRTHBYbTNZZnRwYU1CaURhN3EwbExmOXZPeWk4cUtvdHRQa0NQaFdKWm94NkJGcVpOZDJMV0dkbkFzSkdURWxzWTdyS0p6aHlTcjNrQXotSlFBZ0VYZzFCWGQ5LXBDckN1a016UE5ZWERGOVZtX0xWVENxUlBqUjBWeUQtaUR0LW5vVU51eE0wXzhMa1lYRm1vaDRseHFPWGRrLU8tQlc3Z2M5M1lfZEtEcGRRUWc?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T10:32:08+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T17:36:27.281746+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792615909_35": {
    "title": "Tesla FSD \u2018subscriptions\u2019 hit 1.74M, counted the way Musk\u2019s pay package wants",
    "link": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
@@ -97,7 +80,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -116,7 +99,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -134,7 +117,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -168,7 +151,7 @@
    "base": 80,
    "pub": "2026-10-21T23:36:31+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -236,7 +219,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -414,23 +397,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792691916_7": {
-   "title": "Magnitude 1.6 earthquake reported in Morris County, New Jersey",
-   "link": "https://6abc.com/post/magnitude-16-earthquake-reported-morris-county-new-jersey/19969060/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-22T16:02:11+00:00",
-   "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792691916_18": {
    "title": "Traded Eagles Champion Addressed Emotional Fresh Start With Ravens",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGc2Tzd5d0VDbVUycmRUQ21oRzhCZ3NqQlQzVjc2aFh2RHd0dklabkdlc2JrQTM3UVBDSWJvWHU2THBfRThLTXNHYkVaOUdPamgzVWtubWQySVZISVNhNlBPN0hEWkFPbHQ2Q0UxZG5DSG4xQnRUYkVRc3VBcDE2ZVM1ZExPUEtYb2ZzOEFqN0lTOFhoWVE?oc=5",
@@ -476,7 +442,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -498,25 +464,6 @@
    "trust": 2,
    "gate": 0,
    "cas": 0,
-   "changelog": false
-  },
-  "s1792703361_1": {
-   "title": "At least 16 dead when powerful 7.0 magnitude earthquake strikes Tibet",
-   "link": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/",
-   "sources": [
-    "CBS News",
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 155,
-   "pub": "2026-10-22T17:16:02+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 16,
    "changelog": false
   },
   "s1792703361_5": {
@@ -548,7 +495,7 @@
    "base": 80,
    "pub": "2026-10-22T18:53:13+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -600,7 +547,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -618,7 +565,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -742,7 +689,7 @@
    "base": 80,
    "pub": "2026-10-22T21:33:53+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -811,7 +758,7 @@
    "base": 80,
    "pub": "2026-10-23T00:45:00+00:00",
    "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -846,7 +793,7 @@
    "base": 80,
    "pub": "2026-10-23T02:47:00+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1051,7 +998,7 @@
    "base": 110,
    "pub": "2026-10-23T09:35:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1102,7 +1049,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1187,7 +1134,7 @@
    "base": 80,
    "pub": "2026-10-23T15:48:29+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1206,7 +1153,7 @@
    "base": 80,
    "pub": "2026-10-23T15:50:50+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -1242,7 +1189,7 @@
    "base": 135,
    "pub": "2026-10-23T19:42:08+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1293,7 +1240,7 @@
    "base": 80,
    "pub": "2026-10-23T20:26:40+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1362,7 +1309,7 @@
    "base": 80,
    "pub": "2026-10-23T18:49:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1380,7 +1327,7 @@
    "base": 110,
    "pub": "2026-10-21T23:29:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1391,13 +1338,14 @@
    "title": "\u2018I Have to Go In\u2019: Dad Describes Killing Gunman in Oregon School Shooting",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTV90UXJxcjJtb1BXS0dhdUZvNjFrWGlFTkRCdHFKcUxWeVFEaTktT3JMTGZSQzRqU0VPdElBU1I3Zm9YV2NGS2VKbGZhNFpmSGJuOHhWd0xtZWs5VnRMYjBNVnNjZ1lKM0hzVTlGeTdDVjJsbEt4cGpzRkpqSkdkaGNKQ0hJSUtK?oc=5",
    "sources": [
+    "CBS News",
     "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-10-23T21:33:59+00:00",
    "first_seen": "2026-10-23T23:44:37.354823+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1533,7 +1481,7 @@
    "base": 60,
    "pub": "2026-10-24T06:31:06+00:00",
    "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1567,7 +1515,7 @@
    "base": 80,
    "pub": "2026-10-24T01:30:00+00:00",
    "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1584,7 +1532,7 @@
    "base": 80,
    "pub": "2026-10-24T08:00:00+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1601,7 +1549,7 @@
    "base": 80,
    "pub": "2026-10-24T08:56:59+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1618,8 +1566,59 @@
    "base": 80,
    "pub": "2026-10-24T13:12:00+00:00",
    "first_seen": "2026-10-24T15:57:21.824095+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
    "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792866611_0": {
+   "title": "7 dead, 40 wounded in Jordan church funeral shooting",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTElhdnNRWkx0RHplT255cUItalUtOU9MUkRhemFkWEJ0NGhrZHBiMVdOWlJIU3dvM28ybEVzcHFFdGJaUXgtUlJtRFJac2tJMmFTY2FYdTZpOHRoUzlqSkJfc1pBRG1RQzd4eG1RRlplMzIwQWp2X0NCMF82ZUlGNGFPT3ExRzhodTYxRG11MnVmZ9IBpgFBVV95cUxPeW5SUnIxWFlFOFk1MnBZdDRqMEl6eTFDb19CbFdiUmROeS1jNnNiUHZ3UjdlVmUyRzBFTk5hOEtLZklOcGNreW8zUWRGUXJoNTF4ZmRWcklJRk9BaGlrckJBaDEwNFJ2OEYyZGdLMjFSa3R5U2dMZTJWMExmUlFuVXRUek5uS1ZiS2ZtSFhlLUx5UDdBelZHTW9IZUFzZDEybDBmUVpR?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 65,
+   "pub": "2026-10-24T13:03:00+00:00",
+   "first_seen": "2026-10-24T18:30:11.134851+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 7,
+   "changelog": false
+  },
+  "s1792866611_1": {
+   "title": "6 killed in fiery turnpike crash involving Road Ranger, troopers say",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1Rpc3NoWFpUVjNkMmhydnR3Q0FBdEdQZHJERUVXZnRvaThLSTNXaVJ0WjJINzVHVnhIUVplVFpqOGs3YWc5THBBUGp3Um41NEhVV1RoaVZub0JtZ2F4bHBjVDRZNmYxYmJkVDBMU2U2ejVLeDlTMFBLc2N5Z1hSQkR6Mk5HekwwVElyNkExcGgtZFdQZl9XSHJpUTNhYWtqUUNWWGRqclhYMDhuZmRoMzFn?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 65,
+   "pub": "2026-10-24T02:35:11+00:00",
+   "first_seen": "2026-10-24T18:30:11.134851+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 6,
+   "changelog": false
+  },
+  "s1792866611_23": {
+   "title": "Tesla FSD and Medical Emergencies: What Owners Should Know - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTFhQmVPMnhNdHdpM3B3cUtoVDBmMVhXV1l0OHk4SGNGcTRUejV6X1AtUnR2aGdydnV0LV9EX1liUElhVHJFcktQSzhsbnNlcDlJQnV4ejFIOFU0VXE2YkIwNkM0c2dKN3VvaW1pOGFPd2pReS1uVEhPNW5MbkRaa0VoOS15d29KX0MyVkJzR2c2VW1UR0Fz?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-24T17:06:24+00:00",
+   "first_seen": "2026-10-24T18:30:11.134851+00:00",
+   "last_seen": "2026-10-24T18:30:11.134851+00:00",
+   "team": null,
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1636,8 +1635,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"da680b11424711636281461c9fde86b6\"",
-   "modified": "Sat, 24 Oct 2026 15:57:02 GMT"
+   "etag": "W/\"c1dcfed2cbaa944623fbe287636c1366\"",
+   "modified": "Sat, 24 Oct 2026 18:27:38 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1649,15 +1648,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 15:54:12 GMT"
+   "modified": "Sat, 24 Oct 2026 18:29:40 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"834fa7fb44be8f15175a42e247e87146\"",
-   "modified": "Sat, 24 Oct 2026 15:35:00 GMT"
+   "etag": "W/\"a99bd842087397c26aba863292d2bccc\"",
+   "modified": "Sat, 24 Oct 2026 18:03:41 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1665,35 +1664,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 15:58:08 GMT"
+   "modified": "Sat, 24 Oct 2026 18:30:43 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"9c0d1b3dae5a6dd74377af26c26b5484\"",
-   "modified": "Sat, 24 Oct 2026 14:10:28 GMT"
+   "etag": "\"8a0195dd7d6f691c87975eea5a032b75\"",
+   "modified": "Sat, 24 Oct 2026 16:05:23 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 13:09:19 GMT"
+   "modified": "Sat, 24 Oct 2026 17:10:09 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"21a09e825c111280a86ac1d739fb6f28\"",
+   "etag": "W/\"d9a1cc1bda4c5fa2d8cf44e16716a8f2\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"48ca1d8cff07c0aefe4c8625f4765484\"",
-   "modified": "Sat, 24 Oct 2026 14:30:00 GMT"
+   "etag": "\"f69dc72ced13246595e6242feaa0d4e1\"",
+   "modified": "Sat, 24 Oct 2026 17:58:48 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"4baea66f3eae2a46a2d31482becb09e1\"",
+   "etag": "W/\"8739f3509f46895e13858a8f1e4ac66e\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"a0091b83b47f22ff2b85b8d215ac9bb4\"",
+   "etag": "W/\"25e7cc5b045b88bcd202bdcec52e3ca3\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"1e352346c883bc23d9230c1efac3601a\"",
-   "modified": "Sat, 24 Oct 2026 15:57:06 GMT"
+   "etag": "\"b8c9073ad28fefde701850a426c353fd\"",
+   "modified": "Sat, 24 Oct 2026 17:06:15 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1705,7 +1704,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 04:29:30 GMT"
+   "modified": "Sat, 24 Oct 2026 17:48:29 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"871aa1008f62664465ec56bdb2f09494\"",
@@ -1720,8 +1719,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"008617c8d2766dbee7d6822eaa40e4cc\"",
-   "modified": "Sat, 24 Oct 2026 15:04:39 GMT"
+   "etag": "W/\"bddcb9dfe318cf6511547d53af5fa3ce\"",
+   "modified": "Sat, 24 Oct 2026 16:11:49 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
