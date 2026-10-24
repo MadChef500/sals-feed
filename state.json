@@ -28,7 +28,7 @@
    "base": 80,
    "pub": "2026-10-21T20:45:18+00:00",
    "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -97,7 +97,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -116,7 +116,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -134,7 +134,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -168,7 +168,7 @@
    "base": 80,
    "pub": "2026-10-21T23:36:31+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -236,26 +236,9 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792654555_17": {
-   "title": "Flyers reportedly engaged in Simon Edvinsson trade talks",
-   "link": "https://www.broadstreethockey.com/post/flyers-reportedly-engaged-in-simon-edvinsson-trade-talks/",
-   "sources": [
-    "Broad Street Hockey"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-22T02:50:59+00:00",
-   "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-23T17:59:11.072696+00:00",
-   "team": "flyers",
-   "trust": 3,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -431,23 +414,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792691916_2": {
-   "title": "Hurricane's $40M city hall, police station project moves closer to breaking ground",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOWlJUU0ySHZ4REFqNkJMWUJ3WVVTWFphaFhtOFZLNTI0UFRrak1UZnFoYTRmbEtDWDdXVW02elpDQnlOMnpLMzJiMVZRZXZfX3RVR242OVMwNU1JOFdvT2JxN1hfX0p2bHNENWQzbXRyR3VraVZ5dFRMZVJleHdxMG9oZkhlQzZCLS0wbjNBVGl3bGFSLXUweXc5SnU5NnlrXzZwX3dyUzlQaHg5VmJrSmRwX1BEakxYS1UwM0VQMU5aSU01ZUQ0cG1WQ0J3QU9IZDUtWlB4NnZialVoOGt3cld2N3lMRExDWmYzS1V3S2VrMzhrWEE?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-10-22T13:30:00+00:00",
-   "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-22T21:09:21.974295+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792691916_7": {
    "title": "Magnitude 1.6 earthquake reported in Morris County, New Jersey",
    "link": "https://6abc.com/post/magnitude-16-earthquake-reported-morris-county-new-jersey/19969060/",
@@ -510,7 +476,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -582,7 +548,7 @@
    "base": 80,
    "pub": "2026-10-22T18:53:13+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -634,7 +600,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -652,7 +618,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -776,7 +742,7 @@
    "base": 80,
    "pub": "2026-10-22T21:33:53+00:00",
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -845,7 +811,7 @@
    "base": 80,
    "pub": "2026-10-23T00:45:00+00:00",
    "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -880,7 +846,7 @@
    "base": 80,
    "pub": "2026-10-23T02:47:00+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1136,7 +1102,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1221,7 +1187,7 @@
    "base": 80,
    "pub": "2026-10-23T15:48:29+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1240,7 +1206,7 @@
    "base": 80,
    "pub": "2026-10-23T15:50:50+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -1327,7 +1293,7 @@
    "base": 80,
    "pub": "2026-10-23T20:26:40+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1414,7 +1380,7 @@
    "base": 110,
    "pub": "2026-10-21T23:29:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1431,7 +1397,7 @@
    "base": 60,
    "pub": "2026-10-23T21:33:59+00:00",
    "first_seen": "2026-10-23T23:44:37.354823+00:00",
-   "last_seen": "2026-10-23T23:44:37.354823+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1567,7 +1533,7 @@
    "base": 60,
    "pub": "2026-10-24T06:31:06+00:00",
    "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1601,7 +1567,7 @@
    "base": 80,
    "pub": "2026-10-24T01:30:00+00:00",
    "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1618,7 +1584,7 @@
    "base": 80,
    "pub": "2026-10-24T08:00:00+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1635,8 +1601,25 @@
    "base": 80,
    "pub": "2026-10-24T08:56:59+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
    "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792857441_7": {
+   "title": "Bills Paired With Eagles For Trade That Would Fix Defensive Problem for Buffalo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjRYUFVoOEVzVmJ5cmgxWkNVS0poUDRoU2Zhc3d1UzhhbUNQOTRCRm5GWkM1NW5NSjRQU3VUNzhlMnEzbU84TEN4MW03bWxkbXp3d1dUVVg4akVNRGlsUXc5MXFZSTE1WmtIaC1Kc3l2UnJFbXN2dm9CZTZOQ0pMV1o5SExvcjJaNVotTDJ3V0ZqNXhsRGdLQUctd1RkbHJnWjdRclJOWThIOFU?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-24T13:12:00+00:00",
+   "first_seen": "2026-10-24T15:57:21.824095+00:00",
+   "last_seen": "2026-10-24T15:57:21.824095+00:00",
+   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1653,8 +1636,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"95b837a9e4858f835ad8022f876dcdca\"",
-   "modified": "Sat, 24 Oct 2026 12:01:14 GMT"
+   "etag": "W/\"da680b11424711636281461c9fde86b6\"",
+   "modified": "Sat, 24 Oct 2026 15:57:02 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1666,15 +1649,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 12:00:59 GMT"
+   "modified": "Sat, 24 Oct 2026 15:54:12 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"63eb7bac3dd74b9179651c216ba98a87\"",
-   "modified": "Sat, 24 Oct 2026 11:57:36 GMT"
+   "etag": "W/\"834fa7fb44be8f15175a42e247e87146\"",
+   "modified": "Sat, 24 Oct 2026 15:35:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1682,26 +1665,26 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 12:03:26 GMT"
+   "modified": "Sat, 24 Oct 2026 15:58:08 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"ed6c751265ae5e1c8714f8467b8b4811\"",
-   "modified": "Sat, 24 Oct 2026 10:00:24 GMT"
+   "etag": "\"9c0d1b3dae5a6dd74377af26c26b5484\"",
+   "modified": "Sat, 24 Oct 2026 14:10:28 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 11:12:30 GMT"
+   "modified": "Sat, 24 Oct 2026 13:09:19 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"6150fc42306c9834637a22c5398f40d6\"",
+   "etag": "W/\"21a09e825c111280a86ac1d739fb6f28\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"046eda4d3dcb50d2faa464a5043f718c\"",
-   "modified": "Fri, 23 Oct 2026 20:26:42 GMT"
+   "etag": "\"48ca1d8cff07c0aefe4c8625f4765484\"",
+   "modified": "Sat, 24 Oct 2026 14:30:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"d38ca05f7cd798839c247cdf81450697\"",
+   "etag": "W/\"4baea66f3eae2a46a2d31482becb09e1\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1709,8 +1692,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"387a7b6ca4b68a45c6e1a067f1dec42f\"",
-   "modified": "Sat, 24 Oct 2026 10:50:34 GMT"
+   "etag": "\"1e352346c883bc23d9230c1efac3601a\"",
+   "modified": "Sat, 24 Oct 2026 15:57:06 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1725,8 +1708,8 @@
    "modified": "Sat, 24 Oct 2026 04:29:30 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"bee74fdab9e5f0776538231f87471fcb\"",
-   "modified": "Sat, 24 Oct 2026 11:59:07 GMT"
+   "etag": "W/\"871aa1008f62664465ec56bdb2f09494\"",
+   "modified": "Sat, 24 Oct 2026 14:04:51 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1737,8 +1720,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"9d8788d01d67f1375b7e4f4104acfa0c\"",
-   "modified": "Sat, 24 Oct 2026 11:03:30 GMT"
+   "etag": "W/\"008617c8d2766dbee7d6822eaa40e4cc\"",
+   "modified": "Sat, 24 Oct 2026 15:04:39 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
