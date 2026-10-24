@@ -1,56 +1,5 @@
 {
  "stories": {
-  "s1792565485_28": {
-   "title": "Claude Code found on servers used in AI-linked cyberattacks",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RQl85RzBFX1k4N2o5cERPd0ozTG11cWdSR200ZXYxX1lXQzFyZDM2OUZHVmpLRTFFUk1Gc1Y3ZzRTUGlnNG1SMG5TcWJGVjI4RWRNdF9n?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-21T04:04:00+00:00",
-   "first_seen": "2026-10-21T06:51:25.228291+00:00",
-   "last_seen": "2026-10-21T06:51:25.228291+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_20": {
-   "title": "SEPTA Spotlight: How train operator Taneisha Moody was inspired by her female mentors",
-   "link": "https://6abc.com/post/septa-spotlight-how-train-operator-taneisha-moody-was-inspired-female-mentors-came-before/19965225/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-21T17:01:44+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-21T20:51:49.791044+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792604187_27": {
-   "title": "Philadelphia Eagles face costly fine print if they want to cash out on Saquon Barkley at the NFL trade deadline",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1VzNmZiQ1dFZTQxOUtST2RZMmpkWWdyRklXbXdDT0pRU3RJVkNPRnFxWGxweW5EeTJpLTJnRjhkWGZUMGNOcWZVLXhvMnBTNFNTbnRXRDN3MzBiMmhWTW5GeVRJWXo5S0NPMWFoWnB0ejEtUV9YTDFPblN1ejlJY05ld2pYU2VhWWJGckxKeFhHbFM0ZWVlVW9fQWUwYmxKcUU0amdUYzNzMzRoWFE3aC0xM1A2UExnM0s4ZFg5YVp6WEZSX3lIQ1NmWmtBa1phbl9zUG12RGxrUlhZR1pzakRrUmtTUEJLTGZpWmk4MjNhWHV3SVo4?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T14:58:51+00:00",
-   "first_seen": "2026-10-21T17:36:27.281746+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792604187_32": {
    "title": "Elon Musk recalls firing Tesla employee who later killed 3 people in Austin shooting: 'He was fired because he assaulted a woman' | Hindustan Times",
    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMzJUc3E2Z00zcVl0Q3dEVV9yNjNEWWNoNTBCRzBBRjBORTV1cFFnRGI0VWhmUGlCV0VFQWhtYUlMUkhlVlFscG1QYmtIZGVaZlhLd09Zb0VRTkRHclppUjlwZnpJWDBLcnFwUkM2Yk1jSy1jVEFlZ1dxZ2dIVzdJTUlCNmpqaFFLeFB6WVM2U2JKLUtpeElOZTFpdUJiWElkWHdxdHRVbzNxUnZ0eU5XVHdJeWtxRUVRREpDWkYxQzNjTXVXR3BMR3B2eGpJckJIWGNHVGQ2MnFSVGd6dk03Mll5U0phVGJFV00yNEtGOGVmdEx4SFVWLW5zaHlLS21FdWg4ck4tbEVVbGhFLUxSTFFDYUNRZGlETnfSAZ8CQVVfeXFMTnp4UWJyaXU0MkJXYWdoSkNReS1WMXNTeE9DLTFFSHRxbHBVM3VPelJyb2RvMEROZkFMak5jX1RHaGpIQjRmMTVGNnNaVHFXY2RQcmE3LWR6Tnk4ekJ6aU5BTDlOZG1LUTdLbUZsU29hRmJRTHBYbTNZZnRwYU1CaURhN3EwbExmOXZPeWk4cUtvdHRQa0NQaFdKWm94NkJGcVpOZDJMV0dkbkFzSkdURWxzWTdyS0p6aHlTcjNrQXotSlFBZ0VYZzFCWGQ5LXBDckN1a016UE5ZWERGOVZtX0xWVENxUlBqUjBWeUQtaUR0LW5vVU51eE0wXzhMa1lYRm1vaDRseHFPWGRrLU8tQlc3Z2M5M1lfZEtEcGRRUWc?oc=5",
@@ -81,74 +30,6 @@
    "last_seen": "2026-10-22T17:58:36.401481+00:00",
    "team": null,
    "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792615909_25": {
-   "title": "Goodell open to review of Eagles\u2019 handling of Hurts\u2019 blood clots",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHJTcFo1NGREUWN4bTdDZlQ0R1lOU2x4OWlfNjdMdjhiTkpHdkZsV2NtdkpHcTNXS2FOQ0tjSVhUakRfQTBYOW1nOXhiUFdBSndydVVuVE1EdTRhU2x6TndPZWhOVGdQckZBSUE1N2RXaWFmRnZaZVVpQUFPZlhwLWRYc2tjUW5nXzdjVmc2cGpsanRLSTNTdnNWSUVKcWpkY29uZnZlbEZxTXZOMjVETExZMVBMUXBFV3NxbGRn?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T18:35:25+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792615909_29": {
-   "title": "Confidence Meter: How I Feel About the Eagles' Playoff Outlook After Loss to Panthers",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSk1zUElSeXhaN0J6VzE2cG9UUUZ3R2ctYWhGRzh5N09SV2xkN0s2WVRad3dlU2ZJZW1kTmJ4MXo4QlZLSkRlNHRYNjJLelRmWHhwTTQxcXB4Skp1WEtVTkV2ZVpUdXlTNnRLWmhOOHQ1Z2hGb1BEd0pqWS1lT0lkRVZDaXVJZ2dpMzNrZ2E3XzlPVjVmSk9rTnpqQ0JmNmhVVGNpYkVnemlScmxKNXNQdlItLWFrUVNXZ1ZwbmpRRjFrZUJYeHc1aDVJMA?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T18:16:11+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792615909_30": {
-   "title": "Are the Cardinals a natural trade partner for the Eagles?",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenJ4OWhwSVBoakVPMXR1aURxeG1NQ241Y3hoTkMxVnVRa3luUmxHdmZXUTREb0o2XzJiMWJtSEdSNE5od2MwcmNRR0c1WTctNnBEVFBMY2lLcDlVaDk3amNiV3pOUWlrcnU4bkZ1WnRFYVprMUYyUVU3UXd5ZHlRaFZGYkE3em1tZ0k2UFRKMjJtNnhUUm5qc3NkQnZMLWEwWjFRM3JXcw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T18:22:55+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792615909_31": {
-   "title": "Eagles emerge as team to watch as trade deadline approaches",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkN1S0Y1WnJGeU1Jck42Wk5yZVRjaURlQVdrcTFQYjlzYks5OUl5SVBwLW5xZlpMMmtWUjZKYVpGbEZ3ZjYzdjNFTjg4TW1HSS1LSi1IZmxxcUZ1cllMQmRSRU5lNnZnaGRLb19FUVUxY1pTWmRxN0FtM0ZpaWJlYmUySXQyZw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T18:26:57+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-21T23:45:38.867740+00:00",
-   "team": "eagles",
-   "trust": 2,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -250,7 +131,7 @@
    "base": 80,
    "pub": "2026-10-21T21:30:00+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -269,7 +150,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -287,7 +168,7 @@
    "base": 80,
    "pub": "2026-10-21T23:39:41+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -389,7 +270,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -663,7 +544,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -805,7 +686,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -839,7 +720,7 @@
    "base": 80,
    "pub": "2026-10-22T19:02:55+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -916,23 +797,6 @@
    "team": null,
    "trust": 2,
    "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792713557_10": {
-   "title": "\u2018It Looks Terrible\u2019 \u2014 Eagles Legend Jason Kelce Makes Feelings Clear on Philadelphia\u2019s Handling of Jalen Hurts\u2019 Scary Blood Clots",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMU9zOUhLZ3hudy1Bek9zd1VPcDBBMjZxeUEyXy1KcW92c0lKYlY3M0R0RWppdUphMWdqUlBteTNPeUxELXIxdHNGY1JTRWItcEh5X2VIV0dQeVZGNzdUMnlEUDNGbE5Ic2xUSWtITV82VW0wSXBibTNjVHIwU0F0NDM1NjcxSTJhWmlR?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-21T18:56:31+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
    "cas": 0,
    "changelog": false
   },
@@ -1015,7 +879,7 @@
    "base": 80,
    "pub": "2026-10-23T00:45:00+00:00",
    "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-23T23:44:37.354823+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1050,7 +914,7 @@
    "base": 80,
    "pub": "2026-10-23T02:47:00+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1170,7 +1034,7 @@
    "base": 80,
    "pub": "2026-10-23T10:40:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1306,7 +1170,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1513,7 +1377,7 @@
    "base": 80,
    "pub": "2026-10-23T19:03:46+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1565,7 +1429,7 @@
    "base": 80,
    "pub": "2026-10-23T18:49:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1667,7 +1531,7 @@
    "base": 60,
    "pub": "2026-10-23T19:12:33+00:00",
    "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1707,6 +1571,74 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792826265_0": {
+   "title": "Union head calls MLB's salary cap proposal 'nuclear bomb' ahead of World Series opener",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEduQXI2VlFfX1lTRW54bXhUdVdJMjlBMklwc2dHRmFDbjc5NF9iVW0tMXROWFZjUEFuX3NKZWwxbVNjOHFMQ0Rld1U0TlBUYU9VSldtd2NJNDRHakE4RktFVkFudWZid0lpX3VrQVU5X0Uxd3VURTFiN0VYSVZVTG9aXzJUSnBDOEx2aDhzcjhlemZhNkJuVG1COXdOWmtxMUJKTGFPU3YzWEo2WkI2OFdCQ3hjN3NJVUZsVEhGQkpoNGFzWGc?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-24T00:06:27+00:00",
+   "first_seen": "2026-10-24T07:17:45.423427+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792826265_1": {
+   "title": "No tsunami threat to Hawaii after large quakes hit off Vanuatu - Honolulu Star-Advertiser",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1JPcExYS08xcUdaMXNzcUpYanpIY2JqNnJoV3dHblJDdEt5c0tueFpVa0hhRTdwN0VTQlJIREdzdmRsT2llM2w3ajJsbVRjLXhNTWc4UkdLbFlnVVlrbGh2M2cyZUxudHpNaGQyNy0wM050SXZyaW10dW5GTFh2amhySTAyc0tnR0ZXOGFad3d3aEJfX3lUVUM2WDZ2S04xa21TX2F1bXMzdEE1WlNrT1hfNkV6ckp5Z2Fz?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-24T06:31:06+00:00",
+   "first_seen": "2026-10-24T07:17:45.423427+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792826265_11": {
+   "title": "Vallejo: Man Killed By Tesla In 'Full Self-Driving' Mode Is Identified",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0tuY0tIUVJYMW9pTldxa05sYS1ic09zTlZ1NXl4bVpPUTZXeDJHYzdFaDl0RVI5cEhSQkR6TWVYZl9pUWRQSzU3VUJWd0VEN0FTaHFFcWMzUkw3UURSaDFDSEZFbWRiQ2VOblZ1UVBmS1ZxUTg0UlpzTUpEdnlkWkR0Xy1NRmRIOFMwLUZDLWFMMzl1RHp3?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-24T04:36:55+00:00",
+   "first_seen": "2026-10-24T07:17:45.423427+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792826265_16": {
+   "title": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2pPQjVyNzBvbFk4OEFMTFdLaHRfU09PMzBtQnNHN0ZwOGdRTG1NdTRob05vQU1pSzhhelVLUmZKU2l6T2E2VWVLWkpuaWxoakRIVmJUeGo4TmNMRDh0TWFNSHNJNGNZZ0VIendReHZFRllZN3V3bktRVEs5YVdwVDJob0tLMkRCOXZlYldrcw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-24T01:30:00+00:00",
+   "first_seen": "2026-10-24T07:17:45.423427+00:00",
+   "last_seen": "2026-10-24T07:17:45.423427+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1719,8 +1651,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"8e1d5055757446a0d202e93d85eb8107\"",
-   "modified": "Sat, 24 Oct 2026 02:04:17 GMT"
+   "etag": "W/\"31c4aeb5f1dc871822710ff5eea3cf8c\"",
+   "modified": "Sat, 24 Oct 2026 07:15:20 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1732,15 +1664,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 02:04:22 GMT"
+   "modified": "Sat, 24 Oct 2026 07:15:26 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"d48a942b4f329fb292c4f1f05c4413b0\"",
-   "modified": "Sat, 24 Oct 2026 01:30:00 GMT"
+   "etag": "W/\"d09aa0f6e49de76d5371cc7bb3c4643e\"",
+   "modified": "Sat, 24 Oct 2026 07:09:55 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1748,7 +1680,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 02:06:40 GMT"
+   "modified": "Sat, 24 Oct 2026 07:18:16 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"cdde5a0a703479e991a3a23ef28f06dc\"",
@@ -1783,8 +1715,8 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"45d96f3b602e901ac6950198e6dd09e2\"",
-   "modified": "Fri, 23 Oct 2026 17:11:56 GMT"
+   "etag": "\"127be95f1204313b85c4be448092e53f\"",
+   "modified": "Sat, 24 Oct 2026 05:06:18 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
