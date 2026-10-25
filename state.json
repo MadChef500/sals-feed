@@ -1,57 +1,5 @@
 {
  "stories": {
-  "s1792626338_37": {
-   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
-   "link": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
-   "sources": [
-    "Google News Tesla",
-    "InsideEVs"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T23:39:41+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792626338_40": {
-   "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year \u2014 will it happen?",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWM5dnVTbXd6TGlPWF9nSm93V3NiSWl6YXRueFd4VTRraGpDUWprQ3NkNjluZFh4YWJYT19IMnBJSmdDdWJjY0ZDZXN2OTZicUhvMTVtalZCbHRtUkswdDFkTFdXTWd3OVdXLS04c3JNSWEtakVtTDlaekRzX2ZnX0hHMTFZLUZSUVRqWE9xb2ZpYWdRU21FTVBvMTNUeHZhZUxMSWswLW1Dak5FenI3ZDNXYXNnYVU?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T23:36:31+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792634610_33": {
-   "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzlnbTF6RWxvZ0Nnb2hjaW9IdnBKemRlb3JhR28xOHBEWEtWY0hHVWladXlOYUVfUnpQS2FVUXpnMUlBTHEyRlo1LWtQUEdfQWp1TXliazBoWVNfUTEtUXhwX1VuTlI2NWF4bDNON2ZuQldudllLdlVCcGRPYjdCeGZJWkp4QUsxQ3lwSEE5VzRUUHNpMTNNQThYMVl6TU8zdks1MTZzY05BWVZocExLNE1uNTRLS0Z2QWZFcUxLY0xVd2h4dHppNm5Ha0wyV3c?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T01:36:00+00:00",
-   "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-25T01:10:43.474364+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792654555_38": {
    "title": "Tesla FSD Attachment Rates: 6 Details That Matter",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU9rVGFBSjNoVzM4a0JYaUtYdjZWMjIxQ1pNYi1zTDB2dnE3UDZMbjJKdmN4eTEwOXJnVXVuOV93M05wVmFoenBnb2NLTnVsd0wydUwtZXVDMXZBbGRDa0FreWtmS0hETkhBc0kwZFlHWHhCS3ZHRS1jUUpBcGtXcHRBYVN5WFdvQ0Uw?oc=5",
@@ -63,23 +11,6 @@
    "pub": "2026-10-22T05:05:28+00:00",
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
    "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792674615_33": {
-   "title": "Tesla Says Robotaxi Will Lift Results Starting in 2027",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjJNcFF6bGU2TUdoZmZnQkZWVlZoZ1VvYVdzLW1kdFBoeFdfRmVDWFl5elVPSXB2dEVmUlFwUjNyUXhZeE9BQ1BuSndHS21ZemJxRnY0aHEtbXZLYzVwLTlzSXB1c2p1NHNlV0xWd2k1ZUg5Zy14MDR2V1NkTUhPQWhsRHdvREEzYk9nbjV6T3h5LXdXNmM4Q1NyU19sZw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T12:37:25+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -103,23 +34,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792674615_36": {
-   "title": "Claude helps investment researchers test scorpion antivenom ideas",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEs1djhGQ2JpSzFQNjdYMDNjQXhsYmg3bElpSGVOOWFfVTQwQUJZS25ydkVQQ2d2dzlQOWV3dU04ZkFva3RqSFFZYThTTHhPNUNwcHZNSGlKSUVIaGtRbUJlc3B1NmdQYzZfR0ZIaWY3aldMVTFBWjBvWW54OUt1OA?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-22T08:21:36+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792691916_25": {
    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
    "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
@@ -131,7 +45,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -166,7 +80,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -184,7 +98,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -276,24 +190,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792725919_11": {
-   "title": "Chiefs Proposed To Pursue Trade For Eagles\u2019 23-Year-Old Defensive Star",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY1JkcUdidU1UYTdmTExiNjYwam9yVkd6NXpnRTlsdEl2MjR1bE11S3JQd3NFVDlPTHFzUmE0dk5EVnFycEtPRlpGazZBNlJqWEpEUnh0b24wT1RwTEdsYXJha0V5eVVmQTFUTWlSWHI1WWM1OWhuLVZaTmV2ZXMxbUY0UzUwZGFWVjZUNw?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T00:45:00+00:00",
-   "first_seen": "2026-10-23T03:25:19.807130+00:00",
-   "last_seen": "2026-10-24T21:07:46.457171+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792745307_17": {
    "title": "Ducks come into matchup with the Flyers on losing streak",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSVhNYzJiUWJyd3F2SEd3SGdmYUtwOWlfVWQzOTVHUTh6UE5DdDg4aGNkMUE5Tjl2TEV0QjFUenkxSTVLN1lscVlHNVE3WE5RQWt1MjQ0T3VHbEJmbmJrQTFFbVhxYzRIbm9lZXdVLTZHNGRIcF9ld2NPU04tY1pfZEhtNGlZTVpxaWZkbXpuTHFwMDVvQlExOGJwcw?oc=5",
@@ -304,26 +200,8 @@
    "base": 80,
    "pub": "2026-10-23T08:11:01+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792745307_20": {
-   "title": "Bryce Harper Addresses Future With Phillies, Willing to Break No-Trade Clause",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU1jSHI5MzRkcE9jc0VjdG5iS1lKOW43ZEJkSlFVQnJZaWg3cFpxWGZob1BJT0p5VHIyTkQyZ1A4bGdFaGpnZ2xkQnYtVmp6RldSb2FqUmR0dG01eEVwUkhDUE9UenBqMG5qb2c3NFhwTEV0LXBmbVY2SEtqVzQtaWVkLVdQd3NXMTJzZ1ZwZ2Q?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T02:47:00+00:00",
-   "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
-   "team": "phillies",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -343,41 +221,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792763546_2": {
-   "title": "At least 7 people killed in shooting at church in Jordan, state media says",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JLWJRc0kySFVRMFhucnZDakhvd3dVRUlvVUN6Wm0zQTZDMHowRURmSXZDSkVJbDhnZnlDa2ZHY1FrczdfVTBYd2xPZGwtN0RUWkxnRzFERHJtVjNzYko1S3pwbkRfaG84Q3FKaUdoNnRVX3RKWDMyTA?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 65,
-   "pub": "2026-10-23T12:18:04+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 7,
-   "changelog": false
-  },
-  "s1792763546_9": {
-   "title": "Many feared trapped as a tall building collapses in Kenya",
-   "link": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771",
-   "sources": [
-    "ABC News",
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T13:49:16+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -544,7 +387,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -568,57 +411,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792778351_2": {
-   "title": "Rescuers search for survivors after deadly earthquake in China's Tibet region",
-   "link": "https://www.pbs.org/newshour/world/rescuers-search-for-survivors-after-deadly-earthquake-in-chinas-tibet-region",
-   "sources": [
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-10-23T14:25:24+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792778351_4": {
-   "title": "Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXZlM0poTTA3bXNBbm91NWpOMTVlb1pWREFoRHVBMjlnczkwUzhaOWY5d3dVeW5pS2gxRXZFT0Q3WTRyYmVuaHpiSUVVOExvQUI1Z2REYzNQMDQtQ1VJM2JGYWh2QWVjdVBSQjdLX0ZFRVJHNGNiaU1keExEMUhCUElEWU1WdHFSbUZfVjRFZXFWYTBjOG9pb3k0X0kzbll5bkhmTjhaTkY0VVRnd2dONE1lNklhd9IBuwFBVV95cUxQbmV2NERxUWk2Qjh3U3BsQXgtYXZ5NWpnUVhCOU5CSmFVTWJ6T1NQeE5GNGJwUk9IbUphOUFvQU52ZW03emFFZFdCZFZDMkV2Vi1xX05BRkZYV2FPWWdpV2FrbGNmUlQwWDRaNG52SkJLd3Utc1FBWHdaV3FnRmtZSmhKcVdjZ3JlUkZBUzdSUFV5Zlh3a1YzZnp2WXAwQXZBNW1QSm1ya1JtZVVRVC1wd0tyVXYyYm9XWkk4?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T14:11:24+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-23T17:59:11.072696+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792778351_10": {
-   "title": "Finland nearing opening of world\u2019s first permanent nuclear waste repository",
-   "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-23T13:50:26+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-23T17:59:11.072696+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792778351_11": {
    "title": "SEPTA ridership hits highest level since COVID-19 pandemic",
    "link": "https://www.phillyvoice.com/septa-ridership-2026-covid19-pandemic/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
@@ -629,7 +421,7 @@
    "base": 80,
    "pub": "2026-10-23T15:48:29+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -648,7 +440,7 @@
    "base": 80,
    "pub": "2026-10-23T15:50:50+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -763,13 +555,14 @@
    "title": "Should the Eagles sell at NFL trade deadline? The best of Zach Berman\u2019s live Q&A",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTERLME51UVJNU0hsVVdwTXJtSTZkUkhuWHBKVlM2MUgtQldrYlp3bWI1Qk5GQ253QTd4OE9Xam5uTGVrWjRfLVlHU3R3Ym1qU2lLcFUzTFlLbzNJT3hzU011S21wMmJvUG1YbzFJR1ZhYTdwM0RjamY2dEZOa3FCWEpILTBmOU1ROFZSYzJLaGphUQ?oc=5",
    "sources": [
+    "Bleeding Green Nation",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-23T15:28:23+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1112,7 +905,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1165,7 +958,7 @@
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1217,7 +1010,7 @@
    "base": 80,
    "pub": "2026-10-24T22:03:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1251,7 +1044,7 @@
    "base": 110,
    "pub": "2026-10-24T23:35:00+00:00",
    "first_seen": "2026-10-25T01:10:43.474364+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1286,7 +1079,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1321,7 +1114,7 @@
    "base": 80,
    "pub": "2026-10-25T06:02:46+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1338,7 +1131,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1355,7 +1148,7 @@
    "base": 110,
    "pub": "2026-10-25T06:04:36+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1372,7 +1165,58 @@
    "base": 80,
    "pub": "2026-10-23T15:31:00+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792940499_0": {
+   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+   "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "BBC News"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-25T14:34:33+00:00",
+   "first_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792940499_10": {
+   "title": "Key Flyers Defenseman Makes New National Trade Board",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmVlYU5qRXM1WTdRNGV6YzFsR29tcElQWkFMMi1Pb1gzVUFsWFdfakZKMkRwZ2VzRllWeU41UDVEYjNXa3NHZXVrS0YzTldlVE5iM3g3OFNqR1BFby1TWWxXVUdIZFVqQU9RYmJfUTVhZG1lbnZReE9aMFQtMlByUkh4anE4WTVZVTQ4?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-25T11:00:06+00:00",
+   "first_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792940499_18": {
+   "title": "Tesla Model Y Is Most Recalled EV",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmd6UGNnZFdZVWxsTnFLTmtKZHV1NlRXUDh3cmRFRzBGWlh0V0p0RmYyZEtRMm5iY1g0cldpcUlqM2VLNDJYSDhFdWRpNU9FSEFiWXhKWmlLRmJRN3JCaDNURm1jb3JHYklWZ0tkYVBnRGVycnJQT2VzRGVFaV9pem53?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-25T12:37:00+00:00",
+   "first_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T15:01:39.560651+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1390,8 +1234,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"78ce69d2204a7277f39e4f95ad1f7ec1\"",
-   "modified": "Sun, 25 Oct 2026 11:26:12 GMT"
+   "etag": "W/\"32c38b2cafb0ed6074bc8f7318627f6b\"",
+   "modified": "Sun, 25 Oct 2026 14:56:58 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1403,15 +1247,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 11:24:58 GMT"
+   "modified": "Sun, 25 Oct 2026 15:01:25 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"450fdd58196cea43d6d6aec5d7df722f\"",
-   "modified": "Sun, 25 Oct 2026 11:15:00 GMT"
+   "etag": "W/\"182bd5e4091db6d4170a5b8c6d75324b\"",
+   "modified": "Sun, 25 Oct 2026 14:30:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1419,51 +1263,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 11:30:17 GMT"
+   "modified": "Sun, 25 Oct 2026 15:02:17 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"04f2169fb6286351704c2030c8b8469b\"",
-   "modified": "Sun, 25 Oct 2026 10:36:35 GMT"
+   "etag": "\"e2bc428fe43000493ecdf3da97e7a092\"",
+   "modified": "Sun, 25 Oct 2026 14:10:22 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 09:00:00 GMT"
+   "modified": "Sun, 25 Oct 2026 13:43:19 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"d9a1cc1bda4c5fa2d8cf44e16716a8f2\"",
+   "etag": "W/\"9d39b8dd51583f403f053ed98445bb62\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"ea5116d9d16cb074b4b91d9451a2b076\"",
-   "modified": "Sun, 25 Oct 2026 01:21:04 GMT"
+   "etag": "",
+   "modified": ""
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"bc2436066b48bcd2173d41e6c34412e5\"",
+   "etag": "W/\"20bacadb3519c29f342458dcafb4815f\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"c89f4797e205c09767810a2f3f1107b4\"",
+   "etag": "W/\"7f6328e56b7e68974624ea02c6e0f4c8\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"48ed64366d3cbb447e8414e2baee6bcb\"",
-   "modified": "Sun, 25 Oct 2026 10:43:32 GMT"
+   "etag": "\"ba1f74a9604417b437f89177674bd1a8\"",
+   "modified": "Sun, 25 Oct 2026 14:00:17 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"127be95f1204313b85c4be448092e53f\"",
-   "modified": "Sat, 24 Oct 2026 05:06:18 GMT"
+   "etag": "\"366db268d3aacee1bd45f9d961b05524\"",
+   "modified": "Sun, 25 Oct 2026 14:34:00 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
    "modified": "Sat, 24 Oct 2026 23:25:09 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"8bddd0fac4a66937ac65991befc48272\"",
-   "modified": "Sun, 25 Oct 2026 05:47:56 GMT"
+   "etag": "W/\"13e76d2fd11d28d017164e278d2d87c9\"",
+   "modified": "Sun, 25 Oct 2026 15:01:35 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1474,8 +1318,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"ee0149a13c5b65a722f8d4e2f27ac936\"",
-   "modified": "Sat, 24 Oct 2026 22:25:35 GMT"
+   "etag": "W/\"186afe537f6abd3e5b0dbe6a3c59d61e\"",
+   "modified": "Fri, 23 Oct 2026 16:51:28 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
