@@ -1,77 +1,5 @@
 {
  "stories": {
-  "s1792615909_35": {
-   "title": "Tesla FSD \u2018subscriptions\u2019 hit 1.74M, counted the way Musk\u2019s pay package wants",
-   "link": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
-   "sources": [
-    "Electrek",
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T20:45:18+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-24T15:57:21.824095+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792615909_39": {
-   "title": "Claude Maker Anthropic Discloses Mind Boggling $80 Billion Loss",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXBzVDFBNE13VDEzdTVwZFQ5YU85akxXU3VKQlc5Y2V2am9zY083dHBEVU5UNUdOUVZRaUJJU2tBVEF3ZDE2Rnlub0ZGcXFnUGxpQnRZNWR4d1JPUlJXLXM2d0k1NWN5ZlN2MDNCTmZxdUhvRTFUdy0xX3ZGdVhRZnZEVDJRQ0pvVzhxYjRDWQ?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-21T19:19:45+00:00",
-   "first_seen": "2026-10-21T20:51:49.791044+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792626338_33": {
-   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
-   "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T21:30:00+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T21:07:46.457171+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792626338_35": {
-   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-   "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
-   "sources": [
-    "Electrek",
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T22:18:57+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792626338_37": {
    "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
    "link": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
@@ -101,40 +29,6 @@
    "pub": "2026-10-21T23:36:31+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
    "last_seen": "2026-10-24T23:14:58.328664+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792626338_41": {
-   "title": "Tesla posted a highlight reel of its robotaxi avoiding collisions with rivals Waymo and Avride",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMm43ZGNLbE1IOG45a1l6WF9DSVI4UkVfSlZzX1p0R3kxem5tdGxtU0s4VTA0ckZ6VjdlYV9wTThyN3kyWTUwX0dpWlRlTGtZX2FLaHM4cjFENEpjeC1qUlQ5akREWlR2WGVWWE9kUUc4ZkFVbFNpaHdycDdIVEl6YmlTOGhKQnlscHh5MEFDTzVoaTY3MmVzd05wWFIxVFo2?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-21T22:03:00+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T07:35:55.650838+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792626338_45": {
-   "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-10-21T21:42:54+00:00",
-   "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -237,7 +131,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -261,57 +155,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792703361_10": {
-   "title": "After Marsha's abrupt closure, is there an appetite for a women's sports bar in Philly?",
-   "link": "https://www.phillyvoice.com/marshas-closure-future-womens-sports-bars-philly/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-22T18:53:13+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T21:07:46.457171+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792703361_15": {
-   "title": "Former Alabama OL signs with the Philadelphia Eagles",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUl8tNTlFd3dYeDdGYWw2U1JpclNCNHc5THBXLUEwOTRkNy1RMlhMallTcHpFTG5LdXRVbDRVaTk5eG5LZ0JEemRKWTFMWTBIWHBLWk1ya21mYTRuYzNFUXVwMXgzTGdvSUYxVkxWVEJrRF9LZzlua3RDVmJLeGw5V2k3ZUNLeTBfNDRINFNyUWw5UE0?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-22T20:34:49+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-23T03:25:19.807130+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792703361_18": {
-   "title": "Eagles confirm Evan Neal signing, add Jaydon Blue and Anfernee Orji",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWx6dVowazl4U3FyWVgwSExPaXhHaThiNkVjeVdwN3owQVlOMWdwWThCR1R0T2R4MEo1ODViMmdjTW9KUlBDNS1xbDVvYlRnbTNMN3FmcXZJOU5vQnRBZXQwOGhUVm0tb3kyeFFoV3pfNUI1d2ptSm1VNElTRURUM0Jrd240bkJw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-22T20:06:10+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-22T23:59:17.886715+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792703361_20": {
    "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
    "link": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
@@ -323,7 +166,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -341,7 +184,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -394,40 +237,6 @@
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
    "last_seen": "2026-10-22T23:59:17.886715+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792713557_12": {
-   "title": "SEPTA affordability programs would be permanently under proposed Philly law",
-   "link": "https://www.phillyvoice.com/septa-public-transit-affordability-programs-legislation/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-22T21:33:53+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792713557_16": {
-   "title": "Eagles must find path to playoffs without ailing QB Hurts - Charleston Gazette-Mail",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcV9YNnhyeDBvbHAtZVpZQzBkNkN4WWIxRHNPdWl5cTF1ak9YMGxZcElGOW96RjRwOE1nREdPQ0tkb0lxa2NZMGo5T1N6b01uU0lVQUJ6Z05FMDF3RGNNOUlzRks2dFdxU1JHczhQZ09SaWNBZmxzMVo3aW51WVgxVENqR3psY2tpa25wLVotRG5ZVjJ6RHhEVlJzcEQxZnNLbE5ZcnExN0g3bGdGQnhNNjZibmd4NGFZa3dOTHAtdWlpbFFvUXByYjlTVjhFTHJUa1B1eTV0a3p1Uzc1NXo3TA?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-22T23:00:00+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -495,7 +304,7 @@
    "base": 80,
    "pub": "2026-10-23T08:11:01+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -552,23 +361,6 @@
    "trust": 2,
    "gate": 0,
    "cas": 7,
-   "changelog": false
-  },
-  "s1792763546_5": {
-   "title": "Vance becomes a hurricane as it churns off the coast of Mexico",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSC0wYW5HYncxemhwQ25VNUwxNThkZ0dWWVY2SEZVZUxQSlRvTS0yVGYyRHhweGdUUllJU2hGU1cwZ3A4bUw4YkdnNjdEblpnekJwVUM5aFYzZkhVSDVFZHRSUTdSRDc0VTZXc3o3eDVVRDBTaUtwcTZ2S09KcTVqQ3NiZElGWEtWaE52bkw3ZHNDM1NBODRWX1NId3FJQW1leG95NWJPdw?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T09:18:27+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
    "changelog": false
   },
   "s1792763546_9": {
@@ -752,7 +544,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -837,7 +629,7 @@
    "base": 80,
    "pub": "2026-10-23T15:48:29+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1018,24 +810,6 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
-  },
-  "s1792789139_28": {
-   "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
-   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-21T23:29:00+00:00",
-   "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": true
   },
   "s1792799077_1": {
    "title": "\u2018I Have to Go In\u2019: Dad Describes Killing Gunman in Oregon School Shooting",
@@ -1269,7 +1043,7 @@
    "base": 80,
    "pub": "2026-10-24T13:12:00+00:00",
    "first_seen": "2026-10-24T15:57:21.824095+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1303,7 +1077,7 @@
    "base": 65,
    "pub": "2026-10-24T02:35:11+00:00",
    "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1338,7 +1112,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1391,7 +1165,7 @@
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1443,7 +1217,7 @@
    "base": 80,
    "pub": "2026-10-24T22:03:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1477,7 +1251,7 @@
    "base": 110,
    "pub": "2026-10-24T23:35:00+00:00",
    "first_seen": "2026-10-25T01:10:43.474364+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1494,7 +1268,7 @@
    "base": 80,
    "pub": "2026-10-24T21:18:49+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1512,7 +1286,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1523,14 +1297,83 @@
    "title": "Which Philadelphia Eagles Could Be Traded Before 2026 Deadline? Moro Ojomo And Saquon Barkley In Focus",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY282TEJDZzBUUjM1bjZfYmZEdWh3OVlyTXBrRmlPeV8tTjl1Um5BNTljQVhEYTVIcjZuc1Vwb0VtbEZROC1Ib0xFOG51Ui1Yd2pKR2dJc05lWS1XWmZ2cGhEaHFUZkNobmhuYlhZanIyTm1RRTBBa0xRQW9fUWdnRS1IaW12OHdNSXVuRGNJSXU5NDlxSWg5aG05Sl90eF93Rlo3OTBVeXc4MC1uNE54NHh4TEdKNkRadjhqeTh2U3Z2RWZFd19FTnBmQnJkWFg3NEUwcHIzOW0?oc=5",
    "sources": [
+    "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-25T05:03:05+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
    "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792927790_13": {
+   "title": "76ers face the Pistons on 3-game win streak",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGtEZ0VwY1Y2bmtJX3hHcjVZTzZTUkVGcGNSZDJ1X25uMkRscFJCWXBDTGtMTGRSWFNKaDFVdmJwQ1Z6NTgzbEktdjA3ZHJhWWlFR0ZYUW5zVXo4NjdMZTNzeDlYZkJCUGV4UmI4OHpFYzU4R3RlandmT3Aza1FpY3hGQzhUdzUz?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-25T06:02:46+00:00",
+   "first_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792927790_15": {
+   "title": "2026.38.5.11 Official Tesla Release Notes - Software Updates",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0ZFb1NzRXNLbXNVbWJrZy1NZUY2TGJNTDQxUHJnNExPVGRQYVRaNG9leG90M2pKVjZVQllyV1JPZ0F4MDhIVm0wVWJnbnRGRXpobXFjQmlVWEV2aG91cS13Sk1MR1U4VVhUS1ZXclB0bFhvUWlwMFVIY3hLcE9HbUVFMTI4ZDg?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-24T20:05:23+00:00",
+   "first_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792927790_18": {
+   "title": "Tesla Reshapes Its Website Around Robotaxi, Semi, and Roadster - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmdEN0RDNTdqOC1pNUp6UkZuNnZGMjNvQVBhb2w4RVU0QnljQWZWbGV1OGFQejVKYUR3cm8zRElTcFh4RVg0bjVPMzlCaUdfTW5SXzcyWDY3X1Z4a1dqQjdlcGVncHVuU2hsN1NaaVdYRXV4ek91aFo3bjJCazhzVXlzdDlmYVYtYVc4R3lZamFsOTFoWWJUdVV0WQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-25T06:04:36+00:00",
+   "first_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792927790_23": {
+   "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTBUZnRWeFotYVBoQTE3bEhJVDdxdFotMFI4cFNXd1dlbTFzZDVsR3pxSVJSWGszOFJnemVGR29JWnBIS0NzZ0w4SVVvb2lkR1p5SWI0LURpVG02Q1lBMmNNLWloaDBQblZOcUtvT3BNR1licHNqR0lSWWZNaDZhLVVYdDFmSFhzcjFXdUw0UlFWcGI0Vk81RjNTS05GMG5YeFk0ZVhGME9Wa0VxVUs5UzlETFZtUQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-23T15:31:00+00:00",
+   "first_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "team": null,
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1547,8 +1390,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"b8e2daaca846c83a409cc3a7a7038bca\"",
-   "modified": "Sun, 25 Oct 2026 06:05:07 GMT"
+   "etag": "W/\"78ce69d2204a7277f39e4f95ad1f7ec1\"",
+   "modified": "Sun, 25 Oct 2026 11:26:12 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1560,15 +1403,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 06:05:16 GMT"
+   "modified": "Sun, 25 Oct 2026 11:24:58 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"c87480568636aa397db39a074f840600\"",
-   "modified": "Sun, 25 Oct 2026 05:46:48 GMT"
+   "etag": "W/\"450fdd58196cea43d6d6aec5d7df722f\"",
+   "modified": "Sun, 25 Oct 2026 11:15:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1576,15 +1419,15 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 06:08:38 GMT"
+   "modified": "Sun, 25 Oct 2026 11:30:17 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"594aeed852bc8a99c7469272a94cee67\"",
-   "modified": "Sat, 24 Oct 2026 20:52:59 GMT"
+   "etag": "\"04f2169fb6286351704c2030c8b8469b\"",
+   "modified": "Sun, 25 Oct 2026 10:36:35 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 05:23:45 GMT"
+   "modified": "Sun, 25 Oct 2026 09:00:00 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"d9a1cc1bda4c5fa2d8cf44e16716a8f2\"",
@@ -1595,7 +1438,7 @@
    "modified": "Sun, 25 Oct 2026 01:21:04 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"4da4b9efb662ad8579dfdc05b3c00ebd\"",
+   "etag": "W/\"bc2436066b48bcd2173d41e6c34412e5\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1603,8 +1446,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"26e30424a032c6ddec5542e4638f9ea8\"",
-   "modified": "Sun, 25 Oct 2026 00:19:43 GMT"
+   "etag": "\"48ed64366d3cbb447e8414e2baee6bcb\"",
+   "modified": "Sun, 25 Oct 2026 10:43:32 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
