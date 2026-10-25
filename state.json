@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1792654555_38": {
-   "title": "Tesla FSD Attachment Rates: 6 Details That Matter",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdU9rVGFBSjNoVzM4a0JYaUtYdjZWMjIxQ1pNYi1zTDB2dnE3UDZMbjJKdmN4eTEwOXJnVXVuOV93M05wVmFoenBnb2NLTnVsd0wydUwtZXVDMXZBbGRDa0FreWtmS0hETkhBc0kwZFlHWHhCS3ZHRS1jUUpBcGtXcHRBYVN5WFdvQ0Uw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T05:05:28+00:00",
-   "first_seen": "2026-10-22T07:35:55.650838+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792674615_35": {
    "title": "Claude did not invent scorpion antivenom",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDJ0SkZfUUhOVmNLVkY0TkFrSFduTFlnZ2JWQ3l3VWlwLUtEeVBfbVctWlpPa1dDaVhvaGFSTllkWl9PaTFqaEdseHRTdnJmbTRNMkgxNGV5T3BmRUU3UWlpVHd1RUNNSzgxckZOaThOOWVIRlVTQ1FkdGJrd3hLN1ZxT3J1c3pFVTlrSjA0SVlUY1dhR1Nhajg3aF9fcTlQMk1OT1VWLTB1R1JDbUFpMU50aUY?oc=5",
@@ -80,7 +63,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -98,7 +81,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -336,7 +319,7 @@
    "base": 110,
    "pub": "2026-10-23T09:35:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T01:10:43.474364+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -387,27 +370,10 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792778351_1": {
-   "title": "LIVE MAP: Track the path of Hurricane Vance",
-   "link": "https://www.pbs.org/newshour/nation/live-map-track-the-path-of-hurricane-vance",
-   "sources": [
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T15:19:25+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -483,40 +449,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792789139_7": {
-   "title": "Ohio mayor says employee error caused chemical leak, lifts evacuation orders",
-   "link": "https://abcnews.com/US/wireStory/toledo-ohio-mayor-employee-error-caused-chemical-leak-137517822",
-   "sources": [
-    "ABC News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T18:09:53+00:00",
-   "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-23T23:44:37.354823+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792789139_11": {
-   "title": "One killed as Elysee calls Paris area shooting \u2018racist, terrorist attack\u2019",
-   "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 135,
-   "pub": "2026-10-23T16:08:04+00:00",
-   "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792789139_15": {
    "title": "The Connor Hellebuyck trade is both good and bad news for the Flyers",
    "link": "https://www.broadstreethockey.com/post/the-connor-hellebuyck-trade-is-both-good-and-bad-news-for-the-flyers/",
@@ -527,7 +459,7 @@
    "base": 80,
    "pub": "2026-10-23T20:26:40+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T06:08:24.983384+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -562,7 +494,7 @@
    "base": 80,
    "pub": "2026-10-23T15:28:23+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -597,7 +529,7 @@
    "base": 80,
    "pub": "2026-10-23T18:49:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T01:10:43.474364+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -700,7 +632,7 @@
    "base": 80,
    "pub": "2026-10-23T23:37:14+00:00",
    "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -905,7 +837,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -958,7 +890,7 @@
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1010,7 +942,7 @@
    "base": 80,
    "pub": "2026-10-24T22:03:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1061,7 +993,7 @@
    "base": 80,
    "pub": "2026-10-24T21:18:49+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1079,7 +1011,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1097,7 +1029,7 @@
    "base": 80,
    "pub": "2026-10-25T05:03:05+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1125,18 +1057,19 @@
    "title": "2026.38.5.11 Official Tesla Release Notes - Software Updates",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0ZFb1NzRXNLbXNVbWJrZy1NZUY2TGJNTDQxUHJnNExPVGRQYVRaNG9leG90M2pKVjZVQllyV1JPZ0F4MDhIVm0wVWJnbnRGRXpobXFjQmlVWEV2aG91cS13Sk1MR1U4VVhUS1ZXclB0bFhvUWlwMFVIY3hLcE9HbUVFMTI4ZDg?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
    "cas": 0,
-   "changelog": false
+   "changelog": true
   },
   "s1792927790_18": {
    "title": "Tesla Reshapes Its Website Around Robotaxi, Semi, and Roadster - BASENOR",
@@ -1148,7 +1081,7 @@
    "base": 110,
    "pub": "2026-10-25T06:04:36+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1159,13 +1092,14 @@
    "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTBUZnRWeFotYVBoQTE3bEhJVDdxdFotMFI4cFNXd1dlbTFzZDVsR3pxSVJSWGszOFJnemVGR29JWnBIS0NzZ0w4SVVvb2lkR1p5SWI0LURpVG02Q1lBMmNNLWloaDBQblZOcUtvT3BNR1licHNqR0lSWWZNaDZhLVVYdDFmSFhzcjFXdUw0UlFWcGI0Vk81RjNTS05GMG5YeFk0ZVhGME9Wa0VxVUs5UzlETFZtUQ?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-23T15:31:00+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1182,7 +1116,7 @@
    "base": 120,
    "pub": "2026-10-25T14:34:33+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1199,7 +1133,7 @@
    "base": 80,
    "pub": "2026-10-25T11:00:06+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1216,10 +1150,27 @@
    "base": 110,
    "pub": "2026-10-25T12:37:00+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792952684_1": {
+   "title": "BREAKING NEWS: Evacuations ordered within one mile of seafood plant fire on Newport's Bayfront",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZE8tR0hyZm40ZldQY0x5NkJGaFI2YjVkd3ZMRGlsdGwyTlI1UVcwNWczZ3lBS3BPVDBCZVRmTnhoZXhvMGRPNmhqcG1rNnBsV0xOUm9nMHpmRDBZTXRjMXV0NnViVl9wOTVDUmJqSkdBLXM?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-10-25T17:41:50+00:00",
+   "first_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
    "cas": 0,
    "changelog": false
   }
@@ -1234,8 +1185,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"32c38b2cafb0ed6074bc8f7318627f6b\"",
-   "modified": "Sun, 25 Oct 2026 14:56:58 GMT"
+   "etag": "W/\"2f3d6034fa30a2886715f1a428e67f1a\"",
+   "modified": "Sun, 25 Oct 2026 18:23:46 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1247,15 +1198,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 15:01:25 GMT"
+   "modified": "Sun, 25 Oct 2026 18:20:11 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"182bd5e4091db6d4170a5b8c6d75324b\"",
-   "modified": "Sun, 25 Oct 2026 14:30:00 GMT"
+   "etag": "W/\"e7d6bcce96f25f8e13765c5c1678c2ba\"",
+   "modified": "Sun, 25 Oct 2026 18:05:14 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1263,35 +1214,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 15:02:17 GMT"
+   "modified": "Sun, 25 Oct 2026 18:25:12 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"e2bc428fe43000493ecdf3da97e7a092\"",
-   "modified": "Sun, 25 Oct 2026 14:10:22 GMT"
+   "etag": "\"141948c808efa34e97f4c7acc9d05ce3\"",
+   "modified": "Sun, 25 Oct 2026 16:53:36 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 13:43:19 GMT"
+   "modified": "Sun, 25 Oct 2026 17:11:34 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"9d39b8dd51583f403f053ed98445bb62\"",
+   "etag": "W/\"e2d87f7832603507d8345f0b77459ab9\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "",
-   "modified": ""
+   "etag": "\"e81959bef91a990257622e81b2dc5c45\"",
+   "modified": "Sun, 25 Oct 2026 15:23:15 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"20bacadb3519c29f342458dcafb4815f\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"7f6328e56b7e68974624ea02c6e0f4c8\"",
+   "etag": "W/\"5ef31e973889e763355a23affa85bf20\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"ba1f74a9604417b437f89177674bd1a8\"",
-   "modified": "Sun, 25 Oct 2026 14:00:17 GMT"
+   "etag": "\"34e4db6ac262283b83e842a3a6de084c\"",
+   "modified": "Sun, 25 Oct 2026 15:45:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1303,11 +1254,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 23:25:09 GMT"
+   "modified": "Sun, 25 Oct 2026 18:16:08 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"13e76d2fd11d28d017164e278d2d87c9\"",
-   "modified": "Sun, 25 Oct 2026 15:01:35 GMT"
+   "etag": "W/\"afdaec44bf65740b5acf0e868be36153\"",
+   "modified": "Sun, 25 Oct 2026 17:28:39 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1318,8 +1269,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"186afe537f6abd3e5b0dbe6a3c59d61e\"",
-   "modified": "Fri, 23 Oct 2026 16:51:28 GMT"
+   "etag": "W/\"25266f7f67e03851c18584f74c71a978\"",
+   "modified": "Sun, 25 Oct 2026 17:02:21 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
