@@ -65,7 +65,7 @@
    "base": 80,
    "pub": "2026-10-21T22:18:57+00:00",
    "first_seen": "2026-10-21T23:45:38.867740+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -168,7 +168,7 @@
    "base": 80,
    "pub": "2026-10-22T01:36:00+00:00",
    "first_seen": "2026-10-22T02:03:30.926705+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -187,57 +187,6 @@
    "first_seen": "2026-10-22T07:35:55.650838+00:00",
    "last_seen": "2026-10-23T08:48:27.483486+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792674615_6": {
-   "title": "SEPTA offering free rides from Sixers' home opener at Xfinity Mobile Arena",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTdSc3hTX2xaSnVKTHR6N3RuMVNpSTVud2p3RzlmVk1NMklEV25aZlkyalRLb04yRlU5ZUVvVU1QOHlBX0V0c2JuS01oQS1laHhLanBkc2hIcXFTX1lZYklmSnUtN1U0LVgtT2ZSZ2Exb1BJUnNObDV3Ulh4ZXpDX2MtQ3hNQ2IxMmR0UUZybXJhVjNSNHQ5WG1CYXJUYVNQMFFVanlBWEVERWx3WjRjZnh4NWNBb1FB?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-22T11:16:00+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792674615_9": {
-   "title": "PHP vulnerability 2026: Websites shut down globally as operators address AI-detected flaw in web programming language",
-   "link": "https://6abc.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-22T11:29:20+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T13:10:15.583243+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792674615_20": {
-   "title": "Are The Philadelphia Eagles BETTER OFF Not Making The Playoffs In 2026? To Buy Or Sell?",
-   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMnc2UzY1VUtvT2k3QVh1TmwxS2xMRDZjU3RXQXFJVWV4cWpqaVhjS3NEeldhMFE2cmludmU0NnVpNlZpQzVNM3pYSmlJZTktRW5GY2xxSkM5bmZzUEtfUUg1em1ER3ExUHlTR2VxQ2xiTkpIblBuUVVJZGsxNmlHOUUtdE0wbkZwRHYxS2RpVW80TVdHU2d1R0NpZFA4Z3hFd0Jjc1M0Q0I3NENYYTRpdXdTQWRUNUJKV0EwMUwzSUJ2YXZ4eWN6dFlGeEYxazl6WmxBV2tLcnVxSEZWdUE2RDA5RnhKaXl2Nll5YjRjUXl0S19Wc1FudnZ3dzZiejhPQXpNOG9YdVcxYklFa2tmd21RMG02cFVCU1FockR5R25jRUpJ?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-22T12:48:00+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T17:58:36.401481+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -339,7 +288,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -425,7 +374,7 @@
    "base": 80,
    "pub": "2026-10-22T19:54:00+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -443,7 +392,7 @@
    "base": 80,
    "pub": "2026-10-22T20:03:18+00:00",
    "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -498,23 +447,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792713557_6": {
-   "title": "Lawyer explains Supreme Court decision on medical treatment for transgender inmates",
-   "link": "https://www.cbsnews.com/video/lawyer-explains-supreme-court-decision-on-medical-treatment-for-transgender-inmates/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-22T23:44:42+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -614,7 +546,7 @@
    "base": 80,
    "pub": "2026-10-23T08:11:01+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -837,7 +769,7 @@
    "base": 110,
    "pub": "2026-10-23T09:35:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -888,7 +820,7 @@
    "base": 110,
    "pub": "2026-10-23T11:00:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -992,7 +924,7 @@
    "base": 80,
    "pub": "2026-10-23T15:50:50+00:00",
    "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-24T18:30:11.134851+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -1148,7 +1080,7 @@
    "base": 80,
    "pub": "2026-10-23T18:49:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1166,7 +1098,7 @@
    "base": 110,
    "pub": "2026-10-21T23:29:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1320,7 +1252,7 @@
    "base": 60,
    "pub": "2026-10-24T06:31:06+00:00",
    "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1371,7 +1303,7 @@
    "base": 80,
    "pub": "2026-10-24T08:00:00+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T21:07:46.457171+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1388,7 +1320,7 @@
    "base": 80,
    "pub": "2026-10-24T08:56:59+00:00",
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1405,7 +1337,7 @@
    "base": 80,
    "pub": "2026-10-24T13:12:00+00:00",
    "first_seen": "2026-10-24T15:57:21.824095+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1422,7 +1354,7 @@
    "base": 65,
    "pub": "2026-10-24T13:03:00+00:00",
    "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1439,7 +1371,7 @@
    "base": 65,
    "pub": "2026-10-24T02:35:11+00:00",
    "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1456,7 +1388,7 @@
    "base": 80,
    "pub": "2026-10-24T17:06:24+00:00",
    "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1474,7 +1406,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1491,7 +1423,7 @@
    "base": 80,
    "pub": "2026-10-24T20:35:11+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1508,7 +1440,7 @@
    "base": 80,
    "pub": "2026-10-24T19:00:17+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1519,13 +1451,15 @@
    "title": "BREAKING: Explosion at Quaker Oats factory in Cedar Rapids",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG5WUVdtM3VOWFU2LS1ZWElpaVpNWnVkTklaUkZYVEM0ZnNYRWJiSm9kYlZ6UDYyNm4wSDBVanhiYWdaZklBckJ1LTgtdTdQbk55NGREc0Y1cDdFVFd1aWJyRmhrR0UtYkp3SFpMOFJ6SzVNc1kyM0NoT2s4a1V1ZzEtZTllSVRYV0ZTVERxdzdyTjFwbnF4MEJGUldKZWl1SUd4c3FyOHJwZWx6Uks4Vmh6d0I3OGpvejZkcEFCWHZ0eV9GM21iSDJ2RFFBZw?oc=5",
    "sources": [
+    "6abc Action News",
+    "ABC News",
     "Google News Breaking"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1543,7 +1477,7 @@
    "base": 80,
    "pub": "2026-10-24T21:08:08+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1577,7 +1511,7 @@
    "base": 80,
    "pub": "2026-10-24T22:03:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-24T23:14:58.328664+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1600,6 +1534,23 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1792890643_19": {
+   "title": "Chevy Bolt owner shocked by Tesla Supercharger prices after charging for just 6 minutes",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSzFOZ1ZUVFRjUGlpTjBXUkJ3RGR0TEd2bEZVQ3AzcVR2ZUVheDQ5SGoxVS1ZRERicG94ZVBCM2txeU5BNHNudUZ5M2tqR1g3Z2pVZlB4emE5RXdIRldxcTFaLTBzdi1FNWhQc2JXWDhjQlItUXFCc0FvM2t2N3N6UjdLaTAtOEloMWdpWEh0SUdubUFxU2pjUC05TFpTZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-24T23:35:00+00:00",
+   "first_seen": "2026-10-25T01:10:43.474364+00:00",
+   "last_seen": "2026-10-25T01:10:43.474364+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1612,8 +1563,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"784190bfb0185d0e586078840dd5bc2a\"",
-   "modified": "Sat, 24 Oct 2026 23:13:45 GMT"
+   "etag": "W/\"b84f0f4b36accade9d728ddb636e54d9\"",
+   "modified": "Sun, 25 Oct 2026 01:09:09 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1625,15 +1576,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 23:11:25 GMT"
+   "modified": "Sun, 25 Oct 2026 01:08:33 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"ec7be1fef3e2b1e073b73c17e11b6990\"",
-   "modified": "Sat, 24 Oct 2026 23:00:20 GMT"
+   "etag": "W/\"50d871d147e1e4319a1c96e712abde0a\"",
+   "modified": "Sun, 25 Oct 2026 00:46:19 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1641,7 +1592,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 23:15:13 GMT"
+   "modified": "Sun, 25 Oct 2026 01:11:35 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"594aeed852bc8a99c7469272a94cee67\"",
@@ -1652,7 +1603,7 @@
    "modified": "Sat, 24 Oct 2026 21:03:21 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"d9a1cc1bda4c5fa2d8cf44e16716a8f2\"",
+   "etag": "W/\"21a09e825c111280a86ac1d739fb6f28\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1660,7 +1611,7 @@
    "modified": "Sat, 24 Oct 2026 20:06:16 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"4da4b9efb662ad8579dfdc05b3c00ebd\"",
+   "etag": "W/\"8739f3509f46895e13858a8f1e4ac66e\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1668,8 +1619,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"45aaa5c532bf623494223ad9ea895e55\"",
-   "modified": "Sat, 24 Oct 2026 21:00:00 GMT"
+   "etag": "\"26e30424a032c6ddec5542e4638f9ea8\"",
+   "modified": "Sun, 25 Oct 2026 00:19:43 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1681,7 +1632,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 24 Oct 2026 21:54:10 GMT"
+   "modified": "Sat, 24 Oct 2026 23:25:09 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"faac0eebc12743e61b28673d6d42836b\"",
