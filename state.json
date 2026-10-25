@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1792674615_35": {
-   "title": "Claude did not invent scorpion antivenom",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDJ0SkZfUUhOVmNLVkY0TkFrSFduTFlnZ2JWQ3l3VWlwLUtEeVBfbVctWlpPa1dDaVhvaGFSTllkWl9PaTFqaEdseHRTdnJmbTRNMkgxNGV5T3BmRUU3UWlpVHd1RUNNSzgxckZOaThOOWVIRlVTQ1FkdGJrd3hLN1ZxT3J1c3pFVTlrSjA0SVlUY1dhR1Nhajg3aF9fcTlQMk1OT1VWLTB1R1JDbUFpMU50aUY?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-22T12:21:07+00:00",
-   "first_seen": "2026-10-22T13:10:15.583243+00:00",
-   "last_seen": "2026-10-22T21:09:21.974295+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792691916_25": {
    "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
    "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
@@ -88,23 +71,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792703361_29": {
-   "title": "Tesla lists Jacksonville robotaxi service as \u2018coming soon\u2019; no launch date announced",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2xKVmhvTUEzYktCQk51MzFOYlNGLUViVC1jN0p1MTk0Y3FlOHR2NHBoUy1FQVJ5QUx5em5WNncxT3ZsOG84MHlhWWFSNmZYV1NrWlhrOEFLTGc3cXA0Y1NoczZtVndGdXNsTU5fSm1Vd1BVSl95QU1xVUZhcXpOUUc2aFM4RndpUFlXQ0N0M3dGQ2ZiZzNNbFpB?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T20:23:43+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-22T21:09:21.974295+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792703361_37": {
    "title": "Harvard Students Put Expanded Claude Access to Use in Classes, Personal Projects",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ETzFrRHIxOV8zTzhLU0FlYk9iU3pPRjFRNFR0aFktOEV5U05MczBXT2ZhbUZLQ0VqTlFtRG1ja0x5NjJ0MlpIb25EbC1zNkdKLThMdXF0NFFJMDRINFJ5RXgwUjdqd0N0VktBU2NjbkRJYkk5R2thU1IwRVd5MmM?oc=5",
@@ -168,23 +134,6 @@
    "first_seen": "2026-10-22T23:59:17.886715+00:00",
    "last_seen": "2026-10-23T03:25:19.807130+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792745307_17": {
-   "title": "Ducks come into matchup with the Flyers on losing streak",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSVhNYzJiUWJyd3F2SEd3SGdmYUtwOWlfVWQzOTVHUTh6UE5DdDg4aGNkMUE5Tjl2TEV0QjFUenkxSTVLN1lscVlHNVE3WE5RQWt1MjQ0T3VHbEJmbmJrQTFFbVhxYzRIbm9lZXdVLTZHNGRIcF9ld2NPU04tY1pfZEhtNGlZTVpxaWZkbXpuTHFwMDVvQlExOGJwcw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T08:11:01+00:00",
-   "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
-   "team": "flyers",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -292,23 +241,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792763546_21": {
-   "title": "Super Bowl contenders at a crossroads: Will Rams, Seahawks and Eagles all miss NFL playoffs?",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVZ3NGkta05HZm9kdjRjUUV5dzlOZ2dTOFliVE80aWI4eGFaSTYwOWlEcUl4NVpiRHpFYV9qeFhGbmo0bUV1QkdNdV81bHVsTDI5bTdnc1VCMlk0YVlJOTk4Zi1GdTl2UXdKX2tyVXVUeTUyZUZNMlNUNEI5Q2YzOGliTDFzV3Y1QnJrZDY3QQ?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T09:00:01+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T13:52:26.165934+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792763546_25": {
    "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
@@ -319,7 +251,7 @@
    "base": 110,
    "pub": "2026-10-23T09:35:00+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -430,25 +362,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792789139_0": {
-   "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News",
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 135,
-   "pub": "2026-10-23T19:42:08+00:00",
-   "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-24T18:30:11.134851+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792789139_15": {
    "title": "The Connor Hellebuyck trade is both good and bad news for the Flyers",
    "link": "https://www.broadstreethockey.com/post/the-connor-hellebuyck-trade-is-both-good-and-bad-news-for-the-flyers/",
@@ -494,7 +407,7 @@
    "base": 80,
    "pub": "2026-10-23T15:28:23+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -529,7 +442,7 @@
    "base": 80,
    "pub": "2026-10-23T18:49:00+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -605,23 +518,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792807593_3": {
-   "title": "With hurricane off Mexico sharing name with Vice President JD Vance, the social media memes fly",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTnN1dkFSell5MTJxRFBYWW9qelU3Wm9reWdFZzRidFlucUM2WE8yQnFDMjRXSmNRT2ppS0ZBN193OVpLWFd4WUNkcF9GOFlMMjNvNmxCQU9QelpqMklpLUJHLWJwR2hXdVZuS0hVTk41d2M2eEpMOWpaNzJ2SGxPNzdrNjh1SkRYdjdVVGhWVEV1SF9sUDJsV1BhcWVOU05iSHhXMUgzcXgwOWs0eXZVamlDR0t1c1BEY1hLWHEwaGhkR0V4RFhTd2dZLWRPZllpTjBteWNGZ1VKYUlQc1E?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T19:12:33+00:00",
-   "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792807593_14": {
    "title": "Eagles\u2019 Jalen Hurts Draws Strong Message From Chiefs Star Amid Blood Clot Situation",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHVSS0t3UmNFdWFkc3Y4elVxQTJ2WnZieUpXbTBIRTM4WmtiRW1lNWZNa1lsdlVOOHRsX0R2Qm16eUNjcFliWmhCWjRkUzY0dGxMcVVvUWVfQUVIb3N2enZLOTBiVTJveXVVT1VxSFdjT05FMm1GcXM5dWc1WkpDMHUzejNLYTQ?oc=5",
@@ -632,7 +528,7 @@
    "base": 80,
    "pub": "2026-10-23T23:37:14+00:00",
    "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -837,7 +733,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -890,7 +786,7 @@
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1011,7 +907,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1064,7 +960,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1081,7 +977,7 @@
    "base": 110,
    "pub": "2026-10-25T06:04:36+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1099,7 +995,7 @@
    "base": 80,
    "pub": "2026-10-23T15:31:00+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1116,7 +1012,7 @@
    "base": 120,
    "pub": "2026-10-25T14:34:33+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1133,7 +1029,7 @@
    "base": 80,
    "pub": "2026-10-25T11:00:06+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1167,10 +1063,27 @@
    "base": 75,
    "pub": "2026-10-25T17:41:50+00:00",
    "first_seen": "2026-10-25T18:24:44.328366+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792962631_20": {
+   "title": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-25T19:42:08+00:00",
+   "first_seen": "2026-10-25T21:10:31.183299+00:00",
+   "last_seen": "2026-10-25T21:10:31.183299+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
    "cas": 0,
    "changelog": false
   }
@@ -1185,8 +1098,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"2f3d6034fa30a2886715f1a428e67f1a\"",
-   "modified": "Sun, 25 Oct 2026 18:23:46 GMT"
+   "etag": "W/\"292047eaec3c42a2b13ce7cbb41a0331\"",
+   "modified": "Sun, 25 Oct 2026 21:09:27 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1198,15 +1111,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 18:20:11 GMT"
+   "modified": "Sun, 25 Oct 2026 21:07:43 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"e7d6bcce96f25f8e13765c5c1678c2ba\"",
-   "modified": "Sun, 25 Oct 2026 18:05:14 GMT"
+   "etag": "W/\"ff3cdb119008e40655208cb3d7330c3f\"",
+   "modified": "Sun, 25 Oct 2026 21:03:03 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1214,7 +1127,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 18:25:12 GMT"
+   "modified": "Sun, 25 Oct 2026 21:10:42 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"141948c808efa34e97f4c7acc9d05ce3\"",
@@ -1222,10 +1135,10 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 17:11:34 GMT"
+   "modified": "Sun, 25 Oct 2026 20:28:47 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"e2d87f7832603507d8345f0b77459ab9\"",
+   "etag": "W/\"066ec8ecf9adcd255996efc9f87377f6\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1241,8 +1154,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"34e4db6ac262283b83e842a3a6de084c\"",
-   "modified": "Sun, 25 Oct 2026 15:45:00 GMT"
+   "etag": "\"f34fef1dd3c0e4432b43ad169d02535d\"",
+   "modified": "Sun, 25 Oct 2026 19:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1254,11 +1167,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 18:16:08 GMT"
+   "modified": "Sun, 25 Oct 2026 19:54:22 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"afdaec44bf65740b5acf0e868be36153\"",
-   "modified": "Sun, 25 Oct 2026 17:28:39 GMT"
+   "etag": "W/\"8749963328d1ed1cc22fbad4f0e11df2\"",
+   "modified": "Sun, 25 Oct 2026 18:34:53 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1269,8 +1182,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"25266f7f67e03851c18584f74c71a978\"",
-   "modified": "Sun, 25 Oct 2026 17:02:21 GMT"
+   "etag": "W/\"676203436b87d62ba64aae61d831eb18\"",
+   "modified": "Sun, 25 Oct 2026 20:40:13 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
