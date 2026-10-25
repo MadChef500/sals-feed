@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 01:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:08:24 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🌍 BREAKING: Explosion at Quaker Oats factory in Cedar Rapids</title>
@@ -21,14 +21,6 @@
       <pubDate>Fri, 23 Oct 2026 18:49:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Oct 23, 02:49 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More</title>
-      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes</guid>
-      <pubDate>Fri, 23 Oct 2026 09:35:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Oct 23, 05:35 AM ET</description>
     </item>
   </channel>
 </rss>
