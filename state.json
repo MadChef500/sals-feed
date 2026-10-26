@@ -11,7 +11,7 @@
    "base": 80,
    "pub": "2026-10-22T17:25:12+00:00",
    "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -88,23 +88,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792703361_38": {
-   "title": "Anthropic Launches Claude Duet to Handle Your Work Before You Ask",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEhUdF90ZjhxQWN2OFFjakJhYUlia18wbmdVcjdodGc0Vk1yeFZTenRVUkRCTVdiQnRtM3JUcmVOV3hmbTFxTzZJSm9nUDI1bHlTT3doY2x4V1JxWl9XVy1fLUk3VTAxbFlaME5NYm5sUXR0cnA4dV9oOHBhTjU4dG53aWwzWTFwcTU0?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-10-22T14:09:54+00:00",
-   "first_seen": "2026-10-22T21:09:21.974295+00:00",
-   "last_seen": "2026-10-22T23:59:17.886715+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792713557_33": {
    "title": "Harvard College students are using newly expanded access to Anthropic\u2019s Claude for coursework, extracurricular projects, and personal tasks after the Faculty of Arts and Sciences began providing institutional access to the AI platform this summer. The FAS fir",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5M0VCZTY4X2RDY2NhSG5VMnVGU2dWWllabjBLYkxWR2lVNGlLc3hKdzQwdUNKV3lGTjlONk5xZFFOZGxCRnFNWDJLSzQ2enZ4UkE?oc=5",
@@ -151,23 +134,6 @@
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
    "last_seen": "2026-10-24T02:06:33.145653+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792763546_18": {
-   "title": "If Eagles Trade Landon Dickerson, One Team Stands Out as Obvious Suitor",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGJ6TzUzcWxvYmstV2ZIY0hOWWVuc2tEQ256d3BvN2xJZUJFd2FqeXZDZnI2NjlQaEFsRi1ySDBJaENEazhrck16RWNKTWNBdThldkdFNmV0MzI2Qlk3SlQ4a1hFQmdBd1VGeG5BNXBZVGZlcWhUZkZrTDA4MWoxN1NjUXV2TXNpOXc?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T12:00:06+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T17:59:11.072696+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -339,7 +305,7 @@
    "base": 80,
    "pub": "2026-10-23T15:28:23+00:00",
    "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -381,23 +347,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792807593_2": {
-   "title": "Magnitude 5.6 earthquake rattles Northern California: Some injuries reported, thousands lose power",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE5qTjNubERTdHVBSWNjc0JST3doQy1iMDVsOUc5c2NXYWdCaFdlWldEZl9xVWJpcUs1VGYyajQwN1ViVTNMU1NrME9pNFVVMUVlel91enBUbXRXTGg1dEt5a2FFelJBSldRMTg1TW9HVjB1SnZsVDdMZTNFY2RCaXpkdVFnX2hTd3FZ?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-23T23:52:48+00:00",
-   "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792807593_14": {
    "title": "Eagles\u2019 Jalen Hurts Draws Strong Message From Chiefs Star Amid Blood Clot Situation",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHVSS0t3UmNFdWFkc3Y4elVxQTJ2WnZieUpXbTBIRTM4WmtiRW1lNWZNa1lsdlVOOHRsX0R2Qm16eUNjcFliWmhCWjRkUzY0dGxMcVVvUWVfQUVIb3N2enZLOTBiVTJveXVVT1VxSFdjT05FMm1GcXM5dWc1WkpDMHUzejNLYTQ?oc=5",
@@ -408,7 +357,7 @@
    "base": 80,
    "pub": "2026-10-23T23:37:14+00:00",
    "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -429,23 +378,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792826265_0": {
-   "title": "Union head calls MLB's salary cap proposal 'nuclear bomb' ahead of World Series opener",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEduQXI2VlFfX1lTRW54bXhUdVdJMjlBMklwc2dHRmFDbjc5NF9iVW0tMXROWFZjUEFuX3NKZWwxbVNjOHFMQ0Rld1U0TlBUYU9VSldtd2NJNDRHakE4RktFVkFudWZid0lpX3VrQVU5X0Uxd3VURTFiN0VYSVZVTG9aXzJUSnBDOEx2aDhzcjhlemZhNkJuVG1COXdOWmtxMUJKTGFPU3YzWEo2WkI2OFdCQ3hjN3NJVUZsVEhGQkpoNGFzWGc?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-24T00:06:27+00:00",
-   "first_seen": "2026-10-24T07:17:45.423427+00:00",
-   "last_seen": "2026-10-24T12:02:36.287166+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -613,7 +545,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -787,7 +719,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -805,7 +737,7 @@
    "base": 80,
    "pub": "2026-10-25T05:03:05+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -840,7 +772,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -857,7 +789,7 @@
    "base": 110,
    "pub": "2026-10-25T06:04:36+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -875,7 +807,7 @@
    "base": 80,
    "pub": "2026-10-23T15:31:00+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -892,7 +824,7 @@
    "base": 120,
    "pub": "2026-10-25T14:34:33+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -909,7 +841,7 @@
    "base": 80,
    "pub": "2026-10-25T11:00:06+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -943,7 +875,7 @@
    "base": 75,
    "pub": "2026-10-25T17:41:50+00:00",
    "first_seen": "2026-10-25T18:24:44.328366+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1000,6 +932,57 @@
    "gate": 60,
    "cas": 0,
    "changelog": false
+  },
+  "s1792977188_2": {
+   "title": "Hurricanes, Nikishin Finally Agree To Contract",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWV9DNHlQNVpINzJOOVRCalFfOGVCQ3JRRU1wYmNvYTlycmVQV0pHZWVRTkJOMll0bWNWYWFidDd6U0RTZnBMbHR3WlVudkZvWFlrTFZuOVlrcVFyUHFuR01UOXRVSFpFT1BjQ25tVXhaS0ZCVUhtR3NoNDNiMThsZUlIQ0duQkx6UG5JNnlYXzlSZms?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-25T21:22:31+00:00",
+   "first_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792977188_16": {
+   "title": "Anthropic's Claude Accessed Georgia State Vote Count Information Behind Paywall, Axios Reports",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2xHSTJhUVdCQ3J6RUNrckFlcVVHaVVqT0U1dnVac2tWci1DbUVXYURudk1ucUZuZmU4b1BMb0NyNHUxaFZ1SVJoU085VklxUkxLbTNPUXRDVnJwT3c5dGEwTG55Tzk4ZndrbVNhRTY1cE5taUZYV1NwcXVua3R2QmhtSWRna1NyUEgzNkRkcGtDNGNFcEJGOU5KSlIyTWVMcmJhVUJUdFRNMmtBV1VKUUx4blRyOVRVNW1OS0ZVckpLVXVxTnJ1eDN3SjBIYndvOG1mQVc5SHhUZw?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T00:02:44+00:00",
+   "first_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792977188_17": {
+   "title": "ChatGPT closes in on Claude in S.Korea after GPT-6 Astra launch",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGWlRXaE5paVVuVV9ORnhIeVI4V3FYX2I4Q0VkZENmOXVNSnhNcGh1OXg1Z3ZTY0JNTUpIVE4wNkk0SS1MS19WWnp4WS1NSGsyZ25ScjJOM0JPUTlkYy1xZW5HY3dheFVwZHZMTlVEOXBUTkxvLVlSaS1zWXZjOHc?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-10-25T14:42:00+00:00",
+   "first_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1012,8 +995,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"28e1824c8a13457131d197aa2688959d\"",
-   "modified": "Sun, 25 Oct 2026 23:10:39 GMT"
+   "etag": "W/\"e133d72fb0f136e38446f568d1cee6fe\"",
+   "modified": "Mon, 26 Oct 2026 01:11:41 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1025,15 +1008,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 23:12:12 GMT"
+   "modified": "Mon, 26 Oct 2026 01:08:29 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"4bfe1a35f3e5a4b9135e84fadad7e149\"",
-   "modified": "Sun, 25 Oct 2026 22:59:59 GMT"
+   "etag": "W/\"d87262d0380448d538c7bab11e738779\"",
+   "modified": "Mon, 26 Oct 2026 01:00:33 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1041,7 +1024,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 23:17:13 GMT"
+   "modified": "Mon, 26 Oct 2026 01:13:19 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"585a0a320c8ac66bccfb4c28de999465\"",
@@ -1052,7 +1035,7 @@
    "modified": "Sun, 25 Oct 2026 20:28:47 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"066ec8ecf9adcd255996efc9f87377f6\"",
+   "etag": "W/\"bb822d850d5501cf2a4d725f3e650808\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1096,8 +1079,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"f1e15c0df1327678e70605cd6ce34542\"",
-   "modified": "Sun, 25 Oct 2026 21:55:34 GMT"
+   "etag": "W/\"f41a5d2a88cc2d7606eea5105aca6bf8\"",
+   "modified": "Mon, 26 Oct 2026 01:05:41 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
