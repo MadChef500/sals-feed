@@ -1,23 +1,5 @@
 {
  "stories": {
-  "s1792763546_25": {
-   "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
-   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-23T09:35:00+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792763546_39": {
    "title": "Enter Elon: Tesla robotaxis \u2018coming soon\u2019 to Jacksonville \u2014 but will they reach St. Johns?",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRvQ0w4MzdOS2lnam1TaE53b1Y3QkdNTTc5RzFqR25RQ2FlRE9SbGdSOTBsVVNyc0lMeVRDMmI2TlJmM2VrQU5LZVRvN3plUHl4amc4dXUyWmVBSzllMWdoUm5aN1E4MFk1M3VJQ1RUTGlwcjhxWTN5NUx0dHZyU1QwcnM3SHQ2NjFWZ2o1cGw2ZkFCcHRxSlhRTzhBZk8wQ05wZnVwZF9Sdw?oc=5",
@@ -28,58 +10,7 @@
    "base": 80,
    "pub": "2026-10-23T13:42:34+00:00",
    "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792763546_40": {
-   "title": "Tesla Model Y Years to Avoid\u2014One Year Drew 1,186 Complaints and a Steering Recall",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNTVPcDV6SlFzbWlzTTJLTmVWMXNobEUySW9sU2M2TllvaEZTcG04YnFjM1haMkVLbkRmOHJiZVRlV25YcnNnU2xObHV2WWlubVNGa2p2cmxzRldfYVVLdGlXT2g4ejVYa1E?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-23T12:58:06+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792763546_42": {
-   "title": "CyberCartel hacking gang used Claude and Grok AI agents to automate attacks on Latin American institutions \u2014 passwords and details stolen from over 400 institutions, including banks and payment apps",
-   "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUzNXWU9mdGNtWGktLVRRVm5KdFA0Zjd4Q29SeWs0T1lCbDF5YWdGc1BscVZSNDV5SkNzdGlPYjZuZEpfNjQ5ZTd0NUhMeHNDNHNzN01PWGFDYnNLV0ZYeEhKOE9NRjZGb3Vwb3V1NUpyZkZCdldUZDVicDhRNEhSdUhSVWREOEVsSERvVDZYSjRJUF9zSW5OcWtxWHJNc0NkVVgzTDBVWGlkb01SaTRTUzBQQmVWTkI2TV9qQjJsc2Y0Mi0xeEJnRXR2aUxYZXpYNWltLTdsVHRVOThCMmJaV1F1RjRVbnpFZHd1Ym03QUo3MUFFNlFpbjhwbU5uNHFVSzB5SUFjSWRJN0FTSTVhTE04eE9TQ1U2bDdxZERIV2RRRTVzQnUzYmVQekxJaUs2WnJCTVRCeXpLZmlXdlFfRlUxZGtES2lud21XWFl5bmFCWUltT09BN2NBUUJWOWRSTzl5YkZJNUxHQnVqbkVfclY5cmpLeWJVelE?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-10-23T11:00:00+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792778351_32": {
-   "title": "71-year-old man killed as Tesla in full self-driving mode hits him on California freeway",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-23T15:41:00+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-23T20:58:59.624502+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -216,7 +147,7 @@
    "base": 80,
    "pub": "2026-10-24T17:06:24+00:00",
    "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -272,25 +203,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792883698_1": {
-   "title": "BREAKING: Explosion at Quaker Oats factory in Cedar Rapids",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG5WUVdtM3VOWFU2LS1ZWElpaVpNWnVkTklaUkZYVEM0ZnNYRWJiSm9kYlZ6UDYyNm4wSDBVanhiYWdaZklBckJ1LTgtdTdQbk55NGREc0Y1cDdFVFd1aWJyRmhrR0UtYkp3SFpMOFJ6SzVNc1kyM0NoT2s4a1V1ZzEtZTllSVRYV0ZTVERxdzdyTjFwbnF4MEJGUldKZWl1SUd4c3FyOHJwZWx6Uks4Vmh6d0I3OGpvejZkcEFCWHZ0eV9GM21iSDJ2RFFBZw?oc=5",
-   "sources": [
-    "6abc Action News",
-    "ABC News",
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-10-24T22:18:00+00:00",
-   "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-26T06:14:21.570297+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -408,7 +320,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -461,7 +373,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -683,7 +595,7 @@
    "base": 80,
    "pub": "2026-10-26T02:14:35+00:00",
    "first_seen": "2026-10-26T06:14:21.570297+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -802,7 +714,7 @@
    "base": 60,
    "pub": "2026-10-26T09:00:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -820,7 +732,7 @@
    "base": 80,
    "pub": "2026-10-26T12:50:51+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -838,7 +750,7 @@
    "base": 80,
    "pub": "2026-10-26T12:10:07+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -857,7 +769,7 @@
    "base": 80,
    "pub": "2026-10-26T12:29:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -892,7 +804,7 @@
    "base": 80,
    "pub": "2026-10-26T12:58:40+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -909,7 +821,7 @@
    "base": 110,
    "pub": "2026-10-26T09:15:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -920,13 +832,14 @@
    "title": "Tesla FSD Approved in Latvia, the 10th EU Country to Back Dutch Ruling",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUp3enR5NVNKbktkX0hLQWVybWhLcE5PUHM1d2tTR0ZfQ2V1VUxlR00yNElsWUowTEMtNDNjMkVCa1dDU1pQekdCSDVxYmNlcFZCb05wd3pVR0p3VVExYkpJWW9CRE5FYURaZ2VKOEtFV1V3YThNVUxXX0dNY19XOXFUcy1qem53dDBsYUtGLXBxWXNUcUhKS3dBTGdVWDdLQ29SRzdYODU?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-26T11:12:27+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -960,7 +873,7 @@
    "base": 60,
    "pub": "2026-10-26T17:55:59+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -978,7 +891,7 @@
    "base": 80,
    "pub": "2026-10-26T13:38:28+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -996,7 +909,7 @@
    "base": 80,
    "pub": "2026-10-26T17:23:44+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1007,13 +920,14 @@
    "title": "Tesla FSD Comes to Turo Rentals as Hosts Get a Free Month to Lure Renters",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWxiU0xSTFpRRkR3SmxZczhvYWFBYnJCWVl0QnBoZm93VlVJV1dvYWpJRWRTa3JWTXM1WWE1V2NOamxoLVZ4cVBBWXZIRnBFNmR6UFI2VFpKczJ2SWpEVnotLWdtQXJrbUh6Wk9nVHo4TVlOVlp6REhvUHNJUmRGVElYVENhNklLZ3RESkdlOFJqNERnZkZFU2dhbEVUZ0NreGY2SVpVa2lQUUZseFE?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "InsideEVs"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-26T14:57:00+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1030,7 +944,7 @@
    "base": 80,
    "pub": "2026-10-26T18:32:16+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1047,7 +961,7 @@
    "base": 80,
    "pub": "2026-10-26T15:42:04+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1064,7 +978,7 @@
    "base": 80,
    "pub": "2026-10-26T15:43:22+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1081,7 +995,7 @@
    "base": 80,
    "pub": "2026-10-26T17:38:15+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1098,7 +1012,180 @@
    "base": 110,
    "pub": "2026-10-26T16:08:38+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_1": {
+   "title": "Jordanian strike on Syria leaves 5 dead",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcnBjWGhmYjJaVEZ0b0tlZUlIRDNOSllRR2p0VFBKT0NPMng4YXBFbG5vTl9YZjVZejdDdlQzSmlYTXY3b1dyQW5LZ0plSDhoYmU3cTByc29VMTh0S2hQMGJmSVZueDdHZnBabklQQXZLOTQ1R2Iwc1JKd3JRVmFXZWJLdWlndklEMjNmcA?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 65,
+   "pub": "2026-10-26T21:08:00+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 5,
+   "changelog": false
+  },
+  "s1793056220_2": {
+   "title": "Huge explosion at a weapons depot in Syria",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-26T20:41:33+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_5": {
+   "title": "Eagles activate Grant Calcaterra, Landon Dickerson, and Eli Stowers from Injured Reserve",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazI1d3dEZi12YWE1SUlaVXh3bGRPcDJXR1p2YkNmWE1Rd1cxWGFpcnZTMElOR1FkNFBVQXh1YndQakpLeHFvdkh1cUhKZEsyVW9hMGVDaXlyMzJSMmxzN1J1ak5sTzF2QUxtMk9sX205b2VKQTNKSUJaNmFHaDROYUVKVGxpcHV5djh3QjEzQlhtbWhRMEZJSDVIMEdIa3RlN2NncjdJQjVWME1VM1V5WU1KLXM3TTNhMUp2YVNnVTI3MHBD?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports",
+    "PhillyVoice"
+   ],
+   "cat": "sports",
+   "base": 110,
+   "pub": "2026-10-26T20:03:37+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_9": {
+   "title": "Philadelphia City Council investigating Academy of Natural Sciences closure",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYV9zc3ZrTy1FVE5yMGFVQ3lBQnk5MVo5VS1NdTV0eFBqd0ZVT3l6bG5fUmswU1JqSjRVdHdLSVM2U3JaMFo5WHBWZGFneURBNXdwTWJMSXVrT2twRkZCeDNINlN4WjFfWXYxbFk5emhUQWQ5Wk5VYXVSUTNfTFlkYVpOdHVOYi1xN0N2M3dScC1aZi1UdGNidXI2RmxSUlcxalpXTmVtNA?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-26T21:43:11+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_23": {
+   "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
+   "link": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
+   "sources": [
+    "Google News Tesla",
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-26T14:58:00+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_45": {
+   "title": "Did AI get access to GA voting data? Claude makes unauthorized move",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGpWVnluOU5Yc25uSGJycjljNFBiX0NYOWRVaXRCc1B2V0NxSnAtYkpORU1HWXBPb1RNMUhfMjZOVWMtOUlERkF6WEg4ZC1UNHg4SExkYTdaYWN4S1ByM014ZTRMQkVYNDdGVGV3d1BLMWIwaGd1LTJBaHFCbnVPYzZJYVVuMjVpS09wWHpTUVE1Y25YeTdBZFpXQ2I5SU9SY0puS1FQeHRLZHBDcGlWUXdoTW5udUJIMHdWdDB0TWFVR2JBeEdxem5PMHM5Vm5tRXNGMVJMSQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T18:42:00+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_46": {
+   "title": "International seminar \u201cAccess to information 20 years after the Claude",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVU8yTDRpa1BDQmdRQkp3eHg0cHY0aWJoWlRNeTRpOWYyc2ZrcjE0YUZkQlhYanoxeVNVRVFQdmlPdWJrUzk0cm5zYl9RRDNoNHZxeE9wQ3UwTDVXelROd1k4VDM0UVlkcVB5QnFCa0g1VERYOEh0TEotdnlDU3RUX3JPMXctTDVSUnhpTlJUQml6Vlk3VzNKWDM0ZlpidE1TeWN2OTdoQl81Q2RhalRqd25ub05HQUNzaElhRXNRTm9rWDlIM284?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T18:16:43+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_47": {
+   "title": "Claude accesses Georgia public voter data",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdm4zbldVblRUZFh1NFNEbXBFNnVKU3Qxc3J5LU10R3AzcXdGQWllX0pXYjRub1Z6UjVGa1FZdFVGLVVCR203QTUyYlRPS0FWdkMyOTBfckpKVW5xdUdhVG5yRkMtT3hGM2l1SVdnNnRJcDRSVWN4T3ltYVRRWEYwUUU5YjVfUVVV?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T22:12:39+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_48": {
+   "title": "Claude accessed public voter data without human prompting, raising security concerns",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRm9kdFY1VzBrLVZCN1A3YkxldW5uRmtIV1gtWnk0b0kyaFhtZWNQXzNZZTc4UUhHRjhRRHVzVTdTVWdvT1p3REQ2RFVmZUpxa1hrM0Q0LXpuYVRVUnVRTUw3UkxWdnhySXJzcWplcUVNRTFlMVlvelI3RC1sVERORkdOVy11Z3YtMEd4YnpoT1QxVi1lTW1Xblk0SHNXUHRVVk11VjRHUndBNjY1UndSVDJFX21zR1XSAcsBQVVfeXFMT2E4SDItbkF6MXM4aWMxQi1JQ2MxNG1leVVnbzJ5RHNidUEwOWFOdWVwUkEwYW1kaFRyUGxvSF8zcnl2XzdwOExNajNjRVk5dGNIX3c1eFJYcDdkdnE3U0hVajE5YzZXRlByVzdFT2ZUb21JcFdETHZIa2RqTGQ3UVoyOGZ6U2Rad0Uzam1KRUtHcS1pVHJZcjEwNC1HR0QtS3lBcnktaVlaZjVXR19ONTg3dUNTMVlOXzk4VEFnTTJuVzFJcjB1b0pWNk0?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T19:31:00+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793056220_50": {
+   "title": "Antropic, the developer of the artificial intelligence chatbot \"Claude,\" has started listing on the",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJV2Npc1FHd0g5T1pKYkgxMmRMTW5xZVFFcVZXd0x1UWI3MFUzdzdYRnJyWEdwa240RnJvV0EweGlSMHpjWjgtOXhFdw?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T22:45:17+00:00",
+   "first_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-26T23:10:20.257595+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1116,8 +1203,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"756b452bf403aed6d94c0ab1ea770408\"",
-   "modified": "Mon, 26 Oct 2026 19:12:17 GMT"
+   "etag": "W/\"2bf508e969ac15c6f10de0fb4f4594b8\"",
+   "modified": "Mon, 26 Oct 2026 23:05:22 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1129,15 +1216,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 19:18:59 GMT"
+   "modified": "Mon, 26 Oct 2026 23:10:11 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"4c2d02e438bca8a0ffacddc708c703ec\"",
-   "modified": "Mon, 26 Oct 2026 19:01:52 GMT"
+   "etag": "W/\"4dd4e232545df9519f327ee604dc20c0\"",
+   "modified": "Mon, 26 Oct 2026 23:05:10 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1145,18 +1232,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 19:20:10 GMT"
+   "modified": "Mon, 26 Oct 2026 23:10:54 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"7ab1cdec1be1ee5bd6c293cbbf46a89d\"",
-   "modified": "Mon, 26 Oct 2026 18:45:52 GMT"
+   "etag": "\"7ae146d801997c8dfcb063e08bd2835e\"",
+   "modified": "Mon, 26 Oct 2026 21:10:53 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 18:10:05 GMT"
+   "modified": "Mon, 26 Oct 2026 22:36:00 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"a38e9ca13e39c068567068eae9acbf4a\"",
+   "etag": "W/\"8d1c45fd9f0e84918deeccde1010dca8\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1164,7 +1251,7 @@
    "modified": "Mon, 26 Oct 2026 18:35:51 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"ee71c86b382760e1f70bbeb1cac552d0\"",
+   "etag": "W/\"47d331627d4bfa7ea0e3252e67679617\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1172,8 +1259,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"63177aad6401522959379a13dc14484a\"",
-   "modified": "Mon, 26 Oct 2026 18:58:07 GMT"
+   "etag": "\"e88f124d85bfa2c24208c4ed3e037a70\"",
+   "modified": "Mon, 26 Oct 2026 21:26:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1185,11 +1272,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 17:05:11 GMT"
+   "modified": "Mon, 26 Oct 2026 21:45:16 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"1c1428fd66dcfd2c040fdb6b17a0eb4f\"",
-   "modified": "Mon, 26 Oct 2026 19:16:01 GMT"
+   "etag": "W/\"1a1aba8c1cbe9b1acd81b5145f54b9d3\"",
+   "modified": "Mon, 26 Oct 2026 21:23:01 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1200,8 +1287,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"3514e7915f4f02f9f7817c558c9c22bb\"",
-   "modified": "Mon, 26 Oct 2026 19:03:48 GMT"
+   "etag": "W/\"6059b3d31df5358a5c9b15c464a2bdac\"",
+   "modified": "Mon, 26 Oct 2026 23:05:01 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
