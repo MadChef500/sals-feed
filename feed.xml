@@ -4,15 +4,8 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:14:21 +0000</lastBuildDate>
     <ttl>20</ttl>
-    <item>
-      <title>🌍 Russia to host first Olympic federation world event since Ukraine invasion</title>
-      <link>https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 25 Oct 2026 14:34:33 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Oct 25, 10:34 AM ET</description>
-    </item>
+
   </channel>
 </rss>

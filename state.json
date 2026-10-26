@@ -1,40 +1,5 @@
 {
  "stories": {
-  "s1792691916_25": {
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
-   "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
-   "sources": [
-    "Google News Tesla",
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T17:25:12+00:00",
-   "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792691916_32": {
-   "title": "Tesla Outlook Supported by Self-Driving Software, Robotaxi Growth, RBC Says",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGYzTEYzYkhWX3Utdm9WQnduTERIZEZ1Q1c5Mm5aT1R0WE80NkJsYThUa3h4OTFVSGJIcHFWTVhLXzBWWF9ncUd0U1FDTFVTZXNnWUhMUHc5Nk43UWpoZDZLbE4xbDNCOWFzckQyREprS1BfdUJYSm5XaVo0SXRMaEZtVzZZelQ3cXRIMDVibmphNU82d0E2d0ZocndyMF8tV01Z?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-22T15:46:58+00:00",
-   "first_seen": "2026-10-22T17:58:36.401481+00:00",
-   "last_seen": "2026-10-23T08:48:27.483486+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792703361_20": {
    "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
    "link": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
@@ -88,40 +53,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792713557_33": {
-   "title": "Harvard College students are using newly expanded access to Anthropic\u2019s Claude for coursework, extracurricular projects, and personal tasks after the Faculty of Arts and Sciences began providing institutional access to the AI platform this summer. The FAS fir",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5M0VCZTY4X2RDY2NhSG5VMnVGU2dWWllabjBLYkxWR2lVNGlLc3hKdzQwdUNKV3lGTjlONk5xZFFOZGxCRnFNWDJLSzQ2enZ4UkE?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-22T22:30:42+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T03:25:19.807130+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792713557_34": {
-   "title": "Google Cloud launches Anthropic-managed Claude option",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjQySEJmaUdBU0g3RjBYVmxPeWlUTkV0TndleGlpSkI3YW9DOTNPcjdpdklmYnMxNWlmMnFFRDZlNE5hcVFuNFBISm54TFRjc3hXRS01Ykt3enV6N0tMNXZYUkJ1U3BweDIzNnlOTDFUVkVhYWN3MG5SVks0US1VOC1fMXlaeklTaW9iZWhPWVBUc3NmN25Odi04MWNLUmM?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-10-22T21:54:00+00:00",
-   "first_seen": "2026-10-22T23:59:17.886715+00:00",
-   "last_seen": "2026-10-23T03:25:19.807130+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792745307_32": {
    "title": "Tesla Builds Own FSD Maps, Starting With v15 [2026] - https://tech-insider.org/",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RG5lRTFHb0luT0l6VFRfU0tlQ1NsQ1pVVDBVQTYwNGEyeDJyaldudmtvSFFLZFdCVDVoMVdUSVozcWRMdTVuVTQyMEd3a1I4elZnUTNWT21ldF9JYVc2ZDA4eDlPMnItS2plSEFQYi0?oc=5",
@@ -132,7 +63,7 @@
    "base": 80,
    "pub": "2026-10-23T03:37:05+00:00",
    "first_seen": "2026-10-23T08:48:27.483486+00:00",
-   "last_seen": "2026-10-24T02:06:33.145653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -207,42 +138,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792778351_11": {
-   "title": "SEPTA ridership hits highest level since COVID-19 pandemic",
-   "link": "https://www.phillyvoice.com/septa-ridership-2026-covid19-pandemic/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-23T15:48:29+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792778351_14": {
-   "title": "Eagles News: Patriots fans aren\u2019t feeling so great about the A.J. Brown trade",
-   "link": "https://www.bleedinggreennation.com/news/187972/eagles-news-patriots-fans-arent-feeling-so-great-about-the-a-j-brown-trade",
-   "sources": [
-    "Bleeding Green Nation",
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T15:50:50+00:00",
-   "first_seen": "2026-10-23T17:59:11.072696+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
-   "team": "eagles",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792778351_32": {
    "title": "71-year-old man killed as Tesla in full self-driving mode hits him on California freeway",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEMzbWpMczE5QldaZHllUnRtdWlqOHhOMVNsUTB4NE9nemdUTjJqRjVvUFVLYnV1Ti1OQkEybG5kTjhJN0l4N3hFUE1tSHV5cWJIUnJTZVNDM093NmJMeXlfNno2ZlNpbXZKbHF4TTVESTRnMTB2OC1ZRHdUODliV0FjMkNOSWJ2WXY5ZUFfeDc1VWdzWWFGOXk5blNubzN3WXpNUTFEN2tnaVYxT2R3cDRzdlkwdWpmTDBrV001dm9yNVR5dnZ6SEZ4ZDF4ak9UOUZwdGFWVGZna1BqT0x4dERlUUVfVUJ0Z0ZjRmtob03SAfYBQVVfeXFMTjUyREZpNGxMNm1UTmJKUU9PUjJxRHZmT1dSVjlaajZwb0Nza2RnWmxYdVo2QXMweTdDMVlOeFVFbjB5V3hfazNiYUZReGhuLS1mVng3Qm1pSVZMd3NkNl9jUVJ1dWNEV1Rmc1FQZWhoRUphVS1IZ1R0emFObC1abFJIclVZRUNNMWdTUURfQmFpc3hLVElVb082OWJSc2xhZnBsWFNOdEFMOW52cHZ5YjhKeVp0WXR1YzdpQlVwME9Kb2V3MkQ4R0RMdDA0dERxRjF1V0ZRMXU3dkxjUVpfMm5wRnUzbnJOU0tFN090RUk5M1hIN2xB?oc=5",
@@ -294,24 +189,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792789139_21": {
-   "title": "Should the Eagles sell at NFL trade deadline? The best of Zach Berman\u2019s live Q&A",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTERLME51UVJNU0hsVVdwTXJtSTZkUkhuWHBKVlM2MUgtQldrYlp3bWI1Qk5GQ253QTd4OE9Xam5uTGVrWjRfLVlHU3R3Ym1qU2lLcFUzTFlLbzNJT3hzU011S21wMmJvUG1YbzFJR1ZhYTdwM0RjamY2dEZOa3FCWEpILTBmOU1ROFZSYzJLaGphUQ?oc=5",
-   "sources": [
-    "Bleeding Green Nation",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-23T15:28:23+00:00",
-   "first_seen": "2026-10-23T20:58:59.624502+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792789139_23": {
    "title": "LeBron James Already Sets A New Career-High With 76ers vs Cavs",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNE5PRkw3ekJPVWxKeXVOUmFnNTVXa2h1RTJYYmFfOFdrU29oZUYtOGVoVnNKX1pISmc0enRkTWk0MHRfYTBsUnU5X1gyLVY1WlZVaE9CVk8wYTUyN1VuZUJjZXBaeXB2LU1TZjhYOUQ4cEhWQ1dMbzRMbkY2ck5hSUpzcHh2MlluWDlBRER6c3lFOUU?oc=5",
@@ -351,13 +228,14 @@
    "title": "Eagles\u2019 Jalen Hurts Draws Strong Message From Chiefs Star Amid Blood Clot Situation",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHVSS0t3UmNFdWFkc3Y4elVxQTJ2WnZieUpXbTBIRTM4WmtiRW1lNWZNa1lsdlVOOHRsX0R2Qm16eUNjcFliWmhCWjRkUzY0dGxMcVVvUWVfQUVIb3N2enZLOTBiVTJveXVVT1VxSFdjT05FMm1GcXM5dWc1WkpDMHUzejNLYTQ?oc=5",
    "sources": [
+    "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-10-23T23:37:14+00:00",
    "first_seen": "2026-10-24T02:06:33.145653+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -500,23 +378,6 @@
    "cas": 7,
    "changelog": false
   },
-  "s1792866611_1": {
-   "title": "6 killed in fiery turnpike crash involving Road Ranger, troopers say",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1Rpc3NoWFpUVjNkMmhydnR3Q0FBdEdQZHJERUVXZnRvaThLSTNXaVJ0WjJINzVHVnhIUVplVFpqOGs3YWc5THBBUGp3Um41NEhVV1RoaVZub0JtZ2F4bHBjVDRZNmYxYmJkVDBMU2U2ejVLeDlTMFBLc2N5Z1hSQkR6Mk5HekwwVElyNkExcGgtZFdQZl9XSHJpUTNhYWtqUUNWWGRqclhYMDhuZmRoMzFn?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 65,
-   "pub": "2026-10-24T02:35:11+00:00",
-   "first_seen": "2026-10-24T18:30:11.134851+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 6,
-   "changelog": false
-  },
   "s1792866611_23": {
    "title": "Tesla FSD and Medical Emergencies: What Owners Should Know - BASENOR",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTFhQmVPMnhNdHdpM3B3cUtoVDBmMVhXV1l0OHk4SGNGcTRUejV6X1AtUnR2aGdydnV0LV9EX1liUElhVHJFcktQSzhsbnNlcDlJQnV4ejFIOFU0VXE2YkIwNkM0c2dKN3VvaW1pOGFPd2pReS1uVEhPNW5MbkRaa0VoOS15d29KX0MyVkJzR2c2VW1UR0Fz?oc=5",
@@ -545,7 +406,7 @@
    "base": 80,
    "pub": "2026-10-24T20:08:20+00:00",
    "first_seen": "2026-10-24T21:07:46.457171+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -598,7 +459,7 @@
    "base": 75,
    "pub": "2026-10-24T22:18:00+00:00",
    "first_seen": "2026-10-24T23:14:58.328664+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -701,7 +562,7 @@
    "base": 80,
    "pub": "2026-10-24T21:18:49+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-25T18:24:44.328366+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -719,7 +580,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -737,7 +598,7 @@
    "base": 80,
    "pub": "2026-10-25T05:03:05+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -772,7 +633,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -807,7 +668,7 @@
    "base": 80,
    "pub": "2026-10-23T15:31:00+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -841,7 +702,7 @@
    "base": 80,
    "pub": "2026-10-25T11:00:06+00:00",
    "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -960,7 +821,7 @@
    "base": 80,
    "pub": "2026-10-26T00:02:44+00:00",
    "first_seen": "2026-10-26T01:13:08.053653+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -977,7 +838,126 @@
    "base": 110,
    "pub": "2026-10-25T14:42:00+00:00",
    "first_seen": "2026-10-26T01:13:08.053653+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_1": {
+   "title": "Sixers fall to 3-1 as Pistons shut down Jaylen Brown, Philadelphia offense",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVm1LVGl1R3d5MGo5QkdudDBrOUZ5VVp6Zk5nckM4RXpBb2NNaUNNdHhCaWM5dzF4c01CbUZjZDdnY0VYTjhlQlpERDM4Mnc3QXJuUlI2MzJTaU9PUmhXTS13dC1MdTg3d0JOUFRvQ0U0blE4UXlmTjh4Z1ZRQQ?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-26T02:14:35+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_7": {
+   "title": "Eagles News: Will Howie Roseman sell ahead of the NFL trade deadline?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR045V3pxTUt4Rm1GeGpEM1F3VnBoX2ZXUER1NlJoc3VoRmFrT1kyOERjdE1vcTR2Qmh3aVRQRHFZUDdLQUhqZjlHTmVvd0M3NGUzcmUtWEdnSmcwRDgteGVaUHVKSUxYS3U1eW13eEJlSUNpNkRBYU56dzVpUkxyMnE4cHU4aFFSY0UyR21KdU5mV3R5Y0p3anI3WDdseVhFb0pJT0x4TnJNUndtXzgwbVp6NEI4QQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-25T12:12:36+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_9": {
+   "title": "The Philadelphia Flyers win streak ends. As Ristolainen returns & McDonald stands out, what\u2019s the Blue Line plan?",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQSkQzWW9GeFVtMk51Q1hhSmJMZEVWX2liNWlWQ2tEYVpTR1NEZmdBck40d01yakJhMDJTZmMxQTVkbXA5ZVJFQmljLVhlcTU1UXNwaUhYekh0WGtjdndRYkVhdDM2QzNZXzVmWERuWDhDSWtyd3A0eF9YRmxuT1IyZllHZGRaZzZ4TnhLVVo2Z0VtenRPLXp2dEQ2aGRvUUhjbDlQY1ZvbWFhUlRVT1ZhZy1PRDR5dmJLZnQzWlRPN2w2LUtkQ1BhOTNnRV9DWWhZQTFTSVFoaG1vVlhhLWNoc2k5aGNMTm1JaGRwU2tjcWNMdXBwVHc3SFN0bVp1TDRrTWpMaklBQW9hTzA2Tm94Q3NWTy1HbmJHcVctSk9ORWRXdVZFZTIxUmdFcjVROU01V1FXc3I4bnA5MURkY0hwQW1B?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-26T02:24:00+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_14": {
+   "title": "Elon Musk Met Xi Jinping and Took Tesla FSD to China \u2014 Now His CFO Says Getting the Green Light for Unsupervised Driving Is \u2018Hard\u2019",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemsxTXd3Nk15RmVMbmc2TENtNmpDNWZVWEN1X0NLTjh0aW1JOHNpYWF4bHVzQ29KTFVvbmNGVVRSUkFMSUlnU2J2SE5aLVdQcVBHZmM0VWVQRnpvMEhRNzJVcktUcklPTUhtNTQ0bWt0bHlybzlCbVMyT0tJQkJGR3I4VzZyc0xWRU5rREdYckVHZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-26T01:30:00+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_16": {
+   "title": "Tesla FSD China: CFO Flags 1 Big Hurdle [2026]",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YamEtRzcxdVVzNEY5X2V1akhiUGxyUnBUSElRUjBINXpMME5MSktQUlJuUlFPNE9IUTVhZkgyeml4ZG5qNURxUmdaRTlnd1BtRi1CeXgxbVRCVVdNZ3VFYk1HYjNBeWFtdjZ6RmVPQ3MySW1aQm1IMHRB?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-26T03:30:17+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_19": {
+   "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlR4S2FGX3AyazE1Tm1uQlZvRWFLY1VWbGdaMHZKWEltM0lPcFRVUHRRLTdKSHlOcU1Cb2x4WHZxeDlXZVQ4cjBHaVItZk1oOWdZeWhPcFdLai1CRnBnUWpBTGdhcV9nMGFvLVNVanhiMWEzckhmaWhJbVF3LXhTam1aS296RXk0U3c?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T01:47:00+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1792995261_22": {
+   "title": "Anthropic\u2019s Claude bypassed paywall to access Georgia voter data ahead of US midterms",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYno2dmdvdDlVVk01QU9wTlg5R2RHeVc3dHB2ZU15Nnhfd1dtZnQtSnNua1Z3VVNFdnZZYUV3el9JVTduNmRnV2NwWncwSjg3ZG5kc1V4b0pnbnNUVDVUTU5OQi1Mdmkwb0ZZaVlIVUlZU3NTWTczWDM2QnBRdHJRZjFqT2RvaDkxOEpIbkdrdWVGZGM5YWJ5N21YYlZwQkVjdzNadTlIR3FNdHUxUnpfRHQzb094cjg0UXpNRmZ1Z2RDMWp0QVZvcW5uWW5lZXJJ0gHXAUFVX3lxTE9yMEQtUjViT3pZRlRLOWlOSDNKX0NuWEtKZWdGVER1UEFMUzNkMThLM3EyNjU5NF9nLXJ5ODRMOE9vSzdmaGh4YUdlVkdpU01Ndks2U0pfcnMyYmtuYzI2X1hhaWRsaXdTeGFrMHR3WE81X3Q2dmZiOWc5OEVsRjlxemNiOEZidV9rLTNQU1RaOS1UQ0JTUVUydEJtd01rMnFIbG8xQ2pvakpXOVJiV1RLNV9PaXBkT0FRVjFhQmd3cUxhS0RwaEVqM3dYSk9hM3hvQk9jTGxv?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-26T06:03:31+00:00",
+   "first_seen": "2026-10-26T06:14:21.570297+00:00",
+   "last_seen": "2026-10-26T06:14:21.570297+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -995,8 +975,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"e133d72fb0f136e38446f568d1cee6fe\"",
-   "modified": "Mon, 26 Oct 2026 01:11:41 GMT"
+   "etag": "W/\"57082bb09b243ff3d415825c8e32df91\"",
+   "modified": "Mon, 26 Oct 2026 06:14:11 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1008,15 +988,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 01:08:29 GMT"
+   "modified": "Mon, 26 Oct 2026 06:14:14 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"d87262d0380448d538c7bab11e738779\"",
-   "modified": "Mon, 26 Oct 2026 01:00:33 GMT"
+   "etag": "W/\"450fbe18e48f3d01ec6040f0a67016c6\"",
+   "modified": "Mon, 26 Oct 2026 05:31:25 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1024,7 +1004,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 01:13:19 GMT"
+   "modified": "Mon, 26 Oct 2026 06:14:29 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"585a0a320c8ac66bccfb4c28de999465\"",
@@ -1032,7 +1012,7 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 25 Oct 2026 20:28:47 GMT"
+   "modified": "Mon, 26 Oct 2026 02:16:25 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"bb822d850d5501cf2a4d725f3e650808\"",
@@ -1047,7 +1027,7 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"429e283eaede800b97420e5cda724ad7\"",
+   "etag": "W/\"76c5f08b4e209b15a12742319a03ffb6\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1059,8 +1039,8 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"366db268d3aacee1bd45f9d961b05524\"",
-   "modified": "Sun, 25 Oct 2026 14:34:00 GMT"
+   "etag": "\"adcadf748b169950632dfcd051860ef2\"",
+   "modified": "Mon, 26 Oct 2026 05:05:01 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
@@ -1079,8 +1059,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"f41a5d2a88cc2d7606eea5105aca6bf8\"",
-   "modified": "Mon, 26 Oct 2026 01:05:41 GMT"
+   "etag": "W/\"9c273265f5a8ddf3e87cbf634eff43b3\"",
+   "modified": "Mon, 26 Oct 2026 05:41:16 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
