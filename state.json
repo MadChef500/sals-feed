@@ -119,59 +119,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792908504_7": {
-   "title": "Thousands of rowers compete in Philadelphia's 56th Head of the Schuylkill Regatta",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNejNpSEtMY3J0aV9TZEJUQ0NGdUZOMXZ3OFV0Y1hwZEJqblZyMHYzWFdmbW9Ma2JsZG9paVNLNkVmdk5vVVp5LVVEXy0xWVpMVGVUak85c3hRdGtsS256TjZEYkhvYjlfNFFvVTFiVjdGZUFtTFRFTUtENHVzUm4zdWxyYXcwNFUzeGowTXFUSm00dzlKaE9xUGUyc3Z1N2dM0gGmAUFVX3lxTE5ncFRyV09nQjZJSnloYmlOd0lDTzJrbFpqV2ZLcEQzcnlRUmhIRFdVWHFwOU9oYllFQ3NmNkd0WjNxaGhwdlowaDlkMXlGYVBidHRQVE5GVDZnQ1hVVW0tY0h6ekREZkJEVkdDcWFiTjVCczVCUFFYTEY3R0F3Q1lOc2R4WW02SWRkV2ZadlZPWlFaSUFVS3ZEQUsyT2FpbjdUaUs4b2c?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-25T02:45:16+00:00",
-   "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-27T02:05:04.582990+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792908504_19": {
-   "title": "Which Philadelphia Eagles Could Be Traded Before 2026 Deadline? Moro Ojomo And Saquon Barkley In Focus",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY282TEJDZzBUUjM1bjZfYmZEdWh3OVlyTXBrRmlPeV8tTjl1Um5BNTljQVhEYTVIcjZuc1Vwb0VtbEZROC1Ib0xFOG51Ui1Yd2pKR2dJc05lWS1XWmZ2cGhEaHFUZkNobmhuYlhZanIyTm1RRTBBa0xRQW9fUWdnRS1IaW12OHdNSXVuRGNJSXU5NDlxSWg5aG05Sl90eF93Rlo3OTBVeXc4MC1uNE54NHh4TEdKNkRadjhqeTh2U3Z2RWZFd19FTnBmQnJkWFg3NEUwcHIzOW0?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-25T05:03:05+00:00",
-   "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792927790_13": {
-   "title": "76ers face the Pistons on 3-game win streak",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGtEZ0VwY1Y2bmtJX3hHcjVZTzZTUkVGcGNSZDJ1X25uMkRscFJCWXBDTGtMTGRSWFNKaDFVdmJwQ1Z6NTgzbEktdjA3ZHJhWWlFR0ZYUW5zVXo4NjdMZTNzeDlYZkJCUGV4UmI4OHpFYzU4R3RlandmT3Aza1FpY3hGQzhUdzUz?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-25T06:02:46+00:00",
-   "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-25T15:01:39.560651+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792927790_15": {
    "title": "2026.38.5.11 Official Tesla Release Notes - Software Updates",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0ZFb1NzRXNLbXNVbWJrZy1NZUY2TGJNTDQxUHJnNExPVGRQYVRaNG9leG90M2pKVjZVQllyV1JPZ0F4MDhIVm0wVWJnbnRGRXpobXFjQmlVWEV2aG91cS13Sk1MR1U4VVhUS1ZXclB0bFhvUWlwMFVIY3hLcE9HbUVFMTI4ZDg?oc=5",
@@ -204,23 +151,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792940499_0": {
-   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-   "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-25T14:34:33+00:00",
-   "first_seen": "2026-10-25T15:01:39.560651+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -258,23 +188,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1792952684_1": {
-   "title": "BREAKING NEWS: Evacuations ordered within one mile of seafood plant fire on Newport's Bayfront",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZE8tR0hyZm40ZldQY0x5NkJGaFI2YjVkd3ZMRGlsdGwyTlI1UVcwNWczZ3lBS3BPVDBCZVRmTnhoZXhvMGRPNmhqcG1rNnBsV0xOUm9nMHpmRDBZTXRjMXV0NnViVl9wOTVDUmJqSkdBLXM?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-10-25T17:41:50+00:00",
-   "first_seen": "2026-10-25T18:24:44.328366+00:00",
-   "last_seen": "2026-10-26T01:13:08.053653+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792962631_20": {
    "title": "Elvis Presley rights holder sues Anthropic, says Claude trained on unauthorized songs",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2xhUk9UN09Xa21neEc2TVN2RjVMREhVekVyVmVuQlZZYVhHa3RwSUpncFFFUWNBNzg5bU11YjdyZk1odFItM213Y2dwX3NtQzBvVWF1Y3JkTVVHRnF4a3ZyRVczU1RzLXZPNjNVRlZRcm0wNjR1cTgwNEN6bWItWWw5RXI2dm9DMHRVX0M2ZDNleER3MVNUblRnSm5aUUt6elh4WVI5Z0cwOGxEcDVtMDltRC1vZmpGamZwbGg3MzFKQQ?oc=5",
@@ -301,23 +214,6 @@
    "cat": "breaking",
    "base": 60,
    "pub": "2026-10-25T21:54:52+00:00",
-   "first_seen": "2026-10-25T23:16:34.763005+00:00",
-   "last_seen": "2026-10-25T23:16:34.763005+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792970194_2": {
-   "title": "'Devastated': FAMU homecoming night ends with one of city's worst mass shootings",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWlXSGZISTNTeW0zTU94UGxUelhpakEtN3pLczFSTzUzMHF2eWhGel9IZnNUNmY4LVdoam9QQzhYemhmSHQyUWE2czk2bnhtbXFUYm9CRTJzbTV5aWFKdmRheElCVUV5Y0xiUHNtY1lLWUx6U0hXWEZGcEVNNVFVVlRobnBqSmNsYVl3TjF0R3ZndjBETDFZZzBOaDUtaWRJN3FwcHpfaFNGT2M2RTNZOExnRjZmUTN3XzdqSlJFa3k?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-25T17:46:00+00:00",
    "first_seen": "2026-10-25T23:16:34.763005+00:00",
    "last_seen": "2026-10-25T23:16:34.763005+00:00",
    "team": null,
@@ -542,7 +438,7 @@
    "base": 80,
    "pub": "2026-10-26T12:10:07+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-27T07:52:27.604944+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -597,7 +493,7 @@
    "base": 80,
    "pub": "2026-10-26T12:58:40+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -632,7 +528,7 @@
    "base": 80,
    "pub": "2026-10-26T11:12:27+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -703,7 +599,7 @@
    "base": 80,
    "pub": "2026-10-26T17:23:44+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -721,7 +617,7 @@
    "base": 80,
    "pub": "2026-10-26T14:57:00+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -739,7 +635,7 @@
    "base": 80,
    "pub": "2026-10-26T18:32:16+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -860,7 +756,7 @@
    "base": 110,
    "pub": "2026-10-26T20:03:37+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -896,7 +792,7 @@
    "base": 80,
    "pub": "2026-10-26T14:58:00+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1015,7 +911,7 @@
    "base": 80,
    "pub": "2026-10-27T00:31:00+00:00",
    "first_seen": "2026-10-27T02:05:04.582990+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1066,7 +962,7 @@
    "base": 80,
    "pub": "2026-10-27T04:04:16+00:00",
    "first_seen": "2026-10-27T07:52:27.604944+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1117,7 +1013,7 @@
    "base": 110,
    "pub": "2026-10-27T07:30:05+00:00",
    "first_seen": "2026-10-27T13:40:50.547494+00:00",
-   "last_seen": "2026-10-27T13:40:50.547494+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1140,6 +1036,384 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1793127705_0": {
+   "title": "US military says 5 were killed by a strike on an alleged drug boat in the eastern Pacific",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHM2TlVIRnk3Z1oyS2oxalhSa2thdmhELVJpUFR0RlhQM01TZ3NZRmlqeEpSYUJ5SEI2T193cW9ySkVwc1pQMXBmeWd3MEY2UTVlRW1IQUVBdEVmbXNGZ0N5YzlPUXNGNF9COE1pSUlfbHM2enRKb1JNZlFLamhTeUY2d3E2c3RtMmVUZWRDM1dWdFpJVlBDdkNiRlZ0TVA2YklENkh5akRZMEVYX3hHSGdrd0ZzVmJ4NEtweHZ2NGVVdmF3ZnBKTTZlNk1lZHJoa0RhNGFWdw?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 65,
+   "pub": "2026-10-27T17:20:58+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 5,
+   "changelog": false
+  },
+  "s1793127705_1": {
+   "title": "Supreme Court won't intervene to allow judges to pause some deportation proceedings",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVI3TmdTem40OWN0TDI1a2ZpR1NjaEFKaXhrOVNyVTVxZ3FNSU9QekplMDJweWpoYldFZ21iYm1NeFF1VkJGUG1VYnJteXR0dEpHV0hXd29HY1ZiRnFlSGQ1SXIwbHp4ZElZcGpUUEZZQWJqX3dUTTJLVVc4S3VzOUVPTGpOb1pWUWtlS1B6MEdxOHhIdkN5UWJyU0ZnTUFNdVBMOEJPSEZKOUxYM3hkSzhoRXgtQUxvQ2pYRnpSSkxfdmxwSFJRREwydWNHUQ?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-10-27T17:06:09+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_2": {
+   "title": "SEPTA previews new railcars purchased from Montreal's Exo system for Regional Rail",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMm1UcUtYdFNwZE9tNUhqTGRERWU1OHV6Rm9LbERZWi1va0djY3VyTVdOY0xCOE1DQWVCTHZoZmoyTEZVUzBZdUtPLUZlbkctY1RrcDV0OG5aQ3RBcXNPVEVYRmtsMXgwenNRcVY2Vy1FNTZkd205Y1BXZWJlanRzT1owNHRaVGg5TEtBMWdjZUhFX1hBMnJmaHVWMC1zX0g3WmtCMWNsZTBpZTJtdWRIRm04emZWc2NRVUpldTJvZGdKazA?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-27T18:39:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_3": {
+   "title": "New railcars bought from Canada getting SEPTA makeover",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVNIb3d2ZUQ4TGl5cjZzWURUMVcxdk1pZEJ3c3BnVExMcjhJamJuUlhRZS1Id1FFWEFvQmxOWkxTbzZvOGFSOXRhR3NlUHE2Ylp3VlM3TTI5ektfbzhrSERkMDRnMllrbTEyV3oxbEJ4YU10Sm5aZmtHaFdHa2lVdlhncUtPczhv0gGOAUFVX3lxTE9zMVlkaXN3cmlRQ2NoOVlGRjNka2JoT21SV1Q5aGdwTlpDeXYzRzVYbHJNQ05VR2VrQmlpV3dqYV8tS2VuYnNZX0U1MTBpaDMyVG1kalhLcnVwLXFfbE1nSVdUbi1RVTc4TWthY1ZkT2ZBUUk2T0kzMGpsT29sRGlBUzJmWTFiMEozTzhjaHc?oc=5",
+   "sources": [
+    "6abc Action News",
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-27T15:57:28+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_4": {
+   "title": "Philadelphia Eagles need to start their rebuild ahead of trade deadline",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWNRcW5seWttWEs5ZExJYUxTQnJ5VWlVR2F4ZDNjMTBJdmQwSDd3QUFKUEdHcUdGMlctRXh0V1JobmxJUkx6dHIxVm8yVHpjQ1VLMmtoRTBfYVFfa2drbTFIRXpmYTdGeEw3TEdNemtka0lJa3J0eW81eFdNZTJ3d1cxR2NEcm00aTU2RWZB?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T18:03:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_8": {
+   "title": "Brian Scalabrine (sort of) recants report about Jaylen Brown demanding a trade from Celtics",
+   "link": "https://www.libertyballers.com/76ers-news/100124/brian-scalabrine-makes-up-report-about-jaylen-brown-demanding-trade-from-celtics",
+   "sources": [
+    "Liberty Ballers"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T15:09:03+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "sixers",
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_9": {
+   "title": "Jalen Carter, Jordan Davis fail to live up to lucrative contract extensions for the slumping Eagles",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORUIwNnRncHUyVDJ0emkwZ0Y4aHh2WmNadmlBZkVyMnBQVHludll6ODlOQTVfaVZuSzEwMTlGRzdFZVE5LU1HZi1sVkdZNFEwWEZXOHBtclBkQzhhSHJJVnN2akdIakFpYXNFSUY5VWVuVTJNX3FIazF6cHJDVHpXVHhoNm1wRnN4a3NFUGdKaFN1QlNvT3dOckpfQjhSMHU1bVhQVXhBVmEzaC1FcU5MUHBkakV6RGRCX2RHTlV3bGZFMXZzVDdINUFJSFFsLUZXNjBNckNoOFF3XzlYcHdHNjlQbjBlWVBYTmFhc0VFT294LTVrdExyQllzR1p2eE9LTmQ1YVAtUEhURWxkaDZHTDJ3VC1lUkY3U2Nz?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T16:34:24+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_11": {
+   "title": "Flyers Could Be A Quality Trade Partner For Blackhawks",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemNvOWxtYU5NanhFd25LVllGOC1Rd1podUNHV2dCdU1yZEJuMlJHeEVJQTRlM0FLd1Q5U1FicXV1YnYyYWwydS1PZUVPSm0tNXhNSFNtU2tsNi1mM1pQUGtHRzBsVE9UYnJOQ2xnWjRDNWhKem5OenlVZGZlV2w4Nms1dVh4Y3BaVEs4?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T13:25:56+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_12": {
+   "title": "Cowboys handle Eagles behind Javonte Williams\u2019 career-high 155 rushing yards",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2pNWWh6OE4yQlc0dzJQVURoQnI5MnlicnBzS2hKaWhPcFJ3bjRvNU0zRFhZWGxZVWM3bmRrNGRsdDZRTnNiU3hqbUltZzFnbXhITHFLdlhSTkY0czVpMU9lTjFXR1c4aENRX01lNGVUdlV1RmpERlVBTVp3OU9jVVBzdzRyekNXTmdvZl9lcXlqdy1hLUZMdjV3Sm9mQTctX2hfQUoycnFSUzREV3ZZ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T13:42:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_13": {
+   "title": "Eagles showed interest in Quenton Nelson before the Seahawks trade",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXl2UWl1UTF2cUJLX2ZZVDRYX3B0LWc4aUJ3a2JPaDlhb3A4dFd3TjU4ZUp3Y3NrX1I3TEtPMjJNaGdESzJCX1pxckQyREF0dzhtWlVhYjhFMmN2by1sUTZfN0lKUXNzaVdILUNtV0t5WVlXSE5qa011T0tNZjJUbjhrNmZ1VUJIa2xUSUZGVQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T17:33:22+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_14": {
+   "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
+   "link": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T16:55:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_15": {
+   "title": "Tesla\u2019s Optimus Robot Will Soon Plug In Robotaxis to Charge",
+   "link": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
+   "sources": [
+    "Google News Tesla",
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T15:25:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_19": {
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
+   "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T15:43:32+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_20": {
+   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
+   "link": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T14:21:45+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_31": {
+   "title": "Tesla Robotaxi service \u2018coming soon\u2019 to San Antonio, other cities - San Antonio Express-News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllacWV3R1lEbG96dU04cjlDQ1BqZWJYY0dMSUtfVkxIX0JkSmJhSU1oQWFCdzh2UlFDLXhTMnp2Z0Z2cXVvdGdTNVFTb1B4TC1YY3RMc2ZhY19Gdi00bGw3ZkhubUdFUVMyN3FJY0VFRTRvekZNVmpYMUtmOTZWdklRVkZsVlFrUm1PYk1RS1R4NUhzcXlj?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T16:46:21+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_35": {
+   "title": "Tesla Robotaxi Fleet Tops 1,000 in Texas as Cybercab Passes Model Y - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG1STFpFeEZSSkZ2NFk3anl0RVBNLUdaNFFOVTVkZGh3bF9qMzFKMkF2clpWUUtzdktaamRZUDZFQk9vYVZBRmxDVWRBdTdvMVE5U3RKLVg1UlV3UlJaQ2lwS0JmRkFHZ1lrM09TQU1yQmZiYU84VzJ0TlUySzFOZ21yMGQ2VDdTaWxCeWtvNGZxNnJRUjU3RTZrN0FERmpjUUZibg?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-10-27T18:05:27+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_36": {
+   "title": "Tesla FSD Illegally Unlocked by 80 Drivers in South Korea, Police Say",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T14:39:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_37": {
+   "title": "Tesla Robotaxi Beach Expansion: Miami & Tampa Questions Answered - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekZDRnp1SUhSVDFWNFRaaEJ1ejRvLVZEd3NlYXpfc1BSMjd5NjF5aUg5TzhJTWJZbHFRS05kalpqdjBnQ3JpSV8wRDBiR1FMb25KbkhTRE1JZU1PM3dEU2otUDBhRXZhaHpVVk1qOXZEQWd5YUZVb2gtT0tXN2k0WlhlUzBLcEczSm9wc1FVc190Uy1rOUpVS09pTEU?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T16:04:47+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_38": {
+   "title": "Tesla expands robotaxi service across Houston as autonomous competition intensifies",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2pJNU9kbFlWWm5GTlJhSjhGUDV2Y1FIMl9tdlJzdXJmTHVVRzh1czdRTkY0NThaVExDWV8zUm9aeEdCV1JiVkJSbXdLbkxvWmE2a1pXSS0wUmlSNEhDSkpZVXlfNFUtd3BOcTBYbl9SRnZxQUxfZi1Bd3NTTzhNTFI1TkxHRUowemRYOGllcVpNcE5ZWmp2V3hVNA?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T15:18:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_42": {
+   "title": "Tesla disabled homeowner's recalled Powerwall without notice, and service isn't until February",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3pMYTJzOWFXOW93QVRLMjhidWQ0cnplb1lTdExzOUxCSkdVMWl4RkstZERSalJVTGo2RUxyZ1I1QnRya0t2MHVtRTg1Ny13UDZaN0ZBbWtnQUtXUGtNYU82UzFGWkVid19BQ2RMdWkwXzJjRDBjVTg5UVNpNksxLWxXUTRFN2RZRi1vbmFB?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-27T18:00:00+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_45": {
+   "title": "Anthropic Expands Claude Advisor Tool With New Partners",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHVkS3FKc19XSnNQREJ1M3dJemlCUlVQdWw1aWp6UTNpRndGUi0yR0J2bElGVC1uNjFhcS05d0NsYTNCel9aVkhoLVlEZ3RBZmNYeWR4NUZPekJra3ctTjBhc3NNWTlWT0dlLURIV3J4b2JxV0s5R1VHMWx4emw4WGNlWXhYUjhwVElsZlhBMGJnb2llUmhzR3JBVVlxZ3ZKSEZ3OGZNM3Bjd0VQM1ZpbE5kZEp4aHNUYkFkOGdsVm5ocE5TRVU1aUUwZw?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-27T18:32:47+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793127705_46": {
+   "title": "Jump Rolls Out New Claude Skills for Financial Advisors",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0Ric0JPMGJqOTB6aW0tZElQMzA3Mko1UzVucjc0cGdDRlloeG5lTS1KTFZiVFRTcDloVnU0NUZsNmpCX3dxd1BoenJEZUFZa3RDZC10bjdRYnV5RGY0UWNvNFVqNnZYTWVjT2dSbkJGNFozbm04eDRCazhoaEFPM056dlU4TGNSOXNzTHE1VHo4WjVkejQ2cVNlX2FuVHlrSXBZTzBCaGZXNHV1cXd3N0t3?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-10-27T16:57:06+00:00",
+   "first_seen": "2026-10-27T19:01:45.998118+00:00",
+   "last_seen": "2026-10-27T19:01:45.998118+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1152,8 +1426,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"be5c65f03b5fa30a9d461f62203e8dc1\"",
-   "modified": "Tue, 27 Oct 2026 13:40:18 GMT"
+   "etag": "W/\"d9fb319cb619a8e6e11fcfa50b8aa591\"",
+   "modified": "Tue, 27 Oct 2026 18:57:48 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1165,15 +1439,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Tue, 27 Oct 2026 13:39:59 GMT"
+   "modified": "Tue, 27 Oct 2026 19:00:45 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"58fc3e5d98695c8cd09b2f2019da408d\"",
-   "modified": "Tue, 27 Oct 2026 13:17:48 GMT"
+   "etag": "W/\"c2405d44455b3919fa67b0817fdd665f\"",
+   "modified": "Tue, 27 Oct 2026 18:29:27 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1181,51 +1455,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Tue, 27 Oct 2026 13:41:24 GMT"
+   "modified": "Tue, 27 Oct 2026 19:01:56 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"d7e653f0d3c4d64f9d49980900f2a682\"",
-   "modified": "Tue, 27 Oct 2026 13:12:38 GMT"
+   "etag": "\"b2dadfd228ad1d51a305cd1195d1814e\"",
+   "modified": "Tue, 27 Oct 2026 18:58:48 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Tue, 27 Oct 2026 06:44:12 GMT"
+   "modified": "Tue, 27 Oct 2026 18:24:28 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"a3aa1ca6b62666f8a64b682af93b2d26\"",
+   "etag": "W/\"683590bba04cca4650ddbc87575d5061\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"f6973d9f0701720a374593ceb9dc2120\"",
-   "modified": "Tue, 27 Oct 2026 12:44:48 GMT"
+   "etag": "\"0b130ce08015f61012d6c0896fa550ca\"",
+   "modified": "Tue, 27 Oct 2026 15:35:19 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"179429ef14af69f8f8c5db36e65e8e3e\"",
+   "etag": "W/\"5d47457a1a594e1a7441dc27fc198916\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"5a81d976ea7ef34ba852b3d14e23b791\"",
+   "etag": "W/\"eecb85a020c9f58a3b96d1c2fa9bf915\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"a31b4e71488e7e9d094ad14e755a703b\"",
-   "modified": "Tue, 27 Oct 2026 12:25:28 GMT"
+   "etag": "\"6d79ce9a8c00049eeaf2882313f3728a\"",
+   "modified": "Tue, 27 Oct 2026 18:10:23 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"66df1f64c31e0847567fd848cdebcb4a\"",
-   "modified": "Tue, 27 Oct 2026 04:51:52 GMT"
+   "etag": "\"86dbf11be8bd0935c8a63c235b2dffe1\"",
+   "modified": "Tue, 27 Oct 2026 15:19:11 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Tue, 27 Oct 2026 13:18:43 GMT"
+   "modified": "Tue, 27 Oct 2026 18:08:37 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"b04fbaef89a6fa5fbb3f4dc9eb75a7d2\"",
-   "modified": "Tue, 27 Oct 2026 13:35:08 GMT"
+   "etag": "W/\"8a7e0df1e8a55f0cfdbfbbc0826a5ac8\"",
+   "modified": "Tue, 27 Oct 2026 18:10:26 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1236,8 +1510,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"6916bb17e1840524ab2b79474557dbf2\"",
-   "modified": "Tue, 27 Oct 2026 13:32:57 GMT"
+   "etag": "W/\"bcedc8aa64552193e1ae36236a414a0c\"",
+   "modified": "Tue, 27 Oct 2026 19:01:19 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
