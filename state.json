@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1792763546_39": {
-   "title": "Enter Elon: Tesla robotaxis \u2018coming soon\u2019 to Jacksonville \u2014 but will they reach St. Johns?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRvQ0w4MzdOS2lnam1TaE53b1Y3QkdNTTc5RzFqR25RQ2FlRE9SbGdSOTBsVVNyc0lMeVRDMmI2TlJmM2VrQU5LZVRvN3plUHl4amc4dXUyWmVBSzllMWdoUm5aN1E4MFk1M3VJQ1RUTGlwcjhxWTN5NUx0dHZyU1QwcnM3SHQ2NjFWZ2o1cGw2ZkFCcHRxSlhRTzhBZk8wQ05wZnVwZF9Sdw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-23T13:42:34+00:00",
-   "first_seen": "2026-10-23T13:52:26.165934+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1792789139_24": {
    "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
    "link": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
@@ -115,23 +98,6 @@
    "first_seen": "2026-10-24T12:02:36.287166+00:00",
    "last_seen": "2026-10-25T06:08:24.983384+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1792857441_7": {
-   "title": "Bills Paired With Eagles For Trade That Would Fix Defensive Problem for Buffalo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjRYUFVoOEVzVmJ5cmgxWkNVS0poUDRoU2Zhc3d1UzhhbUNQOTRCRm5GWkM1NW5NSjRQU3VUNzhlMnEzbU84TEN4MW03bWxkbXp3d1dUVVg4akVNRGlsUXc5MXFZSTE1WmtIaC1Kc3l2UnJFbXN2dm9CZTZOQ0pMV1o5SExvcjJaNVotTDJ3V0ZqNXhsRGdLQUctd1RkbHJnWjdRclJOWThIOFU?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-24T13:12:00+00:00",
-   "first_seen": "2026-10-24T15:57:21.824095+00:00",
-   "last_seen": "2026-10-25T11:29:50.461466+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -320,7 +286,7 @@
    "base": 80,
    "pub": "2026-10-25T02:45:16+00:00",
    "first_seen": "2026-10-25T06:08:24.983384+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -373,7 +339,7 @@
    "base": 110,
    "pub": "2026-10-24T20:05:23+00:00",
    "first_seen": "2026-10-25T11:29:50.461466+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -561,7 +527,7 @@
    "base": 80,
    "pub": "2026-10-26T00:02:44+00:00",
    "first_seen": "2026-10-26T01:13:08.053653+00:00",
-   "last_seen": "2026-10-26T13:03:27.807296+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -595,7 +561,7 @@
    "base": 80,
    "pub": "2026-10-26T02:14:35+00:00",
    "first_seen": "2026-10-26T06:14:21.570297+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -714,7 +680,7 @@
    "base": 60,
    "pub": "2026-10-26T09:00:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -732,7 +698,7 @@
    "base": 80,
    "pub": "2026-10-26T12:50:51+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -750,7 +716,7 @@
    "base": 80,
    "pub": "2026-10-26T12:10:07+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -769,7 +735,7 @@
    "base": 80,
    "pub": "2026-10-26T12:29:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -804,7 +770,7 @@
    "base": 80,
    "pub": "2026-10-26T12:58:40+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -821,7 +787,7 @@
    "base": 110,
    "pub": "2026-10-26T09:15:00+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -839,7 +805,7 @@
    "base": 80,
    "pub": "2026-10-26T11:12:27+00:00",
    "first_seen": "2026-10-26T13:03:27.807296+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -856,7 +822,7 @@
    "base": 60,
    "pub": "2026-10-26T16:08:01+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T19:19:58.480018+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -909,7 +875,7 @@
    "base": 80,
    "pub": "2026-10-26T17:23:44+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -927,7 +893,7 @@
    "base": 80,
    "pub": "2026-10-26T14:57:00+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -938,13 +904,14 @@
    "title": "Tesla expands robotaxi in Houston. See the new rocket-shaped map.",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXFsYnBjRFJWSGdGQ29naFlDanJmNHlXSmJOTlYtbjhmb2dSX3kwT3o3d1NaYklPc2J1SzVUbHg4T3Q4SkowaDA2c0s0QUFJM0N5OG1kSVN3RzY5LXBoQVYyd1N3T0d3ejVvVmcwVlhTc3llYWo5TjlPWTZUVkFIWXRwUFNLNkFUazdZZ29OUTRvUXFaOTJSY0RJZ1RXVlh3LW5zdWNRQnNHdFNRODN6LXBUanN0QklLanhXRQ?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-26T18:32:16+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -961,7 +928,7 @@
    "base": 80,
    "pub": "2026-10-26T15:42:04+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -978,7 +945,7 @@
    "base": 80,
    "pub": "2026-10-26T15:43:22+00:00",
    "first_seen": "2026-10-26T19:19:58.480018+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1046,7 +1013,7 @@
    "base": 60,
    "pub": "2026-10-26T20:41:33+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1065,7 +1032,7 @@
    "base": 110,
    "pub": "2026-10-26T20:03:37+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1076,13 +1043,14 @@
    "title": "Philadelphia City Council investigating Academy of Natural Sciences closure",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYV9zc3ZrTy1FVE5yMGFVQ3lBQnk5MVo5VS1NdTV0eFBqd0ZVT3l6bG5fUmswU1JqSjRVdHdLSVM2U3JaMFo5WHBWZGFneURBNXdwTWJMSXVrT2twRkZCeDNINlN4WjFfWXYxbFk5emhUQWQ5Wk5VYXVSUTNfTFlkYVpOdHVOYi1xN0N2M3dScC1aZi1UdGNidXI2RmxSUlcxalpXTmVtNA?oc=5",
    "sources": [
+    "6abc Action News",
     "Google News Philadelphia"
    ],
    "cat": "local",
    "base": 115,
    "pub": "2026-10-26T21:43:11+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1100,7 +1068,7 @@
    "base": 80,
    "pub": "2026-10-26T14:58:00+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1117,7 +1085,7 @@
    "base": 80,
    "pub": "2026-10-26T18:42:00+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1134,7 +1102,7 @@
    "base": 80,
    "pub": "2026-10-26T18:16:43+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1168,7 +1136,7 @@
    "base": 80,
    "pub": "2026-10-26T19:31:00+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1185,7 +1153,58 @@
    "base": 80,
    "pub": "2026-10-26T22:45:17+00:00",
    "first_seen": "2026-10-26T23:10:20.257595+00:00",
-   "last_seen": "2026-10-26T23:10:20.257595+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793066704_2": {
+   "title": "California congressman introduces legislation after 117 dead dogs recovered from rescue",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnNscmpHYm1PakdfSlN5OEwxNXlMYVBra0xzdmw0QXJGM2FHUkxIZnhycHQ3WXhLcnI4enJiZ1RlYXhQdHJfUzEtbjBZOFFSZlJLLWdrc0o4dktsVHhxYmFIcVR1SzVha0d0V3oybU1fNTl2UWJtb0RQRDhXbHF5R1gyckFtb0g5SHVlT3ZrVmtBWG1CWnEzeUFhRWhWaGFzZXNUeThlQQ?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 95,
+   "pub": "2026-10-26T22:04:00+00:00",
+   "first_seen": "2026-10-27T02:05:04.582990+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 117,
+   "changelog": false
+  },
+  "s1793066704_14": {
+   "title": "Flyers Strong Fit for Castaway Capitals 1st-Round Pick on NHL Trade Block",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWp5ZTdHSnAzNy0zUGVVZVlKS0RDaVVNdEFTb0h4ZzBTX3pmOE5qUWQxQTZrRTJ4YmxPZWkzal9XamdMa3ZTT0VWa29za1hJdHNnbUFPdHBqOGFjY3pOTUxTYjh2RkJ1bDQwenlxN055b0F0WC0wSWZmU0MyN2l3UDNSbkd5Z243ZUQzZQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-27T00:31:00+00:00",
+   "first_seen": "2026-10-27T02:05:04.582990+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793066704_25": {
+   "title": "Tesla Robotaxis are listed as \u2018coming soon\u2019 to Jacksonville. When could rides start?",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEVrVWR4dGV4TF9WMUI2Y2dhLW82SFdBbWo0Xy1YQ1lTVmlzUUJHYlZCQjZxaGxXaUQ5aHNFbWdseTVhSC1KdnNzZzdoaWI0UGFTdmY4cmF0LVdSaW1PU1VrYTdmVWo5UkhILWxFdVMzWXA3S3dYSU1DNGJUckFWOWNOOVhqRFhLdXp4NVRFOV9MVUFDQlVXLTczbGlHRldmZ1dtSFRzdHRaamdHOHFSb2tSX0VpOHZQZmQwSndIN3QxOUIxNlk4?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-26T15:28:34+00:00",
+   "first_seen": "2026-10-27T02:05:04.582990+00:00",
+   "last_seen": "2026-10-27T02:05:04.582990+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1203,8 +1222,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"2bf508e969ac15c6f10de0fb4f4594b8\"",
-   "modified": "Mon, 26 Oct 2026 23:05:22 GMT"
+   "etag": "W/\"28b995ee51044998076f31831c40338c\"",
+   "modified": "Tue, 27 Oct 2026 02:02:01 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1216,15 +1235,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 23:10:11 GMT"
+   "modified": "Tue, 27 Oct 2026 02:00:21 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"4dd4e232545df9519f327ee604dc20c0\"",
-   "modified": "Mon, 26 Oct 2026 23:05:10 GMT"
+   "etag": "W/\"85ec6b3a316da2aecb627a026f497add\"",
+   "modified": "Tue, 27 Oct 2026 01:49:52 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1232,30 +1251,30 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 23:10:54 GMT"
+   "modified": "Tue, 27 Oct 2026 02:05:19 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"7ae146d801997c8dfcb063e08bd2835e\"",
-   "modified": "Mon, 26 Oct 2026 21:10:53 GMT"
+   "etag": "\"5bd10bd12cce39426deb3139372f6e48\"",
+   "modified": "Mon, 26 Oct 2026 23:36:52 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 22:36:00 GMT"
+   "modified": "Tue, 27 Oct 2026 01:13:40 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"8d1c45fd9f0e84918deeccde1010dca8\"",
+   "etag": "W/\"487eff8d0215414a5209ff30b4040496\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"5c0e4226bea82fcaf669d1a5c82eba3a\"",
-   "modified": "Mon, 26 Oct 2026 18:35:51 GMT"
+   "etag": "\"47b92b543b2d5706da32bca4dec46215\"",
+   "modified": "Tue, 27 Oct 2026 00:53:42 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"47d331627d4bfa7ea0e3252e67679617\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"d1565d3d036952c67a9efd272bab74ef\"",
+   "etag": "W/\"fbfa93ab1d7bf01635fab588df049b86\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1272,11 +1291,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Mon, 26 Oct 2026 21:45:16 GMT"
+   "modified": "Mon, 26 Oct 2026 23:34:03 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"1a1aba8c1cbe9b1acd81b5145f54b9d3\"",
-   "modified": "Mon, 26 Oct 2026 21:23:01 GMT"
+   "etag": "W/\"b303af32b1fe3bbe913a5630d4da79b7\"",
+   "modified": "Tue, 27 Oct 2026 00:39:22 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1287,8 +1306,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"6059b3d31df5358a5c9b15c464a2bdac\"",
-   "modified": "Mon, 26 Oct 2026 23:05:01 GMT"
+   "etag": "W/\"79037a87d1a917aa908e9077424b5a9a\"",
+   "modified": "Mon, 26 Oct 2026 23:08:49 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",

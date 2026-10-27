@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 23:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 02:05:04 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities</title>
@@ -13,6 +13,14 @@
       <pubDate>Mon, 26 Oct 2026 14:58:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Oct 26, 10:58 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 California congressman introduces legislation after 117 dead dogs recovered from rescue</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnNscmpHYm1PakdfSlN5OEwxNXlMYVBra0xzdmw0QXJGM2FHUkxIZnhycHQ3WXhLcnI4enJiZ1RlYXhQdHJfUzEtbjBZOFFSZlJLLWdrc0o4dktsVHhxYmFIcVR1SzVha0d0V3oybU1fNTl2UWJtb0RQRDhXbHF5R1gyckFtb0g5SHVlT3ZrVmtBWG1CWnEzeUFhRWhWaGFzZXNUeThlQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnNscmpHYm1PakdfSlN5OEwxNXlMYVBra0xzdmw0QXJGM2FHUkxIZnhycHQ3WXhLcnI4enJiZ1RlYXhQdHJfUzEtbjBZOFFSZlJLLWdrc0o4dktsVHhxYmFIcVR1SzVha0d0V3oybU1fNTl2UWJtb0RQRDhXbHF5R1gyckFtb0g5SHVlT3ZrVmtBWG1CWnEzeUFhRWhWaGFzZXNUeThlQQ?oc=5</guid>
+      <pubDate>Mon, 26 Oct 2026 22:04:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Breaking - Oct 26, 06:04 PM ET</description>
     </item>
   </channel>
 </rss>
