@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:56:49 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers</title>
@@ -13,6 +13,14 @@
       <pubDate>Tue, 27 Oct 2026 20:16:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Oct 27, 04:16 PM ET</description>
+    </item>
+    <item>
+      <title>🤖 Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</guid>
+      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
+      <category>ai</category>
+      <description>TechCrunch AI - Oct 27, 07:34 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge</title>
