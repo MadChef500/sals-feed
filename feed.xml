@@ -4,8 +4,24 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:34:40 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Spain train crash leaves at least 64 dead in second major collision this year</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9tbmdGeXU3SkhZNFlDZEw0cEgtSkQ0V3ZxZG8yZzZ0YXhSWjVSOWxGV2lya0pUenlUX05UcWpKT0RwZ01PS2hIMG80Uzg3cW4tYmY3UlQzZGVFQkxtQXdTcE5rTi1KcHpEWk5pMFUtN0VtRlNrdXYtVlQzUzJpTkluZjdnZGc3ZVlFT1k5MDFaSXJyMXZZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9tbmdGeXU3SkhZNFlDZEw0cEgtSkQ0V3ZxZG8yZzZ0YXhSWjVSOWxGV2lya0pUenlUX05UcWpKT0RwZ01PS2hIMG80Uzg3cW4tYmY3UlQzZGVFQkxtQXdTcE5rTi1KcHpEWk5pMFUtN0VtRlNrdXYtVlQzUzJpTkluZjdnZGc3ZVlFT1k5MDFaSXJyMXZZ?oc=5</guid>
+      <pubDate>Wed, 28 Oct 2026 14:19:51 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News, Google News Breaking - Oct 28, 10:19 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 At least 64 killed in train collision on high-speed line in Spain</title>
+      <link>https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323</link>
+      <guid isPermaLink="true">https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323</guid>
+      <pubDate>Wed, 28 Oct 2026 13:14:56 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, ABC News - Oct 28, 09:14 AM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla’s Cybercab battery design could make robotaxis even cheaper</title>
       <link>https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/</link>
@@ -13,6 +29,14 @@
       <pubDate>Wed, 28 Oct 2026 05:15:28 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Teslarati - Oct 28, 01:15 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 At least 30 dead in crash between two trains in central Spain, media say</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUh3THZWZGVsdGhSOXlXVGl2aG4yZVlRel94Y0ZiSFhfcDNFeDd5TUd2ODVjazhVZmdYOU9NY092NF9pcjl5anduNmxwa0dIaE14TUVCMDZyOW5WcjBPa3RQUTBhYzFFRy0xeWVGNXV6a3RUaHdrT1NoSkRRaFdLNEZjWXlPU1JGYk41TkNHcWl1TzJKTGh1SzNoNEhrSkYyZlBFZEd1TTJDRHFFb0dBSVhVVFZEMXcxUVpVeVlR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUh3THZWZGVsdGhSOXlXVGl2aG4yZVlRel94Y0ZiSFhfcDNFeDd5TUd2ODVjazhVZmdYOU9NY092NF9pcjl5anduNmxwa0dIaE14TUVCMDZyOW5WcjBPa3RQUTBhYzFFRy0xeWVGNXV6a3RUaHdrT1NoSkRRaFdLNEZjWXlPU1JGYk41TkNHcWl1TzJKTGh1SzNoNEhrSkYyZlBFZEd1TTJDRHFFb0dBSVhVVFZEMXcxUVpVeVlR?oc=5</guid>
+      <pubDate>Wed, 28 Oct 2026 10:09:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Breaking - Oct 28, 06:09 AM ET</description>
     </item>
     <item>
       <title>⚡ Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers</title>
@@ -29,14 +53,6 @@
       <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Oct 27, 07:34 PM ET</description>
-    </item>
-    <item>
-      <title>🏀 Brian Scalabrine (sort of) recants report about Jaylen Brown demanding a trade from Celtics</title>
-      <link>https://www.libertyballers.com/76ers-news/100124/brian-scalabrine-makes-up-report-about-jaylen-brown-demanding-trade-from-celtics</link>
-      <guid isPermaLink="true">https://www.libertyballers.com/76ers-news/100124/brian-scalabrine-makes-up-report-about-jaylen-brown-demanding-trade-from-celtics</guid>
-      <pubDate>Tue, 27 Oct 2026 15:09:03 +0000</pubDate>
-      <category>sports</category>
-      <description>Liberty Ballers - Oct 27, 11:09 AM ET</description>
     </item>
   </channel>
 </rss>
