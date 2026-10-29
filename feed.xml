@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:34:00 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🏒 Flyers desperately need a center, but the trade market isn’t cooperating</title>
+      <link>https://www.broadstreethockey.com/post/flyers-desperately-need-a-center-but-the-trade-market-isnt-cooperating/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-desperately-need-a-center-but-the-trade-market-isnt-cooperating/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:53:29 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Oct 29, 10:53 AM ET</description>
+    </item>
     <item>
       <title>🦅 Eagles roster news includes Dameon Pierce to injured reserve</title>
       <link>https://www.bleedinggreennation.com/news/188593/eagles-roster-news-includes-dameon-pierce-to-injured-reserve</link>
@@ -21,22 +29,6 @@
       <pubDate>Wed, 28 Oct 2026 05:15:28 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Teslarati - Oct 28, 01:15 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ 'Significant' natural gas leak forces partial closure of Route 73 in Camden County, New Jersey</title>
-      <link>https://6abc.com/post/significant-natural-gas-leak-forces-partial-closure-route-73-camden-county-new-jersey/19991208/</link>
-      <guid isPermaLink="true">https://6abc.com/post/significant-natural-gas-leak-forces-partial-closure-route-73-camden-county-new-jersey/19991208/</guid>
-      <pubDate>Wed, 28 Oct 2026 22:11:22 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 28, 06:11 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Which Eagles players are untouchable at the trade deadline?</title>
-      <link>https://www.phillyvoice.com/which-eagles-players-are-untouchable-trade-deadline-devonta-smith-jalen-carter/?utm_source=pv-rss&amp;utm_medium=rss&amp;utm_campaign=pv-site</link>
-      <guid isPermaLink="true">https://www.phillyvoice.com/which-eagles-players-are-untouchable-trade-deadline-devonta-smith-jalen-carter/?utm_source=pv-rss&amp;utm_medium=rss&amp;utm_campaign=pv-site</guid>
-      <pubDate>Wed, 28 Oct 2026 11:49:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports, PhillyVoice - Oct 28, 07:49 AM ET</description>
     </item>
   </channel>
 </rss>
