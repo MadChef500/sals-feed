@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1793087547_21": {
-   "title": "Tesla FSD Safety Data: 6M Miles Per Collision \u2014 What It Means - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0x4WEFLX1NYNXk0UzJwQzlpeXpGelQ2djkwQ3ByWUpZb3lVMmplRVJIZkZrZ2JwbmZmckp6X3RoX3YwcHpza2ZhS0FWd1BLamxDRWlObHd0X24wSnBXbWxUcktsMjEzdkF3T2FreC0zWmxuT2Y5RmJ1TktTQWlBMEpjR3I0a1RXV1AwLW8xN1A2ODFuSHdiaw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T04:04:16+00:00",
-   "first_seen": "2026-10-27T07:52:27.604944+00:00",
-   "last_seen": "2026-10-27T22:57:08.115578+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793108450_19": {
    "title": "Tesla expands the rollout of 2026.38.5.11 update: FSD v14.3.13 (HW4) and FSD v14.3 Lite (HW3)",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVZsclVKMXUwR2VXaDZVVXhCTVV1d1E1OVFvcmhhQVRRTV96Z1dQX0pVRThadk96ZjZDWkNCc0VpZGduVXBHVUFldHg3U2pwQlROTmg3NHJJT1dwYzhiSksxS3A4cjl5Ulc5NUZpc2NZQjNIVmc4MXg2ZXpBcXNtNjdIUVdxS0FWTHpQN0VuSmdxYk9RYXNxLXYwVGV4MVdGWkxxMVp2b3ZGWDEyZnV1NVZYQ19KaS0zNmN5NUxYNlZvc1hNVFJF?oc=5",
@@ -151,7 +134,7 @@
    "base": 80,
    "pub": "2026-10-27T14:39:00+00:00",
    "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -186,23 +169,6 @@
    "pub": "2026-10-27T15:18:00+00:00",
    "first_seen": "2026-10-27T19:01:45.998118+00:00",
    "last_seen": "2026-10-29T21:22:47.291616+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_42": {
-   "title": "Tesla disabled homeowner's recalled Powerwall without notice, and service isn't until February",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3pMYTJzOWFXOW93QVRLMjhidWQ0cnplb1lTdExzOUxCSkdVMWl4RkstZERSalJVTGo2RUxyZ1I1QnRya0t2MHVtRTg1Ny13UDZaN0ZBbWtnQUtXUGtNYU82UzFGWkVid19BQ2RMdWkwXzJjRDBjVTg5UVNpNksxLWxXUTRFN2RZRi1vbmFB?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T18:00:00+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-27T19:01:45.998118+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -254,7 +220,7 @@
    "base": 80,
    "pub": "2026-10-27T20:16:00+00:00",
    "first_seen": "2026-10-27T22:57:08.115578+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -272,7 +238,7 @@
    "base": 80,
    "pub": "2026-10-27T21:48:53+00:00",
    "first_seen": "2026-10-27T22:57:08.115578+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -313,23 +279,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793173491_11": {
-   "title": "Phillies Hire New Hitting Coach After Firing Kevin Long",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFRrdkt2WTI0RnBCOUZXcTdXSVZFU1BSZ251RjluTDRZQ3dLY3l2MEZ0bDJBUEF3Sk1jWTM3STRSazRUWGJjYlFsY1pObUY4TENHSzduTGktWHctYUlzZGQxRl9SU3JsOV83SGZhbnV6MnVuaklVeEIzTjNheUpWcFFiMHUxSV95dEg4?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-28T02:13:00+00:00",
-   "first_seen": "2026-10-28T07:44:51.706483+00:00",
-   "last_seen": "2026-10-28T07:44:51.706483+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793173491_14": {
    "title": "Tesla\u2019s Cybercab battery design could make robotaxis even cheaper",
    "link": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
@@ -341,7 +290,7 @@
    "base": 80,
    "pub": "2026-10-28T05:15:28+00:00",
    "first_seen": "2026-10-28T07:44:51.706483+00:00",
-   "last_seen": "2026-10-30T07:14:02.572251+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -363,25 +312,6 @@
    "trust": 2,
    "gate": 0,
    "cas": 0,
-   "changelog": false
-  },
-  "s1793198080_1": {
-   "title": "Spain train crash leaves at least 64 dead in second major collision this year",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9tbmdGeXU3SkhZNFlDZEw0cEgtSkQ0V3ZxZG8yZzZ0YXhSWjVSOWxGV2lya0pUenlUX05UcWpKT0RwZ01PS2hIMG80Uzg3cW4tYmY3UlQzZGVFQkxtQXdTcE5rTi1KcHpEWk5pMFUtN0VtRlNrdXYtVlQzUzJpTkluZjdnZGc3ZVlFT1k5MDFaSXJyMXZZ?oc=5",
-   "sources": [
-    "CBS News",
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 95,
-   "pub": "2026-10-28T14:19:51+00:00",
-   "first_seen": "2026-10-28T14:34:40.149712+00:00",
-   "last_seen": "2026-10-29T16:34:00.932627+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 68,
    "changelog": false
   },
   "s1793198080_6": {
@@ -484,7 +414,7 @@
    "base": 80,
    "pub": "2026-10-28T10:30:00+00:00",
    "first_seen": "2026-10-28T14:34:40.149712+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -501,7 +431,7 @@
    "base": 80,
    "pub": "2026-10-28T12:00:00+00:00",
    "first_seen": "2026-10-28T14:34:40.149712+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -776,7 +706,7 @@
    "base": 80,
    "pub": "2026-10-29T02:00:00+00:00",
    "first_seen": "2026-10-29T03:01:23.106627+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -965,7 +895,7 @@
    "base": 80,
    "pub": "2026-10-29T14:29:44+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -982,7 +912,7 @@
    "base": 80,
    "pub": "2026-10-29T14:53:29+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1017,7 +947,7 @@
    "base": 110,
    "pub": "2026-10-29T09:31:24+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1103,7 +1033,7 @@
    "base": 80,
    "pub": "2026-10-29T19:17:00+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1121,7 +1051,7 @@
    "base": 80,
    "pub": "2026-10-29T20:56:05+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1173,7 +1103,7 @@
    "base": 80,
    "pub": "2026-10-29T17:54:00+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1218,13 +1148,14 @@
    "title": "Tesla Wins Italy\u2019s Backing for EU FSD Approval After Musk-Salvini Call",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2pDaTlSRmQwVVBfQnVYUm0tVVBXOGV1MEZPM1h5WENOOUpJU2lJWTBMeW5iNjF4dFlCcEFXeTZZUjdad2FJdFRFVWxXUkxYUk5MdmxCeFZWR0RUWUFBdHJtNDVLWjlSX25DY3dIcTNyRGVRSHVPazVTUHVnS2NHM3lHd2NjRGJXUmw1c2NaTDRCdi1zdEhYVkJVV1ZnYnhKVmExSEI4V2s?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-29T17:20:11+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T07:14:02.572251+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1309,7 +1240,7 @@
    "base": 110,
    "pub": "2026-10-29T11:01:48+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1326,7 +1257,7 @@
    "base": 80,
    "pub": "2026-10-30T01:04:57+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1378,7 +1309,7 @@
    "base": 115,
    "pub": "2026-10-30T04:26:39+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1395,7 +1326,7 @@
    "base": 80,
    "pub": "2026-10-30T03:10:43+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1430,7 +1361,7 @@
    "base": 110,
    "pub": "2026-10-30T03:44:34+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1441,13 +1372,14 @@
    "title": "Tesla Robotaxi Calm Mode: What It Does and Who Gets It - BASENOR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmRacHFON2NvRE1fb0o0TFRaYkJZeXozdERrQ3EyOXdGSWVBZDNrUWFxcU9YSTRpQk8wVmtXUDQ5MDJYSlFIUnF5WjdmY1dSWVJLVl91bW9sQlpvREhYWldxOEJzYUJpM1VqX0R2Mm5vSVBOak9sRVlFZ1E5cFFDV0pJMWtfUzBPdF9hS1ZodkYxUQ?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-10-30T07:03:47+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1465,7 +1397,7 @@
    "base": 80,
    "pub": "2026-10-30T12:25:33+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1483,7 +1415,7 @@
    "base": 80,
    "pub": "2026-10-30T10:30:00+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1517,7 +1449,7 @@
    "base": 80,
    "pub": "2026-10-29T12:13:07+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1534,7 +1466,7 @@
    "base": 80,
    "pub": "2026-10-30T13:38:51+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1568,7 +1500,7 @@
    "base": 80,
    "pub": "2026-10-30T07:20:33+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1585,7 +1517,7 @@
    "base": 80,
    "pub": "2026-10-30T10:20:00+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1619,7 +1551,128 @@
    "base": 80,
    "pub": "2026-10-30T09:15:21+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_3": {
+   "title": "Philadelphia School Board Approves First $200 Million of Its Facilities Plan as Council Members Rally Against Closures",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekZRTUI1MVVkNFdpSWJkTVBCY3RQOE1memI5MndxYmtkOVY1LVpBZTNqODBJY3dMMGlYWks4LWpscUJBaTFYa3YyQW1NSmFiRFQ0U3hjQl9HTHJpQXV3WWlINkJhWlZmZWx1T3dONjVwVFB1WGVCRk9qcnU3RVpWWlZDWmw5dG5WTzF3cHA0aHRDUlFTZGhySjFTY0FJa1FOdnUxY3ZIQmxzWERGaGk2S1RR?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-10-30T15:57:00+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_5": {
+   "title": "Car that caught fire on I-95 could be linked to theft of $10,000 worth of beef",
+   "link": "https://www.phillyvoice.com/car-fire-beef-cargo-theft-philadelphia-police/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-10-30T16:40:37+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_6": {
+   "title": "Mike Tyson, Phillies legends among sports stars coming to Oaks for autograph signings",
+   "link": "https://www.phillyvoice.com/mike-tyson-phillies-legends-autographs-philly-show-oaks-2026/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-30T14:53:48+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_18": {
+   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
+   "sources": [
+    "Google News Tesla",
+    "Teslarati"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-30T14:42:52+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_25": {
+   "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
+   "link": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-30T18:02:35+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_39": {
+   "title": "A Tesla Dashcam Caught a Zoox Robotaxi Involved in an Accident, But Was It Really at Fault?",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlVvWDc5bDg3TXdZWFhVeS1sNFdpOGZjOVk1RU5MQWhCNHduNnBDU0N3SmRScEhpVVE1ZWJyeHRBckpUZDFSQWhyVnRKQ2Rxc2ZuTmZXa2lLaHh4S3JGMkNFamxDdE5DT19QR0pUcnVhYkpzdlBYZUg1R2Y3ZE9nUGRIQzMxckJSSUtsb2M5RFNzT2p1ZU1WSFUzTnRKYVJtb0xGY0dSeFY?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-30T14:49:56+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793388147_48": {
+   "title": "Tesla Robotaxi Adds 'Quiet Mode' as Houston Police Union Backs Driverless Rides Over Drunk Driving",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QU2hOZ2tHam5EZnd0SUx1aFRpNzc1ck4xWTZJaWpSX1R6MjVZWnZPNHdUS01CV1dxTGxDa09BdXlTM3dBOUFULVlISGU4UTNZRlVDZ2FtTjg4bmllbUNCWFNNV2tkVWlsRUIzZUdZUjBjUVVZS0E?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-30T18:55:00+00:00",
+   "first_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1637,8 +1690,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"c6d5bcbd40c515fb6fa0efdd00dce378\"",
-   "modified": "Fri, 30 Oct 2026 14:03:57 GMT"
+   "etag": "W/\"4736f86c4bcfda582ea937a47c0c5675\"",
+   "modified": "Fri, 30 Oct 2026 19:20:43 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1650,15 +1703,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 30 Oct 2026 14:08:26 GMT"
+   "modified": "Fri, 30 Oct 2026 19:18:55 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"cdcf6a5998210ab182999e0af16b5e6e\"",
-   "modified": "Fri, 30 Oct 2026 13:40:28 GMT"
+   "etag": "W/\"804f6e7d1cd53fad0be08591116597b5\"",
+   "modified": "Fri, 30 Oct 2026 18:47:31 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1666,51 +1719,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 30 Oct 2026 14:09:29 GMT"
+   "modified": "Fri, 30 Oct 2026 19:22:55 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"4a8b05e95c7f918c296ccba27a20ef57\"",
-   "modified": "Fri, 30 Oct 2026 14:06:23 GMT"
+   "etag": "\"9454cd1fd49ffe78994302e960842107\"",
+   "modified": "Fri, 30 Oct 2026 19:20:56 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 30 Oct 2026 12:41:01 GMT"
+   "modified": "Fri, 30 Oct 2026 18:29:44 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"280c14dcbe74f3ee1d0c328acb3aaa73\"",
+   "etag": "W/\"ee5a1071b54a377fbfd6186f38d9a9da\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"205d750f37427424b26db588ff35334b\"",
-   "modified": "Fri, 30 Oct 2026 13:38:53 GMT"
+   "etag": "\"b8d26c9135f505806cdeef9e18c7c44f\"",
+   "modified": "Fri, 30 Oct 2026 18:44:14 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"f913967ea78f70fba8480ff6eaaa29f5\"",
+   "etag": "W/\"a54d104f9fb390630c7b691f8438476b\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"7f27b4ba82596cd2f2e1727ac18521b9\"",
+   "etag": "W/\"2feb0ec4c67fa861036d0f905f407a50\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"4b12d6c206d0b76023263192a1ef841c\"",
-   "modified": "Fri, 30 Oct 2026 13:05:59 GMT"
+   "etag": "\"dddab361b55d5c5f39bc4bd0d6bdd8e7\"",
+   "modified": "Fri, 30 Oct 2026 18:07:19 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"1e1bc9ffd12b02f67e14d8e3cf10512b\"",
-   "modified": "Fri, 30 Oct 2026 03:46:15 GMT"
+   "etag": "\"aacb04d36b580093558be782e9f94292\"",
+   "modified": "Fri, 30 Oct 2026 16:10:31 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 29 Oct 2026 20:45:59 GMT"
+   "modified": "Fri, 30 Oct 2026 19:22:34 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"38d5a8b23007d2f3b5378fb25eb404a7\"",
-   "modified": "Fri, 30 Oct 2026 13:22:30 GMT"
+   "etag": "W/\"990a3b076083f2c8d618c87c61d7b259\"",
+   "modified": "Fri, 30 Oct 2026 18:02:35 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1721,8 +1774,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"8d91419ea0c2f4656c96e0b71d31e333\"",
-   "modified": "Fri, 30 Oct 2026 05:03:27 GMT"
+   "etag": "W/\"7cee1d987e7dd1b8588a97ef64e6bf2d\"",
+   "modified": "Fri, 30 Oct 2026 19:17:58 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
