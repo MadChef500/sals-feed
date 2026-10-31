@@ -1,40 +1,5 @@
 {
  "stories": {
-  "s1793141828_30": {
-   "title": "Tesla's Robotaxi footprint grows in Houston",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGdIZmp3QWlsNWZCM05zVGVMMEV3T0t5ZXBlSmNYeUxva1JjN3d2NDdNWi0xT082STVhX2FxUHZrVlZJQjJDUTRnbkxMcHNKa3k1QldwV0NxdE54cHlrVTNnVlRObndQOTZGT0JVZG9mTWg2OEpwelJwN1gyTkJVX3RramI1VEUtMDVyb1FuLV83NW1BcURRdVBnbll6UQ?oc=5",
-   "sources": [
-    "Electrek",
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T21:48:53+00:00",
-   "first_seen": "2026-10-27T22:57:08.115578+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793152609_38": {
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "sources": [
-    "TechCrunch AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-27T23:34:27+00:00",
-   "first_seen": "2026-10-28T01:56:49.639630+00:00",
-   "last_seen": "2026-10-29T16:34:00.932627+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793173491_14": {
    "title": "Tesla\u2019s Cybercab battery design could make robotaxis even cheaper",
    "link": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
@@ -49,23 +14,6 @@
    "last_seen": "2026-10-30T19:22:27.553186+00:00",
    "team": null,
    "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793173491_29": {
-   "title": "\u2018Where Are The Cybercabs?\u2019 Tesla Investor Ross Gerber Takes Aim at Elon Musk as Amazon\u2019s Zoox Eyes Expansion With Santa Monica Deal for 150 Robotaxis",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2hlRUJpRFZUNENPUDNMTmdyMEFINmhzaVdSQkxPeERZZlRvY0dBQ3owOEgzZHpTZHVZM2VKSmpuTmg0MGozakJVWnZPdi0tMkNCSHh1Z1ZSM0psWFpnbkVySGp2YnpiTGJqMEg0UlhMbmIwOXg3VV9JUHdSdUFOLWNodzdXdXEtMDhNdExiOGpEOS1BaGR5dGxFZFg?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-28T02:30:00+00:00",
-   "first_seen": "2026-10-28T07:44:51.706483+00:00",
-   "last_seen": "2026-10-28T14:34:40.149712+00:00",
-   "team": null,
-   "trust": 2,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -155,93 +103,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793230822_1": {
-   "title": "Philadelphia Eagles Given 1% Chance to Make Playoffs",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEswVFluZk9YcTcya3NsSHlTSzg5QWJySVB0dlBXV3RwNjd0N285QzlYYks5OG9pSm55VkFIUjBydjZGRXNLZmlUQ3NpT002S1FGOV9mWVI1ZE1mRkpfYkd6ZnVwU2Uxd05fZ2d3YllCMVFGS18xVlBtT0dCczhNTVJia3NMVWpKUjlN?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-28T22:51:55+00:00",
-   "first_seen": "2026-10-28T23:40:22.434644+00:00",
-   "last_seen": "2026-10-28T23:40:22.434644+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793230822_2": {
-   "title": "'Significant' natural gas leak forces partial closure of Route 73 in Camden County, New Jersey",
-   "link": "https://6abc.com/post/significant-natural-gas-leak-forces-partial-closure-route-73-camden-county-new-jersey/19991208/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-28T22:11:22+00:00",
-   "first_seen": "2026-10-28T23:40:22.434644+00:00",
-   "last_seen": "2026-10-28T23:40:22.434644+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793230822_4": {
-   "title": "Eagles roster news includes Dameon Pierce to injured reserve",
-   "link": "https://www.bleedinggreennation.com/news/188593/eagles-roster-news-includes-dameon-pierce-to-injured-reserve",
-   "sources": [
-    "Bleeding Green Nation",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 110,
-   "pub": "2026-10-28T21:37:27+00:00",
-   "first_seen": "2026-10-28T23:40:22.434644+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": "eagles",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793230822_9": {
-   "title": "Eagles place playmaker on injured reserve",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmw1UDZuOGtta0Z4QWx1ZmtHS0lqQWx4Nm1Da0NLZmVxV0xZSlZoU0dtRXMtekVJTmVVZU8tV2JsU2pXNUp0NUp5UXJCQ2wyZWVtUjJ3Nl9XeVE5SWRJUkUzbFE4bFZZeUU2MS00ZUotc0NOVUg2VjdmNGdEYm1HRFU0T2lkTjQ?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 110,
-   "pub": "2026-10-28T21:13:00+00:00",
-   "first_seen": "2026-10-28T23:40:22.434644+00:00",
-   "last_seen": "2026-10-29T21:22:47.291616+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793230822_11": {
-   "title": "Jaguars Could Land Eagles\u2019 Top Trade Chip Before NFL Trade Deadline",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFFfVUJqV1NTaUhBRmJ6TDBBdGNBdHRlV3hxdHg0aXZlTW0waWJqMXU2Z0pyZ3ZfRHlybEVXNjVCOXAwVDNXUEdXOHVtQU0wQ0hQaTd1MUZrczdFNUdNY1NvSnlEY0Q5LVBRQ01CR0N2QVFzMFZVU1pxZkRUbEtsNWJwZ1I?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-28T22:43:36+00:00",
-   "first_seen": "2026-10-28T23:40:22.434644+00:00",
-   "last_seen": "2026-10-29T03:01:23.106627+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793230822_37": {
    "title": "Tesla Ends Up Below a Bel-Air Home, Woman Blames It On Full Self-Driving Mode",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUdhYnQxNElPM3VtODI0ZWNIRkltZ0xKcEtwbm1pZ3dOQnRlMzVhN0czc0pMeHRSX1VZQ3ZLdWRzc2ptaTBOS0pwWnppZEtVYnRfTURZZGwxRjZseEtVdk8wWW5VVWgyWEVxczZJUGFfTkxuTUgxa3l3NjJENHhiMjE4MFIzU0o3VTNwajlPSUE4aWtzUGc?oc=5",
@@ -293,41 +154,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793242883_11": {
-   "title": "Ex-Northwestern Guard Signed to Philadelphia Eagles' Practice Squad",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzNpQUhhRWZpenVpc1V0b0h6NGxUU1ZDaGpYUjBkMUJ3WnFLZ2Zha3I1bkRpOVFnSWoyTFpiUzVoSWdiejk1WDlLMGRYdlQ1RzdmRTdCWk54MmRpWVZ5SUtILTRSRkE1NGkzYS15ZUlGanJyaHNMTE8wY0lKUV9kNDQ5WGEtVGpRdlFFNDg2bTBSLXBwQUtYRkxJTy0tQkVPVGNPT1hzU1dkSDBSak5BYVdpUnE1OG5ZQmc?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-28T23:33:49+00:00",
-   "first_seen": "2026-10-29T03:01:23.106627+00:00",
-   "last_seen": "2026-10-29T03:01:23.106627+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793242883_13": {
-   "title": "2 Philadelphia Eagles Starters Named Top Trade Candidates by ESPN",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlpQSTZ6anZIdi1nSzhUbDB3ZVJaVnZjb0dEMW9ZbnJoWElhVlB2SGpJdlNwckhRTnh1M3EtYTJ2eHZJbWpKS2VVSlJXWEhKTVNiTk4yYng0U2pnQUtNdS11N0phSDgwaF9ZR3NJUXExQ19HME9JOHFTeVRCTTROdU9PZGxMTGhkYXZkejduOXZFLVgxRE5kY0tBYXlYOTloRkdtRkhUeW9jWU54M3R0ampnU3o?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-29T00:28:00+00:00",
-   "first_seen": "2026-10-29T03:01:23.106627+00:00",
-   "last_seen": "2026-10-29T16:34:00.932627+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793242883_22": {
    "title": "Seoul court dismisses lawsuit by Tesla owners seeking refunds for 'Full Self-Driving' tech",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjh3SVB5QkI5b2FUQ0ptMFpDNWRsTU9yVVd3Q0kxZnJUWG1wUDZnYXVzeEt5T1ZLVHJQcHBTV3V0SkRFNGc2NnkyQ0haTGhVcU9HWkJqRTFzY1MzWFNCMTF4Tjl5S09BeG5CN3dDTzhJY1RGRHlSaTBOb3FtdDNTRWRUYThoYXJXRVlud050R29xTVVMSUhMTHFWWm16T3l6RF9hcWhyMTBLeHk4cWxkRWp0dlp1N1c3RXN3eWFfemljc01ZTnBseW5aU3VDUlZleDlhSDAtUVBJUWFXaEE?oc=5",
@@ -338,7 +164,7 @@
    "base": 80,
    "pub": "2026-10-29T02:00:00+00:00",
    "first_seen": "2026-10-29T03:01:23.106627+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -407,7 +233,7 @@
    "base": 80,
    "pub": "2026-10-29T08:14:06+00:00",
    "first_seen": "2026-10-29T09:58:30.055214+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -440,23 +266,6 @@
    "cat": "breaking",
    "base": 135,
    "pub": "2026-10-29T15:54:48+00:00",
-   "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-29T16:34:00.932627+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793291640_2": {
-   "title": "South Korean prosecutors press for death sentence in Yoon martial law case",
-   "link": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-29T12:36:43+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
    "last_seen": "2026-10-29T16:34:00.932627+00:00",
    "team": null,
@@ -562,7 +371,7 @@
    "base": 110,
    "pub": "2026-10-29T09:31:24+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -666,7 +475,7 @@
    "base": 80,
    "pub": "2026-10-29T20:56:05+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -770,7 +579,7 @@
    "base": 80,
    "pub": "2026-10-29T17:20:11+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -855,7 +664,7 @@
    "base": 110,
    "pub": "2026-10-29T11:01:48+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -872,7 +681,7 @@
    "base": 80,
    "pub": "2026-10-30T01:04:57+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -976,7 +785,7 @@
    "base": 110,
    "pub": "2026-10-30T03:44:34+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -994,7 +803,7 @@
    "base": 80,
    "pub": "2026-10-30T07:03:47+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1030,7 +839,7 @@
    "base": 80,
    "pub": "2026-10-30T10:30:00+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1200,7 +1009,7 @@
    "base": 115,
    "pub": "2026-10-30T16:40:37+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1217,7 +1026,7 @@
    "base": 80,
    "pub": "2026-10-30T14:53:48+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1235,7 +1044,7 @@
    "base": 80,
    "pub": "2026-10-30T14:42:52+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1253,7 +1062,7 @@
    "base": 80,
    "pub": "2026-10-30T18:02:35+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1323,7 +1132,7 @@
    "base": 80,
    "pub": "2026-10-30T13:45:38+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1392,7 +1201,7 @@
    "base": 80,
    "pub": "2026-10-30T19:23:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1410,7 +1219,7 @@
    "base": 120,
    "pub": "2026-10-31T00:03:00+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1461,7 +1270,7 @@
    "base": 80,
    "pub": "2026-10-31T00:10:00+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1478,7 +1287,7 @@
    "base": 80,
    "pub": "2026-10-30T19:39:59+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1546,7 +1355,7 @@
    "base": 80,
    "pub": "2026-10-31T06:30:25+00:00",
    "first_seen": "2026-10-31T08:47:30.404129+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1563,7 +1372,7 @@
    "base": 80,
    "pub": "2026-10-31T03:50:11+00:00",
    "first_seen": "2026-10-31T08:47:30.404129+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1580,7 +1389,58 @@
    "base": 80,
    "pub": "2026-10-30T18:24:53+00:00",
    "first_seen": "2026-10-31T08:47:30.404129+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793458321_7": {
+   "title": "Sunday night vs the Eagles either opens the door to Commanders trade additions or slams it shut for good",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR19PSUQ3Smt3ZjJWNDlEa2hMeXlKVlp1VG5QRHpGUDYtV2NNeUhESWtUOVl4QzF6RlVBeVdhNDd4Vy1Fc2hTS0tNT1p2dDhBVVpUX0MzSlYwTDFxSFRUT2hXdXRsaWZITTlsZkNEd2xFVmNlV3dvYm80eFF0RUFZOXJDWHk?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-31T10:00:00+00:00",
+   "first_seen": "2026-10-31T14:52:01.637195+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793458321_25": {
+   "title": "Tesla\u2019s rocket-shaped Robotaxi map in Houston is partly \u2018fake\u2019",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcVBlQm54YzB1OHpCck03aWFEZk1VT1ZBN3BydkZxM05vcTZlQWVfb2cwQkV6bnF2YzdPcGt0TFlldWh1aEZ0UHR0UzYzeUVBa1BMbmxucEdtX3pRWm5tT2tLcUlTUEJxR1FqZ05BRXBEUlhhSjM2cHJiN0F4enlLbXVjNF9LZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-28T16:18:00+00:00",
+   "first_seen": "2026-10-31T14:52:01.637195+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793458321_32": {
+   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering \u2014 sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-10-31T12:20:00+00:00",
+   "first_seen": "2026-10-31T14:52:01.637195+00:00",
+   "last_seen": "2026-10-31T14:52:01.637195+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1598,8 +1458,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"a29a4362e9c6e04e90db7910a3fdbaf3\"",
-   "modified": "Sat, 31 Oct 2026 08:43:39 GMT"
+   "etag": "W/\"526bef50f8d90e3470fbd5d88fd2af29\"",
+   "modified": "Sat, 31 Oct 2026 14:49:47 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1611,15 +1471,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 31 Oct 2026 08:44:59 GMT"
+   "modified": "Sat, 31 Oct 2026 14:51:02 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"7563b5ee63577c639c9e1ee8ef73c603\"",
-   "modified": "Sat, 31 Oct 2026 08:20:00 GMT"
+   "etag": "W/\"ccdf38e5d1ab811ea4a8fb446a899ded\"",
+   "modified": "Sat, 31 Oct 2026 14:41:09 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1627,18 +1487,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 31 Oct 2026 08:48:25 GMT"
+   "modified": "Sat, 31 Oct 2026 14:52:27 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"4d8a7a21904b6db7b9c91bea8a55ead6\"",
-   "modified": "Fri, 30 Oct 2026 23:10:50 GMT"
+   "etag": "\"2449aacbbdab58edb2025c145381f3f5\"",
+   "modified": "Sat, 31 Oct 2026 14:10:28 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 31 Oct 2026 04:33:46 GMT"
+   "modified": "Sat, 31 Oct 2026 12:11:43 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"eea5514e639065acf143a9271b0b418d\"",
+   "etag": "W/\"ce2fea382cdf39090916021201ab091b\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1646,16 +1506,16 @@
    "modified": "Sat, 31 Oct 2026 00:18:12 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"a54d104f9fb390630c7b691f8438476b\"",
+   "etag": "W/\"32afc2517d12bbffc7e90cd2fa71baaa\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"4d33ead6584a73a144be1e2d7a042557\"",
+   "etag": "W/\"9b19e89f3bd25d71601db518288252ea\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"1bb6980d7e09960e5d21982700a205ea\"",
-   "modified": "Fri, 30 Oct 2026 22:45:00 GMT"
+   "etag": "\"2a8582d557d1bbcb65853ceac976e333\"",
+   "modified": "Sat, 31 Oct 2026 14:51:55 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1682,8 +1542,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"9e8240a6fe3bf5569878d0d99a015e3a\"",
-   "modified": "Sat, 31 Oct 2026 04:20:17 GMT"
+   "etag": "W/\"c3a91ad1ccfb753c2b3ecde6833ddea8\"",
+   "modified": "Sat, 31 Oct 2026 03:44:04 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
