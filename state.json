@@ -1,180 +1,5 @@
 {
  "stories": {
-  "s1793127705_14": {
-   "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
-   "link": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T16:55:00+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_15": {
-   "title": "Tesla\u2019s Optimus Robot Will Soon Plug In Robotaxis to Charge",
-   "link": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T15:25:00+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_19": {
-   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-   "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
-   "sources": [
-    "Electrek",
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T15:43:32+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_31": {
-   "title": "Tesla Robotaxi service \u2018coming soon\u2019 to San Antonio, other cities - San Antonio Express-News",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllacWV3R1lEbG96dU04cjlDQ1BqZWJYY0dMSUtfVkxIX0JkSmJhSU1oQWFCdzh2UlFDLXhTMnp2Z0Z2cXVvdGdTNVFTb1B4TC1YY3RMc2ZhY19Gdi00bGw3ZkhubUdFUVMyN3FJY0VFRTRvekZNVmpYMUtmOTZWdklRVkZsVlFrUm1PYk1RS1R4NUhzcXlj?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T16:46:21+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-29T09:58:30.055214+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_35": {
-   "title": "Tesla Robotaxi Fleet Tops 1,000 in Texas as Cybercab Passes Model Y - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG1STFpFeEZSSkZ2NFk3anl0RVBNLUdaNFFOVTVkZGh3bF9qMzFKMkF2clpWUUtzdktaamRZUDZFQk9vYVZBRmxDVWRBdTdvMVE5U3RKLVg1UlV3UlJaQ2lwS0JmRkFHZ1lrM09TQU1yQmZiYU84VzJ0TlUySzFOZ21yMGQ2VDdTaWxCeWtvNGZxNnJRUjU3RTZrN0FERmpjUUZibg?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-27T18:05:27+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-28T23:40:22.434644+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_36": {
-   "title": "Tesla FSD Illegally Unlocked by 80 Drivers in South Korea, Police Say",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTdZc1NQTlVidGFKbWYtSkRNZHY3UzFlMDh5NVpHNFg0NDZOUDhEYWp3MlV4ZVRZRnFuWndfUjc1aEM4YkJPU2dEOTgxMEFRZndzU1JqY0JGdzZhWHg5X04zMFFSekhmLU8zUGlzbjlhRHlER1U2bXc3ZGtKcnE1QW9wRkNNRkhFam1NdDh5c3pYVURyeVl5Zy1OVXVtVHZHVXhqWWowQQ?oc=5",
-   "sources": [
-    "Google News Tesla",
-    "InsideEVs"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T14:39:00+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_37": {
-   "title": "Tesla Robotaxi Beach Expansion: Miami & Tampa Questions Answered - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQekZDRnp1SUhSVDFWNFRaaEJ1ejRvLVZEd3NlYXpfc1BSMjd5NjF5aUg5TzhJTWJZbHFRS05kalpqdjBnQ3JpSV8wRDBiR1FMb25KbkhTRE1JZU1PM3dEU2otUDBhRXZhaHpVVk1qOXZEQWd5YUZVb2gtT0tXN2k0WlhlUzBLcEczSm9wc1FVc190Uy1rOUpVS09pTEU?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T16:04:47+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-28T07:44:51.706483+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_38": {
-   "title": "Tesla expands robotaxi service across Houston as autonomous competition intensifies",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2pJNU9kbFlWWm5GTlJhSjhGUDV2Y1FIMl9tdlJzdXJmTHVVRzh1czdRTkY0NThaVExDWV8zUm9aeEdCV1JiVkJSbXdLbkxvWmE2a1pXSS0wUmlSNEhDSkpZVXlfNFUtd3BOcTBYbl9SRnZxQUxfZi1Bd3NTTzhNTFI1TkxHRUowemRYOGllcVpNcE5ZWmp2V3hVNA?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T15:18:00+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-29T21:22:47.291616+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793127705_45": {
-   "title": "Anthropic Expands Claude Advisor Tool With New Partners",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHVkS3FKc19XSnNQREJ1M3dJemlCUlVQdWw1aWp6UTNpRndGUi0yR0J2bElGVC1uNjFhcS05d0NsYTNCel9aVkhoLVlEZ3RBZmNYeWR4NUZPekJra3ctTjBhc3NNWTlWT0dlLURIV3J4b2JxV0s5R1VHMWx4emw4WGNlWXhYUjhwVElsZlhBMGJnb2llUmhzR3JBVVlxZ3ZKSEZ3OGZNM3Bjd0VQM1ZpbE5kZEp4aHNUYkFkOGdsVm5ocE5TRVU1aUUwZw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-27T18:32:47+00:00",
-   "first_seen": "2026-10-27T19:01:45.998118+00:00",
-   "last_seen": "2026-10-29T03:01:23.106627+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793141828_14": {
-   "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
-   "link": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-27T20:16:00+00:00",
-   "first_seen": "2026-10-27T22:57:08.115578+00:00",
-   "last_seen": "2026-10-30T19:22:27.553186+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793141828_30": {
    "title": "Tesla's Robotaxi footprint grows in Houston",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGdIZmp3QWlsNWZCM05zVGVMMEV3T0t5ZXBlSmNYeUxva1JjN3d2NDdNWi0xT082STVhX2FxUHZrVlZJQjJDUTRnbkxMcHNKa3k1QldwV0NxdE54cHlrVTNnVlRObndQOTZGT0JVZG9mTWg2OEpwelJwN1gyTkJVX3RramI1VEUtMDVyb1FuLV83NW1BcURRdVBnbll6UQ?oc=5",
@@ -186,7 +11,7 @@
    "base": 80,
    "pub": "2026-10-27T21:48:53+00:00",
    "first_seen": "2026-10-27T22:57:08.115578+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -206,23 +31,6 @@
    "last_seen": "2026-10-29T16:34:00.932627+00:00",
    "team": null,
    "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793152609_39": {
-   "title": "Anthropic says Claude generated 35,000 designs in allergy drug research",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUZVT0hVeWJ5b2FOdWxuZldFZlVabURHZENrNG1sM1NtWXh5YzN5VzBueXIzR2V0a0ZjdmpMdF9qdHhVZjB6emVPRjFWZ1ptR0prc25jUGtTUm9hQkk4RDlpMnFtNW1DMFl4UkZhNkg5eGZkYWxsdTBuU0lyYWhyYnFvN2NlWWE2TW5fSVM1MDVVaDJySGtpSElLNndIR25xdHJ5MXpkOU5pOEo4ZzlsTWxCbEtoNmg0ZmJz?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-10-27T20:45:52+00:00",
-   "first_seen": "2026-10-28T01:56:49.639630+00:00",
-   "last_seen": "2026-10-28T07:44:51.706483+00:00",
-   "team": null,
-   "trust": 2,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -272,7 +80,7 @@
    "base": 80,
    "pub": "2026-10-28T12:00:00+00:00",
    "first_seen": "2026-10-28T14:34:40.149712+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -530,7 +338,7 @@
    "base": 80,
    "pub": "2026-10-29T02:00:00+00:00",
    "first_seen": "2026-10-29T03:01:23.106627+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -599,7 +407,7 @@
    "base": 80,
    "pub": "2026-10-29T08:14:06+00:00",
    "first_seen": "2026-10-29T09:58:30.055214+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -702,7 +510,7 @@
    "base": 80,
    "pub": "2026-10-29T14:29:44+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-30T23:09:04.737175+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -719,7 +527,7 @@
    "base": 80,
    "pub": "2026-10-29T14:53:29+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -754,7 +562,7 @@
    "base": 110,
    "pub": "2026-10-29T09:31:24+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -840,7 +648,7 @@
    "base": 80,
    "pub": "2026-10-29T19:17:00+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -858,7 +666,7 @@
    "base": 80,
    "pub": "2026-10-29T20:56:05+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -962,7 +770,7 @@
    "base": 80,
    "pub": "2026-10-29T17:20:11+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1047,7 +855,7 @@
    "base": 110,
    "pub": "2026-10-29T11:01:48+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1064,7 +872,7 @@
    "base": 80,
    "pub": "2026-10-30T01:04:57+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1168,7 +976,7 @@
    "base": 110,
    "pub": "2026-10-30T03:44:34+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1222,7 +1030,7 @@
    "base": 80,
    "pub": "2026-10-30T10:30:00+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1256,7 +1064,7 @@
    "base": 80,
    "pub": "2026-10-29T12:13:07+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T23:09:04.737175+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1273,7 +1081,7 @@
    "base": 80,
    "pub": "2026-10-30T13:38:51+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T19:22:27.553186+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1392,7 +1200,7 @@
    "base": 115,
    "pub": "2026-10-30T16:40:37+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-30T23:09:04.737175+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1409,7 +1217,7 @@
    "base": 80,
    "pub": "2026-10-30T14:53:48+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-30T23:09:04.737175+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1427,7 +1235,7 @@
    "base": 80,
    "pub": "2026-10-30T14:42:52+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1445,7 +1253,7 @@
    "base": 80,
    "pub": "2026-10-30T18:02:35+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1462,7 +1270,7 @@
    "base": 80,
    "pub": "2026-10-30T14:49:56+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1515,7 +1323,7 @@
    "base": 80,
    "pub": "2026-10-30T13:45:38+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1532,7 +1340,7 @@
    "base": 80,
    "pub": "2026-10-30T20:30:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1566,7 +1374,7 @@
    "base": 80,
    "pub": "2026-10-30T19:30:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1584,7 +1392,7 @@
    "base": 80,
    "pub": "2026-10-30T19:23:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1602,7 +1410,7 @@
    "base": 120,
    "pub": "2026-10-31T00:03:00+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1653,7 +1461,7 @@
    "base": 80,
    "pub": "2026-10-31T00:10:00+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1670,7 +1478,109 @@
    "base": 80,
    "pub": "2026-10-30T19:39:59+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_2": {
+   "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+   "link": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-10-31T05:37:51+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_5": {
+   "title": "Recently Acquired Philadelphia Phillies Pitcher Immediately Becomes Free Agent",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmlINnlGdHRLWVlDVjAxVXl4bHNrUFFMSm8xVllyeGJ1QXZMR1JCXzJkek9NRjRFNWtaVXNCa1R6TmdhLXlRRjg1dXg0U0lVdUh3bUN6V3V3OU8xM2JwdHBZSWsxaTlMME1obWExeXJfZEN3NDloc3FLQ0oxY1JDcXVSMzk3Y3JwOHhBVTRVY2ZvUkNBcFlDa2xPVTNsdTJFY3BEM2dn?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-31T07:15:31+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_15": {
+   "title": "Nick Sirianni Hasn't Lost One Coach's Faith Despite Eagles' 5-Game Losing Streak",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWk2czlyb2tGQldWeXFLa3ZoQUZZSHNCWWFEc0lZSk1iajFYUGNSbmpLbFhiVWVRd3A5T0VQOEd5ZHk0UGd6NjN4V2tBTWFHVC1INjFVN2lmOFNEcHc3eTU1MmtTVDhfYVpidkExQnRPWk5JQnR6WWZySFJtNlpyY0Zyaw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-10-30T23:00:03+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_27": {
+   "title": "Tesla FSD Referral: 1.74M Subs, Only 17% of 10M Goal [2026]",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0E0cVNBTU1YOTlaU3lNSkFJOURSS09HQ1ZrbU9rMk14RzhXaE9rQ0Fob0wzUVAtSUIxQy1acHB6LVR0cDltZWNlb2hBQ0JiczBFYzJ5NUFoX1V6SkdGY2dXeXp5SVd0dFBvSGNibDdubGhBRFdXMkZWd0tBMXlxaTJ4Z2g1STVVTWgtQzdB?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-31T06:30:25+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_31": {
+   "title": "How Many Tesla Superchargers Are There In The US (And Who Can Use Them)?",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95b0N6bkNleGpmd19ONTZhUDlnUnN0NXRybUVfVk84ZmNCMHlQVWJON1JOS3doU0dUeExDSWdualp1bFY5R3NrOVR4SUlseFhNcndTR3VXV1phZXZTRVlKY0hXUC1VMXRZNXVkY1NCNGE1QTdkcHlKckRHVFFOQQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-31T03:50:11+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793436450_37": {
+   "title": "South Korea Refers 80 Tesla Drivers to Prosecutors Over FSD Unlocking",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkU5b1Rid3cySnRZeGdFTGFqcEx2S2t4ZmlnNEd5QzVKN0JKTC02bVctYUlHZ0JXUDNrdmJQZURnS0w1MFFFLU5MZWtJN3VnNG85akh1RkFrUE5pYmo4RXAxNklNWXlDSkpIQXRzRXRsVFVYeGZWMUJPV2V1WDFsNFZzbXEwWFBTaTZ3WDF6M2Q5bzE2S3llZDZpQkQtaXM?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-10-30T18:24:53+00:00",
+   "first_seen": "2026-10-31T08:47:30.404129+00:00",
+   "last_seen": "2026-10-31T08:47:30.404129+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1688,8 +1598,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"0e268426242928751afbeaa12407a7a7\"",
-   "modified": "Sat, 31 Oct 2026 02:22:19 GMT"
+   "etag": "W/\"a29a4362e9c6e04e90db7910a3fdbaf3\"",
+   "modified": "Sat, 31 Oct 2026 08:43:39 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1701,15 +1611,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 31 Oct 2026 02:19:53 GMT"
+   "modified": "Sat, 31 Oct 2026 08:44:59 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"d2db865fcc670a2bee2d2c15ce32839c\"",
-   "modified": "Sat, 31 Oct 2026 02:00:00 GMT"
+   "etag": "W/\"7563b5ee63577c639c9e1ee8ef73c603\"",
+   "modified": "Sat, 31 Oct 2026 08:20:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1717,7 +1627,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 31 Oct 2026 02:23:47 GMT"
+   "modified": "Sat, 31 Oct 2026 08:48:25 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"4d8a7a21904b6db7b9c91bea8a55ead6\"",
@@ -1725,22 +1635,22 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 30 Oct 2026 21:50:04 GMT"
+   "modified": "Sat, 31 Oct 2026 04:33:46 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"eea5514e639065acf143a9271b0b418d\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "",
-   "modified": ""
+   "etag": "\"257c16e368a11023b85dba6b487c4769\"",
+   "modified": "Sat, 31 Oct 2026 00:18:12 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"a54d104f9fb390630c7b691f8438476b\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"51e2482ca90ca614ca85328c4911ab64\"",
+   "etag": "W/\"4d33ead6584a73a144be1e2d7a042557\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1752,8 +1662,8 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"aacb04d36b580093558be782e9f94292\"",
-   "modified": "Fri, 30 Oct 2026 16:10:31 GMT"
+   "etag": "\"65a7c463f03da56b107882126aafab98\"",
+   "modified": "Sat, 31 Oct 2026 04:29:17 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
@@ -1772,8 +1682,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"be217807fb103ceb8e65dd951713cc95\"",
-   "modified": "Sat, 31 Oct 2026 01:20:05 GMT"
+   "etag": "W/\"9e8240a6fe3bf5569878d0d99a015e3a\"",
+   "modified": "Sat, 31 Oct 2026 04:20:17 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",

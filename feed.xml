@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:47:30 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla Reveals 36 New Supercharger Sites Picked by Owners</title>
@@ -21,22 +21,6 @@
       <pubDate>Fri, 30 Oct 2026 03:44:34 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Teslarati - Oct 29, 11:44 PM ET</description>
-    </item>
-    <item>
-      <title>🏒 Firing Rick Tocchet won’t fix what’s wrong with the Flyers</title>
-      <link>https://www.broadstreethockey.com/post/firing-rick-tocchet-wont-fix-whats-wrong-with-the-flyers/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/firing-rick-tocchet-wont-fix-whats-wrong-with-the-flyers/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:38:51 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey - Oct 30, 09:38 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ 3 killed in helicopter collision that shut down part of an Oregon highway</title>
-      <link>https://6abc.com/story/2-helicopters-collide-southwest-portland-oregon-shutting-down-highway/19997333/</link>
-      <guid isPermaLink="true">https://6abc.com/story/2-helicopters-collide-southwest-portland-oregon-shutting-down-highway/19997333/</guid>
-      <pubDate>Fri, 30 Oct 2026 11:31:58 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Oct 30, 07:31 AM ET</description>
     </item>
   </channel>
 </rss>
