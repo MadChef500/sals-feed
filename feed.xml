@@ -4,8 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:38:16 +0000</lastBuildDate>
     <ttl>20</ttl>
-
+    <item>
+      <title>🌍 Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across U.S.</title>
+      <link>https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s</guid>
+      <pubDate>Sun, 01 Nov 2026 17:49:59 +0000</pubDate>
+      <category>breaking</category>
+      <description>PBS NewsHour - Nov 01, 12:49 PM ET</description>
+    </item>
   </channel>
 </rss>
