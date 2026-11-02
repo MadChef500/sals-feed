@@ -10,7 +10,7 @@
    "base": 80,
    "pub": "2026-10-29T16:00:00+00:00",
    "first_seen": "2026-10-29T16:34:00.932627+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -80,7 +80,7 @@
    "base": 80,
    "pub": "2026-10-29T17:20:11+00:00",
    "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -104,23 +104,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793323119_20": {
-   "title": "2026.38.6 Official Tesla Release Notes - Software Updates",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEFUd0JkTGFWcmU5MHhzZDMybTNQeTdvTDl3aDBXYTk5bFo4Y0pIRWY5Z3F1V2I5RUs2RWI2N3FzcHluZi1HUmtkbDVmVGR0QTFMNXBNTnl0T19BSmExUklLUWtsa0puZDJKZVlwY3VYdVRyLW9zYS1ycHd1V3JqeUNPNA?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-29T11:01:48+00:00",
-   "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-11-01T18:38:16.939180+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793323119_23": {
    "title": "Tesla Launches FSD Supervised Referral Program: Free Month for Every Signup - BASENOR",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnJhUEdGSU95T0JXa0J4dWZwaWJtX2d2Uzh1NjZrOHRXcE9kNmNBSW5VaC1BWkd1bzc4N3pUUWhQUkhWNVBLNGlIM1hzTTRvVllJNjJ2d3UxYTZGVThMQ2Z5SzJPYzROMzdlS0dyRzRKMTZBakRoS3JzQnpoTWwxREdRQnN6RnV4TzNjcUhfYzQ4RTV6YUZIdEVLRTczXzFYRlVQVU1vNndhTHp6WWc?oc=5",
@@ -132,7 +115,7 @@
    "base": 80,
    "pub": "2026-10-30T01:04:57+00:00",
    "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -168,95 +151,8 @@
    "base": 80,
    "pub": "2026-10-30T07:03:47+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-11-01T18:38:16.939180+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793369345_0": {
-   "title": "Car found burning on I-95 with smoking meat inside may be connected to latest Philadelphia cargo heist: Source",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNnByb0loYXVNb2tEQzBHZWRGMGF3TlExdWJmTlZVX3NITDNHd0NnOHh2Y2R0V29PSTBHT1hoNk81azBoZDZmRy1UbGJYTEVlRzFZVWpXMXd5cl96bkdoWkE4enhLWTU0WUNiekNDMTNaazk2YW5aNEVaVmVWMXZ5Sy1MeEpJYnBVbzdKeWFLR09SbFlUOWZXZExFdnRQSEhhZ0lEdS1HSkZ6RmNTcG81TUVPTVhHWGsyWERya3BtR0tVdmfSAcgBQVVfeXFMT085MlV2M3g5SWVpZHdMUXc0RjNpZWU3VEFjRGNYNkJ3aThWcjFLQ2RaS0dfem0xRkNxMnZXV0tfV0xSaGYtczBva3BNWnNESWNielNBWnhXT1BHWndSU2pvVERqbThDdW5oSTJRRVlwQ0ZUS04wcVRMdk9GcEZsbnhLVHRHU1FRbjQ5dUh6QnFBM2VLdXpHTzlHUnpxamIxVFdVVk02SnoxXzhSYTl2SjV1ZlkxWTc2RFp6UUFsMUw0MHV0aDhLLUU?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-30T12:25:33+00:00",
-   "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793369345_1": {
-   "title": "3 Eagles Most Likely to be Traded Out of Philadelphia After Week 8",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYjhTXzgtQ0EtSkVDVTFGVW1rWFdsTnVIc2ppNWtWTVhqb2hoVVJNZzZlWUtReTlrX29KRjBNT1Q0UWdkekt6UXNON3BDenQ4ekREZVhiRjQ3M1lKdDZjVUhfSWdWUjlfQjg4YWlJd2wyZDN6dXpqc2tDMFdXcjVjOVBmVC1XLVhGcXFiaWMxYnFQNGY1UXpEenZQdXpieFFBX1NTQ1lEYWI?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-30T10:30:00+00:00",
-   "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-11-01T06:47:28.439159+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793369345_5": {
-   "title": "3 killed in helicopter collision that shut down part of an Oregon highway",
-   "link": "https://6abc.com/story/2-helicopters-collide-southwest-portland-oregon-shutting-down-highway/19997333/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-10-30T11:31:58+00:00",
-   "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 3,
-   "changelog": false
-  },
-  "s1793369345_10": {
-   "title": "Firing Rick Tocchet won\u2019t fix what\u2019s wrong with the Flyers",
-   "link": "https://www.broadstreethockey.com/post/firing-rick-tocchet-wont-fix-whats-wrong-with-the-flyers/",
-   "sources": [
-    "Broad Street Hockey"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-30T13:38:51+00:00",
-   "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-31T21:58:12.754782+00:00",
-   "team": "flyers",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793369345_18": {
-   "title": "LOCKDOWN: Jhoan Duran\u2019s Elite Year PROVES Philadelphia Phillies MUST Act Fast On Contract Extension",
-   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPd3pLUlVLOU5fYUFqdEhhWUpsUTFjMTRUMDlTU1VyQi03SXZxOS12RkFxSURWdVNXam1MMU92cVQxNjBETUNMbzRWVzlDQmNMS1RibFlsTXJwNFdUZEZ0OUw3SmtOUHNWckNHQzViMVQwcVJCb0tuTjk3UDI0alJGSW5QM0NTZ0h4czczcER5TUliYkt0eldIeTkxT3UtTzZBZUJNVWwzWGt2R1dBbEdsQ0IxNGhfVXM3OWVVNmVwRlVhcjlFZG9wRF85Nm9leEVxRkdkb0pJc3lsT0RkU2lGX2M2cVhkR00teWhoMld1Ri1EMUJvVEdYVHUwWDR6WUhVLWVON0VWcGlmYWRYU3RXakx1WlBQS3V3YndnRTBaMHJtN3dKMVNqajQ1MS1UU2U4czBUUE04bw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-30T10:54:00+00:00",
-   "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": "phillies",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -272,7 +168,7 @@
    "base": 80,
    "pub": "2026-10-30T07:20:33+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -306,7 +202,7 @@
    "base": 80,
    "pub": "2026-10-30T13:14:20+00:00",
    "first_seen": "2026-10-30T14:09:05.443402+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -410,7 +306,7 @@
    "base": 80,
    "pub": "2026-10-30T18:02:35+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -532,45 +428,10 @@
    "base": 80,
    "pub": "2026-10-30T19:23:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793413414_0": {
-   "title": "Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREJ1R0t0QUgxNDJOSnVrVVdjMlF6WEZNNmZmSkNUZG5zeHY5ekU1QkRvV0w3Qk1Dd1VsemRmekNwVWxrNlUzVFBmeGVYTW1zZ3FDTkV4VmhIbmhqVVloRV9WYzllZlRhQlNMSFAwdUlQb3BZVUVRYUNWc2tBUzV0anN6N2tya3hJX0dlYkY2QTdtZV9oZUVtdmN1U1pUTEFNa3JPYWgyX1p1ZWkxSVREd1RUYmJ5NWNwWGxzS19YSFhzTmZIcEHSAcsBQVVfeXFMTjJDcTBCN2luRzBEVy1tZEJ6Y0QzczRGSmZUQlFyb0taRHZIZ2RrR2R4WHFPQndGSzZpSWx5Yzk1dzZ0aDN3dGNPREViMWVxOUJKQUNFT19oZnFDWFFlZHl6RWhEaEZwQkpsbnZRVDlrS1RuVmQ3blMzR3FWWDdDSk9SWWIwR2VSSGNOb0R2ak02X3pMdlItLXpHWWdETFVKZnY3RHp6ZUNOd1BNME9TTTVSQlhkSjNObkZUNFdlUUhmQS1Mbl96TFhoOUk?oc=5",
-   "sources": [
-    "CBS News",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-31T00:03:00+00:00",
-   "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-11-01T00:38:31.169779+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793413414_2": {
-   "title": "Manhunt underway after Toronto family violently attacked in home invasion",
-   "link": "https://www.cbsnews.com/video/manhunt-underway-after-toronto-family-violently-attacked-in-home-invasion/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-30T23:34:06+00:00",
-   "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-10-31T02:23:34.162222+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -584,7 +445,7 @@
    "base": 80,
    "pub": "2026-10-31T00:10:00+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -601,7 +462,7 @@
    "base": 80,
    "pub": "2026-10-30T19:39:59+00:00",
    "first_seen": "2026-10-31T02:23:34.162222+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -737,7 +598,7 @@
    "base": 80,
    "pub": "2026-10-31T12:20:00+00:00",
    "first_seen": "2026-10-31T14:52:01.637195+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -805,7 +666,7 @@
    "base": 80,
    "pub": "2026-10-31T14:28:41+00:00",
    "first_seen": "2026-10-31T18:53:07.701495+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -977,7 +838,7 @@
    "base": 35,
    "pub": "2026-11-01T00:45:50+00:00",
    "first_seen": "2026-11-01T06:47:28.439159+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -996,7 +857,7 @@
    "base": 65,
    "pub": "2026-11-01T00:10:00+00:00",
    "first_seen": "2026-11-01T06:47:28.439159+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1013,7 +874,7 @@
    "base": 80,
    "pub": "2026-11-01T01:45:00+00:00",
    "first_seen": "2026-11-01T06:47:28.439159+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1030,7 +891,7 @@
    "base": 80,
    "pub": "2026-10-31T22:37:14+00:00",
    "first_seen": "2026-11-01T06:47:28.439159+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1067,7 +928,7 @@
    "base": 80,
    "pub": "2026-11-01T12:34:43+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1075,20 +936,23 @@
    "changelog": false
   },
   "s1793541151_9": {
-   "title": "Mass shooting after Alabama football game leaves 1 dead, 8 wounded",
-   "link": "https://abc7.com/post/mass-shooting-alabama-magic-city-classic-football-game-leaves-1-dead-8-wounded/20005565/",
+   "title": "Mass shootings over Halloween weekend leave at least 6 dead and dozens injured across US",
+   "link": "https://6abc.com/story/police-say-4-dead-15-injured-separate-shootings-dallas-halloween-night/20005902/",
    "sources": [
-    "6abc Action News"
+    "6abc Action News",
+    "Google News Philadelphia",
+    "Google News Top Stories",
+    "PBS NewsHour"
    ],
    "cat": "breaking",
-   "base": 95,
+   "base": 125,
    "pub": "2026-11-01T12:13:32+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
-   "cas": 1,
+   "cas": 24,
    "changelog": false
   },
   "s1793541151_21": {
@@ -1101,7 +965,7 @@
    "base": 80,
    "pub": "2026-11-01T10:45:07+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1118,7 +982,7 @@
    "base": 80,
    "pub": "2026-11-01T07:50:24+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1135,28 +999,11 @@
    "base": 80,
    "pub": "2026-11-01T07:35:00+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
    "cas": 0,
-   "changelog": false
-  },
-  "s1793558296_0": {
-   "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across U.S.",
-   "link": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
-   "sources": [
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 65,
-   "pub": "2026-11-01T17:49:59+00:00",
-   "first_seen": "2026-11-01T18:38:16.939180+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 6,
    "changelog": false
   },
   "s1793558296_2": {
@@ -1203,7 +1050,7 @@
    "base": 110,
    "pub": "2026-11-01T18:31:59+00:00",
    "first_seen": "2026-11-01T18:38:16.939180+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1220,7 +1067,7 @@
    "base": 80,
    "pub": "2026-11-01T17:05:25+00:00",
    "first_seen": "2026-11-01T18:38:16.939180+00:00",
-   "last_seen": "2026-11-01T18:38:16.939180+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1266,17 +1113,18 @@
    "title": "Palm Beach plane crash today: Learjet 60 crash in Florida causes massive fireball; Bahamas-bound jet carried 9 people",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1VrMVRQTFdlbktkNWlfbEZ3M3lNaHljbmdNc2xydFNtbXpaSHBoN3ZLWHNLcktOOEpReFduVDFtMVladUNsZmlNOG4zZ0swNVBhWm5BWkJ4RDBzYlF5U0dKT08xMU8zNmF6MU4tYUx6ZXJ2WmRFTEhqM0RXRE1nMDAwX1pkNWFSeU5fWm81VDYzSWgzNnZ1anZLQjNjZ0hGN3hya1VWa0lLS0dWc1BLU3I3MnFQdzhJTGM4NkVaOUMwQnhPZ3JfYmRvQ1VCb2tBZ3FsWUNydlU5VTFmbUHSAeMBQVVfeXFMTzZMeG5nQ0JZSlhMTzlrZ1VILVFESzVoSDhWTTNCdGVsREFwRFVoUVBUYUlHVWRLYWlLZHhteDRMMFkxZUhIcnlsQkdidWZNSEN6X0E2aWlONTFfSllqRFFrSFdXbUx4NjFZM053RUx4dmIteEZOM2JhNHRMNEl1OWZEaW4xeXNndTNKdjZXeldJT1BDa28tV0d1akluME5oZ3FBZFg5ckgwcy1IOWwxNlQ2YzVEZDZBd2xWYkoxLWZPVURWMGZOT2d3bEZFSzZReDFzMWx2OG1HWWpISjBzQy01WWs?oc=5",
    "sources": [
-    "Google News Breaking"
+    "Google News Breaking",
+    "Google News Philadelphia"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-11-01T21:22:45+00:00",
    "first_seen": "2026-11-01T22:22:21.839508+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
-   "cas": 0,
+   "cas": 9,
    "changelog": false
   },
   "s1793571741_5": {
@@ -1294,23 +1142,6 @@
    "trust": 2,
    "gate": 60,
    "cas": 0,
-   "changelog": false
-  },
-  "s1793571741_9": {
-   "title": "3 dead, 8 injured in weekend of shootings, stabbings across Philadelphia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUFfaGdwMUpneHhwS2tJX2RmU0ZwNUF5ZHNMc0dYSnVNb3pzMVU0dzNaZWZ2Tjd5ZnBzcVpHd0x3bWtkWTJYbHlQZkFLY0tyU1JScGQtTVpLYl9NNzJSNms3cFZTd0UxTnVLRDhMRFdEaHhtOXNWSUt4OWpQLUEwTDVVU3ZweXZFcnJSMFZYVTdDN2VaU2c?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 35,
-   "pub": "2026-11-01T18:57:37+00:00",
-   "first_seen": "2026-11-01T22:22:21.839508+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 3,
    "changelog": false
   },
   "s1793571741_12": {
@@ -1363,6 +1194,40 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1793583932_5": {
+   "title": "Teen boy, 2 men shot at West Philly SEPTA station",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZm9BdGs1cmFFbEVrNXUzTXRJZGRCLVhXakNvUkN5bmlnWlBncjBfdl9KeHh2Ym91LWswREF6VmlXc1ZvcjdYbnJkell5RDZNRGhBVHFCNUNLWktxT0d3Tm5vY0hCNDkwdXNCSGNhTkJsNkFKdEpranBZMjR2Z25JYnNTbEQzeVJaYnI4NktLSDloRFh0cUtPS3I0enczaDA1NUHSAaoBQVVfeXFMT2UtTVJ4bS13cVBYVWNYd3ZILVhBYnU0czgxNnNLVWphczJrbmpPaHFCc3pwRU51OXpFbEUzZFc1LTJwTUN2U1JRZTBtcTFRWmVGa3RJNDdIUXozRmlTaVhydWNZV1R6RDdZRmdqazYtb2x5NThFOFdycEdmRGpSTmpuM2ZfbVpEcWhGZDloNlVyTVpzR0NMNHRsOFl6cUY3OTdOT2NsaFB1NHc?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-02T01:35:35+00:00",
+   "first_seen": "2026-11-02T01:45:32.919276+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793583932_34": {
+   "title": "Developers Are Fed Up With Their Games Being Cloned Using Claude and Other AI Tools, So Major Companies Could Introduce New Restrictions on Their Technology",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTnVPRGg4ajRBa0tSaGtfQ01RaEZKMWQzalZtRmZZQWJ5ZTBiWC1NTW1OVjY5YVJJUnhPNFgxakRsWUFyVWgta3V4YjlDaTFBLW1sZlpNaGlaWDRGLWhOZEQwejJNYml5dVg5aGlHVEpES2lTZ3VObmlFZVNTZnZhc1R6dENFcUdUWXUwOFlpVXdmdXB0Mld2Q0xJV0RzZU1uSVAtdERwc0Fva1dLOC1PdWx1V3JmNmJGTm5ab3VlSGFxRjctSDJiR0x5OHgtZFQ4OWZfS1VGVEFtSEF3cHhtR0M3Y2dVaTBCR0hQQ0FYQzBWbHhpZ2NYYjFKT2gtVnVvTHBwUXowWkVfaE5zU1psdTZIakVhSzg?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-01T21:56:45+00:00",
+   "first_seen": "2026-11-02T01:45:32.919276+00:00",
+   "last_seen": "2026-11-02T01:45:32.919276+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1375,8 +1240,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"cf5cc7db3b89c3faa1844bbf9065c25e\"",
-   "modified": "Sun, 01 Nov 2026 22:21:10 GMT"
+   "etag": "W/\"93c8e0879dd9ec5a004d067530684c04\"",
+   "modified": "Mon, 02 Nov 2026 01:45:24 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1388,15 +1253,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 01 Nov 2026 22:20:08 GMT"
+   "modified": "Mon, 02 Nov 2026 01:42:28 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"cded1ffc9943bc96c15d4e1446635a3b\"",
-   "modified": "Sun, 01 Nov 2026 22:03:30 GMT"
+   "etag": "W/\"36a6ee2ef91d5de4f2d58b1c9b650f81\"",
+   "modified": "Mon, 02 Nov 2026 01:38:13 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1404,23 +1269,23 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 01 Nov 2026 22:23:09 GMT"
+   "modified": "Mon, 02 Nov 2026 01:46:10 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"a36c81d6058e1d248034278b64493769\"",
-   "modified": "Sun, 01 Nov 2026 18:46:58 GMT"
+   "etag": "\"d71a9e7f5d1cf68540ff3173d6a4115c\"",
+   "modified": "Mon, 02 Nov 2026 01:04:16 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 01 Nov 2026 13:15:23 GMT"
+   "modified": "Mon, 02 Nov 2026 00:41:31 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"7f59b66a45a5caec7ddcdfffafc8faa1\"",
+   "etag": "W/\"e1ed1cfe792100724cfb618192666a20\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"0998ed0f698787971d9c96ebf22a09f5\"",
-   "modified": "Sun, 01 Nov 2026 18:18:00 GMT"
+   "etag": "\"bf2ffde2aa0442cb063426f9a1b69e35\"",
+   "modified": "Sun, 01 Nov 2026 23:50:26 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"d2c487a45a905974845d8529d38f0601\"",
@@ -1431,8 +1296,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"926532dca7ba8f5bb38e686681560c5d\"",
-   "modified": "Sun, 01 Nov 2026 20:01:55 GMT"
+   "etag": "\"d833ed030861b374495d4f59f552e1d7\"",
+   "modified": "Sun, 01 Nov 2026 23:40:28 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1444,7 +1309,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sun, 01 Nov 2026 17:02:02 GMT"
+   "modified": "Sun, 01 Nov 2026 23:22:34 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"99b2fb81a7299371c66d6a2f8fca6047\"",
