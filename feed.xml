@@ -4,8 +4,31 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 08:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:46:54 +0000</lastBuildDate>
     <ttl>20</ttl>
-
+    <item>
+      <title>🌍 Fake nuclear warning from hacked app sparks unease but not panic in Ukraine</title>
+      <link>https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 02 Nov 2026 18:34:24 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News - Nov 02, 01:34 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth</title>
+      <link>https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth</guid>
+      <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Not a Tesla App - Nov 02, 09:00 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 DOJ asks for Supreme Court to intervene on California ballot demands</title>
+      <link>https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump</guid>
+      <pubDate>Mon, 02 Nov 2026 16:34:17 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, CBS News, Google News Breaking, Google News Top Stories, NPR News, PBS NewsHour - Nov 02, 11:34 AM ET</description>
+    </item>
   </channel>
 </rss>

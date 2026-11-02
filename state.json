@@ -1,58 +1,5 @@
 {
  "stories": {
-  "s1793308967_31": {
-   "title": "Tesla\u2019s Robotaxi Wants 40 Minutes to Drive Two Blocks \u2013 And Riders Are Baffled",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXFhdjJnbjladjdLbmloMmlIWmJFa0pHOGxlLUhWeEtVdUkybXBJR2xpRU0zTUgzX0JSWnRVOU95TVR0dVFXX1cwbUR5YVRJejlJdS1EVDc1WnFBdDVnUjNXYnFhUUYxalNsQ2pNUDZOWHIwSnhldTdTZWlFT0E1dTQxdTVWdVpXT1JSYVlySjNGZGpyVjZkdnNMU0ZFbGs?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-29T20:56:20+00:00",
-   "first_seen": "2026-10-29T21:22:47.291616+00:00",
-   "last_seen": "2026-10-30T14:09:05.443402+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793323119_23": {
-   "title": "Tesla Launches FSD Supervised Referral Program: Free Month for Every Signup - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnJhUEdGSU95T0JXa0J4dWZwaWJtX2d2Uzh1NjZrOHRXcE9kNmNBSW5VaC1BWkd1bzc4N3pUUWhQUkhWNVBLNGlIM1hzTTRvVllJNjJ2d3UxYTZGVThMQ2Z5SzJPYzROMzdlS0dyRzRKMTZBakRoS3JzQnpoTWwxREdRQnN6RnV4TzNjcUhfYzQ4RTV6YUZIdEVLRTczXzFYRlVQVU1vNndhTHp6WWc?oc=5",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-10-30T01:04:57+00:00",
-   "first_seen": "2026-10-30T01:18:39.706346+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793344442_12": {
-   "title": "Tesla made napping in a Robotaxi easier with its latest update",
-   "link": "https://www.teslarati.com/tesla-robotaxi-sleeping-nap-quiet-mode/",
-   "sources": [
-    "Google News Tesla",
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-10-30T03:44:34+00:00",
-   "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-11-01T18:38:16.939180+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793344442_24": {
    "title": "Tesla Robotaxi Calm Mode: What It Does and Who Gets It - BASENOR",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmRacHFON2NvRE1fb0o0TFRaYkJZeXozdERrQ3EyOXdGSWVBZDNrUWFxcU9YSTRpQk8wVmtXUDQ5MDJYSlFIUnF5WjdmY1dSWVJLVl91bW9sQlpvREhYWldxOEJzYUJpM1VqX0R2Mm5vSVBOak9sRVlFZ1E5cFFDV0pJMWtfUzBPdF9hS1ZodkYxUQ?oc=5",
@@ -64,7 +11,7 @@
    "base": 80,
    "pub": "2026-10-30T07:03:47+00:00",
    "first_seen": "2026-10-30T07:14:02.572251+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -140,17 +87,18 @@
    "changelog": false
   },
   "s1793388147_18": {
-   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
-   "link": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
+   "title": "I Drove Hands-Free All Week Using Full Self-Driving in a Tesla Model Y L. This Is Why I\u2019m Hooked",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3dHdWUwS2txS2I5RFU2cnFxWElXREU0SVdjcE1iRG5OTERoRmNselEyN2x6WjdudnNGbGIxQVc3TXQ5bGZGRUR6VXplbk84UlB0RERlRExvVGR5UUhlTmltaVlMRWRPU0dEWE5Cc0JzNUozNVRhZHVva2U0ajNfRlV3TmQ4QUJEaUlWLTJuX3daeWJDQXgwQ1Nn?oc=5",
    "sources": [
     "Google News Tesla",
+    "Not a Tesla App",
     "Teslarati"
    ],
    "cat": "tesla",
-   "base": 80,
+   "base": 110,
    "pub": "2026-10-30T14:42:52+00:00",
    "first_seen": "2026-10-30T19:22:27.553186+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -209,23 +157,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793401744_13": {
-   "title": "3 Biggest Eagles Priorities for Howie Roseman Ahead of Trade Deadline",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVUzMzBtTFlQbE53X2V5S2FOcnlmRmFrVlRYSVdRMEJhT1JjeDFaejBGZVVuNFo4RDRqM0xrYTFYd0t3b1FsTkZSYXJFM05COXFkaU0tZnc2UTUzeENsUjZPUXdmSG9wWF9FNDlrYV9jelFnMlp1bk9WbkVSazVZcC1EbkJ0VWh3MWhTbzZBR0d4VmtlV3gxbHZZb3lmQnVmZGZCbG5tNA?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-30T20:30:00+00:00",
-   "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-10-31T08:47:30.404129+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793401744_17": {
    "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
    "link": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
@@ -237,7 +168,7 @@
    "base": 80,
    "pub": "2026-10-30T19:23:00+00:00",
    "first_seen": "2026-10-30T23:09:04.737175+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -295,23 +226,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793436450_15": {
-   "title": "Nick Sirianni Hasn't Lost One Coach's Faith Despite Eagles' 5-Game Losing Streak",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWk2czlyb2tGQldWeXFLa3ZoQUZZSHNCWWFEc0lZSk1iajFYUGNSbmpLbFhiVWVRd3A5T0VQOEd5ZHk0UGd6NjN4V2tBTWFHVC1INjFVN2lmOFNEcHc3eTU1MmtTVDhfYVpidkExQnRPWk5JQnR6WWZySFJtNlpyY0Zyaw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-10-30T23:00:03+00:00",
-   "first_seen": "2026-10-31T08:47:30.404129+00:00",
-   "last_seen": "2026-11-01T00:38:31.169779+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793436450_27": {
    "title": "Tesla FSD Referral: 1.74M Subs, Only 17% of 10M Goal [2026]",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0E0cVNBTU1YOTlaU3lNSkFJOURSS09HQ1ZrbU9rMk14RzhXaE9rQ0Fob0wzUVAtSUIxQy1acHB6LVR0cDltZWNlb2hBQ0JiczBFYzJ5NUFoX1V6SkdGY2dXeXp5SVd0dFBvSGNibDdubGhBRFdXMkZWd0tBMXlxaTJ4Z2g1STVVTWgtQzdB?oc=5",
@@ -322,7 +236,7 @@
    "base": 80,
    "pub": "2026-10-31T06:30:25+00:00",
    "first_seen": "2026-10-31T08:47:30.404129+00:00",
-   "last_seen": "2026-11-01T00:38:31.169779+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -390,27 +304,10 @@
    "base": 80,
    "pub": "2026-10-31T12:20:00+00:00",
    "first_seen": "2026-10-31T14:52:01.637195+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793472787_0": {
-   "title": "Toronto police identify suspect in violent Bridle Path home invasion, say he was also shot",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWVrOWN4QzlXdHJVWVc3b1lQUnF2UUJfZUpEcndBVzh0NjJHSERhZVVJa0dyRnl3M09NYjJadmt2Wm5yWHVldWg3NzNpUk5yOGR3S0RVaVhPSHRZYlJwZnprR3VfLWNTX3M4dXhzeFZwYzBBaFlMSlRfenktVk1YVnJVSC1hUlVkODJ3YlA0Q05VOGVjZHlLbDFyM3pqbGU0U2Z2RFJ6OC05NkNpblJYZWMtbXZ0enZEMnBLY2NLSmJFY3hqVXZTag?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-10-31T14:21:12+00:00",
-   "first_seen": "2026-10-31T18:53:07.701495+00:00",
-   "last_seen": "2026-10-31T18:53:07.701495+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -458,27 +355,10 @@
    "base": 80,
    "pub": "2026-10-31T14:28:41+00:00",
    "first_seen": "2026-10-31T18:53:07.701495+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793483892_0": {
-   "title": "California police union takes on a Supreme Court justice in new campaign",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CaVlfcE1BUVUyT1FlT3BhWWg4TGNCWVNveUs1b1NEcFlIUC1VZEtmUnhIX1FCNUJyTXdBU3ZuM0RTM1BXNlZ2Z2dyYnhjc0ZhYl9PTGc0SC1ISnJPZlgzTE5GUjJsWFZTT2tQTlRQcWc?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-10-31T13:00:00+00:00",
-   "first_seen": "2026-10-31T21:58:12.754782+00:00",
-   "last_seen": "2026-11-01T06:47:28.439159+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -493,7 +373,7 @@
    "base": 80,
    "pub": "2026-10-31T18:52:00+00:00",
    "first_seen": "2026-10-31T21:58:12.754782+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -651,7 +531,7 @@
    "base": 65,
    "pub": "2026-11-01T00:10:00+00:00",
    "first_seen": "2026-11-01T06:47:28.439159+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -722,7 +602,7 @@
    "base": 80,
    "pub": "2026-11-01T12:34:43+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -734,6 +614,7 @@
    "link": "https://6abc.com/story/police-say-4-dead-15-injured-separate-shootings-dallas-halloween-night/20005902/",
    "sources": [
     "6abc Action News",
+    "Google News Breaking",
     "Google News Philadelphia",
     "Google News Top Stories",
     "PBS NewsHour"
@@ -742,7 +623,7 @@
    "base": 125,
    "pub": "2026-11-01T12:13:32+00:00",
    "first_seen": "2026-11-01T13:52:31.297383+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -827,7 +708,7 @@
    "base": 80,
    "pub": "2026-11-01T14:38:12+00:00",
    "first_seen": "2026-11-01T18:38:16.939180+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -872,14 +753,16 @@
    "title": "Nine killed in Florida plane crash",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5",
    "sources": [
+    "6abc Action News",
     "Google News Breaking",
-    "Google News Top Stories"
+    "Google News Top Stories",
+    "WHYY"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-11-01T21:21:46+00:00",
    "first_seen": "2026-11-01T22:22:21.839508+00:00",
-   "last_seen": "2026-11-01T22:22:21.839508+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -907,6 +790,7 @@
    "title": "Palm Beach plane crash today: Learjet 60 crash in Florida causes massive fireball; Bahamas-bound jet carried 9 people",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ1VrMVRQTFdlbktkNWlfbEZ3M3lNaHljbmdNc2xydFNtbXpaSHBoN3ZLWHNLcktOOEpReFduVDFtMVladUNsZmlNOG4zZ0swNVBhWm5BWkJ4RDBzYlF5U0dKT08xMU8zNmF6MU4tYUx6ZXJ2WmRFTEhqM0RXRE1nMDAwX1pkNWFSeU5fWm81VDYzSWgzNnZ1anZLQjNjZ0hGN3hya1VWa0lLS0dWc1BLU3I3MnFQdzhJTGM4NkVaOUMwQnhPZ3JfYmRvQ1VCb2tBZ3FsWUNydlU5VTFmbUHSAeMBQVVfeXFMTzZMeG5nQ0JZSlhMTzlrZ1VILVFESzVoSDhWTTNCdGVsREFwRFVoUVBUYUlHVWRLYWlLZHhteDRMMFkxZUhIcnlsQkdidWZNSEN6X0E2aWlONTFfSllqRFFrSFdXbUx4NjFZM053RUx4dmIteEZOM2JhNHRMNEl1OWZEaW4xeXNndTNKdjZXeldJT1BDa28tV0d1akluME5oZ3FBZFg5ckgwcy1IOWwxNlQ2YzVEZDZBd2xWYkoxLWZPVURWMGZOT2d3bEZFSzZReDFzMWx2OG1HWWpISjBzQy01WWs?oc=5",
    "sources": [
+    "6abc Action News",
     "Google News Breaking",
     "Google News Philadelphia"
    ],
@@ -914,7 +798,7 @@
    "base": 75,
    "pub": "2026-11-01T21:22:45+00:00",
    "first_seen": "2026-11-01T22:22:21.839508+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1000,7 +884,7 @@
    "base": 115,
    "pub": "2026-11-02T01:35:35+00:00",
    "first_seen": "2026-11-02T01:45:32.919276+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1156,7 +1040,7 @@
    "base": 80,
    "pub": "2026-11-02T08:15:59+00:00",
    "first_seen": "2026-11-02T08:28:45.132147+00:00",
-   "last_seen": "2026-11-02T08:28:45.132147+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1179,6 +1063,355 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1793645214_0": {
+   "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "BBC News"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-02T18:34:24+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_1": {
+   "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+   "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+   "sources": [
+    "6abc Action News",
+    "CBS News",
+    "Google News Breaking",
+    "Google News Top Stories",
+    "NPR News",
+    "PBS NewsHour"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-02T16:34:17+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_5": {
+   "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-02T14:35:01+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_7": {
+   "title": "2 victims in downstate Illinois mass shooting were recent graduates of suburban high school",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTTY5a0daQy1pSXQxWUc0TE5aWFhmaFpiUFYyamRBbEpudkdvQ0JSMzRrcThQN1poUXM5MUNGbVN3RGQtTkJkcVVlNzdFTVZMX3ZMR0hZdzkyT0RvTVg3Y0hVdlNjbnVWZFdUNVppRkVjdHpZT2tHN0dWNnJYdUlmdzJKR09wdDQ2WlRrQXdxZUFtejVXUGtqRGZLNXh4VVFDa2UtQzhkUTk2UTZZd2Y1ektFNldmNV9hVEVBMFZEU0UzVzJTMUJJcy1lOEZHd0pKUURqU9IB3AFBVV95cUxNOGdLMFBqRndlQnJtaTdlTkJWNnl0dF93QndXZkViZUlCN3p1Um9jUDE2akwyYVpIRWZYdmQ1T0wwTGNreGwwdFF3UTNXaFFpZzhaR2l6dTc1cXRRUEFZOWZNRnZfXzF2cUN3ZEFKZEdzVTNnOUhMejJZYUhEd055U1FSUEVuRlVoUmZMZ1BZTVRJeGs3MXdBQXpqbXQ2RVVBUFdISWZZVFEyb21xczI3ZlhYZU5rV0g0WGRjajZWd0Z4N3I0RFd0NVdWTmQwNVpBY09aeWpnbXQ0dE1H?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-02T02:47:05+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_9": {
+   "title": "Supreme Court to hear religious liberty case over Colorado preschools",
+   "link": "https://www.cbsnews.com/news/supreme-court-religious-liberty-colorado-preschools-st-mary-catholic-parish-v-roy/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-02T18:03:32+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_10": {
+   "title": "Trump administration asks the Supreme Court to set aside ballots from 20,000 alleged noncitizens",
+   "link": "https://www.cbsnews.com/video/trump-administration-asks-the-supreme-court-to-set-aside-ballots-from-20000-alleged-noncitizens/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-02T17:49:32+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_12": {
+   "title": "Pilot in plane crash said \"we're managing the ice,\" then \"Mayday\"",
+   "link": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-02T16:53:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_13": {
+   "title": "Police working to identify runner fatally struck by SEPTA trolley in Southwest Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTdpb0lEUHhJVGV5VTl5LWxqZWJ0a2cwSC1zQ2VCdXk3bUJ6SzJDWnROZkFrQXZTYWZqajVNMGd6VXktdkhHX1NwM1cxTHE3U29PYWRtYmI0M1YyVXZlSWZJMlQ3ay1NUnU1eEZuaDVwYXN3UlZRbXN5aVhlbGM3azdQODNKU19iOEJz0gGQAUFVX3lxTFBEbjVXUFhVd0xxWDdFbm95Z0VDTFVoNnJ6NEI5WHc5d05VV19wc2U4cVlKVEdJbFNLM01QWE5YS0cxVnNOOHREalpNa1MxQ1FyX3RBMXBEYjBLcTE4bzlFdldGaVVSXzJyc0M3WmYyVWFXU0c0MmtIem9reXcxUDBXekJ5ejNCQXowN3JvcVNaVA?oc=5",
+   "sources": [
+    "6abc Action News",
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-02T16:09:36+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_14": {
+   "title": "A woman was hit and killed by a SEPTA trolley while jogging near Clark Park",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmFvdmNyT3Q5N3FqZ0d4VVliaDVuWTZ4MDhsUWgyTWtOME5la2E3NjUtN3ZIcXFRY3dqRXUta2tCRW9NOVpINndKdUxUem16WThNWV9QVzRMZF8zblAwQ05hRVpMZWRET3M1dkVHYkdibXpMMnBHOWVVY3dzTC1GQWpVS0VUSGpvbnM1bFp4c0VrLTE1a0tCci1TWS0yazh4a3FXTzBGS0Mxd25mZ3M5LWhOWC16QWNOVHRucVE2SlY?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-02T17:53:07+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_15": {
+   "title": "SEPTA trolley strikes and kills jogger in West Philadelphia, Route 13 disrupted",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXg5YXRYVTR1RHUweW5tVWEtazRQLU1ZLXNlNEhNUTVNS2JPTUUyVDBGQWU4TjlORTlOejZVYy1kTldWQ085TTJWYUJyT19neXBoSW5WWEhnM1gyQ0NfNEVZbDlKWWJ0ZkJQdFNQNk03dnJfVTNMTlBjbXpsXzBrT1NYOGN2clFsU1UyV2Y4Z1RscVhFZlNSQQ?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-11-02T14:46:37+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_21": {
+   "title": "Philadelphia Phillies Have One Trade That Feels Inevitable",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjVJR1JSbV9PaUJiUm04UF9pY2gzNG5rUVd1WWthclNrdEpKRW5ESm1EeUVvcDJqQ2pVT3I4RGFJYjhZeVN3MURrellzLXVoVThkRGMyZzJEbWJoM08wNUVVY3dUdUhCYmdicUM3R1hVWnprMDhKQ3lVX2NWU3l6bHBqSTY4SmduRzZERUxNUQ?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-02T14:50:18+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_36": {
+   "title": "Saquon Barkley knows he doesn't play for 'big, bad Eagles anymore' with team on 6-game losing streak",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0ZXQ29MMzNaYzN0cEZxLUhpNVhLdEJldURDNEdGZDIwdGluLWpYX0R6eHpwUmRlT1JCTGNiNkthUkRLTEFtUjBjT3lYU1cwYWNRcFMwMUVnbnFqUDJTNGt2VUhqRnB3WFZlMHJFQ3RwRzZrS216NmYyaTVRMlVfVTZqMklaS3FEVTAta3J0U1RhaGE5dUJQN3ZCVlFrVkstS184dl94aDY?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-02T18:37:27+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_42": {
+   "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth",
+   "link": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
+   "sources": [
+    "Google News Tesla",
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-02T14:00:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_46": {
+   "title": "Tesla's Full Self-Driving didn't promise full autonomy, court rules as 88 owners lose refund bid",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmdVZkR2VHR2OGxjVzFsazFPWGkyYXJVbzhCRnozMGFEOV85QVNBckR2YnFjVnVacEhtOTE3RUM4YU1Na3NmTVZrdmJCTkpTTXBWQkFvMUNzck5RNW9KNEk4aGRqZVlBZ1dldmFnQUR1Q1BwUVFyQ0lnQ3F1S00wRmNsVmVQLUNfMV96YlZDSVVST05hX2xNQUlCdTlzUTJLU0tn?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-02T13:15:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_50": {
+   "title": "Lemonade Tesla Insurance Expands FSD Discounts - The Buzz",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNjRvbklGeUJzWGdtM3lraDZjT0t2MktQdXExSDQ2dGxVRERIemk5elJpQWNHVkpHejV5YXp1ekdfVDdUMzZ1T09sTVZTRDdMYzE5bUk5Uzg0clF3Y0F4dXE4dEFTWmw1c18yLWlGQTNoWHdOM3Y0TU5KN3ZHRm5HbUtveDVhX3dITVE?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-02T15:00:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_54": {
+   "title": "Key facts: Tesla, Inc. U.S. EV ~52%; Latvia approves FSD; Robotaxi Soon",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0djYXNGVXppUUFWcm9GWGVLVktLM2R3LUZLejFGNVliS3YwWDh6Q2FvR0JqMWFDSF83Ynd6WXBWNUktc3NHb0pjajRTQ0RmdFV6eGFrY2FzYkN5YmlZZ1N0djJJOUVGeUtkOFVsVVVIOGZzY0VlTTg1WHM5Wmw1bUgzQ25jRnc5YUh4V0ZGZVJhT0JlYzByVzJUZHJZVnlSczRTVHowdU5KQVc3dEhVSGVYSGtLVDhTQzR1YWJTSXNLQTA?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-02T08:00:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_55": {
+   "title": "Anthropic confirms new Claude Code limits to prevent game cloning \u2014 users report Opus 5.5 is also actively blocking reverse engineering tasks",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQmtwU201Rm8zX2dFeGRGay0wY0F2UVZ2V0wydFFNVEU1Q1d1SzJlQmgwT0JhUnB3eHF2X3BmdGFQZ2dMajR4UHp1by1rUmlMZHBqd2Z1VkRwYlRhVmkxUG9GWE93X3JNd3dFbExob0VPcl9KN1czbFlJdXpqbTJxU1hCTTNSMWIxaEs4SHdoYVAwMlI2cEQ3dDlVVUF0bDdnV0RDOTBnQWpmUGJtSmZLOWQ5QUItTDhxWlN2ZEdhMTNuMGEwQ0gweDZvVWRLRWVZQ1BMeTNETzA2MTlwTnAxYXEyNTFFRFZUZTl1eDJMV0hCVExYRkFnazFKZjBybGRlQ2JWUG9BM2Y4U0MzOVF0NEJVRDV4RVNHNDBKczBRbk03di0zV0ppd1A2N3lCZ1k?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-02T12:30:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_56": {
+   "title": "Claude code will no longer recreate existing video games under Anthropic\u2019s new AI guidelines",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQjBCTXdzb3ZOTFRUSldDaFFZUE9qNmFEd1A2Yjlzd2xyRVh3Q3lsUl9ocnhlM3gxeUhsNElnM1R5LUZ1MDF6a3lNWm9FZ3BiZ1NSSDJtcFp2cmhhR2NaOXFUR3oxQmpia0dhdXNBWUUycmdmTmVxQ3BScFZoMjZUWFVvYjNLQmZEU0gwZkxXeW9kZ2hkM0YtVm1NdXFubC1aOVFnaHM5ZGJ3aExuYzRJc0hiV3VUQ0lBekYzU0JHdjdwczRqVWswclpVbHFvb1Q5bnM40gHnAUFVX3lxTE55d3QxSkZhWFNKcnl2c3hlb0xpY2RxMVpMWjBWV2RQS1Fha0xlWUJnTjR5VC0xOC1mbVNzM0xySzkzc2pRQUVvSlFvLXBKQUhMVS1qZFBocGIxZ29XS0E4TzN5aWdaR1Q4eTJocjlZbmlGTmo3eGtqeWdNemp3c0JUQUlBVGJ5ekZ5ZVFsUlJwekZPRFVoM29OSHdDUlBnVDRuaDZXVXlPUTd6cjJoVTlzNEdWOExuT0xSUDFZMjZXUS0zSEtpS29MbmdBa3FFRmhrdTV0QWFZZTJJd3hVcm80VWs4S1ZUNA?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-02T16:50:50+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_57": {
+   "title": "Claude maker Anthropic reports $17 billion revenue ahead of Nasdaq listing",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGF4X3pLRmZUUmw5aTd6cnIxZHdSOWZVTmU1SG9OYVRfQUhqeE9mOGNweGdrTG01TWhqVTdqU2N3RHNlQkwzc1Y5UndDWlEzOHNEcU9mUm13RU9Tdmp4TzFTWGFXUDNTX3RpQTZSN2ozZXNSVk11TFZDb0NIcEdPbjJvbTdST2VfTEtybVVNY3AwQlM0MnlSVk9R?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-02T16:12:37+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1793645214_58": {
+   "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93OElTMGR4MzhRckpfc04xZkp1RmNBTkFpN0JVRDFjTmc1QXFZV3lxZDFIWG1jakRuNkEyb1ZNRzRTeGJvSkNVcndtQzVEY1pIWGt1ZjJIMkJzY0ZWVUF4RWgtQ3dCR190amVpRjZkYlJTcWVDQjgtWXFYb0Q?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-11-02T05:51:00+00:00",
+   "first_seen": "2026-11-02T18:46:54.723469+00:00",
+   "last_seen": "2026-11-02T18:46:54.723469+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1191,8 +1424,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"9e4361894dfee59d6352e6719bb4f568\"",
-   "modified": "Mon, 02 Nov 2026 08:22:01 GMT"
+   "etag": "W/\"47069fc26be4e7eefd52134948bc15e4\"",
+   "modified": "Mon, 02 Nov 2026 18:44:39 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1204,15 +1437,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 02 Nov 2026 08:28:09 GMT"
+   "modified": "Mon, 02 Nov 2026 18:42:37 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"e4bd9fdae621c6213facf6e773dead68\"",
-   "modified": "Mon, 02 Nov 2026 07:55:54 GMT"
+   "etag": "W/\"098a8ffda1bc3b270ab03e78f6138ecd\"",
+   "modified": "Mon, 02 Nov 2026 18:19:50 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1220,35 +1453,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 02 Nov 2026 08:28:52 GMT"
+   "modified": "Mon, 02 Nov 2026 18:47:23 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"d71a9e7f5d1cf68540ff3173d6a4115c\"",
-   "modified": "Mon, 02 Nov 2026 01:04:16 GMT"
+   "etag": "\"6ffad5ed6359e51248cddc2ae713d411\"",
+   "modified": "Mon, 02 Nov 2026 18:31:43 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Mon, 02 Nov 2026 07:21:38 GMT"
+   "modified": "Mon, 02 Nov 2026 18:26:18 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"1953106654d834355cfa08047269e600\"",
+   "etag": "W/\"c6156e04b9ec097357cd53f1b0310e98\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"bf2ffde2aa0442cb063426f9a1b69e35\"",
-   "modified": "Sun, 01 Nov 2026 23:50:26 GMT"
+   "etag": "\"ef20249fb653220a163c3c83e0848fd6\"",
+   "modified": "Mon, 02 Nov 2026 15:49:50 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"d2c487a45a905974845d8529d38f0601\"",
+   "etag": "W/\"3bef254084121f9fd7ea241d94813242\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"acc2a81fe5b4fc47eabb1b53abcd1be9\"",
+   "etag": "W/\"164339191960c4d354732c0366e55b79\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"088f6e70d3060983fdbe2fec9097570b\"",
-   "modified": "Mon, 02 Nov 2026 04:22:19 GMT"
+   "etag": "\"c36977a27128fff1a4a844a77c5e3560\"",
+   "modified": "Mon, 02 Nov 2026 17:40:48 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1260,11 +1493,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Mon, 02 Nov 2026 07:45:00 GMT"
+   "modified": "Mon, 02 Nov 2026 16:11:44 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"11f7be9d4c445a9bbea3ac4d99d3b276\"",
-   "modified": "Mon, 02 Nov 2026 06:36:32 GMT"
+   "etag": "W/\"42c0a931d5808122d905e361752e13be\"",
+   "modified": "Mon, 02 Nov 2026 17:24:44 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1275,8 +1508,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"0ed5762f5792a33045977a9719241ac4\"",
-   "modified": "Mon, 02 Nov 2026 05:13:22 GMT"
+   "etag": "W/\"f6b868e0505c2bd57773764504ea02e4\"",
+   "modified": "Mon, 02 Nov 2026 18:27:56 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
