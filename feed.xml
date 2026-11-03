@@ -4,15 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:30:21 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 Fake nuclear warning from hacked app sparks unease but not panic in Ukraine</title>
-      <link>https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 02 Nov 2026 18:34:24 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Nov 02, 01:34 PM ET</description>
+      <title>🏙️ Water main break causes problems for residents, businesses in Bethlehem</title>
+      <link>https://6abc.com/post/water-main-break-causes-problems-residents-businesses-bethlehem/20010632/</link>
+      <guid isPermaLink="true">https://6abc.com/post/water-main-break-causes-problems-residents-businesses-bethlehem/20010632/</guid>
+      <pubDate>Tue, 03 Nov 2026 06:20:06 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 03, 01:20 AM ET</description>
     </item>
     <item>
       <title>⚡ Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth</title>
@@ -21,6 +21,14 @@
       <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 02, 09:00 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Jet involved in Florida plane crash registered to LLC based in Wilmington, Delaware</title>
+      <link>https://6abc.com/post/private-jet-involved-florida-plane-crash-registered-llc-based-wilmington-delaware/20007566/</link>
+      <guid isPermaLink="true">https://6abc.com/post/private-jet-involved-florida-plane-crash-registered-llc-based-wilmington-delaware/20007566/</guid>
+      <pubDate>Tue, 03 Nov 2026 02:30:33 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, WHYY - Nov 02, 09:30 PM ET</description>
     </item>
   </channel>
 </rss>
