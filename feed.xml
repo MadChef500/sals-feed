@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:55:51 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>⚡ Tesla FSD Gets Reduced Speed Offset &amp; More Changes in Europe</title>
+      <link>https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe</guid>
+      <pubDate>Tue, 03 Nov 2026 19:13:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Not a Tesla App - Nov 03, 02:13 PM ET</description>
+    </item>
     <item>
       <title>⚾ Phillies news: Orion Kerkering, trades, Teruaki Sato</title>
       <link>https://www.thegoodphight.com/philadelphia-phillies-news/89095/rise-and-phight-11-3-2026</link>
@@ -13,14 +21,6 @@
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>sports</category>
       <description>Google News Philly Sports, The Good Phight - Nov 03, 07:00 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Water main break causes problems for residents, businesses in Bethlehem</title>
-      <link>https://6abc.com/post/water-main-break-causes-problems-residents-businesses-bethlehem/20010632/</link>
-      <guid isPermaLink="true">https://6abc.com/post/water-main-break-causes-problems-residents-businesses-bethlehem/20010632/</guid>
-      <pubDate>Tue, 03 Nov 2026 06:20:06 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 03, 01:20 AM ET</description>
     </item>
     <item>
       <title>⚡ Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth</title>
