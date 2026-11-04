@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:56:54 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🦅 Eagles News: Moro Ojomo is drawing “real interest” ahead of the NFL trade deadline</title>
@@ -12,7 +12,15 @@
       <guid isPermaLink="true">https://www.bleedinggreennation.com/news/189345/eagles-news-moro-ojomo-is-drawing-real-interest-ahead-of-the-nfl-trade-deadline</guid>
       <pubDate>Wed, 04 Nov 2026 14:03:19 +0000</pubDate>
       <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Nov 04, 09:03 AM ET</description>
+      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports - Nov 04, 09:03 AM ET</description>
+    </item>
+    <item>
+      <title>🏙️ Person struck by Amtrak train near Glenolden station; SEPTA service impacted</title>
+      <link>https://6abc.com/post/person-struck-amtrak-train-glenolden-station-septas-wilmingtonnewark-regional-rail-line-impacted/20015708/</link>
+      <guid isPermaLink="true">https://6abc.com/post/person-struck-amtrak-train-glenolden-station-septas-wilmingtonnewark-regional-rail-line-impacted/20015708/</guid>
+      <pubDate>Wed, 04 Nov 2026 19:35:43 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 04, 02:35 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla FSD Gets Reduced Speed Offset &amp; More Changes in Europe</title>
@@ -21,14 +29,6 @@
       <pubDate>Tue, 03 Nov 2026 19:13:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 03, 02:13 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Eagles waive player they traded for last year</title>
-      <link>https://www.bleedinggreennation.com/news/189318/eagles-waive-player-they-traded-for-last-year</link>
-      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/189318/eagles-waive-player-they-traded-for-last-year</guid>
-      <pubDate>Tue, 03 Nov 2026 22:13:24 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Nov 03, 05:13 PM ET</description>
     </item>
   </channel>
 </rss>
