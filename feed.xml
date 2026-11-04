@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:19:34 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🦅 Eagles News: Moro Ojomo is drawing “real interest” ahead of the NFL trade deadline</title>
+      <link>https://www.bleedinggreennation.com/news/189345/eagles-news-moro-ojomo-is-drawing-real-interest-ahead-of-the-nfl-trade-deadline</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/189345/eagles-news-moro-ojomo-is-drawing-real-interest-ahead-of-the-nfl-trade-deadline</guid>
+      <pubDate>Wed, 04 Nov 2026 14:03:19 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philly Sports - Nov 04, 09:03 AM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla FSD Gets Reduced Speed Offset &amp; More Changes in Europe</title>
       <link>https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe</link>
@@ -21,22 +29,6 @@
       <pubDate>Tue, 03 Nov 2026 22:13:24 +0000</pubDate>
       <category>sports</category>
       <description>Bleeding Green Nation, Google News Philly Sports - Nov 03, 05:13 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors</title>
-      <link>https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors</guid>
-      <pubDate>Tue, 03 Nov 2026 22:25:15 +0000</pubDate>
-      <category>breaking</category>
-      <description>NPR News - Nov 03, 05:25 PM ET</description>
-    </item>
-    <item>
-      <title>⚾ Phillies news: Orion Kerkering, trades, Teruaki Sato</title>
-      <link>https://www.thegoodphight.com/philadelphia-phillies-news/89095/rise-and-phight-11-3-2026</link>
-      <guid isPermaLink="true">https://www.thegoodphight.com/philadelphia-phillies-news/89095/rise-and-phight-11-3-2026</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Google News Philly Sports, The Good Phight - Nov 03, 07:00 AM ET</description>
     </item>
   </channel>
 </rss>
