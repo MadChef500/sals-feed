@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 08:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:46:16 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla accused of selling FSD to Korean owners who can’t legally use it</title>
@@ -13,22 +13,6 @@
       <pubDate>Wed, 04 Nov 2026 14:27:02 +0000</pubDate>
       <category>tesla</category>
       <description>Electrek, Google News Tesla, InsideEVs - Nov 04, 09:27 AM ET</description>
-    </item>
-    <item>
-      <title>🦅 Eagles News: Moro Ojomo is drawing “real interest” ahead of the NFL trade deadline</title>
-      <link>https://www.bleedinggreennation.com/news/189345/eagles-news-moro-ojomo-is-drawing-real-interest-ahead-of-the-nfl-trade-deadline</link>
-      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/189345/eagles-news-moro-ojomo-is-drawing-real-interest-ahead-of-the-nfl-trade-deadline</guid>
-      <pubDate>Wed, 04 Nov 2026 14:03:19 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports - Nov 04, 09:03 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Person struck by Amtrak train near Glenolden station; SEPTA service impacted</title>
-      <link>https://6abc.com/post/person-struck-amtrak-train-glenolden-station-septas-wilmingtonnewark-regional-rail-line-impacted/20015708/</link>
-      <guid isPermaLink="true">https://6abc.com/post/person-struck-amtrak-train-glenolden-station-septas-wilmingtonnewark-regional-rail-line-impacted/20015708/</guid>
-      <pubDate>Wed, 04 Nov 2026 19:35:43 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 04, 02:35 PM ET</description>
     </item>
   </channel>
 </rss>
