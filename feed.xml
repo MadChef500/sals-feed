@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:47:16 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]</title>
@@ -23,20 +23,20 @@
       <description>Google News Tesla, Teslarati - Nov 05, 12:15 PM ET</description>
     </item>
     <item>
-      <title>🌍 Philadelphia girl missing since Oct. 26 found dead in trunk of vehicle in New Jersey, 1 in custody: Sources</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNbF9GdkFPNlpxY0I3M2o4Yy1HYzV2YVUxd29CMW5OQmFtX1BVVVhuMnpFMXJxZGZ3ZzJoNlF1VXUyZUpkak5NeFNJaEx0N2pFTl9tQnFPWV83MzdQdWRuTU93OXVlNk1rb0E1WGNtM3l2akFZMHlULVNwRVZCRXdXMG5sTkdkZ3hqZHg3Z1ZEUDdid1RSNGcyTF9JOUE0a0lhVDZEdklvTG9GcTJYcnNSbXFSVnFaN1l2a0E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxNbF9GdkFPNlpxY0I3M2o4Yy1HYzV2YVUxd29CMW5OQmFtX1BVVVhuMnpFMXJxZGZ3ZzJoNlF1VXUyZUpkak5NeFNJaEx0N2pFTl9tQnFPWV83MzdQdWRuTU93OXVlNk1rb0E1WGNtM3l2akFZMHlULVNwRVZCRXdXMG5sTkdkZ3hqZHg3Z1ZEUDdid1RSNGcyTF9JOUE0a0lhVDZEdklvTG9GcTJYcnNSbXFSVnFaN1l2a0E?oc=5</guid>
-      <pubDate>Thu, 05 Nov 2026 19:56:19 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Philadelphia - Nov 05, 02:56 PM ET</description>
-    </item>
-    <item>
       <title>🤖 Claude can now analyze your spending with its new Personal Finance tool</title>
       <link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</guid>
       <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Nov 05, 01:00 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Philadelphia girl missing since Oct. 26 found dead in trunk of vehicle in New Jersey, 1 in custody: Sources</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNbF9GdkFPNlpxY0I3M2o4Yy1HYzV2YVUxd29CMW5OQmFtX1BVVVhuMnpFMXJxZGZ3ZzJoNlF1VXUyZUpkak5NeFNJaEx0N2pFTl9tQnFPWV83MzdQdWRuTU93OXVlNk1rb0E1WGNtM3l2akFZMHlULVNwRVZCRXdXMG5sTkdkZ3hqZHg3Z1ZEUDdid1RSNGcyTF9JOUE0a0lhVDZEdklvTG9GcTJYcnNSbXFSVnFaN1l2a0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxNbF9GdkFPNlpxY0I3M2o4Yy1HYzV2YVUxd29CMW5OQmFtX1BVVVhuMnpFMXJxZGZ3ZzJoNlF1VXUyZUpkak5NeFNJaEx0N2pFTl9tQnFPWV83MzdQdWRuTU93OXVlNk1rb0E1WGNtM3l2akFZMHlULVNwRVZCRXdXMG5sTkdkZ3hqZHg3Z1ZEUDdid1RSNGcyTF9JOUE0a0lhVDZEdklvTG9GcTJYcnNSbXFSVnFaN1l2a0E?oc=5</guid>
+      <pubDate>Thu, 05 Nov 2026 19:56:19 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Philadelphia - Nov 05, 02:56 PM ET</description>
     </item>
   </channel>
 </rss>
