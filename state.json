@@ -35,23 +35,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793723302_34": {
-   "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 \u2014 frontier AI model is also the least likely to hallucinate, benchmarks claim",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-03T13:00:00+00:00",
-   "first_seen": "2026-11-03T16:28:22.469028+00:00",
-   "last_seen": "2026-11-05T01:54:34.058319+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793742951_23": {
    "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
    "link": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
@@ -87,23 +70,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793742951_43": {
-   "title": "Athenahealth launches server to connect patient records to Anthropic\u2019s Claude",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2E4a1FVbFVvRVV5V3hMbVNINGZHQkdqT1J0Slk1ZVZuU0NXYzdCS0lFZUszOHlSeGhHT1RwckVtdHFTWHNaSldUMjVuc3JfWXRlV3IwRUlxR05SYk5WUF9KUXZ6eVRwRl8yYUtCUGdhc0NkXzVRb3FoRTUxQzJRdFN2T21BV0lWX1NLRXM0cy1YNE14ZDJsYkhNZ0FxNDVCeGZWejRWbEJNMVZI?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-03T15:53:20+00:00",
-   "first_seen": "2026-11-03T21:55:51.026003+00:00",
-   "last_seen": "2026-11-04T01:44:50.459213+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793742951_44": {
    "title": "Anthropic Debuts Tool for Your Boss to Spy on Your Claude Chats",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMnpIVHMtWlhsVGNpRDQyRGZXYTFRZWJUSENxRklKcXR4SWdOLTBocmQteVdUQXN1RXBNcC00WDB3TFV3Sjdta1ZvV012amtMS3E4WWtoWU8tMnBQSWxiMFVEVS1Za21JYnBHVDhSb2lMTlh6ZjJkcTNucXdPZVkybHYtSGpUV3g2djNJaFh2ZDJ6UldIZHc?oc=5",
@@ -132,23 +98,6 @@
    "pub": "2026-11-04T00:45:43+00:00",
    "first_seen": "2026-11-04T01:44:50.459213+00:00",
    "last_seen": "2026-11-06T09:59:24.187616+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793756690_37": {
-   "title": "Tesla\u2019s FSD Marketing Is Facing A Fresh Probe In South Korea",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnl2djBNbWNZY3FSN08tWnVMTHM4c0RWQTJpSzFUQXByUWNReXpQZV9VVTBMVTFSM3FRM2VrMkdTcGlBdnFOc2VULUt3cDZ5UWF3M2ZWcElOZFh6ZWM5UDhxUE83bFBSelhVanFSeDlDSGNCOGd1dV9fR2J4MVhPR1BsLXFneExEV1EtdnVKejM0dw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-04T00:02:15+00:00",
-   "first_seen": "2026-11-04T01:44:50.459213+00:00",
-   "last_seen": "2026-11-04T01:44:50.459213+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -225,23 +174,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793809174_18": {
-   "title": "3 Potential Eagles Trade Chips That No One Is Talking About to Begin Week 9",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd20yYy1oYjhfbFd4bUUtcFctekZqT0l4Mjh2aHNoYy0xejhiNXp3aVRZdnVYT3pILUVEb1VnOXlERmxxVXQweHFmYmlMaUpzVTFOOUNYZk5wWWM3MlBqeDNKZFZ4bnlLQVh4aVFBQy11bXRaOFZyNlNfam9NbFdSWVo1bWV0Mk5yQnMweEVIaHdCSGFDRkctcnc0Wm9iTktZODhyY2NpeGsyLXhiMnl0LWNR?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-04T12:00:04+00:00",
-   "first_seen": "2026-11-04T16:19:34.445651+00:00",
-   "last_seen": "2026-11-04T16:19:34.445651+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793809174_24": {
    "title": "Tesla accused of selling FSD to Korean owners who can\u2019t legally use it",
    "link": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
@@ -254,7 +186,7 @@
    "base": 80,
    "pub": "2026-11-04T14:27:02+00:00",
    "first_seen": "2026-11-04T16:19:34.445651+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -450,40 +382,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793843674_1": {
-   "title": "Democratic Senate set to thwart Trump\u2019s Supreme Court and judicial appointments",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDhnVTdwQk0zTTl4YWNGeTh2Qkx3dzVJTU1PNWpjbmlqQ2c2UWJKM3poZ2M4X1lYeThRSE5kXy15ckZjTXRWUDBHNjlSc05hWXNpeEZvY1FLeDVMMWliak0zSDBlVmdVQnloUzFWLWZ4VlFubUtGNEh4WnFMMW1LOXQ3RHQwNkdhMlZ3Tm1LNXdhdGp4R2t0alZPMW9iYnZGOFV1d2lSVXV3aHBmSW1ucERPOW5LT3ktRVA5RnYwcmY0SG1MZUtR?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-05T00:58:32+00:00",
-   "first_seen": "2026-11-05T01:54:34.058319+00:00",
-   "last_seen": "2026-11-05T01:54:34.058319+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793843674_2": {
-   "title": "\u2018Blue tsunami\u2019 hits Utah: House Republicans on pace to lose 17 seats, breaking supermajority",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3pMUmx5c2ZkcHZpVUdKS201ckJjTzRJMU4zR0FxQ1hqclBZYm8zdF9QajNMeDgyMlNYTlBLSk9pOEs2aXN2XzR4TkhHNU9aWWVzYjAyQjNfS3hlYldaTmxQdGtwRTRxUXRRYlhheVJ4d1Rub1dHN1BfcXVDQnFfRV9lZEV5LXpJV3pUNWRmMGd3aVJoazduM2xKRl9RSWczVW1Id3VaZEJnX25RWHVaVGRvb05LTXJWMUdFcnpzbGliQQ?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-05T00:40:39+00:00",
-   "first_seen": "2026-11-05T01:54:34.058319+00:00",
-   "last_seen": "2026-11-06T09:59:24.187616+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793843674_16": {
    "title": "Eagles\u2019 28-Year-Old Pro Bowler Gets Trade Market Update",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnRDZWOHpIOWZnTHQtQnpTTkFxT2I5emJjQlpOTExOak9ITzZGTlRRMjlIUkpVQ0NkeHJHUGRuTjdDNWo5c21vVzJ3ZzlfZ0I2QnFueHRnVnlnZk02dmpNN3AtdVV4X29nMFBfR2tESng4aTA3TlpWUVR3SW5wZw?oc=5",
@@ -494,7 +392,7 @@
    "base": 80,
    "pub": "2026-11-04T21:40:43+00:00",
    "first_seen": "2026-11-05T01:54:34.058319+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -596,7 +494,7 @@
    "base": 80,
    "pub": "2026-11-05T01:46:00+00:00",
    "first_seen": "2026-11-05T08:37:29.036392+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -886,7 +784,7 @@
    "base": 80,
    "pub": "2026-11-05T21:07:51+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -973,7 +871,7 @@
    "base": 110,
    "pub": "2026-11-05T17:15:30+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -991,7 +889,7 @@
    "base": 110,
    "pub": "2026-11-05T18:06:00+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1033,17 +931,17 @@
    "changelog": false
   },
   "s1793917505_41": {
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "title": "Claude Personal Finance: Features, Privacy and ChatGPT Comparison",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjFMRThlV2hKZ05pZ3c4QU5lWDdnbF9uT2syRW1EMzN4cXhPM181dkhxZTJHUmdhU0JBSE83bm0wQURrbUFnUE1HTnBIZ29QY2NCd0poMktPOWd4eHZBRFNrQVpXMzNzNVpTR2c0ZWVvR2V3MWlFWDR1LWZiWjlBLVp2MjNXLWxWNEZ6MjhqLVBYeUVqZUE?oc=5",
    "sources": [
     "Google News AI",
     "TechCrunch AI"
    ],
    "cat": "ai",
-   "base": 80,
+   "base": 110,
    "pub": "2026-11-05T18:00:00+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1113,7 +1011,7 @@
    "base": 60,
    "pub": "2026-11-06T05:06:00+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1148,7 +1046,7 @@
    "base": 110,
    "pub": "2026-11-06T08:00:25+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1182,7 +1080,7 @@
    "base": 115,
    "pub": "2026-11-06T13:18:04+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1199,7 +1097,7 @@
    "base": 80,
    "pub": "2026-11-06T12:44:46+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1216,7 +1114,7 @@
    "base": 80,
    "pub": "2026-11-06T13:48:42+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1233,7 +1131,7 @@
    "base": 80,
    "pub": "2026-11-06T16:31:41+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1250,7 +1148,7 @@
    "base": 115,
    "pub": "2026-11-06T14:59:29+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1267,7 +1165,7 @@
    "base": 80,
    "pub": "2026-11-06T17:05:00+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1318,7 +1216,7 @@
    "base": 80,
    "pub": "2026-11-06T13:34:18+00:00",
    "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1337,7 +1235,7 @@
    "base": 80,
    "pub": "2026-11-06T17:21:39+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1389,7 +1287,7 @@
    "base": 80,
    "pub": "2026-11-06T16:00:05+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1406,7 +1304,7 @@
    "base": 80,
    "pub": "2026-11-06T19:08:33+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1457,7 +1355,7 @@
    "base": 80,
    "pub": "2026-11-06T20:06:41+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1474,7 +1372,126 @@
    "base": 80,
    "pub": "2026-11-06T20:24:19+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_0": {
+   "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+   "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "BBC News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-07T01:38:49+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_2": {
+   "title": "Family of 20-year-old co-pilot killed in Florida plane crash speaks out",
+   "link": "https://www.cbsnews.com/video/family-of-20-year-old-co-pilot-killed-in-florida-plane-crash-speaks-out/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-07T00:36:00+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_8": {
+   "title": "Swing Bridge on Schuylkill River Trail opens next week, connecting Bartram's Garden to Grays Ferry Crescent",
+   "link": "https://www.phillyvoice.com/schuylkill-crossing-swing-bridge-opening-bartrams-garden-grays-ferry/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-06T22:23:29+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_16": {
+   "title": "4 Realistic Trades the Eagles Could Make Before the Deadline, Ranked by Likelihood",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1FVc3paV2hJTmhDRFg4dThBUnBXZDFseTItclpXckNSLTUtVWV3NVNHVkxDOGkwaGlsWUwyaXhPaWpfaUhFdjlTbWpsTVJSSXFKeGdzV2kyRWt4UDdvbmcxemFGWWZqYjR5TkgzYzI2dmZkM2ZIZFZJXzlkTEY5TFJHa1hvcUE?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-06T20:27:00+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_18": {
+   "title": "Eagles release ex-Chiefs RB in Week 9 before 2026 NFL trade deadline",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZGsyVFM2aFZqekd1VHQtbUZpYTJxemhpeFpxY25PRk40YWswVm05NUpHdXBmVG5Vbm1EdjdGN0NlUFdnNVhMVlE0TUR0NjBVZ0N4dnIxTHpRX3UxRUhRLXUyQ0NqUjNCLU5BYlZVamRGUnZpbENWWlRpM21NMFJiUlRJYXBucF9mYnJ3LWU5MTR2WC1iRDFXVWlqUUxnVk1qazZGdGo1RkNJclZFc2NuWmlzdVJkOVdBUzlyT1Z2YlhsUHNUb0xoSU15VFBMVlN3SHBwTi1lZy13cHY0NjRBYXlrMUdXSm94d3llb3ZPZFRHcm9IcWxjR2VycnRXeTR5Mjc2M0JqclA?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-07T01:23:00+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_28": {
+   "title": "You can now catch a Tesla Robotaxi in Fort Worth. What to know - Fort Worth Star-Telegram",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUHMzT3JDWkhiWFRyVDZYNHU5TnNPelg4TURxeHM5ejhiLW1DX1NVSy1PNUMtWUl5UHg5U0RRWC1nMUY2NExsZE9DVVVYT21mX05aenh5d0d6TTNGWGdRWFNMdXUtY1FxekUzZlRwSTJoSm5HUHlqVS14UzdKZ9IBfkFVX3lxTE5tQk9OMXpFRFpOZVlLcFVKYjJ5TnZoRnVUZ1NIa2xPb0dxMmNWU0hsSUpMZkFnVDFCaDBnbndEMmZBalhKamxlMjdlck13cXEzU1lReTNXRThJVEtXRUluMU9KU3JlZTNxajdDd3JFeUZ6NVZzTTBUdEM0Y05PZw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-06T22:37:53+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794016536_30": {
+   "title": "CEO of South Jersey\u2019s largest data center and Anthropic\u2019s Claude to headline Rowan\u2019s artificial intelligence conference, Nov. 10",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjJYdWZDWUJvTG5aZElOMS1yU25aZW56Tll5cFk2ZUJBZTJpeFVYbUYtd0JXSHROek5MUTh4eTFCRTNWd3g0MmJXbVA0LTNEbGpmQlY3Vktmc2FaZzRIQjdUelh5MlNXeVk5Vm91bEV2QjhRcmlWQW84VGU4cWFwdXg4T0ZjNlJoQ0JkcmRWLS1Xa2dTc0JReTJnUEVnUzFackE?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-06T13:50:03+00:00",
+   "first_seen": "2026-11-07T01:55:36.309454+00:00",
+   "last_seen": "2026-11-07T01:55:36.309454+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1492,8 +1509,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"cc5f3707b9ccb571d5bdca90e7c8f4ba\"",
-   "modified": "Fri, 06 Nov 2026 22:03:40 GMT"
+   "etag": "W/\"7bd8eb561b59295cfa4f8c0a0443574f\"",
+   "modified": "Sat, 07 Nov 2026 01:49:45 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1505,15 +1522,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 06 Nov 2026 22:06:04 GMT"
+   "modified": "Sat, 07 Nov 2026 01:50:48 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"1cb4a173b753188c197bfaf775d9876e\"",
-   "modified": "Fri, 06 Nov 2026 21:50:00 GMT"
+   "etag": "W/\"1eb28317242d09cbe9204d6584dfbef7\"",
+   "modified": "Sat, 07 Nov 2026 01:39:44 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1521,35 +1538,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 06 Nov 2026 22:08:01 GMT"
+   "modified": "Sat, 07 Nov 2026 01:56:17 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"54c179f3e29d3439387b53c5d093f61a\"",
-   "modified": "Fri, 06 Nov 2026 21:39:56 GMT"
+   "etag": "\"eafece577cd3c419ce9fb26751ba5163\"",
+   "modified": "Sat, 07 Nov 2026 00:47:46 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 06 Nov 2026 22:00:43 GMT"
+   "modified": "Fri, 06 Nov 2026 22:38:24 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"34469bc88754c6993b037fb2ec9ec368\"",
+   "etag": "W/\"1abc0a045e376ff0284a606f0816bde1\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"59f848d40f436681368f60ac2e13369f\"",
-   "modified": "Fri, 06 Nov 2026 19:20:31 GMT"
+   "etag": "\"14f3291dcf1a2a061a12aaf4671c70e6\"",
+   "modified": "Sat, 07 Nov 2026 00:55:33 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"7f51a477a309ebfb2f8c9684cd3e0bda\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"e1391c3614eb74df5dfced2c64a6afe7\"",
+   "etag": "W/\"b78bc964ccdc058c8234c9132695e43f\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"98109c49c184360d23ff013fae08f800\"",
-   "modified": "Fri, 06 Nov 2026 22:03:06 GMT"
+   "etag": "\"0ad577f15d9974508d265c6723b17711\"",
+   "modified": "Sat, 07 Nov 2026 00:45:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1561,11 +1578,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Fri, 06 Nov 2026 20:10:31 GMT"
+   "modified": "Fri, 06 Nov 2026 20:10:33 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"75bf29d631f5e78d0d37b08c17786696\"",
-   "modified": "Fri, 06 Nov 2026 21:46:19 GMT"
+   "etag": "W/\"d0794bf19020128ec1385b8cdde30dd6\"",
+   "modified": "Sat, 07 Nov 2026 01:43:36 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1576,8 +1593,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"c4620dc8b357ca9edeeba6d2d2fd3eeb\"",
-   "modified": "Fri, 06 Nov 2026 21:38:05 GMT"
+   "etag": "W/\"00e818cc57fd374a622ee7f714b95d42\"",
+   "modified": "Sat, 07 Nov 2026 01:40:28 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
