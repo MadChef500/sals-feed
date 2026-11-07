@@ -4,8 +4,48 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 14:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:00:55 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Mass shooting in Polish market leaves at least 6 dead, 15 injured</title>
+      <link>https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/shooting-main-market-square-krakow-poland/</guid>
+      <pubDate>Sat, 07 Nov 2026 17:57:20 +0000</pubDate>
+      <category>breaking</category>
+      <description>ABC News, CBS News - Nov 07, 12:57 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Robotaxi app update now tells riders if Cybercab is the better choice</title>
+      <link>https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/</link>
+      <guid isPermaLink="true">https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/</guid>
+      <pubDate>Sat, 07 Nov 2026 18:27:46 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Teslarati - Nov 07, 01:27 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 U.S. offers $20 million for information on Iran's nuclear program</title>
+      <link>https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:23:12 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News, CBS News - Nov 07, 09:23 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Houthis report 25 killed in Yemen strikes</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss</guid>
+      <pubDate>Sat, 07 Nov 2026 17:39:23 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Nov 07, 12:39 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Flyers may need to trade Nick Seeler sooner rather than later</title>
+      <link>https://www.broadstreethockey.com/post/flyers-may-need-to-trade-nick-seeler-sooner-rather-than-later/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-may-need-to-trade-nick-seeler-sooner-rather-than-later/</guid>
+      <pubDate>Sat, 07 Nov 2026 18:38:39 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Nov 07, 01:38 PM ET</description>
+    </item>
     <item>
       <title>⚾ Would you trade Jhoan Duran?</title>
       <link>https://www.thegoodphight.com/phillies-discussion/89182/would-you-trade-jhoan-duran</link>
@@ -20,23 +60,7 @@
       <guid isPermaLink="true">https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/</guid>
       <pubDate>Thu, 05 Nov 2026 17:15:30 +0000</pubDate>
       <category>tesla</category>
-      <description>Electrek, Google News Tesla, Teslarati - Nov 05, 12:15 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]</title>
-      <link>https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes</guid>
-      <pubDate>Thu, 05 Nov 2026 18:06:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Not a Tesla App - Nov 05, 01:06 PM ET</description>
-    </item>
-    <item>
-      <title>🤖 Claude Personal Finance: Features, Privacy and ChatGPT Comparison</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjFMRThlV2hKZ05pZ3c4QU5lWDdnbF9uT2syRW1EMzN4cXhPM181dkhxZTJHUmdhU0JBSE83bm0wQURrbUFnUE1HTnBIZ29QY2NCd0poMktPOWd4eHZBRFNrQVpXMzNzNVpTR2c0ZWVvR2V3MWlFWDR1LWZiWjlBLVp2MjNXLWxWNEZ6MjhqLVBYeUVqZUE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjFMRThlV2hKZ05pZ3c4QU5lWDdnbF9uT2syRW1EMzN4cXhPM181dkhxZTJHUmdhU0JBSE83bm0wQURrbUFnUE1HTnBIZ29QY2NCd0poMktPOWd4eHZBRFNrQVpXMzNzNVpTR2c0ZWVvR2V3MWlFWDR1LWZiWjlBLVp2MjNXLWxWNEZ6MjhqLVBYeUVqZUE?oc=5</guid>
-      <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
-      <category>ai</category>
-      <description>Google News AI, TechCrunch AI - Nov 05, 01:00 PM ET</description>
+      <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 05, 12:15 PM ET</description>
     </item>
   </channel>
 </rss>
