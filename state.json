@@ -17,40 +17,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1793897176_25": {
-   "title": "Tesla's FSD gets a new name and lower speed margin in the Netherlands",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUG9TSmQ4a1BKSWNfbThndW1JMk4tOFFqU2pmb2N0SjJMbDhvc0dfSTh2aFV6ODA0THV6TU5TRkRNQ3lrRWpoWnphTWR0NDI5ZXJVa1BXMFNwXzNPUEdMOFExNkVVUXpycU5IUFB3ZlFVZE95Z21rVWdVbFdrX0d1VVdxR05LcHFKWUV3c1VjNU5wa3hHLWFvSXpUblNSckhlVWNSX3VVb0tPUQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-05T14:03:01+00:00",
-   "first_seen": "2026-11-05T16:46:16.567706+00:00",
-   "last_seen": "2026-11-05T22:25:05.705662+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793897176_31": {
-   "title": "Anthropic loosens Claude's game cloning ban \u2014 AI will now offer to build original games in the requested genre",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-05T11:00:00+00:00",
-   "first_seen": "2026-11-05T16:46:16.567706+00:00",
-   "last_seen": "2026-11-07T14:26:37.607540+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1793917505_21": {
    "title": "EVgo taps Tesla Superchargers for mass charging expansion",
    "link": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
@@ -64,7 +30,7 @@
    "base": 110,
    "pub": "2026-11-05T17:15:30+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -100,23 +66,6 @@
    "pub": "2026-11-05T21:03:58+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
    "last_seen": "2026-11-06T09:59:24.187616+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793917505_39": {
-   "title": "EVgo opens first station with Tesla Supercharger equipment in Chicago, US \u2014 InsideEVs",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1FXQkFUSHlOaFc3YWtPb25PNGJmQXRxMzJONGJBT2xnY1hIaXo5TjNWRTNYZ1l4SGpsWFFvWFdET0pYd3BDUjI1ZGlvazV5UnU5aHNxY2lXY0VoUl9tLUt2ZjZ5SzMzelViVjc3MTA2SGVxYWp4WlNnZ01vWkhzY3hyei1FaHE1d3NmLWtLdGVldERuTDNSTXVsV3ZlOEJOTUpCUEtHR25tbWw4bjVPR3g4Zk9GR2dWNEZwSW1HUQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-05T19:34:03+00:00",
-   "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-05T22:25:05.705662+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -169,7 +118,7 @@
    "base": 110,
    "pub": "2026-11-06T08:00:25+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -821,7 +770,7 @@
    "base": 110,
    "pub": "2026-11-06T17:40:09+00:00",
    "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -866,13 +815,14 @@
    "title": "What we know about Krakow mass shooting so far",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
    "sources": [
-    "BBC News"
+    "BBC News",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-07T18:22:11+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-07T19:00:55.356978+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -932,23 +882,6 @@
    "cas": 25,
    "changelog": false
   },
-  "s1794078055_9": {
-   "title": "3 found dead inside NJ home after note left on front door said to call police",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzE1ZWdkeDZTN2JHNnFlYkgzcllUdFpaSFBGa1FlUGxGNWZCcHp2dWdIY1ZFSjlfN1JTR2p0MWJyX3VkU3NaV0xOZ2ZjbENFM25pSjVMSXhTS29RUm5vTnllUHVWc3B1M3BvVkVvVFpoQy1yU25Bc0pOeWo2X3NWQWQ2SVBJMkZlVFd5eWlfeURpZXRndFFxVmZjYzVyZ1Z3V3VGUmtOeFdJXzZ6R0JhMVBXZWM2blNkdTk5WGdR0gHGAUFVX3lxTE5PYnZuV2lHa3lDclpPTERzTWpGcXRwT0U4SFYydTZ4Q0htNDkyRlkwWERuM1BpZVpZR3liQ3ZjWDlTT2djaU1nMzR3X1BJRFVYa3QwNkUwMHVwZlpxcDM0bHhUeW42N1lkb1VmbEpDR0IzWG5ubjdRc2hwMXhLY0dJaENCWExnNDl3YmtFS1hLdjZBWHBUdWs5NXFkWDFxcVdmR0o1aUxKaHd5aHoyVXVlbVVzQ1FoWU5rNGs1dEZDYjZCVElSUQ?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "breaking",
-   "base": 35,
-   "pub": "2026-11-06T23:02:42+00:00",
-   "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 3,
-   "changelog": false
-  },
   "s1794078055_11": {
    "title": "5 killed, at least 12 injured in shooting in Polish city of Krakow, police say",
    "link": "https://abc7.com/post/poland-mass-shooting-gunman-opens-fire-krakow-market-square-killing-5-people-injuring-least-12/20022531/",
@@ -976,7 +909,7 @@
    "base": 80,
    "pub": "2026-11-07T18:38:39+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1011,7 +944,7 @@
    "base": 110,
    "pub": "2026-11-07T18:27:46+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1045,7 +978,7 @@
    "base": 110,
    "pub": "2026-11-07T17:52:06+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1062,7 +995,7 @@
    "base": 80,
    "pub": "2026-11-07T15:37:15+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1200,7 +1133,7 @@
    "base": 120,
    "pub": "2026-11-08T13:46:00+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1251,7 +1184,7 @@
    "base": 80,
    "pub": "2026-11-08T13:09:30+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1268,7 +1201,75 @@
    "base": 80,
    "pub": "2026-11-08T09:04:03+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794179637_2": {
+   "title": "Giants snap Philadelphia road losing streak with 19-11 win over Eagles",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDA5dVNoV285dWhjT1hXWFI3OTJzbWxDQ0Q0NEd5Qm5FRkRUREVKLWp6U3pPMlFOc2pxR1M5clN6OEFLRzM3YjBNY25hcUtmSVcxNmk4UWlKdzQwZWVMSldveGM5Rk9iZzhncGtWanBvUVlCWEJVNjJMb0dCZGx6eE5qWWVKM1JLTTNiOENiZXBoNXlfMklzMVg0aVU5NkdZVWNsajBVSHZoQXhKLTVpVG1hZmxJd0laMy12Z0NucVpSdnJhNF9vLWFIei1XQ0dmTTh4cF9naF9PWEs0Y05iZnRn?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-08T21:37:00+00:00",
+   "first_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794179637_4": {
+   "title": "Final flight? 5 Eagles who could be traded after loss vs. Giants",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNW93dXFlNTFPNHBFRXBndWEwZmxwODdGTmtXRHFpN3VZVi1YRUVRV3ZLdUZJT2NOZmhJQnZ3SDlmOFRhT0MzbGlWajBHaDMzQkw3ZDRERnp0ZzhQYmczeXYzcndkVmNDMnhhOTBHM0NZNTAwckZ2NWpaUUduU29sd0V0a0ZSWmpNbnVQNXVtajVXb29nZkhtUm5MaWE0ZEtaNlpndmU1T1FVdXYyY3AxTUhPZFJkNk14anY4?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-08T21:20:00+00:00",
+   "first_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794179637_5": {
+   "title": "Eagles drop 7th straight in loss to Giants: Joe Milton struggles, two coaches make case to be fired",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczlaem45aHh3cWxQTm9OOXBXVVNGMWhETXlLTG05azBzTW1kdWs4VUVCS1ZsSkhVUG9SQkoteFVxQks0UFRuUE14V2ZiY2h2bEhoZzV5S084dW1fTFFJV2QyWkt6WXBRS1I2cWxVUXdfOHg4bkVxRnNGanlqXzVfb2NXem5PTDloc2QwVGlQUVFTS1hPeHdaYmpLQkg4WlR2QkVUVkJiZ3pqT2w5Z1lzcEVwTGZCd0hsS1RndVdycXd1MThYMmNleWdZZk9iQQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-08T21:17:00+00:00",
+   "first_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794179637_9": {
+   "title": "Tesla FSD Handles Rural Oklahoma and LA With Zero Interventions - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0docE5RVmh3cGUzd0dwbG9icm5mX2xYeHVJUXpMclI5cnNab1VRY21xVk5UMVVmbFBsVjNDNWM3T1h3QWRKRkFsM29RdF9VeXFvMy1MczRxOHVKQkVyWVR3YVFSdFNZQVNFNWVHTjM3V1NnYmJudU1udktFdl9hQl9Cb2lKdlIxMVAzenVoWlpKM0NtVGR0YzFCU1RSUUk?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-08T23:03:44+00:00",
+   "first_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-08T23:13:57.710022+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1286,8 +1287,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"e759253346a55d4f1e8908d888d40069\"",
-   "modified": "Sun, 08 Nov 2026 19:39:12 GMT"
+   "etag": "W/\"7dbbc8e9043c0f5ffc66cce96cb73fb8\"",
+   "modified": "Sun, 08 Nov 2026 23:11:15 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1299,15 +1300,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 19:39:51 GMT"
+   "modified": "Sun, 08 Nov 2026 23:12:43 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"ef0d3989a02a502631f03f62d1b4dbf3\"",
-   "modified": "Sun, 08 Nov 2026 19:15:49 GMT"
+   "etag": "W/\"912f2fa207687f2feb4cbeb3ae364e95\"",
+   "modified": "Sun, 08 Nov 2026 23:03:18 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1315,30 +1316,30 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 19:42:55 GMT"
+   "modified": "Sun, 08 Nov 2026 23:14:14 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"0e22791570589030caaeb5997aa009ff\"",
-   "modified": "Sun, 08 Nov 2026 15:14:09 GMT"
+   "etag": "\"c413b12a46e52de0a045c2e5f3cf5c41\"",
+   "modified": "Sun, 08 Nov 2026 20:34:03 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 18:39:07 GMT"
+   "modified": "Sun, 08 Nov 2026 22:53:17 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"1d2ec19e6b61fbba79c104deceb7fc47\"",
+   "etag": "W/\"740f9177cfa2b03d7baee225d968cfbe\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"8b2d8e18c411ea1de414af45579f3f29\"",
-   "modified": "Sun, 08 Nov 2026 13:03:10 GMT"
+   "etag": "\"dafd440af4543537388057729d0a68fd\"",
+   "modified": "Sun, 08 Nov 2026 21:33:43 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"a3bf0812ec47090a53be002be040d97e\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"382ffb7552efdc94078056c7e6f927e8\"",
+   "etag": "W/\"f01289d097e44b64c0e4b67f1eef9af6\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1350,12 +1351,12 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"fb2de68fef68d960ebd217099cb35dd6\"",
-   "modified": "Sun, 08 Nov 2026 15:26:05 GMT"
+   "etag": "\"47a1f14741c45ac71663c6795c1b77d9\"",
+   "modified": "Sun, 08 Nov 2026 20:20:45 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 16:49:14 GMT"
+   "modified": "Sun, 08 Nov 2026 20:38:58 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"be23a9b22707f9b073471ecad38cd41c\"",
@@ -1370,8 +1371,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"67a329ba581e1f343650e3dc2a572f7c\"",
-   "modified": "Sun, 08 Nov 2026 19:23:23 GMT"
+   "etag": "W/\"0bdcaa284173cac97f6590587b51236c\"",
+   "modified": "Sun, 08 Nov 2026 20:25:08 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
