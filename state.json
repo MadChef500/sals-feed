@@ -64,7 +64,7 @@
    "base": 110,
    "pub": "2026-11-05T17:15:30+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -82,7 +82,7 @@
    "base": 110,
    "pub": "2026-11-05T18:06:00+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -169,7 +169,7 @@
    "base": 110,
    "pub": "2026-11-06T08:00:25+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -359,7 +359,7 @@
    "base": 80,
    "pub": "2026-11-06T17:21:39+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -479,7 +479,7 @@
    "base": 80,
    "pub": "2026-11-06T20:06:41+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -496,7 +496,7 @@
    "base": 80,
    "pub": "2026-11-06T20:24:19+00:00",
    "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -547,7 +547,7 @@
    "base": 80,
    "pub": "2026-11-06T22:23:29+00:00",
    "first_seen": "2026-11-07T01:55:36.309454+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -770,7 +770,7 @@
    "base": 80,
    "pub": "2026-11-07T14:00:00+00:00",
    "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": "phillies",
    "trust": 3,
    "gate": 0,
@@ -821,7 +821,7 @@
    "base": 110,
    "pub": "2026-11-06T17:40:09+00:00",
    "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1011,7 +1011,7 @@
    "base": 110,
    "pub": "2026-11-07T18:27:46+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1045,7 +1045,7 @@
    "base": 110,
    "pub": "2026-11-07T17:52:06+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1062,7 +1062,7 @@
    "base": 80,
    "pub": "2026-11-07T15:37:15+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1148,7 +1148,7 @@
    "base": 110,
    "pub": "2026-11-07T08:16:51+00:00",
    "first_seen": "2026-11-08T01:55:16.779776+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1176,13 +1176,14 @@
    "title": "No. 1 Miami loses first game as Notre Dame holds off the Hurricanes",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGIwbG1yOFBBNjJVakhibkFrT09oQUFoMkZXeUo4ZHVLNzkyX3dyeE1DV0FFZThsOEN1dTRlSXNtNjZmaExoOTBUUGRiaC1mSmJWRjN3emdMc0tCeXlZQXlBUjBLNkItcE9tZ1JBVFpxVWgyNVBhZG11NjhXZTNuRnUtdmliNHFSTTA3TUxOeFFDb3BnRUZCcUFaSEV3amxONnNLT0pQYk9hd09sQXfSAbMBQVVfeXFMTTRDSXRHSW5ZVS02SktJNlFlTS1uSlJwYzFrRjdjTlZrWlpGYXJjV2stdHBGbFdoalhlejhBRXAyLUpGczllMUw1YTloUmNGME9hQl9hYlNjOWgtdDRNb29zdm1DZFdHZ19rMkFSZFNFem1WdTdXOUFRdFJZX0Z1V3RySDVoTWlVM0VuWU5jdmkzS1RrQmszLWlRU1o0MUlZbnJHcGVBMHl4VjdzTHhJUzcyVVU?oc=5",
    "sources": [
-    "Google News Breaking"
+    "Google News Breaking",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-08T04:38:09+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1199,7 +1200,7 @@
    "base": 120,
    "pub": "2026-11-08T13:46:00+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1216,11 +1217,11 @@
    "base": 95,
    "pub": "2026-11-08T13:32:17+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 21,
+   "cas": 34,
    "changelog": false
   },
   "s1794150788_6": {
@@ -1233,7 +1234,7 @@
    "base": 60,
    "pub": "2026-11-08T13:11:41+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1250,7 +1251,7 @@
    "base": 80,
    "pub": "2026-11-08T13:09:30+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1267,7 +1268,7 @@
    "base": 80,
    "pub": "2026-11-08T09:04:03+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
+   "last_seen": "2026-11-08T19:41:56.701161+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1285,8 +1286,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"3ffdd23c8cea554f38d14ac1cce97d9f\"",
-   "modified": "Sun, 08 Nov 2026 15:08:17 GMT"
+   "etag": "W/\"e759253346a55d4f1e8908d888d40069\"",
+   "modified": "Sun, 08 Nov 2026 19:39:12 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1298,15 +1299,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 15:12:26 GMT"
+   "modified": "Sun, 08 Nov 2026 19:39:51 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"206778d73fe5d9cf9ba367b2193d3f4a\"",
-   "modified": "Sun, 08 Nov 2026 14:45:00 GMT"
+   "etag": "W/\"ef0d3989a02a502631f03f62d1b4dbf3\"",
+   "modified": "Sun, 08 Nov 2026 19:15:49 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1314,18 +1315,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 15:13:51 GMT"
+   "modified": "Sun, 08 Nov 2026 19:42:55 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"21b28e10a32f527ba26f2fbc906bcd81\"",
-   "modified": "Sun, 08 Nov 2026 15:10:22 GMT"
+   "etag": "\"0e22791570589030caaeb5997aa009ff\"",
+   "modified": "Sun, 08 Nov 2026 15:14:09 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 14:01:21 GMT"
+   "modified": "Sun, 08 Nov 2026 18:39:07 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"7679082547a4623d99011c51e294dc15\"",
+   "etag": "W/\"1d2ec19e6b61fbba79c104deceb7fc47\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1333,7 +1334,7 @@
    "modified": "Sun, 08 Nov 2026 13:03:10 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"3d4e90420c1da8b4d4b0538cba06d6f0\"",
+   "etag": "W/\"a3bf0812ec47090a53be002be040d97e\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1341,24 +1342,24 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"bacd1193721b333f5ede3e8fa49d6ab1\"",
-   "modified": "Sun, 08 Nov 2026 15:01:40 GMT"
+   "etag": "\"55b1cbbf9a4ce63eef979c6f20054c12\"",
+   "modified": "Sun, 08 Nov 2026 17:12:38 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"29cc6b6943440a4fde177607efd611c9\"",
-   "modified": "Sun, 08 Nov 2026 14:45:16 GMT"
+   "etag": "\"fb2de68fef68d960ebd217099cb35dd6\"",
+   "modified": "Sun, 08 Nov 2026 15:26:05 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 13:37:18 GMT"
+   "modified": "Sun, 08 Nov 2026 16:49:14 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"249c72aaa4e215a3a900a5303f5395a2\"",
-   "modified": "Sun, 08 Nov 2026 13:42:16 GMT"
+   "etag": "W/\"be23a9b22707f9b073471ecad38cd41c\"",
+   "modified": "Sun, 08 Nov 2026 18:54:13 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1369,8 +1370,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"036cce47e093be525d394d9489a4fd3c\"",
-   "modified": "Sat, 07 Nov 2026 22:50:51 GMT"
+   "etag": "W/\"67a329ba581e1f343650e3dc2a572f7c\"",
+   "modified": "Sun, 08 Nov 2026 19:23:23 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
