@@ -30,7 +30,7 @@
    "base": 110,
    "pub": "2026-11-05T17:15:30+00:00",
    "first_seen": "2026-11-05T22:25:05.705662+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -118,7 +118,7 @@
    "base": 110,
    "pub": "2026-11-06T08:00:25+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -136,57 +136,6 @@
    "pub": "2026-11-05T18:00:00+00:00",
    "first_seen": "2026-11-06T09:59:24.187616+00:00",
    "last_seen": "2026-11-06T17:11:14.637474+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793985074_1": {
-   "title": "Philadelphia beauty salon shooting, sex assault suspect captured on SEPTA bus",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWTdVODdLdkE5Rml2Qzc1SXVwOENBLVl0anpIak1NTTc0ZWdUYy1ZRGU0RzE5VHBjWFZWNWZxcWJveEVSTlBtSUY4NmhpZDNJLU1qcmRzNWo2YmZ3SUlmd0daRzBjbHlDa1ZZX09JRHlaYzA0bGJHSHJGcW9vQ0w5bmdkNGlHemcwTV9KMFE1VTBwNm41NjF3Rw?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 115,
-   "pub": "2026-11-06T13:18:04+00:00",
-   "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793985074_2": {
-   "title": "Man arrested on SEPTA bus for murder, sexual assault inside salon in Philadelphia's East Mount Airy section",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTEpreFdtSTVVVjcwNEFnLVhfWEhLaVV0S0RTY2lPbURRMUJVNklFeFdvcXhSVzhIbHdYNmM0Vk1MclJVWUs4dmJ6VVV0MXJRSzhtN2lac2hYVlR5aVZrMHlNSmNQQ1l0NXBaZi1NNDRTVmRfSU1ib0o1bW1UNlNSUjFUUkJKRVFxTm9BckNUeDBIY2Q0ZWQ3SnE3NlNYTVpiNVgxR29sa28xMy1lRy1ZeFdaZGQ5WnZCQmxBbDBXNWRVbUpKN3fSAcsBQVVfeXFMTUZlVUk2Z2hnTUpWMWhKcFdMTlIwb2NyLXBscURMeERWUXpsR1RhUEZIcnloQjRfZjZqZlJ5bzRfWklzT25oX0NKYjJXMTdhSV9pMlRvbERVb2syb1V6cjVncDk0NUl4VHA5N055c0h2d2E5UngxaU91RnphbGpFcnZ3b0RjZEhPUm9MXzFvci1uWk81eHZIUjJlY3dxOVlrTkpzei12SURTODM2VXM2cU5OOV85ZDJ4SFdoZWNncWw2aTBIcG9EMFgybUU?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-06T12:44:46+00:00",
-   "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-07T22:45:39.474790+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1793985074_3": {
-   "title": "SEPTA police apprehend suspect in deadly attack at East Germantown salon",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnU2SlV1c0N4a2U4RzJsVjRzaWh4OG9jdEdXMVhTejlxWjBmQkF4a0JzNC1qSXNneXhJX1pBaFNTUmc0S2hoNjl1cGJFMWlyWlluTnVxbHVUb3NQRDFTczRrTXJlLVY5MXRpdERjOV9QRTJjcXlsaWFvbklzU0F5el9wR1A5M0VyWE02RGZwamY0VDNPcllZZmVHYjNONnd6LURwd0JrUlU1dHdUX0NxUV9uSG9QZnFMUVI0V0RBOGRnQQ?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-06T13:48:42+00:00",
-   "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-07T22:45:39.474790+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -315,23 +264,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794002862_5": {
-   "title": "Overnight I-95 Lane Closures Raise Delay Concerns in Philadelphia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc0FqUm1pTXZfTE5CcklMX0FLRkhnUGJkbFpjc3RtWXpKaURGNV9HNVV0REhqUHAzUE5jUkNlUW8yUXIzekNnbDlicFJoejhBVmd1ZEEtTDFjMDl6a0p2c0xfd0JMME03MGRsUUFzdTJCWF8tbUxaaXFLMmdZa3pUVGsyVFo0dWpQdmNFbmpCQmtMd2wzOGRVV2lfd0kyT2xkSXJqMDN0Mzl5Zms?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-06T14:00:00+00:00",
-   "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794002862_7": {
    "title": "SEPTA Transit Police give behind-the-scene look at Virtual Patrol Unit",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHptQmxEVmZjM1lsSHNRSTlpMDdSSHowRUdrSTZBVFRPN2F4T0VEM29HbkQtaXVRWXNUNnBnaElFdTdFdDZ1bUZNWkZkLWIxSDgtYjRvZ2JyMUlXbnFGeDd6VndONWlkc0ZXcEEyUlMySEFjVXZlWFUwSXcyYnlDeEFLUGVfc1EtVjBYd0c2U2lVZHpUV084d3h3NNIBoAFBVV95cUxQODYweHN3UjVLMEd3dXJ4RGIxckRHUGlLNG5ud3FNYXVIMW1vM0lFdFFpazJERXVsNkhWYk5LWjZ0Z3dnc1MtYzlteTdKTHVFenBhdGZacllTcWQzc1J0TGstc194aTRVWFA2ZVp3X2s1eE5pU280MVlySXgxTC05NU41ZUVTblNHRE5US08xLTJlczRKd3JmRDlvdTBIQ1VJ?oc=5",
@@ -449,40 +381,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794016536_0": {
-   "title": "Gladiator II stuntman sues over injuries from on-set explosion",
-   "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-07T01:38:49+00:00",
-   "first_seen": "2026-11-07T01:55:36.309454+00:00",
-   "last_seen": "2026-11-07T07:55:08.530548+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794016536_2": {
-   "title": "Family of 20-year-old co-pilot killed in Florida plane crash speaks out",
-   "link": "https://www.cbsnews.com/video/family-of-20-year-old-co-pilot-killed-in-florida-plane-crash-speaks-out/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-07T00:36:00+00:00",
-   "first_seen": "2026-11-07T01:55:36.309454+00:00",
-   "last_seen": "2026-11-07T01:55:36.309454+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -770,7 +668,7 @@
    "base": 110,
    "pub": "2026-11-06T17:40:09+00:00",
    "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -944,7 +842,7 @@
    "base": 110,
    "pub": "2026-11-07T18:27:46+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -978,7 +876,7 @@
    "base": 110,
    "pub": "2026-11-07T17:52:06+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -995,7 +893,7 @@
    "base": 80,
    "pub": "2026-11-07T15:37:15+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1133,7 +1031,7 @@
    "base": 120,
    "pub": "2026-11-08T13:46:00+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1184,7 +1082,7 @@
    "base": 80,
    "pub": "2026-11-08T13:09:30+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1201,7 +1099,7 @@
    "base": 80,
    "pub": "2026-11-08T09:04:03+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1218,7 +1116,7 @@
    "base": 80,
    "pub": "2026-11-08T21:37:00+00:00",
    "first_seen": "2026-11-08T23:13:57.710022+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1235,7 +1133,7 @@
    "base": 80,
    "pub": "2026-11-08T21:20:00+00:00",
    "first_seen": "2026-11-08T23:13:57.710022+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1252,7 +1150,7 @@
    "base": 80,
    "pub": "2026-11-08T21:17:00+00:00",
    "first_seen": "2026-11-08T23:13:57.710022+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1269,8 +1167,59 @@
    "base": 80,
    "pub": "2026-11-08T23:03:44+00:00",
    "first_seen": "2026-11-08T23:13:57.710022+00:00",
-   "last_seen": "2026-11-08T23:13:57.710022+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
    "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794191979_1": {
+   "title": "6 killed, 15 wounded in Poland terror attack",
+   "link": "https://www.cbsnews.com/video/6-killed-15-wounded-poland-terror-attack/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 185,
+   "pub": "2026-11-09T02:05:45+00:00",
+   "first_seen": "2026-11-09T02:39:39.006889+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 6,
+   "changelog": false
+  },
+  "s1794191979_3": {
+   "title": "Dave Dombrowski\u2019s Phillies Slammed For \u2018Costly Miss\u2019 At Trade Deadline",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2V0TzRDOEtYLS1oNlU2elQ5NDJaNDd0VjNXN1lGYnc5cTl0TUZNUzVWMzVqZEtXYmlhRVl2NXVPaXRYN05wMkRjNjV2OC1wOFBjTm90SDhadFB0WGtTQXNlQ1JSOTROWnNNYk1Vc1NnWXpGWHQtdnp3c1pxYnNybGhNczBBSUhmR2F0VzEtbnB6Zw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-08T23:29:36+00:00",
+   "first_seen": "2026-11-09T02:39:39.006889+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794191979_5": {
+   "title": "Bengals, Lions and Chiefs Should Call Eagles About a Riq Woolen Trade",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmFHLUN3RTFELUg1R3FFMThrUXgzSERBcElkbUNZNmk1b0VNbURQSFRIbFNsUUlJQXZEVFo5WHNKQUFaMWwzQTh4dUx1dWFoWGZrX3lDWm5WbVhvRERiXzBpX2xkbEd4VmxTQWR5ckFkTjR0S0todC1PaGx4WFVsN0NQajRHcURq?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-08T21:30:22+00:00",
+   "first_seen": "2026-11-09T02:39:39.006889+00:00",
+   "last_seen": "2026-11-09T02:39:39.006889+00:00",
+   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1287,8 +1236,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"7dbbc8e9043c0f5ffc66cce96cb73fb8\"",
-   "modified": "Sun, 08 Nov 2026 23:11:15 GMT"
+   "etag": "W/\"8cf9336eaf798ca3fa4b7af9af36c346\"",
+   "modified": "Mon, 09 Nov 2026 02:32:01 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1300,15 +1249,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 23:12:43 GMT"
+   "modified": "Mon, 09 Nov 2026 02:35:01 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"912f2fa207687f2feb4cbeb3ae364e95\"",
-   "modified": "Sun, 08 Nov 2026 23:03:18 GMT"
+   "etag": "W/\"eab024a574f608d2b447290f8287ee5d\"",
+   "modified": "Mon, 09 Nov 2026 02:17:46 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1316,7 +1265,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 23:14:14 GMT"
+   "modified": "Mon, 09 Nov 2026 02:39:50 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"c413b12a46e52de0a045c2e5f3cf5c41\"",
@@ -1324,10 +1273,10 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 08 Nov 2026 22:53:17 GMT"
+   "modified": "Mon, 09 Nov 2026 01:46:48 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"740f9177cfa2b03d7baee225d968cfbe\"",
+   "etag": "W/\"9bdb1fe30f2682791bec122d761d6626\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1339,12 +1288,12 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"f01289d097e44b64c0e4b67f1eef9af6\"",
+   "etag": "W/\"56355fbf05f75b97b9c94965b5a30046\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"55b1cbbf9a4ce63eef979c6f20054c12\"",
-   "modified": "Sun, 08 Nov 2026 17:12:38 GMT"
+   "etag": "\"8937d2ddfdb00ba96d818d32ebed9d47\"",
+   "modified": "Mon, 09 Nov 2026 02:04:53 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1359,8 +1308,8 @@
    "modified": "Sun, 08 Nov 2026 20:38:58 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"be23a9b22707f9b073471ecad38cd41c\"",
-   "modified": "Sun, 08 Nov 2026 18:54:13 GMT"
+   "etag": "W/\"599803c9192a149235f59c995306852d\"",
+   "modified": "Mon, 09 Nov 2026 01:49:52 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
