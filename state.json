@@ -1,39 +1,5 @@
 {
  "stories": {
-  "s1793985074_23": {
-   "title": "I tried replacing Claude Code with a local AI stack that\u2019s completely free \u2013 how it went",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlptZkRvbzF4ZHIzSUxpRTROYjVIbVVNZHFxMU9QZzdMLVJvb1Y5aEhGY0p0VVU2N2Y1N3MzUVBvUjdzWGdEXzlwSENoUnZyeksxM0hwZ19DWkt0bTV1cFZPZVpzMlZVUmZJdkhpczhQdWdWMi0xeUdmckFaN1BXUF9sYWNlNkVDd3ow?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-06T13:34:18+00:00",
-   "first_seen": "2026-11-06T17:11:14.637474+00:00",
-   "last_seen": "2026-11-08T15:13:08.592501+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794002862_29": {
-   "title": "You Can Now Rent A Tesla With FSD On Turo",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWTDUzbHI4bGF6MTdvQjBDdVBjRkpUTWd2LVA5MThQUGFDYTdvMFhoYmVaT3BwU0xRdU01Mm5ReGlYQ09pbjBiZ3UwR1Q4WU1aMlJ0QmFGcnBZUFFrYVRfWTlHOHlXOS12UXc?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-06T20:48:26+00:00",
-   "first_seen": "2026-11-06T22:07:42.391266+00:00",
-   "last_seen": "2026-11-06T22:07:42.391266+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794002862_32": {
    "title": "5 things CIOs must understand to govern Claude Code",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmpHUlRsU3FHWE9JdGRsajR4UGZ2UHE2U04zLWx3X1BvZ1VoNTA0bldXemRqVjdUNFdRTFRzUGhXUkhYaFBxWHEtNElzaHdTc0FsR3FndDJ2WnMwOG94M1EtTlNuZ2Z3em11WkY4bVBQeGIweVZ2VjAyblIwNDA5a1NZSlUtMmpDMkJxdUNFQWIzQ2k1U3Bj?oc=5",
@@ -68,40 +34,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794016536_28": {
-   "title": "You can now catch a Tesla Robotaxi in Fort Worth. What to know - Fort Worth Star-Telegram",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUHMzT3JDWkhiWFRyVDZYNHU5TnNPelg4TURxeHM5ejhiLW1DX1NVSy1PNUMtWUl5UHg5U0RRWC1nMUY2NExsZE9DVVVYT21mX05aenh5d0d6TTNGWGdRWFNMdXUtY1FxekUzZlRwSTJoSm5HUHlqVS14UzdKZ9IBfkFVX3lxTE5tQk9OMXpFRFpOZVlLcFVKYjJ5TnZoRnVUZ1NIa2xPb0dxMmNWU0hsSUpMZkFnVDFCaDBnbndEMmZBalhKamxlMjdlck13cXEzU1lReTNXRThJVEtXRUluMU9KU3JlZTNxajdDd3JFeUZ6NVZzTTBUdEM0Y05PZw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-06T22:37:53+00:00",
-   "first_seen": "2026-11-07T01:55:36.309454+00:00",
-   "last_seen": "2026-11-07T01:55:36.309454+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794016536_30": {
-   "title": "CEO of South Jersey\u2019s largest data center and Anthropic\u2019s Claude to headline Rowan\u2019s artificial intelligence conference, Nov. 10",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjJYdWZDWUJvTG5aZElOMS1yU25aZW56Tll5cFk2ZUJBZTJpeFVYbUYtd0JXSHROek5MUTh4eTFCRTNWd3g0MmJXbVA0LTNEbGpmQlY3Vktmc2FaZzRIQjdUelh5MlNXeVk5Vm91bEV2QjhRcmlWQW84VGU4cWFwdXg4T0ZjNlJoQ0JkcmRWLS1Xa2dTc0JReTJnUEVnUzFackE?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-06T13:50:03+00:00",
-   "first_seen": "2026-11-07T01:55:36.309454+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794038108_22": {
    "title": "Tesla to End Cybertruck Production After Safety Recalls and Falling Sales",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMW9zNzhXbVNzZDJ5a213ZjRWX1FUZFA4WFFWaFBVbWp4cWlzakh6dXk1aFhmem94UlFrT0N5bGdZNFJWN2U0MjhnckVOakgycHgyS3hyYTY0c2VDdVFoT295NWV3ODZPWHNXT3JyTDZXS3p4OWV3S002dmNKLWo1RVV1c0NfanUy?oc=5",
@@ -114,40 +46,6 @@
    "first_seen": "2026-11-07T07:55:08.530548+00:00",
    "last_seen": "2026-11-08T01:55:16.779776+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794061597_12": {
-   "title": "Would you trade Jhoan Duran?",
-   "link": "https://www.thegoodphight.com/phillies-discussion/89182/would-you-trade-jhoan-duran",
-   "sources": [
-    "The Good Phight"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-07T14:00:00+00:00",
-   "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T19:41:56.701161+00:00",
-   "team": "phillies",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794061597_15": {
-   "title": "Phillies Could Pursue Former Nemesis in Massive Trade",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkhYZW9NN0FaZk9TM1hzM19FUUdMdHZJWDFEQ3VEUXRWSnJmRWhWWTFGMXVPRFF0LV9WVVZpdGZTUVlPZ0taRElqRkQ2SXNUSzZWUE9jYzNZRHhiU0g5VFRxTUxjMkpuMzBkcGg2dzNaT256bEJHbGdzbEtGRllESE5Id2tiVEV1R2F4TGJn?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-07T12:00:41+00:00",
-   "first_seen": "2026-11-07T14:26:37.607540+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
-   "team": "phillies",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -266,7 +164,7 @@
    "base": 110,
    "pub": "2026-11-07T18:00:29+00:00",
    "first_seen": "2026-11-07T19:00:55.356978+00:00",
-   "last_seen": "2026-11-09T10:17:28.629026+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -338,24 +236,6 @@
    "team": "eagles",
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794102916_0": {
-   "title": "A strong earthquake with a preliminary magnitude of 5.7 strikes Japan, meteorological agency says",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUdHZWFQdzh4U25aT0hXNC16czN1X1NmMzFMYXZleGZ6SWU1bWswdzktZ0pFbXRXQTBTajJTRGg3MFhMMzE5Q1NzMHIwU1dKMW1vUE5LTGdBU2dZa2NqN2J4TjN2aVU0ZDZaLWRaVjhqTjFqMXl3M0dRNUJrY3NSNnhB?oc=5",
-   "sources": [
-    "ABC News",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-07T23:34:20+00:00",
-   "first_seen": "2026-11-08T01:55:16.779776+00:00",
-   "last_seen": "2026-11-08T08:09:48.425739+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -473,7 +353,7 @@
    "base": 80,
    "pub": "2026-11-08T13:09:30+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-09T10:17:28.629026+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -491,7 +371,7 @@
    "base": 80,
    "pub": "2026-11-08T09:04:03+00:00",
    "first_seen": "2026-11-08T15:13:08.592501+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -690,13 +570,14 @@
    "title": "6 players Philadelphia Eagles could deal at trade deadline",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBcHNoajhqcVdXeC13TWp5VmdZVmxlanBWXzd4QUd5bGYzVmlNamdvNkhYZ3BmcjdsMDJQWEZhMU5YVU41T1Rva01BYjRZLWdTbkpfejNfbFhPZTNaa1liUkJ3dnFaQklzTjA1VHNKdmxmTlg5dmdJ?oc=5",
    "sources": [
-    "Google News Philadelphia"
+    "Google News Philadelphia",
+    "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-09T05:34:36+00:00",
    "first_seen": "2026-11-09T10:17:28.629026+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -783,7 +664,7 @@
    "base": 80,
    "pub": "2026-11-06T20:44:43+00:00",
    "first_seen": "2026-11-09T10:17:28.629026+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -828,15 +709,17 @@
    "title": "Breaking News: The Supreme Court allowed the Trump administration to continue construction of a wall along the southern border in Texas, including within Big Bend National Park. https://nyti.ms/4Aeqv9w",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYlFHSFVMNUM3R3JJX1dSaWU4amV0Q3NCUndnT1Z6V2pTS19PV0hId3NRZFdxSXpEcmZqTmFQejZXUm5nRmQybkJrZmtOYlZVMEtzMGxMejRVMGtfaTI5Sl9FN3FhYzRJRUpaMkpaUTlJX0ZfTE5qYkRJem5ldDVVY2V2YTBHZEczal9DTVhFcXFlREVVcWpLTFEtZ3RURWZTQ0QzMjBETlBBRlVsZEx5SUJuZnJsVHRFZ2lXakVDZnlLT0NvQ0JTeVVyMU85TVdobTlB?oc=5",
    "sources": [
+    "Al Jazeera",
     "CBS News",
     "Google News Breaking",
-    "Google News Top Stories"
+    "Google News Top Stories",
+    "NPR News"
    ],
    "cat": "breaking",
    "base": 75,
    "pub": "2026-11-09T19:54:13+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -853,7 +736,7 @@
    "base": 75,
    "pub": "2026-11-09T20:19:18+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -870,7 +753,7 @@
    "base": 60,
    "pub": "2026-11-09T19:58:40+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -888,7 +771,7 @@
    "base": 80,
    "pub": "2026-11-09T16:45:58+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -934,13 +817,15 @@
    "title": "2 teenage suspects arrested in Halloween mass shooting near University of Delaware",
    "link": "https://6abc.com/post/police-provide-update-mass-shooting-university-delaware-newark/20026705/",
    "sources": [
-    "6abc Action News"
+    "6abc Action News",
+    "Google News Philadelphia",
+    "WHYY"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-09T19:46:18+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -957,7 +842,7 @@
    "base": 80,
    "pub": "2026-11-09T14:00:00+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "phillies",
    "trust": 3,
    "gate": 0,
@@ -974,7 +859,7 @@
    "base": 80,
    "pub": "2026-11-09T18:42:00+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -991,7 +876,7 @@
    "base": 80,
    "pub": "2026-11-09T11:00:00+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1121,13 +1006,14 @@
    "title": "Is this Eagles All-Pro available at the trade deadline? NFL teams are \u2018wondering\u2019",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUdiTmxDei1oY3o5OTJOMndDRF9DODVpUTA2bUxZSmNtWnVHakpVT2ZxVzN0VTJVWXhLckNBVktRcWZJVGxoSVFXMnFuSjVYZE54Z3Y5NUlkYXZyQ2FuNmI1eXJMMDBLcjhsZnBENGN0VEpWbmQxaHEydnpUd1FnMlAtak1MM1NoMGdXVGlDQUp6OXQ1M0tobi1ZS1hwb0d1NXQzY2lJQmQyc3d2SHdfSkt6WndPYWx5MjhodmtUV0dfNklFWlQ1cG5rVkwyMUxh?oc=5",
    "sources": [
+    "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-09T15:32:00+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1181,7 +1067,7 @@
    "base": 110,
    "pub": "2026-11-09T18:31:59+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1199,7 +1085,7 @@
    "base": 80,
    "pub": "2026-11-09T15:08:37+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1216,7 +1102,7 @@
    "base": 80,
    "pub": "2026-11-09T15:12:00+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1227,13 +1113,14 @@
    "title": "Tesla launches robotaxi service in San Antonio, expands Austin service area - San Antonio Express-News",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXJMY01yemp1UExHMGRvZzVPTmFlYUREWl91SnhIM2xjbjVXZDJCVGNqOVVUdEdWcWx6LWNSVW9GV0lZOXB5bTNkWEQtMDd1UVpQbm4tRV8zV1hKVzhqcEsxZVNWVDZ1akJjdW0tT2h6bnNDUDNwdGppWTd2d0VkVzA5OUtMS09GcjhZQ2s5cUJoVTFZcW5Eai1xYmZzTUdScEFCV3lGOGUxMXJr?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-09T19:58:58+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1250,7 +1137,7 @@
    "base": 80,
    "pub": "2026-11-09T20:04:37+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1284,7 +1171,7 @@
    "base": 110,
    "pub": "2026-11-09T19:05:41+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1301,7 +1188,7 @@
    "base": 80,
    "pub": "2026-11-09T10:03:21+00:00",
    "first_seen": "2026-11-09T20:48:07.572914+00:00",
-   "last_seen": "2026-11-09T20:48:07.572914+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1324,6 +1211,96 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1794279624_2": {
+   "title": "Eagles trade DT Jordan Davis to Jaguars",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnpTYk1NTElFd2w3OVo5TlRUZTZYeTRFS1Nfd3NKUWE5dlBxajRCSVkxZ0pyajV3UjBtOE4xQms5MUpwQVlZU05HM2lvMEFZenhONmk4MVg0TVhya0NpcS05T3J0cWROZ2ZJbzBPYm5ZWUNpMlNGLWlscHNISVB4SHp1NTNXQmpybHp6ZlNVRG1DZ3NDY29wTU81MUM5THRHR0xB?oc=5",
+   "sources": [
+    "Bleeding Green Nation",
+    "Google News Breaking",
+    "Google News Philadelphia",
+    "Google News Philly Sports",
+    "Google News Top Stories",
+    "PhillyVoice"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-09T23:20:05+00:00",
+   "first_seen": "2026-11-10T03:00:24.490453+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794279624_24": {
+   "title": "What does the Eagles\u2019 blockbuster trade mean for this budding star?",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzJhTVFxbjBWZmtFTzFuTWlXR290dUY3QjlUSW0yVnR2czkxUUotNVFRVjBjZVY3cFlHQ0llaVFJRld3T2ZhUHFsQ2FOSnY0RU04OElNN3JOcFlRdGdXUVJscEJ3MHdjZEJ5VkJOeDBMT2Z2NVFUanE4RkFUSldNWkZvQnN4Sm9ETDI3dnQxdGI0UXR6MV95Wk10MEdxUGlocTZDV1RvdGNpZi1EME03Z004SVlXUFB0bndwQjhvVQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-09T22:30:00+00:00",
+   "first_seen": "2026-11-10T03:00:24.490453+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794279624_30": {
+   "title": "The Eagles just made a stunning blockbuster trade before the NFL deadline",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEgzQTQ1NVFnVnlPY2dGYkpneVA3bW1KOWMyQ1RRNmQwd1oyTzJOaXNLYTg5VUQ1QlVWVElNVjZLWGlmWDhTWnIxclNidGtIR1NpR0NVLVJGa1hsYWNrQzdyZ3Zwdi1QTTRGNXI3WnNsRGtELVpOOFg5YWxUWDVmUjZOaDFFVlhOWUo1eGpwN1Y5WTNyTFZSMlEtR0YyNVROYUdYRm5iSzVSejZnNVo2WkRhM0hnWHpVUUZIaVVuNVNlcy1fZmxUSU9n?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-09T21:55:00+00:00",
+   "first_seen": "2026-11-10T03:00:24.490453+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794279624_42": {
+   "title": "Jaguars make blockbuster trade for Eagles' star defensive tackle",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFI5UUFPVThJcFEyUHVoSGdrT3VXc2h6Tml6dl9aZWlRWW9xM1l0SmJ2S2YtSWpjNVkzOHoxbC0wRGFLTmRSRGFRa1VVeWxLMW5jNEdCRkhDSFNlT3JyOW53WWQwNmZhZm5uWlhjOVdMeExJR3BoYjdHWnZ6cm5XSUJKeUUwblYtZ3Y3eE81Yw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-09T21:51:57+00:00",
+   "first_seen": "2026-11-10T03:00:24.490453+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794279624_77": {
+   "title": "Anthropic could hit $4.3trn as markets weigh Claude developer\u2019s value",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFBPZUw0UXhMQlZaTWV1LW9QemtUYXN6MzRSYlFjNEkxY0x3MS05SmtPVG1aMlRHMXJ1Y190bWF1MmVGZXc3Nkl1Z2Uxd0xoZE9raHQ0dS16YXNmWHcxZTlXMm1FazdZcy1IbFBRNUtwdDdacmhLVWxFb3FNQ1AtMXRBOVJyc0pKUGJYZkRLYXFQaHVNWEdVNnN2eXZsNWROT1pJYi1fMFI0ektHN2JPNzJHUTZ1b1BUMWVwbDNJNUxpQQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-10T01:00:00+00:00",
+   "first_seen": "2026-11-10T03:00:24.490453+00:00",
+   "last_seen": "2026-11-10T03:00:24.490453+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1336,8 +1313,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"85661185313fb4ed680c65491d4dc50a\"",
-   "modified": "Mon, 09 Nov 2026 20:45:44 GMT"
+   "etag": "W/\"cca8ba2a5a730ea0203947c82fcea7e2\"",
+   "modified": "Tue, 10 Nov 2026 02:58:16 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1349,15 +1326,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 09 Nov 2026 20:46:45 GMT"
+   "modified": "Tue, 10 Nov 2026 02:59:17 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"12219121c928578350a7f24a85f00350\"",
-   "modified": "Mon, 09 Nov 2026 20:24:22 GMT"
+   "etag": "W/\"4f023428c8710bbe4852c28a4e67b67c\"",
+   "modified": "Tue, 10 Nov 2026 02:25:35 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1365,35 +1342,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 09 Nov 2026 20:48:22 GMT"
+   "modified": "Tue, 10 Nov 2026 03:01:21 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"1f57e13f6074a810afae77f258fb756d\"",
-   "modified": "Mon, 09 Nov 2026 20:46:22 GMT"
+   "etag": "\"cba20c09223116e839bb1a5de96117de\"",
+   "modified": "Tue, 10 Nov 2026 00:28:13 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Mon, 09 Nov 2026 19:24:42 GMT"
+   "modified": "Mon, 09 Nov 2026 22:52:09 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"45b353e3d9944ac5816ae88f53958f13\"",
+   "etag": "W/\"81d22aa85c4ceadb16af783a6c60a34c\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"310f110954f388f0e71f27ff453dde8d\"",
-   "modified": "Mon, 09 Nov 2026 20:10:12 GMT"
+   "etag": "\"a46583611791844e94584d58e6e21fb0\"",
+   "modified": "Mon, 09 Nov 2026 22:30:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"dd8b31a91ded6aa70ad4e8d9aa872c53\"",
+   "etag": "W/\"2ef47e2a9017248c573ba9afd76805fa\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"46c5c4ad86104a8ca7b50cb1893dfc9a\"",
+   "etag": "W/\"27bd7ef97960454c03e50e586f2419b4\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"448e4722caff0dd97513d4276a159cca\"",
-   "modified": "Mon, 09 Nov 2026 19:42:26 GMT"
+   "etag": "\"abe764c6915455518a7a1509ee1ab176\"",
+   "modified": "Tue, 10 Nov 2026 00:04:20 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1405,11 +1382,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Mon, 09 Nov 2026 20:48:13 GMT"
+   "modified": "Mon, 09 Nov 2026 21:31:05 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"b7ae3f3bf93a2ccf91b0d579ad7eb12f\"",
-   "modified": "Mon, 09 Nov 2026 19:13:49 GMT"
+   "etag": "W/\"6d48855eb7155e7576bd5c3d0915c177\"",
+   "modified": "Tue, 10 Nov 2026 01:08:41 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1420,8 +1397,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"470aa150c68df85ce09eb4a81a80c6cf\"",
-   "modified": "Mon, 09 Nov 2026 20:48:04 GMT"
+   "etag": "W/\"d6b0f66a903909f3fdf798750f814ff3\"",
+   "modified": "Tue, 10 Nov 2026 02:55:44 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
