@@ -4,8 +4,24 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:40:27 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+      <category>ai</category>
+      <description>TechCrunch AI - Nov 10, 12:30 PM ET</description>
+    </item>
+    <item>
+      <title>🦅 Bengals trade for Eagles LB Arnold Ebiketie, sources say</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</guid>
+      <pubDate>Tue, 10 Nov 2026 16:26:21 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports, PhillyVoice - Nov 10, 11:26 AM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</link>
@@ -15,12 +31,20 @@
       <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 09, 01:31 PM ET</description>
     </item>
     <item>
-      <title>🌍 Breaking news. - At least 11 dead and dozens injured in Bulgarian motorway pile-up</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazZidm9QNlNzUFlWcHFvM3BNR0dsWlMwa1Y4bjBuVExBd21WNXJzVVE0WkRkV24tTjVTR0UyOW5XVDVMNlU0VWtUd2k0eE9ScElINmlUeUZXR0J4bk9ZeEtrT3NsZWFjY2xzaVV6bnZvU2FLVnlsWXhPNmR5bkJKNnpxWDdFQ2FuTVFOelZuTjlHZkxSbDZCU3ZnWFl5NVJzY191c2NBeXpORkFTTy1kZm9FRlB5VzI3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazZidm9QNlNzUFlWcHFvM3BNR0dsWlMwa1Y4bjBuVExBd21WNXJzVVE0WkRkV24tTjVTR0UyOW5XVDVMNlU0VWtUd2k0eE9ScElINmlUeUZXR0J4bk9ZeEtrT3NsZWFjY2xzaVV6bnZvU2FLVnlsWXhPNmR5bkJKNnpxWDdFQ2FuTVFOelZuTjlHZkxSbDZCU3ZnWFl5NVJzY191c2NBeXpORkFTTy1kZm9FRlB5VzI3?oc=5</guid>
-      <pubDate>Tue, 10 Nov 2026 10:35:32 +0000</pubDate>
+      <title>🌍 At least 12 people killed in Bulgaria motorway pile-up</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss</guid>
+      <pubDate>Tue, 10 Nov 2026 16:20:12 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Breaking - Nov 10, 05:35 AM ET</description>
+      <description>Al Jazeera - Nov 10, 11:20 AM ET</description>
+    </item>
+    <item>
+      <title>🏀 Re-grading the Sixers’ trade for Jaylen Brown ahead of first Celtics game</title>
+      <link>https://www.libertyballers.com/76ers-analysis/101467/re-grading-sixers-trade-for-jaylen-brown-ahead-of-first-celtics-game-paul-george</link>
+      <guid isPermaLink="true">https://www.libertyballers.com/76ers-analysis/101467/re-grading-sixers-trade-for-jaylen-brown-ahead-of-first-celtics-game-paul-george</guid>
+      <pubDate>Tue, 10 Nov 2026 14:35:19 +0000</pubDate>
+      <category>sports</category>
+      <description>Liberty Ballers - Nov 10, 09:35 AM ET</description>
     </item>
     <item>
       <title>⚡ Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem</title>
