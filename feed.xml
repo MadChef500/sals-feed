@@ -4,8 +4,40 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:42:07 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
+      <link>https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</link>
+      <guid isPermaLink="true">https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:05:52 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Teslarati - Nov 11, 12:05 PM ET</description>
+    </item>
+    <item>
+      <title>🦅 Eagles News: Howie Roseman among biggest winners from the NFL trade deadline</title>
+      <link>https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</guid>
+      <pubDate>Wed, 11 Nov 2026 15:22:13 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philly Sports - Nov 11, 10:22 AM ET</description>
+    </item>
+    <item>
+      <title>🏒 5 possible trade destinations for Matvei Michkov</title>
+      <link>https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</guid>
+      <pubDate>Wed, 11 Nov 2026 16:46:50 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Nov 11, 11:46 AM ET</description>
+    </item>
+    <item>
+      <title>⚾ Do you anticipate free agent signings before the lockout?</title>
+      <link>https://www.thegoodphight.com/phillies-discussion/89286/do-you-anticipate-free-agent-signings-before-the-lockout</link>
+      <guid isPermaLink="true">https://www.thegoodphight.com/phillies-discussion/89286/do-you-anticipate-free-agent-signings-before-the-lockout</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+      <category>sports</category>
+      <description>The Good Phight - Nov 11, 09:00 AM ET</description>
+    </item>
     <item>
       <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
       <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
@@ -15,44 +47,12 @@
       <description>TechCrunch AI - Nov 10, 12:30 PM ET</description>
     </item>
     <item>
-      <title>🏒 Matvei Michkov reportedly wants trade for fresh start away from Flyers</title>
-      <link>https://www.broadstreethockey.com/post/matvei-michkov-reportedly-wants-trade-for-fresh-start-away-from-flyers/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/matvei-michkov-reportedly-wants-trade-for-fresh-start-away-from-flyers/</guid>
-      <pubDate>Tue, 10 Nov 2026 22:07:53 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey, Google News Philly Sports - Nov 10, 05:07 PM ET</description>
-    </item>
-    <item>
       <title>⚡ Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</guid>
       <pubDate>Mon, 09 Nov 2026 18:31:59 +0000</pubDate>
       <category>tesla</category>
       <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 09, 01:31 PM ET</description>
-    </item>
-    <item>
-      <title>🦅 Bengals trade for Eagles LB Arnold Ebiketie, sources say</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</guid>
-      <pubDate>Tue, 10 Nov 2026 16:26:21 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports, PhillyVoice - Nov 10, 11:26 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Sigma Nu house at NC State vacant days after chapter shutdown amid hazing allegations investigation</title>
-      <link>https://abc11.com/post/sigma-nu-frat-house-vacant-days-nc-state-beta-tau-chapter-closed-criminal-investigation-hazing-allegations-continues/20030944/</link>
-      <guid isPermaLink="true">https://abc11.com/post/sigma-nu-frat-house-vacant-days-nc-state-beta-tau-chapter-closed-criminal-investigation-hazing-allegations-continues/20030944/</guid>
-      <pubDate>Tue, 10 Nov 2026 23:36:09 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 10, 06:36 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem</title>
-      <link>https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/</guid>
-      <pubDate>Tue, 10 Nov 2026 03:12:07 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 09, 10:12 PM ET</description>
     </item>
   </channel>
 </rss>
