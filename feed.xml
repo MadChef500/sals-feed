@@ -4,16 +4,8 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:06:14 +0000</lastBuildDate>
     <ttl>20</ttl>
-    <item>
-      <title>🌍 U.S. charges 3 men with plotting terror attacks, including planned assault on UK airbase</title>
-      <link>https://www.pbs.org/newshour/nation/u-s-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-airbase</link>
-      <guid isPermaLink="true">https://www.pbs.org/newshour/nation/u-s-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-airbase</guid>
-      <pubDate>Tue, 10 Nov 2026 22:11:47 +0000</pubDate>
-      <category>breaking</category>
-      <description>Google News Top Stories, PBS NewsHour - Nov 10, 05:11 PM ET</description>
-    </item>
     <item>
       <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
       <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
@@ -31,6 +23,14 @@
       <description>Broad Street Hockey, Google News Philly Sports - Nov 10, 05:07 PM ET</description>
     </item>
     <item>
+      <title>⚡ Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 18:31:59 +0000</pubDate>
+      <category>tesla</category>
+      <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 09, 01:31 PM ET</description>
+    </item>
+    <item>
       <title>🦅 Bengals trade for Eagles LB Arnold Ebiketie, sources say</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGRWNXBhemowbFRQUGw1QndHTDhib091UkNYX0M2R0k0alNjUVFQVDZwbEdoWjFzUW5zOFNiakxnSnNuMWk4cjhZZGlKRnVfYVFQVDFOWng3ZTRPX0dOUjBzcmFpbU1zUjRrOERjZndzQVhSbGNqRTREX1dFcGVBc0hDa2xTd19IQl9J?oc=5</guid>
@@ -45,22 +45,6 @@
       <pubDate>Tue, 10 Nov 2026 23:36:09 +0000</pubDate>
       <category>local</category>
       <description>6abc Action News - Nov 10, 06:36 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</guid>
-      <pubDate>Mon, 09 Nov 2026 18:31:59 +0000</pubDate>
-      <category>tesla</category>
-      <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 09, 01:31 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Salvadoran troops target Haitian gang, leaving 20 dead</title>
-      <link>https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss</guid>
-      <pubDate>Tue, 10 Nov 2026 20:22:21 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Nov 10, 03:22 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem</title>
