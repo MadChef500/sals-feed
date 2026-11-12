@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:05:58 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Brooklyn building collapse: 1 dead, several injured in Flatbush, NY</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5</guid>
+      <pubDate>Thu, 12 Nov 2026 00:37:37 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, ABC News, CBS News, Google News Breaking, Google News Top Stories - Nov 11, 07:37 PM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
       <link>https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</link>
@@ -23,6 +31,14 @@
       <description>Bleeding Green Nation, Google News Philly Sports - Nov 11, 10:22 AM ET</description>
     </item>
     <item>
+      <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+      <category>ai</category>
+      <description>Google News AI, TechCrunch AI - Nov 10, 12:30 PM ET</description>
+    </item>
+    <item>
       <title>🏒 5 possible trade destinations for Matvei Michkov</title>
       <link>https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</link>
       <guid isPermaLink="true">https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</guid>
@@ -37,22 +53,6 @@
       <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
       <category>sports</category>
       <description>The Good Phight - Nov 11, 09:00 AM ET</description>
-    </item>
-    <item>
-      <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
-      <category>ai</category>
-      <description>TechCrunch AI - Nov 10, 12:30 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Soars 5% as Robotaxi Reaches San Antonio and Cybertruck Order Rate “Far Exceeds” Production</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxOb01ScjNubENJdjBiYW9BU005QTNrNjdqd3NWTW5iOVowVEJCNno0TGhET3ptSGtUcmJmV3hDeFZHYWZEVU5HdHF6TmtUX3pjOGFXZnppc0VGX3lQd2lqUFY3R0h4ZFZWZl9aT0ZfdFZMU2FxUmxydUlIUUYydlhreHNFUE9yVW9uN3oydU81anllVm4tNWF2QU14WQ?oc=5</guid>
-      <pubDate>Mon, 09 Nov 2026 18:31:59 +0000</pubDate>
-      <category>tesla</category>
-      <description>Electrek, Google News Tesla, Not a Tesla App, Teslarati - Nov 09, 01:31 PM ET</description>
     </item>
   </channel>
 </rss>
