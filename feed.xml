@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:20:08 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🌍 Brooklyn building collapse: 1 dead, several injured in Flatbush, NY</title>
@@ -12,7 +12,23 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5</guid>
       <pubDate>Thu, 12 Nov 2026 00:37:37 +0000</pubDate>
       <category>breaking</category>
-      <description>6abc Action News, ABC News, CBS News, Google News Breaking, Google News Top Stories - Nov 11, 07:37 PM ET</description>
+      <description>6abc Action News, ABC News, Al Jazeera, CBS News, Google News Breaking, Google News Top Stories - Nov 11, 07:37 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 2 killed in New York building collapse, Mamdani says</title>
+      <link>https://www.cbsnews.com/video/mamdani-fire-officials-give-update-brooklyn-building-collapse/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/video/mamdani-fire-officials-give-update-brooklyn-building-collapse/</guid>
+      <pubDate>Thu, 12 Nov 2026 02:10:09 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News, CBS News - Nov 11, 09:10 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Flyers reportedly targeting Oliver Moore in trade talks with Blackhawks</title>
+      <link>https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</guid>
+      <pubDate>Thu, 12 Nov 2026 03:46:38 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Nov 11, 10:46 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
@@ -23,14 +39,6 @@
       <description>Google News Tesla, Teslarati - Nov 11, 12:05 PM ET</description>
     </item>
     <item>
-      <title>🦅 Eagles News: Howie Roseman among biggest winners from the NFL trade deadline</title>
-      <link>https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</link>
-      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</guid>
-      <pubDate>Wed, 11 Nov 2026 15:22:13 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Nov 11, 10:22 AM ET</description>
-    </item>
-    <item>
       <title>🤖 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
       <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
@@ -39,20 +47,20 @@
       <description>Google News AI, TechCrunch AI - Nov 10, 12:30 PM ET</description>
     </item>
     <item>
+      <title>🦅 Eagles News: Howie Roseman among biggest winners from the NFL trade deadline</title>
+      <link>https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190105/eagles-news-howie-roseman-among-biggest-winners-from-the-nfl-trade-deadline</guid>
+      <pubDate>Wed, 11 Nov 2026 15:22:13 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation, Google News Philly Sports - Nov 11, 10:22 AM ET</description>
+    </item>
+    <item>
       <title>🏒 5 possible trade destinations for Matvei Michkov</title>
       <link>https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</link>
       <guid isPermaLink="true">https://www.broadstreethockey.com/post/5-possible-trade-destinations-for-matvei-michkov/</guid>
       <pubDate>Wed, 11 Nov 2026 16:46:50 +0000</pubDate>
       <category>sports</category>
       <description>Broad Street Hockey - Nov 11, 11:46 AM ET</description>
-    </item>
-    <item>
-      <title>⚾ Do you anticipate free agent signings before the lockout?</title>
-      <link>https://www.thegoodphight.com/phillies-discussion/89286/do-you-anticipate-free-agent-signings-before-the-lockout</link>
-      <guid isPermaLink="true">https://www.thegoodphight.com/phillies-discussion/89286/do-you-anticipate-free-agent-signings-before-the-lockout</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-      <category>sports</category>
-      <description>The Good Phight - Nov 11, 09:00 AM ET</description>
     </item>
   </channel>
 </rss>
