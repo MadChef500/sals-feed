@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:43:53 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🏙️ Tacony-Palmyra Bridge closed due to cargo ship strike, state representative says</title>
+      <link>https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</link>
+      <guid isPermaLink="true">https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</guid>
+      <pubDate>Thu, 12 Nov 2026 21:41:50 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 12, 04:41 PM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla Robotaxi Now Runs 24/7 in Every City</title>
       <link>https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city</link>
@@ -23,12 +31,12 @@
       <description>Al Jazeera - Nov 12, 11:23 AM ET</description>
     </item>
     <item>
-      <title>🏒 Flyers reportedly targeting Oliver Moore in trade talks with Blackhawks</title>
-      <link>https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</guid>
-      <pubDate>Thu, 12 Nov 2026 03:46:38 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey, Google News Philly Sports - Nov 11, 10:46 PM ET</description>
+      <title>🌍 Washington shooting: 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself</title>
+      <link>https://6abc.com/story/police-say-4-people-have-been-shot-trendy-logan-circle-neighborhood-washington-dc/20035769/</link>
+      <guid isPermaLink="true">https://6abc.com/story/police-say-4-people-have-been-shot-trendy-logan-circle-neighborhood-washington-dc/20035769/</guid>
+      <pubDate>Thu, 12 Nov 2026 21:30:49 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News - Nov 12, 04:30 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
@@ -37,6 +45,14 @@
       <pubDate>Wed, 11 Nov 2026 17:05:52 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Teslarati - Nov 11, 12:05 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Flyers reportedly targeting Oliver Moore in trade talks with Blackhawks</title>
+      <link>https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</guid>
+      <pubDate>Thu, 12 Nov 2026 03:46:38 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey, Google News Philly Sports - Nov 11, 10:46 PM ET</description>
     </item>
   </channel>
 </rss>
