@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:59:09 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🏙️ Tacony-Palmyra Bridge closed due to cargo ship strike, state representative says</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="true">https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</guid>
       <pubDate>Thu, 12 Nov 2026 21:41:50 +0000</pubDate>
       <category>local</category>
-      <description>6abc Action News - Nov 12, 04:41 PM ET</description>
+      <description>6abc Action News, WHYY - Nov 12, 04:41 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla Robotaxi Now Runs 24/7 in Every City</title>
@@ -23,36 +23,12 @@
       <description>Google News Tesla, Not a Tesla App - Nov 12, 10:49 AM ET</description>
     </item>
     <item>
-      <title>🌍 UAE says 14 killed, 30 injured in Fujairah traffic accident</title>
-      <link>https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss</guid>
-      <pubDate>Thu, 12 Nov 2026 16:23:29 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Nov 12, 11:23 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 Washington shooting: 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself</title>
-      <link>https://6abc.com/story/police-say-4-people-have-been-shot-trendy-logan-circle-neighborhood-washington-dc/20035769/</link>
-      <guid isPermaLink="true">https://6abc.com/story/police-say-4-people-have-been-shot-trendy-logan-circle-neighborhood-washington-dc/20035769/</guid>
-      <pubDate>Thu, 12 Nov 2026 21:30:49 +0000</pubDate>
-      <category>breaking</category>
-      <description>6abc Action News - Nov 12, 04:30 PM ET</description>
-    </item>
-    <item>
       <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
       <link>https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</link>
       <guid isPermaLink="true">https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</guid>
       <pubDate>Wed, 11 Nov 2026 17:05:52 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Teslarati - Nov 11, 12:05 PM ET</description>
-    </item>
-    <item>
-      <title>🏒 Flyers reportedly targeting Oliver Moore in trade talks with Blackhawks</title>
-      <link>https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-reportedly-targeting-oliver-moore-in-trade-talks-with-blackhawks/</guid>
-      <pubDate>Thu, 12 Nov 2026 03:46:38 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey, Google News Philly Sports - Nov 11, 10:46 PM ET</description>
     </item>
   </channel>
 </rss>
