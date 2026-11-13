@@ -4,8 +4,32 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:17:09 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5</guid>
+      <pubDate>Fri, 13 Nov 2026 21:59:44 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Nov 13, 04:59 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 At least 10 killed in Guinea clashes over gold mining ban</title>
+      <link>https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss</guid>
+      <pubDate>Fri, 13 Nov 2026 18:44:45 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Nov 13, 01:44 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe</title>
+      <link>https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe</guid>
+      <pubDate>Thu, 12 Nov 2026 20:47:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 12, 03:47 PM ET</description>
+    </item>
     <item>
       <title>⚾ Would you be willing to do a bad contract swap trade?</title>
       <link>https://www.thegoodphight.com/phillies-discussion/89303/would-you-be-willing-to-do-a-bad-contract-swap-trade</link>
@@ -15,20 +39,20 @@
       <description>The Good Phight - Nov 13, 09:00 AM ET</description>
     </item>
     <item>
-      <title>🏙️ Tacony-Palmyra Bridge closed due to cargo ship strike, state representative says</title>
-      <link>https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</link>
-      <guid isPermaLink="true">https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</guid>
-      <pubDate>Thu, 12 Nov 2026 21:41:50 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News, WHYY - Nov 12, 04:41 PM ET</description>
-    </item>
-    <item>
       <title>⚡ Tesla Robotaxi Now Runs 24/7 in Every City</title>
       <link>https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city</link>
       <guid isPermaLink="true">https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city</guid>
       <pubDate>Thu, 12 Nov 2026 15:49:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 12, 10:49 AM ET</description>
+    </item>
+    <item>
+      <title>🏙️ Tacony-Palmyra Bridge closed due to cargo ship strike, state representative says</title>
+      <link>https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</link>
+      <guid isPermaLink="true">https://6abc.com/post/tacony-palmyra-bridge-closed-due-possible-boat-strike-burlington-county-nj/20036547/</guid>
+      <pubDate>Thu, 12 Nov 2026 21:41:50 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News, WHYY - Nov 12, 04:41 PM ET</description>
     </item>
   </channel>
 </rss>
