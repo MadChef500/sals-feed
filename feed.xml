@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:30:15 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🏙️ Tacony-Palmyra Bridge closed due to cargo ship strike, state representative says</title>
@@ -21,14 +21,6 @@
       <pubDate>Thu, 12 Nov 2026 15:49:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 12, 10:49 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip</title>
-      <link>https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/</guid>
-      <pubDate>Wed, 11 Nov 2026 17:05:52 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 11, 12:05 PM ET</description>
     </item>
   </channel>
 </rss>
