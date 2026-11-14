@@ -1,40 +1,5 @@
 {
  "stories": {
-  "s1794395174_46": {
-   "title": "\u2018That\u2019s The Bet\u2019: Palmer Luckey Backs Elon Musk\u2019s $150 Billion Robotaxi Ambitions as Tesla Tops Waymo in Texas",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOczFuR3J3ZHR0bVRHa09ZdGpmWVJobjlyck1qdUY2T1BzYWZjdUNPQVZjekRzUXd6ek1Yd1VKaG1wZUx4X3djbE5qZjI2TlhXZVAzTW0wTlpfNTIxTG0yYVl2czBRb294VGlTM3VCN1YwdUZYVnpSSmVyalFTUXhoWjJobzlCbE94MVJmdVFLOWNwdHVUTkxkYWlTZ0djMFZuTWpJZzBYYUp3UkpXSjFEbVAyd2Jhc2VMYzRIX1pWamtDODgyQWpPS0tWVjFpR1NROXRsM245MkphNWlJMXA5OFhVcTRIRUpCYUZZRlBB?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-11T06:19:42+00:00",
-   "first_seen": "2026-11-11T11:06:14.882856+00:00",
-   "last_seen": "2026-11-12T22:43:53.773651+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794395174_52": {
-   "title": "Tesla FSD (Supervised) \u2014 Approved in Finland",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbi1TR3AzNms2cGVPZ281ajM3RS1mWGRmX1FHb2piMm5JQ096RFppTUdkUzNVUDNOUHY5VkpzdHo4c3B6aVpDLXBvT0kzWTZXUFByR2hOcWtzM0JEa2RtQzVCaDBvX1N1QzU1NlpScmdXQ1hzRlFjaFlNSF9oWG9nZUJ4U0tsZlRBX3VuZjNTSlpfbVl6RXRr?oc=5",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-11T06:18:00+00:00",
-   "first_seen": "2026-11-11T11:06:14.882856+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794422527_48": {
    "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
    "link": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
@@ -64,23 +29,6 @@
    "pub": "2026-11-11T14:20:17+00:00",
    "first_seen": "2026-11-11T18:42:07.276419+00:00",
    "last_seen": "2026-11-12T08:20:08.884262+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794422527_70": {
-   "title": "Tesla FSD Gets Green Light In Finland, But Transport Agency Specialist Says Operation Could Be Subject To \u2018Various Limitations\u2019",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQURKenZfTmEzdW0yMnE3R3B0ZWtiYnhBNGdGczNGQ0NHN0U4ZHlNUlE1ODhUQnFfdTZITklfbDV3Z1lhOFpxV3dWcjVlYWE2UzBxVFJJUWpWSFBkeUVHX08tekZhRjAzWW05MmcyWXhRalBjR3ZHbzVMR0Q0R3Z4V19abTZ0UTVmY0J1VWJoY2wwRVp5S05KQk1haXpaS1VFd0xV?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-11T11:04:00+00:00",
-   "first_seen": "2026-11-11T18:42:07.276419+00:00",
-   "last_seen": "2026-11-11T18:42:07.276419+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -200,7 +148,7 @@
    "base": 80,
    "pub": "2026-11-12T15:49:00+00:00",
    "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -255,23 +203,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794523433_1": {
-   "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-12T18:36:15+00:00",
-   "first_seen": "2026-11-12T22:43:53.773651+00:00",
-   "last_seen": "2026-11-12T22:43:53.773651+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -475,7 +406,7 @@
    "base": 80,
    "pub": "2026-11-12T23:18:55+00:00",
    "first_seen": "2026-11-13T02:59:09.205896+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -782,7 +713,7 @@
    "base": 80,
    "pub": "2026-11-13T15:48:07+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -799,7 +730,7 @@
    "base": 80,
    "pub": "2026-11-13T14:00:00+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": "phillies",
    "trust": 3,
    "gate": 0,
@@ -867,7 +798,7 @@
    "base": 80,
    "pub": "2026-11-13T15:07:56+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T10:51:51.335614+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1016,13 +947,14 @@
    "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5",
    "sources": [
+    "Google News Breaking",
     "Google News Top Stories"
    ],
    "cat": "breaking",
    "base": 80,
    "pub": "2026-11-13T21:59:44+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-13T23:17:09.887918+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1073,7 +1005,7 @@
    "base": 80,
    "pub": "2026-11-13T20:38:42+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1091,7 +1023,7 @@
    "base": 80,
    "pub": "2026-11-13T18:00:15+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1108,7 +1040,7 @@
    "base": 80,
    "pub": "2026-11-13T22:08:42+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1177,7 +1109,7 @@
    "base": 110,
    "pub": "2026-11-12T20:47:00+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1218,24 +1150,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794626438_3": {
-   "title": "2 children among the 8 dead in New York City building collapse, officials say",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR1BTQ0tGRWktNWhyMzhiOTJER3hxVWdUcUlEZXU2MU1IbmVMbHNOQ3ktU0FTcFFLRmpMcHBBcWFTWElVREhvenlaQy0xaFFzaVdVbFBIY3BPSVdFWHNXUV9TMmFsSTRlNjRUdVZhSTg1QUdYeU5tY0tSYmFHbk1kX25VVzM5TTBkSnlhTS1XRlgxeldxUFdpV2NqMUk1THVmLXZNNnpMejVuRkxEdjFiSA?oc=5",
-   "sources": [
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 125,
-   "pub": "2026-11-12T17:47:00+00:00",
-   "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 8,
-   "changelog": false
-  },
   "s1794626438_4": {
    "title": "Man whose wife, son were injured in building collapse wants answers",
    "link": "https://www.cbsnews.com/news/brooklyn-building-collapse-residents-want-answers/",
@@ -1263,7 +1177,7 @@
    "base": 80,
    "pub": "2026-11-13T23:22:49+00:00",
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1298,7 +1212,7 @@
    "base": 80,
    "pub": "2026-11-14T02:11:39+00:00",
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1377,13 +1291,14 @@
    "title": "Independent experts to review how Eagles handled Jalen Hurts\u2019 blood clots, NFL says",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRi1uMjhKY3luZDFoZ1FsZmdNTWd4SVdZeUNlNGVUd09pcDNTOF9SQ3VHUGdxeDJMM01zRXhtbVhLQ01ucndtNThkNGlkVGd5VzN4bjJkcnZScjJENW01Qjl0UHpFdGQ5Y1hReS1ndVk1ZkE3WE9Ja1BsZDB6OFVMOUFzTlZnb2JtdllPSGFfbHd2STJwNXVjRmF6ZXVVc1ZEdUlJUVBudEc?oc=5",
    "sources": [
+    "Bleeding Green Nation",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-14T01:34:26+00:00",
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1400,7 +1315,7 @@
    "base": 80,
    "pub": "2026-11-14T01:00:00+00:00",
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1451,7 +1366,7 @@
    "base": 75,
    "pub": "2026-11-14T16:10:10+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1468,7 +1383,7 @@
    "base": 80,
    "pub": "2026-11-14T11:00:00+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1485,7 +1400,7 @@
    "base": 80,
    "pub": "2026-11-14T13:17:40+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1503,7 +1418,92 @@
    "base": 80,
    "pub": "2026-11-14T13:00:36+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794689967_0": {
+   "title": "At the Supreme Court, Trump aims to cut the power of judges again",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHgxNHVrME82enZxYXhlV09rNEI2ZGNGc200MHZxODZXdnhvcnVqaTlxeEp5Tk1FRFVTWmV6S1FudG9GRWlBRjY1Q002ekpjTHB6a2MyWXk3ZDI0dFdkYTlGbUtIbWNCLWpIbkRsVkV4TE1oYmNOMGZzU3YwRHRoRXFpTjJEZmd6d2JuREcxb0dndw?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-14T16:33:58+00:00",
+   "first_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794689967_9": {
+   "title": "Eagles Reportedly Make Final Decision on Nick Sirianni\u2019s Firing Amid Philadelphia\u2019s Disastrous 2\u20137 Record",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa0RyZGlJd3RPd1dzTGtzMmNmUHpfNlI0dGVUWWlzeDRqbkpnV3cyWGpJSFJtT1lLM0tuOEZtTDZNOXFiRlRrbVVOcnRxZGw4T29IMzYyMzFaMy1CMDF2NmlSX2tLNUxTQm5PNWREZTVsbHh2WmRaMjhrNXZCTGUzZHlCRXNwb1JMYmdwSkplOFRnTm9Bdmg5bEMzR1o2bEpISnVZWXlEWEFvTXlhZVBQUl9ZR1Q4OTh1RWlaWW5SSGNiT0sybnY1eTZGXzRGaTRGSlFvX3BxWjMzRTNEOVBTR3ZsU1JqNEo5TVBfTTNQMVFfZw?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-14T16:00:00+00:00",
+   "first_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794689967_16": {
+   "title": "'Nefarious' Concern Addressed by NFL Insider After Bengals Called Off Trade with Eagles for Ebiketie",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREp6NkdOb2I5Z0g0bmJsV1lBQmZpZHJZcjVWZ2FXUVdsS0tzaGl0SWE4bG1QcnVNTUFuZWp6d0NreDAtNzdkVEdDWVF6cHFHWFctX2ZHMTRIeFJ5VlpaRHVjeUxkUHhBMXUxcEhGWW8ta25ITHN1dUVHVlRyZDIxcVBVOUNTYnV5QUNvOEdCZjk5anUzbk9kSm1oUkgxeUFMZ2lmcUlkWGo4ZEhta3FqajVRSnNEOWZMLW5qTVRWMVFQR3ctN1E?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-14T20:26:15+00:00",
+   "first_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794689967_17": {
+   "title": "The critical mistake Bengals made before controversially backing out of Eagles trade",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWW5hRUFTNW1rVE8zbG9qOGwxSjVWSTZIUEdDb2FDT1BTR2ljd0tTVGdWUmI2cUNYX3lNUEEyQXRJdWZxYm5KSVhfZFVJdWtqSWh0QzNndV9yOUNKOGR5RHZqYnliTE56ZF9rVDZhMlFJZFZlVDBmUHdEMHJRMUNKYzhLb2FJaURCcHluR2ZfSWZJZw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-14T19:11:00+00:00",
+   "first_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794689967_19": {
+   "title": "Flyers Trade Talk: Exploring the Fit of a Western Conference Center",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3F6S3hvYXQzeEpFamJWYS1peDZGWlVJaTdQVFZ3Q1gxaW9mNm9pZGtoLXVjbjZHbDhUNUJicS1qTnJhV2c3ZUl3Wk9XekVNcHRteVp2Mm43SExrbmNOLVc2R0w5ZXpVU0Y1N2gtNG0yR2FwTERRLVJncVNCN1Y1VzlqTzA0eTg?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-14T16:26:07+00:00",
+   "first_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1521,8 +1521,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"06c7b663bad57f26060531ea15d036af\"",
-   "modified": "Sat, 14 Nov 2026 16:42:45 GMT"
+   "etag": "W/\"6148b53e3cafa040646c2e103cbe8c21\"",
+   "modified": "Sat, 14 Nov 2026 20:58:39 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1534,15 +1534,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 16:45:13 GMT"
+   "modified": "Sat, 14 Nov 2026 20:55:23 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"dccacd93cb28af5f8cf1875e90f2ca93\"",
-   "modified": "Sat, 14 Nov 2026 16:30:00 GMT"
+   "etag": "W/\"8dea6823fb4e6bcfbc007855b4f3e517\"",
+   "modified": "Sat, 14 Nov 2026 20:31:36 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1550,18 +1550,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 16:46:03 GMT"
+   "modified": "Sat, 14 Nov 2026 20:59:37 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"5ac057c2ae7607ee2688caad2088f500\"",
-   "modified": "Sat, 14 Nov 2026 15:10:28 GMT"
+   "etag": "\"b922f3b5b75e94339db17437bcd6bd2d\"",
+   "modified": "Sat, 14 Nov 2026 17:16:58 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 16:06:36 GMT"
+   "modified": "Sat, 14 Nov 2026 20:39:39 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"7de7c242e28c0065486779950afab75a\"",
+   "etag": "W/\"9580af453be46a0b3b2f1ff7567e0ada\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1569,7 +1569,7 @@
    "modified": "Sat, 14 Nov 2026 12:40:57 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"5176e2fa0871426d28eeb15764b9db48\"",
+   "etag": "W/\"b2accdc434a698d82107256c669bbb38\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
@@ -1577,8 +1577,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"c6d3b5b37e9776be25b6be28ce0fc90e\"",
-   "modified": "Sat, 14 Nov 2026 15:47:23 GMT"
+   "etag": "\"af346f716d61074bdd2ea8a8e7794e7c\"",
+   "modified": "Sat, 14 Nov 2026 17:01:08 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1590,11 +1590,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 01:08:11 GMT"
+   "modified": "Sat, 14 Nov 2026 19:30:09 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"2a635095e96779bb38c3834eef829be9\"",
-   "modified": "Sat, 14 Nov 2026 16:25:02 GMT"
+   "etag": "W/\"6b033a139eb8a2362e04985b90c38d6b\"",
+   "modified": "Sat, 14 Nov 2026 17:35:39 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1605,8 +1605,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"0b43b387a3cb60d10b7fd1d5e336f499\"",
-   "modified": "Sat, 14 Nov 2026 16:34:15 GMT"
+   "etag": "W/\"d68685440f2d3b8e81aaeb4de4883534\"",
+   "modified": "Sat, 14 Nov 2026 20:04:44 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
