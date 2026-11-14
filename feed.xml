@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:51:51 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran</title>
+      <link>https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss</guid>
+      <pubDate>Sat, 14 Nov 2026 07:46:36 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Nov 14, 02:46 AM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe</title>
       <link>https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe</link>
@@ -13,14 +21,6 @@
       <pubDate>Thu, 12 Nov 2026 20:47:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 12, 03:47 PM ET</description>
-    </item>
-    <item>
-      <title>⚾ Would you be willing to do a bad contract swap trade?</title>
-      <link>https://www.thegoodphight.com/phillies-discussion/89303/would-you-be-willing-to-do-a-bad-contract-swap-trade</link>
-      <guid isPermaLink="true">https://www.thegoodphight.com/phillies-discussion/89303/would-you-be-willing-to-do-a-bad-contract-swap-trade</guid>
-      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-      <category>sports</category>
-      <description>The Good Phight - Nov 13, 09:00 AM ET</description>
     </item>
   </channel>
 </rss>
