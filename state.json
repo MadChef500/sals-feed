@@ -18,23 +18,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794502904_48": {
-   "title": "Tesla Opens Robotaxi Around the Clock in All Eight U.S. Cities",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWFfN1hKdDRMNnBVazRmaGtKZkpSQkZ2MXk3dnc1YjRMR2VvSEZMb0tIQnkyejM1cDRPSlUwYzlTTjRSY3BGajVRTi12cE5iM2NfR1hwNkl2YUVuWi1RelFFV2tRNC1ncFpZN2pqeG9wZXFweV82X2FiMXFnaUdXcUp6T2ZhRl91RWEyT1gyMVdBeV9EWnpUUVI0OTdUdw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-12T09:32:00+00:00",
-   "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-13T02:59:09.205896+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794523433_40": {
    "title": "Man Explains Why Now Is the Right Time To Buy a Tesla: \"FSD Is Hitting Mainstream\"",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2c0MjNvRTFWTFdnSENLcEZEaUJkVVJBWm44MW9vcmNIa3RiUVdQZXlOZ3gtWDFYUTdRYWtjOGR1bURYeWFxR3JDMm9VWkNaMUVQcW5UVGFQM1ptR1BmMDB2OGNpUVhSMDNDX2h0aFN1YmNSeklkZ2lEQ01FNXRSeTV0aEYxT3lwb0ZSS252RGpwRXV4Z2d3?oc=5",
@@ -171,23 +154,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794592788_6": {
-   "title": "New Schuylkill River swing bridge debuts today",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2dKSC1OX19MLXR3aTZBTXNiSmtma3N2RFlCN1dkaC1xTmNwTmxqLXpGNTNELVBFX1I2NmNtVFdUWkdRU0NBdzZKRjd2b2o2dHMyR0ZRb3Z4amQ1OVpNUDZrMDJuSGM1VkVJall4a1htV21KM2s2QVVwdW9MUkNLR1ZuY3ZlenFEUk10Vk1mRGdneHZaelUtQUx2eGRZRVZBa0Q0a0xlVXB2RExwek1F?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-13T11:25:55+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-13T17:59:48.349364+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794592788_7": {
    "title": "Water main break buckles roadway in Philadelphia's Mayfair section",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVE1UlU2bjktRUQ0cjViY05pbmlJb1FRNldwTVNpTW5XVVdUUHZhb3JEM3dyZ0pSYUM3R0phbWVPakQ3NW1ONHJka1BjRGVpVTVMZWIxRmhmT216dmd3TldMMVRsUjYtZk92OUhzclRWTUhVaXc5dzVPVnZ6Z0NSdVNDVnFTay1DblBrOU9WTUw1YzZpYnFCc3dTONIBoAFBVV95cUxQLXFvLW1sTXJvWC00Sk45ODJJVjh0SzlvUmJFWWVaaDFfT1lrZnl3dXV1bEh4SzFZSDVYYWttM21CZnlrVi1rMUtYYnBlVmVPdURhUUxlYjhYc3RxMWRtcGd5WlRLR0ctX01uSW95TmdUZGpOdS1TcXYyUl9Zc3dTWkVUQ1haNWY3LWFwS2RtSDRXcm5udmJmOXRDVmxRLVlC?oc=5",
@@ -267,7 +233,7 @@
    "base": 80,
    "pub": "2026-11-13T15:07:56+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -335,7 +301,7 @@
    "base": 80,
    "pub": "2026-11-13T10:30:00+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -357,42 +323,6 @@
    "trust": 2,
    "gate": 0,
    "cas": 0,
-   "changelog": false
-  },
-  "s1794611829_0": {
-   "title": "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
-   "link": "https://www.pbs.org/newshour/nation/watch-brooklyn-community-leaders-residents-hold-meeting-on-building-collapse",
-   "sources": [
-    "Al Jazeera",
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-13T20:44:20+00:00",
-   "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-15T07:17:31.276936+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794611829_4": {
-   "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5",
-   "sources": [
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 80,
-   "pub": "2026-11-13T21:59:44+00:00",
-   "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 400,
    "changelog": false
   },
   "s1794611829_11": {
@@ -550,23 +480,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794626438_2": {
-   "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFNnX1RBdktPVXhIN3N2NDkzbWFEdVFZbGFWQnBsMTRXbEw2cnRFQmJrcnltUFExaWtjZlBodG1hR1RSS2x4cjhEY2ItQ2FnbWQydm91ek1wYTZzRXJHN09wR0NyUE1nV2IzNkF6S2dnVnVRamszSzVOQzFsMzZvS2ZLUHo3OGZjSkE?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-13T22:45:00+00:00",
-   "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794626438_4": {
    "title": "Man whose wife, son were injured in building collapse wants answers",
    "link": "https://www.cbsnews.com/news/brooklyn-building-collapse-residents-want-answers/",
@@ -612,7 +525,7 @@
    "base": 80,
    "pub": "2026-11-14T02:11:39+00:00",
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -698,7 +611,7 @@
    "base": 80,
    "pub": "2026-11-14T01:34:26+00:00",
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -800,7 +713,7 @@
    "base": 80,
    "pub": "2026-11-14T13:17:40+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -818,7 +731,7 @@
    "base": 80,
    "pub": "2026-11-14T13:00:36+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -955,7 +868,7 @@
    "base": 80,
    "pub": "2026-11-15T00:35:00+00:00",
    "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1006,7 +919,7 @@
    "base": 80,
    "pub": "2026-11-15T03:31:28+00:00",
    "first_seen": "2026-11-15T07:17:31.276936+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1051,13 +964,14 @@
    "title": "UPS plane, passenger jet collide on Miami airport taxiway",
    "link": "https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/",
    "sources": [
+    "ABC News",
     "CBS News"
    ],
    "cat": "breaking",
    "base": 120,
    "pub": "2026-11-15T12:24:57+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1075,7 +989,7 @@
    "base": 80,
    "pub": "2026-11-15T12:00:01+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1109,7 +1023,7 @@
    "base": 80,
    "pub": "2026-11-15T11:30:00+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T14:47:57.023623+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1143,7 +1057,7 @@
    "base": 80,
    "pub": "2026-11-15T09:04:34+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1160,7 +1074,7 @@
    "base": 80,
    "pub": "2026-11-15T06:38:25+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1177,7 +1091,7 @@
    "base": 80,
    "pub": "2026-11-15T08:22:00+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1211,7 +1125,7 @@
    "base": 80,
    "pub": "2026-11-15T18:50:25+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1228,7 +1142,7 @@
    "base": 80,
    "pub": "2026-11-15T11:00:04+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1245,7 +1159,7 @@
    "base": 80,
    "pub": "2026-11-15T15:23:19+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1262,8 +1176,42 @@
    "base": 80,
    "pub": "2026-11-15T19:05:37+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-15T20:00:09.875735+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
    "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794786474_0": {
+   "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y0gGmAUFVX3lxTE1Odm5wa1RPSDRKejRMZDNDRWRsT0pyNXVuUUdybTA3bjNGeEpUc0EzMzA0dlMxVmNFdnlsX09Hd2hKNXd4VGtjN3Q2eGFnX29SenNjQ1BFVDh5eGdqSlRKdzlKM0dPdDlOLWxLZloxa2Rvck41UTRRcEhxVF9nZ1A0ZmlhX2pCSDhrd0stUFkyMzR5ZDByaWZxZDI1SDhPQ2ZjVmpVRmc?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 80,
+   "pub": "2026-11-14T18:23:12+00:00",
+   "first_seen": "2026-11-15T23:47:54.833324+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 400,
+   "changelog": false
+  },
+  "s1794786474_14": {
+   "title": "76ers' $7 Million Forward Could Land on Trade Block",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXBJVFlvVXVfdDBTcDZyNFNDNV9KQVRPcnpqZlJmUmRGaFRpWFJUaW40YWI5Z1l4aVNZQ0NSRWFSZWllelRPTW00eGFWTHN3Y1FrbjRZZWVRMzZaRVRIblYzajRzME1XQXVkblN1TDhQcmszTGdjRUxYQldtalpXdlozVGE?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-15T20:37:23+00:00",
+   "first_seen": "2026-11-15T23:47:54.833324+00:00",
+   "last_seen": "2026-11-15T23:47:54.833324+00:00",
+   "team": "sixers",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1280,8 +1228,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"dd81bbaa55f6d67800377ac33a65e274\"",
-   "modified": "Sun, 15 Nov 2026 19:58:20 GMT"
+   "etag": "W/\"987a685c1557193fae38b8dc73bd5878\"",
+   "modified": "Sun, 15 Nov 2026 23:44:06 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1293,15 +1241,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 15 Nov 2026 19:57:10 GMT"
+   "modified": "Sun, 15 Nov 2026 23:45:15 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"75282955af895b66b5acfa80e8d1275b\"",
-   "modified": "Sun, 15 Nov 2026 19:43:01 GMT"
+   "etag": "W/\"415211912484a4c0f57d270302bfe087\"",
+   "modified": "Sun, 15 Nov 2026 23:15:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1309,7 +1257,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 15 Nov 2026 20:00:36 GMT"
+   "modified": "Sun, 15 Nov 2026 23:48:05 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"a480e93a0cee09358286d6e62756f41f\"",
@@ -1317,27 +1265,27 @@
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 15 Nov 2026 19:17:33 GMT"
+   "modified": "Sun, 15 Nov 2026 21:21:06 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"161e26c323f0bc915b217fe16995f254\"",
+   "etag": "W/\"af7c9b323b972d627e96036e74e435d5\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"fa596e0f4df1d304ff325c07159eaf8f\"",
-   "modified": "Sun, 15 Nov 2026 03:37:37 GMT"
+   "etag": "\"d2f0a8154e67a6b7fa9df93811e0446c\"",
+   "modified": "Sun, 15 Nov 2026 21:00:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"8105d8ce548ab8427c01b9d1d6e9b370\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"0ea26859eac10e8f9cc8f704991b1e7c\"",
+   "etag": "W/\"df6fc6f2cd2b891a7fcfc77eeca97c1a\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"24eae80fe0a6627c26b50e7d2ff14a0b\"",
-   "modified": "Sun, 15 Nov 2026 19:51:37 GMT"
+   "etag": "\"e68bfd8b857cf6cb64718b52c7728d1e\"",
+   "modified": "Sun, 15 Nov 2026 21:29:12 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1349,7 +1297,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 22:52:47 GMT"
+   "modified": "Sat, 14 Nov 2026 22:58:28 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"eecfb246efc4b7dcdd06e001a71d96fd\"",
@@ -1364,8 +1312,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"d88fa598608356c282ab7b3d1613f1cf\"",
-   "modified": "Sun, 15 Nov 2026 18:49:44 GMT"
+   "etag": "W/\"2dac09a7c952c51ab71267668bf3013b\"",
+   "modified": "Sun, 15 Nov 2026 20:29:15 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
