@@ -4,8 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:17:31 +0000</lastBuildDate>
     <ttl>20</ttl>
-
+    <item>
+      <title>🏒 Danny Briere reportedly told Matvei Michkov he won’t be traded</title>
+      <link>https://www.broadstreethockey.com/post/danny-briere-reportedly-tells-matvei-michkov-he-wont-be-traded/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/danny-briere-reportedly-tells-matvei-michkov-he-wont-be-traded/</guid>
+      <pubDate>Sun, 15 Nov 2026 03:31:28 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Nov 14, 10:31 PM ET</description>
+    </item>
   </channel>
 </rss>

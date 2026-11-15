@@ -1,74 +1,5 @@
 {
  "stories": {
-  "s1794422527_48": {
-   "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
-   "link": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
-   "sources": [
-    "Google News Tesla",
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-11T17:05:52+00:00",
-   "first_seen": "2026-11-11T18:42:07.276419+00:00",
-   "last_seen": "2026-11-13T23:17:09.887918+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794422527_59": {
-   "title": "How Much Is Tesla\u2019s Robotaxi Actually Worth?",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2xKRmJSRElDbWtPUFpxUm9PLUJocC1QXzh1b0hCc0FnR1VVZmt6dU5IUW9xeUZLX1FwQ1NPRzJLOTVEWUFsdDdrVkJRbzhrMXM3UmxxRHpRdTJWYmNseUVhWUJNUjNmQ25UbU1SV0hweHZuY2RxamRJZXVnalNlREhrUDBWR0t1cWxjZmxkaFVXcWcyQmxVeU1naUdXSC1U?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-11T14:20:17+00:00",
-   "first_seen": "2026-11-11T18:42:07.276419+00:00",
-   "last_seen": "2026-11-12T08:20:08.884262+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794422527_75": {
-   "title": "I locked down my OpenClaw agent with Claude Code \u2013 then dared it to escape",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NTdZTDZ3c0d3WWRGbkwxSGZjM00xREszeEVBNENVN2M0RlljbU1hSzFWbHY4TWdjaTBhTXYydHZReV9UQTI0SG9ZMVVncjZqZ2hQa3pHYjB1NnlzbHhDZ2hRU0llcTNMcjlyUjBiQjMzWTNlYUdQNFZKdHY0ZDg?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-11T13:09:57+00:00",
-   "first_seen": "2026-11-11T18:42:07.276419+00:00",
-   "last_seen": "2026-11-12T08:20:08.884262+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794445558_74": {
-   "title": "Claude Meetings joins Google Meet calls in Anthropic push",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBienVBbHpBdkVOUVl0bFhUdlJEak8zVDl4OUdWbnl2Y2hGcnlPTW1xOWM4YUdxNEFodUxRek1lNWdROFZWM3lPT0RCVnBVbkM5SVpZandVV2NuaTM2QzROWExFLVlnM2RsT2VuLThSc2xRZFBfdGUwVVJkUXhPbkU?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-11T20:05:15+00:00",
-   "first_seen": "2026-11-12T01:05:58.348847+00:00",
-   "last_seen": "2026-11-12T01:05:58.348847+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794471608_59": {
    "title": "Tesla Robotaxi Now Works 24/7 While Elon Musk's Robots Head to Optimus Academy",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkVIVWNjY3dmZnV6M3JJNzg1eHNaRVVMWlduMzBVNHFnOTl3SEpkeDB6emFzdzlUTWI4eERDZ04tUUlYbWNJaWhyM2NOMUU1SF96VnNyaXFEYmF0Mkdqb19fbTd1RS1DZWpjT2RQdGRDWUFaVEZ1YndBSW1Bdjdlb05DbzM0MFBldENmS2Y3cGxBdw?oc=5",
@@ -86,23 +17,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794502904_10": {
-   "title": "Philadelphia Marathon 2026: What to know about road closures, parking and race times",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEx6ZkhzeHlwYlRRRVRwZ0dVOWZkdjZ0T3FTRkFEQWdlb1dpNDFnYkZjWmJBNm1GSjVfQy0yWkhyemhNdnhDZVROaHlRWFpaTEctSVRmV0I5cjF2M29RVUVTSDlEdFhyVFk1N0locEZZRFQ0cVlJVm13Z0RDT1VvWmQ5bF9lMnRzeW9SUC1idEZmVU5WUVpxZmppcUdST0lCTXh4VVE1aldLTXNUWWg0dWRVbWZ5VVlJRUU1OEZuRFFxS1U?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-12T14:07:52+00:00",
-   "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-12T17:01:44.572691+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794502904_43": {
    "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
    "link": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
@@ -114,7 +28,7 @@
    "base": 80,
    "pub": "2026-11-12T15:49:00+00:00",
    "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -172,24 +86,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794523433_12": {
-   "title": "Ex-Eagles Player Reacts To Confusing Ravens Trade That Puts Him On Notice",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenBla082WlZGdW02M3NxTDUxUmRCTVhJYVBJeU93Vmx2TnlEY3A5YUVDOW1UU1RfVC16MkNRaktiUFU4VnFMNEs0dVFOYlZ5MGR5enRLRXpsRjZjMjl4dGdRdm1rNWJFLWNwUEJ0T1ZPRHVmOEttUzJrNjlzcVlKamZYQy0wLTRPQ2c?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-12T19:12:01+00:00",
-   "first_seen": "2026-11-12T22:43:53.773651+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794523433_13": {
    "title": "Philadelphia city council investigates sudden closure of oldest natural history research institution in the Americas",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2F3RzhkdS1ldGliS193YTNWM2w0LW9IcjdZWG5MU2N3MEl5Rml4aEJjbHV4alY2TUhfNE1IeEdSODZfN3Nmbl9mbDhka2NTNGlWcmJpUExnQWRCZ1VXalJobUZ4b0NiUjNUSW54cHVhUFRUemJCUlZjVlBOUEpBMHE2QkhyZ0hoSHFfYXZmM1RFSWpGcG9Md0NpLU5zbnA0OTRSanZYWHhja3RKWDJuQmtJLXQ3NkpweldBdg?oc=5",
@@ -234,23 +130,6 @@
    "cat": "local",
    "base": 80,
    "pub": "2026-11-12T20:35:48+00:00",
-   "first_seen": "2026-11-12T22:43:53.773651+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794523433_18": {
-   "title": "30th Street Station's South Concourse reopens as Amtrak readies to unveil new food and retail options",
-   "link": "https://www.phillyvoice.com/30th-street-station-south-concourse-reopens-amtrak-philly-food-hall-stores/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-12T17:56:58+00:00",
    "first_seen": "2026-11-12T22:43:53.773651+00:00",
    "last_seen": "2026-11-14T16:45:56.381662+00:00",
    "team": null,
@@ -322,23 +201,6 @@
    "first_seen": "2026-11-13T02:59:09.205896+00:00",
    "last_seen": "2026-11-14T20:59:27.588750+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794538749_23": {
-   "title": "Phillies Right-Handed Relief Pitcher Drawing Trade Interest",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd2NpcjVXVDNZMnFVMXhxVWJLVDRNUk05UzdsaXVGYkF2SzlCSG91VzhZbkpOTnJ4aVhEVWpiLTBlMU9yUmUyT3BXZnNDWWY1cVJ1dUZxbDRNMkJMdmt0QjBYVFYxNS16RnJrcHprdVFvdVFKdXZkNFVhcXlqLWxDb2tHNUtFTWVpRmRkTWYtVWk?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-12T19:00:04+00:00",
-   "first_seen": "2026-11-13T02:59:09.205896+00:00",
-   "last_seen": "2026-11-13T10:30:15.010697+00:00",
-   "team": "phillies",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -528,23 +390,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794592788_1": {
-   "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-13T07:00:00+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-13T17:59:48.349364+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -808,13 +653,14 @@
    "title": "WATCH: Brooklyn community leaders, residents hold meeting on building collapse",
    "link": "https://www.pbs.org/newshour/nation/watch-brooklyn-community-leaders-residents-hold-meeting-on-building-collapse",
    "sources": [
+    "Al Jazeera",
     "PBS NewsHour"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-13T20:44:20+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -1023,7 +869,7 @@
    "base": 110,
    "pub": "2026-11-12T20:47:00+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1093,23 +939,6 @@
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
    "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794626438_22": {
-   "title": "76ers\u2019 Biggest Trade Need Revealed After Solid Start",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaTItdl9FTERiVzRFRjlELTF4TGNEdzdrTk9OR0hsM0xmVnVtYUpQdUo3S1BCWHI3ZkJ4ZE9fMS0zNTAyTjlyb2RoRElHMTRPVmtVVkhGN1c1WnNDMG10TUw5MWozSjFQMFRPVHdhQzctVGg3R3pEMXlLZ3A5Q2lMTEd1R1FMX2NDbUdB?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-12T19:00:13+00:00",
-   "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
-   "team": "sixers",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1212,7 +1041,7 @@
    "base": 80,
    "pub": "2026-11-14T01:34:26+00:00",
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1280,7 +1109,7 @@
    "base": 75,
    "pub": "2026-11-14T16:10:10+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1434,7 +1263,7 @@
    "base": 35,
    "pub": "2026-11-14T23:53:25+00:00",
    "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1451,7 +1280,7 @@
    "base": 60,
    "pub": "2026-11-14T22:43:12+00:00",
    "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1462,13 +1291,14 @@
    "title": "3 Eagles tidbits coming out of the NFL trade deadline",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFVMSVo5X3ZFTG1tUXR3cTN0WjRVV19fU2VvMDFabkdiZnhFX3dZbmNrV0p1ck1FaDB6VVBQY014WUF3Y0oxc1BHY2JzZFBRU2VGN1d4RHZnLU9pSGNHc3dKa2s1WnRDWnNnS1h6bktvMDdTeW5tdFhvQlM2YjlJWlBBR0cxTnVVbTRMYWdBY0dnQ25zdjZqaHJXRXFMc1AtRGdz?oc=5",
    "sources": [
+    "Bleeding Green Nation",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-15T00:35:00+00:00",
    "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1491,6 +1321,40 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1794727051_3": {
+   "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-15T00:00:08+00:00",
+   "first_seen": "2026-11-15T07:17:31.276936+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794727051_7": {
+   "title": "Danny Briere reportedly told Matvei Michkov he won\u2019t be traded",
+   "link": "https://www.broadstreethockey.com/post/danny-briere-reportedly-tells-matvei-michkov-he-wont-be-traded/",
+   "sources": [
+    "Broad Street Hockey"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-15T03:31:28+00:00",
+   "first_seen": "2026-11-15T07:17:31.276936+00:00",
+   "last_seen": "2026-11-15T07:17:31.276936+00:00",
+   "team": "flyers",
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1503,8 +1367,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"da1490cfb7ac70967f0fbdf429694a97\"",
-   "modified": "Sun, 15 Nov 2026 00:44:24 GMT"
+   "etag": "W/\"504e832d51a7de55692119656b35c30a\"",
+   "modified": "Sun, 15 Nov 2026 07:15:31 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1516,15 +1380,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 15 Nov 2026 00:44:55 GMT"
+   "modified": "Sun, 15 Nov 2026 07:14:39 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"910f50330fc8ef714584be990ca32aba\"",
-   "modified": "Sun, 15 Nov 2026 00:39:17 GMT"
+   "etag": "W/\"faefc5296989f702bacbaa4843198767\"",
+   "modified": "Sun, 15 Nov 2026 07:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1532,7 +1396,7 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 15 Nov 2026 00:46:41 GMT"
+   "modified": "Sun, 15 Nov 2026 07:18:25 GMT"
   },
   "https://whyy.org/feed/": {
    "etag": "\"d99b6aa52b646e5888e3480ba052913f\"",
@@ -1543,12 +1407,12 @@
    "modified": "Sat, 14 Nov 2026 22:12:01 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"9580af453be46a0b3b2f1ff7567e0ada\"",
+   "etag": "W/\"9956d74f74f82a568112598d35a140fa\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"9529adabb2fdcdbf67cd9427e658bd3a\"",
-   "modified": "Sat, 14 Nov 2026 21:30:00 GMT"
+   "etag": "\"fa596e0f4df1d304ff325c07159eaf8f\"",
+   "modified": "Sun, 15 Nov 2026 03:37:37 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"b2accdc434a698d82107256c669bbb38\"",
@@ -1559,8 +1423,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"af346f716d61074bdd2ea8a8e7794e7c\"",
-   "modified": "Sat, 14 Nov 2026 17:01:08 GMT"
+   "etag": "\"ddfb97926b869f8ab0f46f74dbed647e\"",
+   "modified": "Sun, 15 Nov 2026 02:25:16 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1572,7 +1436,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 22:48:18 GMT"
+   "modified": "Sat, 14 Nov 2026 22:52:47 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"fa41b977d4a4ef782a7d4dc301ce5609\"",
@@ -1587,8 +1451,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"fdc95a0a1ebc4089a3dd946248577f24\"",
-   "modified": "Sun, 15 Nov 2026 00:08:07 GMT"
+   "etag": "W/\"3239e21113093e00408e07859a278706\"",
+   "modified": "Sun, 15 Nov 2026 02:03:06 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
