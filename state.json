@@ -35,23 +35,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794422527_72": {
-   "title": "Claude Code\u2019s \u2018don\u2019t ask again\u2019 button has a secrets-spilling problem",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPck9qckEtd0h0ZDN1dzAyRVQyNF9nWklmNzJzYnZHY2pkNmRpdl9uYVRfYVNSQ1FwZ05FUjhLMHZMZkI2MTdwYU9hdU5SRXZTRFRENEQ3UWY0WERqSUt0eXdQb28weVhRODFISjV6Zk5ELWlWRVg2eFZLcERKRnhCMk1mcVNrUXJFbERLa2pkMllPR2RkREE2SHp0c1ZhYVZPQmRjVGRaVVpDeEtpOE5YTk9n?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-11T12:01:58+00:00",
-   "first_seen": "2026-11-11T18:42:07.276419+00:00",
-   "last_seen": "2026-11-12T08:20:08.884262+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794422527_75": {
    "title": "I locked down my OpenClaw agent with Claude Code \u2013 then dared it to escape",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NTdZTDZ3c0d3WWRGbkwxSGZjM00xREszeEVBNENVN2M0RlljbU1hSzFWbHY4TWdjaTBhTXYydHZReV9UQTI0SG9ZMVVncjZqZ2hQa3pHYjB1NnlzbHhDZ2hRU0llcTNMcjlyUjBiQjMzWTNlYUdQNFZKdHY0ZDg?oc=5",
@@ -120,23 +103,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794502904_39": {
-   "title": "Flyers Respond to Trade Chatter with Strong Performance, But Oilers Still Win",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2dBSW9LTzQ1UzV4SVp1dm1BX0Z1RVY2MVV2ZnF3ZGpNbEJxRThNLVN6WE5NOVNYYkhKNTJKS1c2dUxXTUU0RTMwOWZMTDN3YWx5cGFnQnltb3hsRDIzZTllOEZibG12M0dDS3QwMDEwUjI0TWVEb2NFb2xpSnZhRlhHekQ3WjFZWkE?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-12T12:00:45+00:00",
-   "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-12T17:01:44.572691+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794502904_43": {
    "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
    "link": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
@@ -148,7 +114,7 @@
    "base": 80,
    "pub": "2026-11-12T15:49:00+00:00",
    "first_seen": "2026-11-12T17:01:44.572691+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -259,23 +225,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794523433_16": {
-   "title": "Washington shooting: 5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself",
-   "link": "https://6abc.com/story/police-say-4-people-have-been-shot-trendy-logan-circle-neighborhood-washington-dc/20035769/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "breaking",
-   "base": 65,
-   "pub": "2026-11-12T21:30:49+00:00",
-   "first_seen": "2026-11-12T22:43:53.773651+00:00",
-   "last_seen": "2026-11-13T10:30:15.010697+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 5,
-   "changelog": false
-  },
   "s1794523433_17": {
    "title": "Philly teachers union says it can prevent school closures with $25 million. The district says the cost is 12 times higher",
    "link": "https://www.phillyvoice.com/philly-teachers-union-school-closures-maintenance/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
@@ -358,41 +307,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794538749_3": {
-   "title": "Brooklyn building collapse: A look at other NYC structural emergencies in recent years",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGRRWUxrOGxTUEFkdFBjRE9rV3Y5UVEzWnpqcVNTdHhOZm1uMlNzb0FwYlFUdklBWS1oaElpWW1peEo4emN0RUtoYjlNWG00dXpqYk9SNzNIaHhTblZpOXhwckZtYVFuY01rZVMxU0V5eGdBRE5ONjNfUTU3emRIMGVrUGVqRk16TTVaWmhwWUducTgxaTY2S3NxMmlKQ25oOXhXUkd1VFfSAbABQVVfeXFMT19TT2hJaEsyWU04X2RNQy1TNGNzUU45ZEVOU2tVNHF4bWtvNW12TWxiV0xQbHczaTlCNHZJZDBDVkVBX096dC1ya0tLNVJuWVZxWUZYbjlOX0dUbExjLWlTT2NnZmxsdnM1UGExV0c0T3JlSTRxZDZaOW1aUGhXd0ZwRWI1U25mUWxvcURPd0pzLTV4WVBHRFJ5TDY4alJDaThvRnJsWFlmUnoxbEdkczk?oc=5",
-   "sources": [
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-12T21:28:40+00:00",
-   "first_seen": "2026-11-13T02:59:09.205896+00:00",
-   "last_seen": "2026-11-13T17:59:48.349364+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794538749_4": {
-   "title": "Hostage situation underway in Montgomery\u2019s Wynlakes neighborhood",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVFxWnJ2SmtsSUgtTWc1Ql95SlNBemIxeFJzX3FCZEFCUTNKcVg5MEtQZTNYZXcyYlRvOEw1cWVwSjlqMU9ndXlfVkJfTUxOb3Y2NWNOVkFXdXp4LVgwS2U2QUtaYnlNcV8xWFpHWW1DdjJBSGJiMk80aHd5TG5ZR3kwOWIxTHZFQlYxMUhZRDFzSlJYT3diX09DQUlJQQ?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-12T22:43:00+00:00",
-   "first_seen": "2026-11-13T02:59:09.205896+00:00",
-   "last_seen": "2026-11-13T02:59:09.205896+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -713,7 +627,7 @@
    "base": 80,
    "pub": "2026-11-13T15:48:07+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -798,7 +712,7 @@
    "base": 80,
    "pub": "2026-11-13T15:07:56+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -866,7 +780,7 @@
    "base": 80,
    "pub": "2026-11-13T10:30:00+00:00",
    "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -954,7 +868,7 @@
    "base": 80,
    "pub": "2026-11-13T21:59:44+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1005,7 +919,7 @@
    "base": 80,
    "pub": "2026-11-13T20:38:42+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1023,7 +937,7 @@
    "base": 80,
    "pub": "2026-11-13T18:00:15+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1040,7 +954,7 @@
    "base": 80,
    "pub": "2026-11-13T22:08:42+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1109,7 +1023,7 @@
    "base": 110,
    "pub": "2026-11-12T20:47:00+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1126,7 +1040,7 @@
    "base": 110,
    "pub": "2026-11-13T17:51:08+00:00",
    "first_seen": "2026-11-13T23:17:09.887918+00:00",
-   "last_seen": "2026-11-14T16:45:56.381662+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1177,7 +1091,7 @@
    "base": 80,
    "pub": "2026-11-13T23:22:49+00:00",
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1212,7 +1126,7 @@
    "base": 80,
    "pub": "2026-11-14T02:11:39+00:00",
    "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1298,7 +1212,7 @@
    "base": 80,
    "pub": "2026-11-14T01:34:26+00:00",
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1366,7 +1280,7 @@
    "base": 75,
    "pub": "2026-11-14T16:10:10+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1383,7 +1297,7 @@
    "base": 80,
    "pub": "2026-11-14T11:00:00+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1400,7 +1314,7 @@
    "base": 80,
    "pub": "2026-11-14T13:17:40+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1418,7 +1332,7 @@
    "base": 80,
    "pub": "2026-11-14T13:00:36+00:00",
    "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1469,7 +1383,7 @@
    "base": 80,
    "pub": "2026-11-14T20:26:15+00:00",
    "first_seen": "2026-11-14T20:59:27.588750+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1486,7 +1400,7 @@
    "base": 80,
    "pub": "2026-11-14T19:11:00+00:00",
    "first_seen": "2026-11-14T20:59:27.588750+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1503,8 +1417,76 @@
    "base": 80,
    "pub": "2026-11-14T16:26:07+00:00",
    "first_seen": "2026-11-14T20:59:27.588750+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
    "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794703549_1": {
+   "title": "3 killed when SUV crashes into North Hollywood food stand",
+   "link": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 35,
+   "pub": "2026-11-14T23:53:25+00:00",
+   "first_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 3,
+   "changelog": false
+  },
+  "s1794703549_3": {
+   "title": "Explosion near Syria\u2019s capital kills father and child",
+   "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-14T22:43:12+00:00",
+   "first_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794703549_16": {
+   "title": "3 Eagles tidbits coming out of the NFL trade deadline",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFVMSVo5X3ZFTG1tUXR3cTN0WjRVV19fU2VvMDFabkdiZnhFX3dZbmNrV0p1ck1FaDB6VVBQY014WUF3Y0oxc1BHY2JzZFBRU2VGN1d4RHZnLU9pSGNHc3dKa2s1WnRDWnNnS1h6bktvMDdTeW5tdFhvQlM2YjlJWlBBR0cxTnVVbTRMYWdBY0dnQ25zdjZqaHJXRXFMc1AtRGdz?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-15T00:35:00+00:00",
+   "first_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794703549_27": {
+   "title": "Outlook went down, then air traffic systems. It\u2019s been a bad week of outages.",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1d3VFZ3Z0JMZkQxdXB3S2oxbmhMWDZDRUM2X1hHMWljOVhoV28wQ1VkMkZIMFBuRWl6MWFMSEY1OUNjN3dYQ2V4NHZfWnA5Qm9EMEdJaERlN0hrRFdWeHpoZUR4emF1TXhlSDFsS3d0VVBXTElaTklCa19hZlBCZlJnSjJPV1BmeUpJbEI5MjhvZDE2YWRDVlZDQnZxbjhyZndySF9wOU12dW9fOGRXaHdxZzZwUVE?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-14T23:15:35+00:00",
+   "first_seen": "2026-11-15T00:45:49.904338+00:00",
+   "last_seen": "2026-11-15T00:45:49.904338+00:00",
+   "team": null,
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -1521,8 +1503,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"6148b53e3cafa040646c2e103cbe8c21\"",
-   "modified": "Sat, 14 Nov 2026 20:58:39 GMT"
+   "etag": "W/\"da1490cfb7ac70967f0fbdf429694a97\"",
+   "modified": "Sun, 15 Nov 2026 00:44:24 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1534,15 +1516,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 20:55:23 GMT"
+   "modified": "Sun, 15 Nov 2026 00:44:55 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"8dea6823fb4e6bcfbc007855b4f3e517\"",
-   "modified": "Sat, 14 Nov 2026 20:31:36 GMT"
+   "etag": "W/\"910f50330fc8ef714584be990ca32aba\"",
+   "modified": "Sun, 15 Nov 2026 00:39:17 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1550,30 +1532,30 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 20:59:37 GMT"
+   "modified": "Sun, 15 Nov 2026 00:46:41 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"b922f3b5b75e94339db17437bcd6bd2d\"",
-   "modified": "Sat, 14 Nov 2026 17:16:58 GMT"
+   "etag": "\"d99b6aa52b646e5888e3480ba052913f\"",
+   "modified": "Sat, 14 Nov 2026 22:12:54 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 20:39:39 GMT"
+   "modified": "Sat, 14 Nov 2026 22:12:01 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"9580af453be46a0b3b2f1ff7567e0ada\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"1f4afaebfe7d818dc97e780ec6238396\"",
-   "modified": "Sat, 14 Nov 2026 12:40:57 GMT"
+   "etag": "\"9529adabb2fdcdbf67cd9427e658bd3a\"",
+   "modified": "Sat, 14 Nov 2026 21:30:00 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"b2accdc434a698d82107256c669bbb38\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"066732da0d9a3700f5f85e3d86933d71\"",
+   "etag": "W/\"61be58ace98241d5b37a778cd29a03b2\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1585,16 +1567,16 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"ae4998ba466f926d64c7bbc2aab8f55a\"",
-   "modified": "Sat, 14 Nov 2026 15:54:23 GMT"
+   "etag": "\"446dd8da543836858e50054dbe0896b3\"",
+   "modified": "Sat, 14 Nov 2026 21:42:46 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 14 Nov 2026 19:30:09 GMT"
+   "modified": "Sat, 14 Nov 2026 22:48:18 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"6b033a139eb8a2362e04985b90c38d6b\"",
-   "modified": "Sat, 14 Nov 2026 17:35:39 GMT"
+   "etag": "W/\"fa41b977d4a4ef782a7d4dc301ce5609\"",
+   "modified": "Sat, 14 Nov 2026 21:26:03 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1605,8 +1587,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"d68685440f2d3b8e81aaeb4de4883534\"",
-   "modified": "Sat, 14 Nov 2026 20:04:44 GMT"
+   "etag": "W/\"fdc95a0a1ebc4089a3dd946248577f24\"",
+   "modified": "Sun, 15 Nov 2026 00:08:07 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
