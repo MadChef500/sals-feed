@@ -4,15 +4,8 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:47:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:21:55 +0000</lastBuildDate>
     <ttl>20</ttl>
-    <item>
-      <title>🌍 UPS plane, passenger jet collide on Miami airport taxiway</title>
-      <link>https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:24:57 +0000</pubDate>
-      <category>breaking</category>
-      <description>ABC News, CBS News - Nov 15, 07:24 AM ET</description>
-    </item>
+
   </channel>
 </rss>
