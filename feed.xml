@@ -4,23 +4,55 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:32:58 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 South Africa shootings: 17 killed in Pietermaritzburg and Pretoria</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LeVc5OGZoLXdYeG5BaUNMVVJyYXVsUGprSHRZWklZN2JQcWZlUVpZc21JRGZGZlZWN3k2NW9ibjY0NVREWjFOU2xITmtQS3RkV0NSS3VlODhYXzA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LeVc5OGZoLXdYeG5BaUNMVVJyYXVsUGprSHRZWklZN2JQcWZlUVpZc21JRGZGZlZWN3k2NW9ibjY0NVREWjFOU2xITmtQS3RkV0NSS3VlODhYXzA?oc=5</guid>
-      <pubDate>Mon, 16 Nov 2026 10:57:48 +0000</pubDate>
+      <title>🌍 Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin</title>
+      <link>https://www.pbs.org/newshour/politics/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/politics/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin</guid>
+      <pubDate>Mon, 16 Nov 2026 14:38:11 +0000</pubDate>
       <category>breaking</category>
-      <description>Google News Top Stories - Nov 16, 05:57 AM ET</description>
+      <description>Google News Top Stories, PBS NewsHour - Nov 16, 09:38 AM ET</description>
     </item>
     <item>
-      <title>🌍 At least 11 killed in blaze on Thailand’s Phuket island</title>
-      <link>https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss</guid>
-      <pubDate>Mon, 16 Nov 2026 07:42:48 +0000</pubDate>
+      <title>🌍 At least 17 people killed in 2 mass shootings on the same day in South Africa</title>
+      <link>https://www.pbs.org/newshour/world/at-least-17-people-killed-in-2-mass-shootings-on-the-same-day-in-south-africa</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/world/at-least-17-people-killed-in-2-mass-shootings-on-the-same-day-in-south-africa</guid>
+      <pubDate>Mon, 16 Nov 2026 10:57:48 +0000</pubDate>
       <category>breaking</category>
-      <description>Al Jazeera - Nov 16, 02:42 AM ET</description>
+      <description>Google News Top Stories, PBS NewsHour - Nov 16, 05:57 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Nearly Doubles Miami Robotaxi Service Area, Expands Into Downtown</title>
+      <link>https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown</guid>
+      <pubDate>Mon, 16 Nov 2026 17:32:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 16, 12:32 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 Measles cases nationwide top 5,400 as deaths rise to 10; decision about US elimination status expected soon amid PA, WI outbreaks</title>
+      <link>https://6abc.com/story/measles-cases-nationwide-top-5400-deaths-rise-10-decision-us-elimination-status-expected-soon-amid-pa-wi-outbreaks/20045123/</link>
+      <guid isPermaLink="true">https://6abc.com/story/measles-cases-nationwide-top-5400-deaths-rise-10-decision-us-elimination-status-expected-soon-amid-pa-wi-outbreaks/20045123/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:37:02 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News - Nov 16, 01:37 PM ET</description>
+    </item>
+    <item>
+      <title>🦅 Eagles News: Patriots writer says A.J. Brown trade “keeps looking worse by the day”</title>
+      <link>https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day</link>
+      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day</guid>
+      <pubDate>Mon, 16 Nov 2026 14:57:54 +0000</pubDate>
+      <category>sports</category>
+      <description>Bleeding Green Nation - Nov 16, 09:57 AM ET</description>
+    </item>
+    <item>
+      <title>🏀 Sixers face young Nets squad with opportunity to extend win streak to three</title>
+      <link>https://www.libertyballers.com/76ers-game-previews/102054/philadelphia-sixers-brooklyn-nets-nba-preview-joel-embiid-lebron-james-michael-porter-julius-randle</link>
+      <guid isPermaLink="true">https://www.libertyballers.com/76ers-game-previews/102054/philadelphia-sixers-brooklyn-nets-nba-preview-joel-embiid-lebron-james-michael-porter-julius-randle</guid>
+      <pubDate>Mon, 16 Nov 2026 13:46:00 +0000</pubDate>
+      <category>sports</category>
+      <description>Liberty Ballers - Nov 16, 08:46 AM ET</description>
     </item>
   </channel>
 </rss>
