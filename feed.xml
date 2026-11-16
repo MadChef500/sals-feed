@@ -4,8 +4,23 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:58:08 +0000</lastBuildDate>
     <ttl>20</ttl>
-
+    <item>
+      <title>🌍 South Africa shootings: 17 killed in Pietermaritzburg and Pretoria</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LeVc5OGZoLXdYeG5BaUNMVVJyYXVsUGprSHRZWklZN2JQcWZlUVpZc21JRGZGZlZWN3k2NW9ibjY0NVREWjFOU2xITmtQS3RkV0NSS3VlODhYXzA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LeVc5OGZoLXdYeG5BaUNMVVJyYXVsUGprSHRZWklZN2JQcWZlUVpZc21JRGZGZlZWN3k2NW9ibjY0NVREWjFOU2xITmtQS3RkV0NSS3VlODhYXzA?oc=5</guid>
+      <pubDate>Mon, 16 Nov 2026 10:57:48 +0000</pubDate>
+      <category>breaking</category>
+      <description>Google News Top Stories - Nov 16, 05:57 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 At least 11 killed in blaze on Thailand’s Phuket island</title>
+      <link>https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss</guid>
+      <pubDate>Mon, 16 Nov 2026 07:42:48 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Nov 16, 02:42 AM ET</description>
+    </item>
   </channel>
 </rss>
