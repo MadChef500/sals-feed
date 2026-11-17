@@ -4,23 +4,23 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:27:12 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>⚡ Tesla May Let Model Y Owners Join Robotaxi Network in December - BASENOR</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpaNkh4X2xmVjFwSC1jZFloTGYyQlFhUDBBUWxkTWNyVy13ZTRVY2J5N3FwaEpnOE9MWHFqUHBxZUNSdmJsQmZBZWdXemE5OUJ3WnVFOTlVcGM3VEhJX25KblpfaWd6UXRTano4bTZCRFRSMzFxUHNXZGFzMldwWm10WWhfSGZYTENQN202VlR3QURWT0lWTWhLUzlzQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpaNkh4X2xmVjFwSC1jZFloTGYyQlFhUDBBUWxkTWNyVy13ZTRVY2J5N3FwaEpnOE9MWHFqUHBxZUNSdmJsQmZBZWdXemE5OUJ3WnVFOTlVcGM3VEhJX25KblpfaWd6UXRTano4bTZCRFRSMzFxUHNXZGFzMldwWm10WWhfSGZYTENQN202VlR3QURWT0lWTWhLUzlzQQ?oc=5</guid>
+      <pubDate>Mon, 16 Nov 2026 23:09:07 +0000</pubDate>
+      <category>tesla</category>
+      <description>Google News Tesla, Not a Tesla App - Nov 16, 06:09 PM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla may test customer-owned Robotaxis as early as next month, Musk says</title>
       <link>https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/</link>
       <guid isPermaLink="true">https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/</guid>
       <pubDate>Tue, 17 Nov 2026 00:04:21 +0000</pubDate>
       <category>tesla</category>
-      <description>Teslarati - Nov 16, 07:04 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month</title>
-      <link>https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month</guid>
-      <pubDate>Mon, 16 Nov 2026 23:29:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Nov 16, 06:29 PM ET</description>
+      <description>Google News Tesla, Teslarati - Nov 16, 07:04 PM ET</description>
     </item>
     <item>
       <title>🦅 Eagles News: Patriots writer says A.J. Brown trade “keeps looking worse by the day”</title>
@@ -28,15 +28,7 @@
       <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day</guid>
       <pubDate>Mon, 16 Nov 2026 14:57:54 +0000</pubDate>
       <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philadelphia - Nov 16, 09:57 AM ET</description>
-    </item>
-    <item>
-      <title>🏀 Sixers face young Nets squad with opportunity to extend win streak to three</title>
-      <link>https://www.libertyballers.com/76ers-game-previews/102054/philadelphia-sixers-brooklyn-nets-nba-preview-joel-embiid-lebron-james-michael-porter-julius-randle</link>
-      <guid isPermaLink="true">https://www.libertyballers.com/76ers-game-previews/102054/philadelphia-sixers-brooklyn-nets-nba-preview-joel-embiid-lebron-james-michael-porter-julius-randle</guid>
-      <pubDate>Mon, 16 Nov 2026 13:46:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Liberty Ballers - Nov 16, 08:46 AM ET</description>
+      <description>Bleeding Green Nation, Google News Philadelphia, Google News Philly Sports - Nov 16, 09:57 AM ET</description>
     </item>
   </channel>
 </rss>
