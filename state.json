@@ -1,73 +1,5 @@
 {
  "stories": {
-  "s1794592788_30": {
-   "title": "Tesla FSD v14.2.2.7 in Europe: Snow, Mud, and What to Know - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMzZnbEROQ1hWUER1dDFaOWt4SGhuSnd1OTExUjFITWpsekJ4alJ0bEtVZDNBWERVVVVmQk15bC1ERExsZW5reUpvM2pyenpucnNCclgwTmZXa0owbmFUQUFPSE5lNU0?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-13T15:07:56+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-16T03:21:55.552019+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": true
-  },
-  "s1794592788_32": {
-   "title": "Tesla Model Y, Reportedly on FSD, Crashes Into Closed Express Lane Barrier After a State Trooper Reports Four Tesla Crashes at the Same Location in 1 Week",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakdqelB2T3dMZ2ZxdHFsYmRoeHVrWm8tZjJDM0NwdDhIdzFzdnVvcXBIazhYQlNaWHk3aS02QWtNaVBka0R1NGVvZE14N0V1alVZUVlxS3BYWDM5NnhnNDlCZDNhXzZrdHd2aGVZWHVVTG5oZzFJX0lKV3lhTGY5TjRuNE1hc0ZGQWFZQ3ppUDRLSUR4SVNoMzdyUkdhUUhDSUY5WGNwQngzZWhheDdOdy1FdXpDWFg0X2FndDBMNVJnQ0U?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-13T15:59:40+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794592788_37": {
-   "title": "I tried Claude Sheets on 3 tasks \u2013 and it saved me hours of work in 10 minutes",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54MXBVUFZsLWJsQVpNTUtwZGxaZ09WTXRvMERYZVhLLXVsVzAyRE43OGZqNEtiQ0dVd3JGX3IyWTVCd3RGdDJjaklhNExSdU1Sbk9tVndvZXo3MThXRTdlSHQtdDd1RUIwODN2Y2tMM2pnUGZianM2RXRCRmxyVzQ?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-13T13:25:07+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-13T23:17:09.887918+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794592788_38": {
-   "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests \u2014 using $15 in hardware, enthusiast reverse-engineered the ancient ECU for diagnostics and control",
-   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxONnJFVmZ3OWh0c1dwaUVDa2tRVUhQZk9DSHVFTjVfVW5yM01icG1IZmdNMjI5ZHFVdHRkU2JsZFZYdUl3RkNYRTRNelM2R1FadnZtY0pXMFYySld4OWhHS2FvdTl1bHJDMXZXWkpMMm5ta09NZkhaUTJod21XVW02ZWhmanowNUhZMlVNTjZTYk9PSjJ6bE8tYWM4U0lqSnh6dzVBdlZLMUVNdWpZVXpMWGktWFNXMXF6d2QyOUVHMktPRE9jWU5KeGtSWnFBU2kwVE0wUEl5VmNtSGZPVDdFaG9DNmUyNTlkVzkwRlduUXp3WUNoZVJKWlFFT2JaQTdLay12SGhPc2xUZEF6Q0xKMUl6NDhPSkNHLWhOUV9GN1hQT1lheWV1SWw4enhBM25uV0g2MVk5dFlWQ3F0bTVDak55SkhuSEVkYW9haWk1TGM2Zw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-13T10:30:00+00:00",
-   "first_seen": "2026-11-13T17:59:48.349364+00:00",
-   "last_seen": "2026-11-15T23:47:54.833324+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794611829_40": {
    "title": "Tesla Pulls $42K Model Y AWD From US Website Amid Musk\u2019s Pivot Toward Robotaxis",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPejZiMDJaS290STFhamxPMDFHTVF6ellZajgtTW1zQ0ZwLWFQdFpZcWFjN0NiTnFGVHQteUFSR1ZmSmN1SjItU3dWS2JITnFwcm0yRUdzUU10ak1McDFSVW11T2lXYUlsRWpDX1lWVDlYUmV5T0FJMmVkZk5vMkE0QzkyemhqVzF6Y2IzSWdQUld5dw?oc=5",
@@ -120,40 +52,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794626438_35": {
-   "title": "Artificial Analysis Coding Agent Index v2.1 refreshes its tests, and two Claude models tie at the top",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yTkFXUk0wVEtZd2NDMEdDZWc4Z1FEQ0duazJoNVc0eUVranl5bU1xS0xSNjIyZVVvUkJDWTZadHd1cnlvOEJ5dFNhYWtnR0tuc2F0V1llc3JBUnhUTGF1SE5DUWtDTDN3Wno4czBfcE9uSXBsUi0zVFV5SQ?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-14T00:10:09+00:00",
-   "first_seen": "2026-11-14T03:20:38.360218+00:00",
-   "last_seen": "2026-11-14T03:20:38.360218+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794653511_16": {
-   "title": "\u2018What The Heck?\u2019 \u2014 Former Raiders CEO Rails Against Voices Calling For Eagles HC Nick Sirianni To Be Fired",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGF6M2RGVGhESzI4R0ppTExTYkdDTldaWElHYmpDSktUZ3J1bUFySElac3N6cC1rNWFrQWFhbFE2VDBISWlodFBuRUhfR082VFdRM3RXTmpFSk1oX1ZaRVFJSGFCMmJXRTdnZG9uRFFsaXVRSUEwNkUxVkRqc1VzNHAzeHA?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-14T09:36:23+00:00",
-   "first_seen": "2026-11-14T10:51:51.335614+00:00",
-   "last_seen": "2026-11-14T10:51:51.335614+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794653511_30": {
    "title": "Key facts: Tesla merger talks; Cybercab preorders; FSD up, income down",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUZkZzNWSzVYUWN2VjRXVHlORk1hRDB6UHNYZFAtdndJcUFCX3l4NG0yeklqX3dUNjJmWEZicGNvUVprZWNsQk4wcDF4RnB6Qm9xeU9CRFkzR2pVUGpUS3pQcnhaYTRhWnk3M2RsTzJmLW4tclo2R3d5ZnJGOWtzWnU4QXVkZi1kcThYck8xLWdLc2dnalhuc25rMDZmLXUwdzRGaHE5OVRMZUFHa3Nhb1hJOUdEZzJoV0h6R0ZSa0ZwSFdDT1hV?oc=5",
@@ -166,75 +64,6 @@
    "first_seen": "2026-11-14T10:51:51.335614+00:00",
    "last_seen": "2026-11-14T10:51:51.335614+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794674756_3": {
-   "title": "Philadelphia opens $28M swing bridge, closing key gap in Schuylkill River Trail",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMi1SdXdibUY3b2lyNVRENzdjWnVmM0hCTXVydEFMOUwwTUhCZXlWcEtIcDdQWW9ZenB0NHIyZXhpQy13NW9YLThZS0hXN05rdTV2eEhsX2lSdzhGM3cxcWVZWURuVy1fQ2JYWDhBblJmLWpIVlViY2tVWm1SMzZqSm91SFZ1UXprV2tYNGZORFhfX25HaWo4RlhaZEJFMklfVk5UbTVsWFpVRXZkMUQ3RGpWUHVtMXhFZEx0Z1pibG5DUQ?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-14T11:00:00+00:00",
-   "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-15T00:45:49.904338+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794674756_6": {
-   "title": "Schuylkill Crossing Swing Bridge open after 8 years of construction",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ21MNS1DNmI4VmktUDJQMUtPZjJXdTF6b2lOeFY5ZzZ2YUFFOFNDbmZYQm1FQUJhVjdta1NralkxTDU1eHpUcFVxRUhFRW5qUzFxa0xSa1VrVF85cHlXZkh6UlBlTGNQNF9aZnc1SWZNV2ltQ1NXcVRndkkyNHA5NUVBVnR2V1FRSWJUM3Z0c3IyQ3hoZ0NnOHBENFNQdXl4RFNlWHFXdzRLTDN4dkgzWNIBuAFBVV95cUxNWUVpcnVQLXRKci0wUTFDMUpqWUdBZWhuVkRHSC1KOVB0TVJCaGRvX3VPbmNWY1FZTzFiaVExa2JqMndkek8wTEY4QUZGaUk2dXdEYWJHcGNqMEdHVE5pLThvV01jVlNwenN2d3VfcGZ4VTdaaERrV0VRWElabi1EOUxVc1UwSjV2SWNUVWdMNTdsQ0RUTzQ1amFmaDNuUm0tUXNpZ0M5OWlValFPRkh1X2R5d0s3c2xn?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-14T13:17:40+00:00",
-   "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-16T03:21:55.552019+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794674756_7": {
-   "title": "Ex-Flyers Defenseman Hits Out At NHL Stars Requesting Trades",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGVfck1qSnltNjV4TWp6WWVpTUhzc3JDN0UzekRHc3Jqa2xzTTlJcGhkSW5QQVBqcUZWZlphMl9Ja19WZ0Z5RUpQRGp1bXljdlR2NVJONE1NU2s4emdORWNUWnp2OE0xb0I5aUp6a2Nza0g4VUQtN3ZscUl4U0ljVWxWa3c?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-14T13:00:36+00:00",
-   "first_seen": "2026-11-14T16:45:56.381662+00:00",
-   "last_seen": "2026-11-15T23:47:54.833324+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794689967_9": {
-   "title": "Eagles Reportedly Make Final Decision on Nick Sirianni\u2019s Firing Amid Philadelphia\u2019s Disastrous 2\u20137 Record",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOa0RyZGlJd3RPd1dzTGtzMmNmUHpfNlI0dGVUWWlzeDRqbkpnV3cyWGpJSFJtT1lLM0tuOEZtTDZNOXFiRlRrbVVOcnRxZGw4T29IMzYyMzFaMy1CMDF2NmlSX2tLNUxTQm5PNWREZTVsbHh2WmRaMjhrNXZCTGUzZHlCRXNwb1JMYmdwSkplOFRnTm9Bdmg5bEMzR1o2bEpISnVZWXlEWEFvTXlhZVBQUl9ZR1Q4OTh1RWlaWW5SSGNiT0sybnY1eTZGXzRGaTRGSlFvX3BxWjMzRTNEOVBTR3ZsU1JqNEo5TVBfTTNQMVFfZw?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-14T16:00:00+00:00",
-   "first_seen": "2026-11-14T20:59:27.588750+00:00",
-   "last_seen": "2026-11-14T20:59:27.588750+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -291,40 +120,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794703549_1": {
-   "title": "3 killed when SUV crashes into North Hollywood food stand",
-   "link": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 35,
-   "pub": "2026-11-14T23:53:25+00:00",
-   "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T14:47:57.023623+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 3,
-   "changelog": false
-  },
-  "s1794703549_3": {
-   "title": "Explosion near Syria\u2019s capital kills father and child",
-   "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-14T22:43:12+00:00",
-   "first_seen": "2026-11-15T00:45:49.904338+00:00",
-   "last_seen": "2026-11-15T07:17:31.276936+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794703549_16": {
    "title": "3 Eagles tidbits coming out of the NFL trade deadline",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFVMSVo5X3ZFTG1tUXR3cTN0WjRVV19fU2VvMDFabkdiZnhFX3dZbmNrV0p1ck1FaDB6VVBQY014WUF3Y0oxc1BHY2JzZFBRU2VGN1d4RHZnLU9pSGNHc3dKa2s1WnRDWnNnS1h6bktvMDdTeW5tdFhvQlM2YjlJWlBBR0cxTnVVbTRMYWdBY0dnQ25zdjZqaHJXRXFMc1AtRGdz?oc=5",
@@ -357,23 +152,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794727051_3": {
-   "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-15T00:00:08+00:00",
-   "first_seen": "2026-11-15T07:17:31.276936+00:00",
-   "last_seen": "2026-11-15T07:17:31.276936+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -422,7 +200,7 @@
    "base": 120,
    "pub": "2026-11-15T12:24:57+00:00",
    "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -576,7 +354,7 @@
    "base": 80,
    "pub": "2026-11-15T18:50:25+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -621,13 +399,14 @@
    "title": "Former New York Mets Pitcher Signs with Rival Phillies",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTFEaG1FOWJXMVNXMzFRMUZ6RnNINmE3NGFCRHJjajZBb2JOcXRhc05aRVBKMmowa2JTTHFraFpHTmVqeWRORE81bm5ud29lR2JZN0lVVXVlNG1aVWMxVnNrT0tXek83Z3ZianJFaE9mTENCbkUySzBjMXgwN2s2TTdldXB5UQ?oc=5",
    "sources": [
+    "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-15T19:05:37+00:00",
    "first_seen": "2026-11-15T20:00:09.875735+00:00",
-   "last_seen": "2026-11-16T11:58:08.899023+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -713,7 +492,7 @@
    "base": 120,
    "pub": "2026-11-16T11:35:01+00:00",
    "first_seen": "2026-11-16T11:58:08.899023+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -781,7 +560,7 @@
    "base": 115,
    "pub": "2026-11-16T05:03:04+00:00",
    "first_seen": "2026-11-16T11:58:08.899023+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -868,7 +647,7 @@
    "base": 60,
    "pub": "2026-11-16T15:55:31+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -885,7 +664,7 @@
    "base": 80,
    "pub": "2026-11-16T20:55:21+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -903,7 +682,7 @@
    "base": 80,
    "pub": "2026-11-16T16:46:37+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -937,7 +716,7 @@
    "base": 80,
    "pub": "2026-11-16T19:28:51+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -954,7 +733,7 @@
    "base": 80,
    "pub": "2026-11-16T18:59:55+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -971,7 +750,7 @@
    "base": 80,
    "pub": "2026-11-16T16:59:59+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1022,7 +801,7 @@
    "base": 80,
    "pub": "2026-11-16T19:34:17+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1033,13 +812,14 @@
    "title": "Eagles News: Patriots writer says A.J. Brown trade \u201ckeeps looking worse by the day\u201d",
    "link": "https://www.bleedinggreennation.com/news/190431/eagles-news-patriots-writer-says-a-j-brown-trade-keeps-looking-worse-by-the-day",
    "sources": [
-    "Bleeding Green Nation"
+    "Bleeding Green Nation",
+    "Google News Philadelphia"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-16T14:57:54+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -1056,7 +836,7 @@
    "base": 80,
    "pub": "2026-11-16T13:46:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": "sixers",
    "trust": 3,
    "gate": 0,
@@ -1073,7 +853,7 @@
    "base": 80,
    "pub": "2026-11-16T17:32:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1091,7 +871,7 @@
    "base": 80,
    "pub": "2026-11-16T18:10:05+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1109,7 +889,7 @@
    "base": 80,
    "pub": "2026-11-16T16:00:24+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1127,7 +907,7 @@
    "base": 80,
    "pub": "2026-11-16T14:00:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1235,6 +1015,92 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1794888515_0": {
+   "title": "3 killed when minivan crashes into Los Angeles food stand",
+   "link": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
+   "sources": [
+    "CBS News"
+   ],
+   "cat": "breaking",
+   "base": 35,
+   "pub": "2026-11-17T03:21:58+00:00",
+   "first_seen": "2026-11-17T04:08:35.323829+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 3,
+   "changelog": false
+  },
+  "s1794888515_5": {
+   "title": "Philadelphia City Council grills Drexel, Academy of Natural Sciences leaders at hearing over closure",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZU9SOUZHMUUwTTBubWxVY0V0OTdiUjgtSVk5VFFHZm11dWgtNjhJOFpua0MwZTlRU3ZpT3RiWVExVV8waDh0UXBjRGpudDNGRzdmUzNyS3JILXg3d2VZSWxuYkF4eVhxYk1UUEZmSXpFbWc2SHpqUXl6NmRJTU1BVW5Yc2QxUkxYeW1iM1ZZNTcwNmRBcXc?oc=5",
+   "sources": [
+    "6abc Action News",
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 115,
+   "pub": "2026-11-16T23:19:32+00:00",
+   "first_seen": "2026-11-17T04:08:35.323829+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794888515_12": {
+   "title": "Philadelphia Eagles Quickly Hire Fired New Orleans Saints Coach",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM1hmZVpOSXBhcHBVU1dhR25jM0ZFcjZpb1VjV1RLSDFJNUdNaFBCTlE3Rl9pNm5DMG1zaWt0cWdiN2NVa3V2RElNbFJzbXNueHR4aDVPQ1locV81ekF3MW4zVXRROE9BYlNWOXRkeGdzSENxVlRJazZGTkRJUUVhZDJ2SnNQTXl2TUFuQnBIV1lVOGd1?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-16T21:44:32+00:00",
+   "first_seen": "2026-11-17T04:08:35.323829+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794888515_22": {
+   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
+   "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
+   "sources": [
+    "Teslarati"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-17T00:04:21+00:00",
+   "first_seen": "2026-11-17T04:08:35.323829+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1794888515_23": {
+   "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
+   "link": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-16T23:29:00+00:00",
+   "first_seen": "2026-11-17T04:08:35.323829+00:00",
+   "last_seen": "2026-11-17T04:08:35.323829+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1247,8 +1113,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"78e93eb44e84e42e3fc19169162af07f\"",
-   "modified": "Mon, 16 Nov 2026 21:30:10 GMT"
+   "etag": "W/\"8edd08e0eb5ca8810991c74c0c330bae\"",
+   "modified": "Tue, 17 Nov 2026 04:07:11 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1260,15 +1126,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Mon, 16 Nov 2026 21:32:13 GMT"
+   "modified": "Tue, 17 Nov 2026 04:03:38 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"fc35e30a1412b4a225a2086b14891819\"",
-   "modified": "Mon, 16 Nov 2026 21:30:00 GMT"
+   "etag": "W/\"413c69b53525cadac1082d34f517d9fb\"",
+   "modified": "Tue, 17 Nov 2026 03:41:14 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1276,18 +1142,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Mon, 16 Nov 2026 21:33:09 GMT"
+   "modified": "Tue, 17 Nov 2026 04:08:43 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"2566c6d40436f27bf5ce534a39324841\"",
-   "modified": "Mon, 16 Nov 2026 21:11:47 GMT"
+   "etag": "\"49a5a386a18f9447fb3bac95c38a7381\"",
+   "modified": "Tue, 17 Nov 2026 00:10:34 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Mon, 16 Nov 2026 20:31:23 GMT"
+   "modified": "Tue, 17 Nov 2026 03:30:00 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"a36174a5d10fc06b14a39fe5751a8b72\"",
+   "etag": "W/\"8fa99058188124af354a6df3167cb1d6\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1299,28 +1165,28 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"0ab69f713c0f8fe8bd04f771fd88f9af\"",
+   "etag": "W/\"f6d77ef40c9aa948259a5d96789fcc0f\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"f64dfc835d95c0f5250c6fa2040e97dc\"",
-   "modified": "Mon, 16 Nov 2026 21:05:07 GMT"
+   "etag": "\"65883a3db705816e8681e3bf67d05dae\"",
+   "modified": "Mon, 16 Nov 2026 23:47:57 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"363b46a95515dbdbb792e35aadfa1813\"",
-   "modified": "Mon, 16 Nov 2026 16:31:28 GMT"
+   "etag": "\"7f3c6e822349ce1c694778b66f0298f7\"",
+   "modified": "Tue, 17 Nov 2026 00:04:21 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Mon, 16 Nov 2026 17:33:37 GMT"
+   "modified": "Mon, 16 Nov 2026 23:30:04 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"e170db9acd4bc2f0309e124057d74045\"",
-   "modified": "Mon, 16 Nov 2026 16:24:01 GMT"
+   "etag": "W/\"354e69f2f4c8b540901cb711ce713e60\"",
+   "modified": "Tue, 17 Nov 2026 00:51:43 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1331,8 +1197,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"6964b5de8d1836616317199e12af3f9a\"",
-   "modified": "Mon, 16 Nov 2026 21:27:18 GMT"
+   "etag": "W/\"54131a063136fb39b3cc2bf7780f1371\"",
+   "modified": "Tue, 17 Nov 2026 00:24:52 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
