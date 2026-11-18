@@ -4,16 +4,8 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:42:22 +0000</lastBuildDate>
     <ttl>20</ttl>
-    <item>
-      <title>🌍 Man gets nearly 30 years in prison for Trump, Biden assassination plot he said was steered from Iran</title>
-      <link>https://abc7.com/post/asif-merchant-sentenced-30-years-us-prison-assassination-plot-trump-biden-he-said-was-steered-iran/20049554/</link>
-      <guid isPermaLink="true">https://abc7.com/post/asif-merchant-sentenced-30-years-us-prison-assassination-plot-trump-biden-he-said-was-steered-iran/20049554/</guid>
-      <pubDate>Wed, 18 Nov 2026 01:42:47 +0000</pubDate>
-      <category>breaking</category>
-      <description>6abc Action News - Nov 17, 08:42 PM ET</description>
-    </item>
     <item>
       <title>🤖 Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop</title>
       <link>https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/</link>
@@ -23,20 +15,20 @@
       <description>TechCrunch AI - Nov 17, 12:32 PM ET</description>
     </item>
     <item>
+      <title>🌍 Man gets nearly 30 years in prison for Trump, Biden assassination plot he said was steered from Iran</title>
+      <link>https://abc7.com/post/asif-merchant-sentenced-30-years-us-prison-assassination-plot-trump-biden-he-said-was-steered-iran/20049554/</link>
+      <guid isPermaLink="true">https://abc7.com/post/asif-merchant-sentenced-30-years-us-prison-assassination-plot-trump-biden-he-said-was-steered-iran/20049554/</guid>
+      <pubDate>Wed, 18 Nov 2026 01:42:47 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News - Nov 17, 08:42 PM ET</description>
+    </item>
+    <item>
       <title>⚡ Tesla Launches Its First FSD Ad in Times Square</title>
       <link>https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square</link>
       <guid isPermaLink="true">https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square</guid>
       <pubDate>Tue, 17 Nov 2026 20:53:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 17, 03:53 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Russian military plane crashes killing all 19 on board</title>
-      <link>https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 17 Nov 2026 21:06:11 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera, BBC News, Google News Breaking - Nov 17, 04:06 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla May Let Model Y Owners Join Robotaxi Network in December - BASENOR</title>
