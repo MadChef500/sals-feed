@@ -4,8 +4,24 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:36:37 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks</title>
+      <link>https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks</guid>
+      <pubDate>Thu, 19 Nov 2026 15:45:15 +0000</pubDate>
+      <category>breaking</category>
+      <description>6abc Action News, Google News Breaking, PBS NewsHour - Nov 19, 10:45 AM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More</title>
+      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes</guid>
+      <pubDate>Thu, 19 Nov 2026 17:07:08 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 19, 12:07 PM ET</description>
+    </item>
     <item>
       <title>⚡ Tesla Robotaxi takes over for Uber credits and loaners at Service locations</title>
       <link>https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/</link>
@@ -21,14 +37,6 @@
       <pubDate>Wed, 18 Nov 2026 19:56:39 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Nov 18, 02:56 PM ET</description>
-    </item>
-    <item>
-      <title>⚾ Rounding up some minor league signings for the Phillies</title>
-      <link>https://www.thegoodphight.com/philadelphia-phillies-roster/89391/rounding-up-some-minor-league-signings-for-the-phillies</link>
-      <guid isPermaLink="true">https://www.thegoodphight.com/philadelphia-phillies-roster/89391/rounding-up-some-minor-league-signings-for-the-phillies</guid>
-      <pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Google News Philly Sports, The Good Phight - Nov 18, 11:00 AM ET</description>
     </item>
   </channel>
 </rss>
