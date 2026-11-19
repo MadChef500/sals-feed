@@ -1,39 +1,5 @@
 {
  "stories": {
-  "s1794754077_24": {
-   "title": "Tesla Robotaxi: 5 Details That Matter Right Now - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWUwTldvMGEtc01XeFhTMWNiaW1DLS01MU9laXEzNWlfdGttZlNXa21LbERkclRGTkpBeTljQ3dDaXhXZFRWMEZtRnJwSEdKZmM1Wks4NnF0cUJpTVZKRFVuSDYtYXVCc2x5U1lNWndGMU1UN0Iyc0N0M3BIanExQWFVRE14Q1hM?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-15T09:04:34+00:00",
-   "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794754077_30": {
-   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-15T08:22:00+00:00",
-   "first_seen": "2026-11-15T14:47:57.023623+00:00",
-   "last_seen": "2026-11-16T11:58:08.899023+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794799315_13": {
    "title": "'Coming Soon': Elon Musk Hints Tesla Owners Could Put Their Model Ys to Work as Robotaxis Without Driving",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd2Rwb1BqN3pxWWZUbVNfVDJCX1hsOHE5OTJKMDR4RnZoRFRnUU92OUxHeDR2YzhPb3dTUDZzcTBWTmNoU01CYnF2Skp3OUpYUmZYUndJRjlVbmxBVlE0bGd2MGhMT0syMTRGY1ZfZHNmMlhSZERtbFVrWXh2V2R2QmhsWHQxcnlzRXhZU2REYXlVSllKSEJTbXI3S2FpczVtclE5alB3SVZEWU9OOUhDLW1LQnZhbmJiU2VhMVljVnA0UlVTYW43VFczNkNvaFJxeFJFMUhOSUwwUjg5UVhVSjJjeWlXcV82OEZV?oc=5",
@@ -44,7 +10,7 @@
    "base": 110,
    "pub": "2026-11-15T17:11:44+00:00",
    "first_seen": "2026-11-16T03:21:55.552019+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -114,7 +80,7 @@
    "base": 80,
    "pub": "2026-11-16T16:46:37+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -273,7 +239,7 @@
    "base": 80,
    "pub": "2026-11-16T17:32:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -291,7 +257,7 @@
    "base": 80,
    "pub": "2026-11-16T18:10:05+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -309,7 +275,7 @@
    "base": 80,
    "pub": "2026-11-16T16:00:24+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -327,7 +293,7 @@
    "base": 80,
    "pub": "2026-11-16T14:00:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -344,7 +310,7 @@
    "base": 80,
    "pub": "2026-11-16T19:21:02+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -378,7 +344,7 @@
    "base": 80,
    "pub": "2026-11-16T13:10:37+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -500,7 +466,7 @@
    "base": 80,
    "pub": "2026-11-17T00:04:21+00:00",
    "first_seen": "2026-11-17T04:08:35.323829+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -518,27 +484,10 @@
    "base": 110,
    "pub": "2026-11-16T23:09:07+00:00",
    "first_seen": "2026-11-17T04:08:35.323829+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794922032_0": {
-   "title": "Breaking news: US court strikes down rule that would have ended Duration of Status (D/S) for international students",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-17T00:20:19+00:00",
-   "first_seen": "2026-11-17T13:27:12.377219+00:00",
-   "last_seen": "2026-11-18T11:42:22.973976+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -809,7 +758,7 @@
    "base": 80,
    "pub": "2026-11-17T20:53:00+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -826,7 +775,7 @@
    "base": 80,
    "pub": "2026-11-17T18:01:00+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -837,18 +786,19 @@
    "title": "Tesla Update 2026.44.1 Release Notes",
    "link": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
    "sources": [
+    "Google News Tesla",
     "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 110,
    "pub": "2026-11-17T04:37:59+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
    "cas": 0,
-   "changelog": false
+   "changelog": true
   },
   "s1794952364_31": {
    "title": "Mercedes launches hands-free, point-to-point driver assistance to rival Tesla\u2019s Full Self-Driving",
@@ -860,7 +810,7 @@
    "base": 80,
    "pub": "2026-11-17T14:03:00+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T11:42:22.973976+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -996,7 +946,7 @@
    "base": 80,
    "pub": "2026-11-18T07:54:13+00:00",
    "first_seen": "2026-11-18T11:42:22.973976+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1168,7 +1118,7 @@
    "base": 80,
    "pub": "2026-11-18T18:33:41+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1185,7 +1135,7 @@
    "base": 110,
    "pub": "2026-11-18T15:00:56+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1202,7 +1152,7 @@
    "base": 80,
    "pub": "2026-11-18T15:07:36+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1219,7 +1169,7 @@
    "base": 80,
    "pub": "2026-11-18T15:49:00+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1236,7 +1186,178 @@
    "base": 80,
    "pub": "2026-11-18T12:06:30+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_0": {
+   "title": "\u2018Never seen it that bad\u2019: State of emergency in South Florida after torrential rains",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVZIeUFKZXlOdU5KV3BBenVvOWxROWlld0lpMFpqU2NiVDR5elRoalFtWWVwYWpyUDlnUS00dWtpYmt4UUdXWDlKc3c1aS1wVjVvUmZWM0tQNllldW42TUF6Nk44UDk1bUxsSDJsU3VOMGE1Vk0teHBza2RiVG9aNTBJVU7SAYQBQVVfeXFMUDdXMWREMHcwZmNjX1RnZ3hqY3FMT3RJRENWdWtFRGpsSUJnaklicU9RVXNYRmVqQjlfT1psdi1ybjlhWXpibkN5NEpCQl8tNWRkd0NpNmlaTno5YVIzWERfQjhKcGExVFBfeHRqdGdQcE9IYVRJdVU4aG9aVzlLX05pQnVq?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 135,
+   "pub": "2026-11-18T12:32:00+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_1": {
+   "title": "Dundalk boat explosion report draws emergency crews - WBAL-TV",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aNXBPWmFKaEFUaUEzcmx4VjJvRXlpemdBLVM5R0Y1dzR3OW84bE1pWEpKWHlUVml1M1l3U2JUbDJscXpUelRiQUl2VTNMajJjbGNsNGpUM3BMQlY4UGZOaEhjRVU0dFJfMTkxbHBjckV3VkxHMXZzckZLYlVKZw?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-18T21:50:00+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_2": {
+   "title": "Palm Beach County pastor convicted of US charges related to assassination of Haitian President Jovenel Mo\u00efse",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkppTmxlQzEwcko4WDUxOUVhZkx4Q21BSnRyRC1zdXZPYlRLSlRpa3I0Z2lrcm1RVzNKM2d1ekNkdjVKQmdHTXJwRThETjdfR2ZGakp0T3BPcHJueEZWLURnMlZMd0s3dEVTZzlZV09xVi1ob1RVbWRMbW5KYUlJRkpkOHdRMk5pajRGZmhKR3lqaU1iTkx5NFlncEpSVUN4MjJyS1RmZ3JMb2NJZmJmdGNsa2dJNkRGQ2wzVkNpZU5BTDVvYUlseE40U290V21yeEE?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-18T22:17:00+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_3": {
+   "title": "WATCH:  Animal rescuers describe cat rescue after Brooklyn building collapse",
+   "link": "https://abcnews.com/video/138262254/",
+   "sources": [
+    "ABC News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-18T21:47:58+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_4": {
+   "title": "Putin\u2019s nuclear briefcase makes surprise appearance at China summit",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-18T20:24:50+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_6": {
+   "title": "NFL insider reveals what Eagles want to do with Moro Ojomo after Jordan Davis trade",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFctSlV2aUZUQ3FUT2pqR1FneTdGOS1tUGc3UUNZZllFV2hIenNWVGV4SkwtM0NKV1FETk01b2wwY2dyRkNRanUxRGpvR01hUlplZDBrNkRIc1Azc3RWT3IzU3dra0JjUEd5NDVzeHF4ZUs4N1M1dXBCQkN5Y1NPeHg0dU1jX2M?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-18T19:44:45+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_7": {
+   "title": "Tesla Robotaxi takes over for Uber credits and loaners at Service locations",
+   "link": "https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/",
+   "sources": [
+    "Google News Tesla",
+    "Teslarati"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-18T20:03:42+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_35": {
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "sources": [
+    "TechCrunch AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-18T19:56:39+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_36": {
+   "title": "Tech experts say recent outages could be tied to artificial intelligence updates",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenN4Zjd4dXFMUXRXOWl6ckFfRDYybVg1RzRNeWJmN0N0bEV4ZXFaUW1PUlNzUnlFREMwWHVzRE5YM28yMXFhR3BuQTctRVBtYU5MVlVpYjBRRC1Va3R5NG5rWU1VZFM2RTZBdUtPYjljQ2N4T3RBSUJ4bEpCLTlhdTFHRzNfLW9Zamc?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-18T22:15:00+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795051670_37": {
+   "title": "Claude-maker Anthropic poised for $1.4tn IPO",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-18T23:36:04+00:00",
+   "first_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1254,8 +1375,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"85269f93d71b626082c1866bafa9c803\"",
-   "modified": "Wed, 18 Nov 2026 19:35:34 GMT"
+   "etag": "W/\"b2ab3cbd5322ae45dc0fc6eeda7cd5e0\"",
+   "modified": "Thu, 19 Nov 2026 01:25:55 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1267,15 +1388,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Wed, 18 Nov 2026 19:35:23 GMT"
+   "modified": "Thu, 19 Nov 2026 01:24:18 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"ff25767eaf91e852d4cf38ecfa6510a8\"",
-   "modified": "Wed, 18 Nov 2026 19:27:42 GMT"
+   "etag": "W/\"0e5a89c9ef346b8c5d1a06606b4d9280\"",
+   "modified": "Thu, 19 Nov 2026 01:18:44 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1283,18 +1404,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Wed, 18 Nov 2026 19:39:21 GMT"
+   "modified": "Thu, 19 Nov 2026 01:28:24 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"ad0aa245332d1e50d1b261ab2928466e\"",
-   "modified": "Wed, 18 Nov 2026 19:37:49 GMT"
+   "etag": "\"5cd06d9e2869d8989b0ce0db0a6a5c67\"",
+   "modified": "Thu, 19 Nov 2026 00:10:30 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Wed, 18 Nov 2026 19:27:21 GMT"
+   "modified": "Thu, 19 Nov 2026 00:24:48 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"296eacf84964fa22d2186df248950a01\"",
+   "etag": "W/\"41febd6bd7c28222cd248c25939d08f5\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1306,28 +1427,28 @@
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"1e1a1bebff46749854a5ac713cc5ff30\"",
+   "etag": "W/\"7dca91d32cc85c18f5a1e677a168f3a6\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"ed5ca36b85451a251c55180ecd2ef04f\"",
-   "modified": "Wed, 18 Nov 2026 18:26:08 GMT"
+   "etag": "\"e0c2e9bba9ff949ba6c27054fdd31f92\"",
+   "modified": "Wed, 18 Nov 2026 23:30:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"34727f0fd91185ae21e8126ec843774e\"",
-   "modified": "Wed, 18 Nov 2026 17:06:52 GMT"
+   "etag": "\"31b8f06f86d7766c926908fa37cf6eae\"",
+   "modified": "Wed, 18 Nov 2026 20:04:23 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Wed, 18 Nov 2026 18:45:08 GMT"
+   "modified": "Wed, 18 Nov 2026 22:19:08 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"16ba901f9e24ead526c72e99e60588a3\"",
-   "modified": "Wed, 18 Nov 2026 19:34:52 GMT"
+   "etag": "W/\"7a4310cab7ce014beb6891621f20503f\"",
+   "modified": "Wed, 18 Nov 2026 22:39:54 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1338,8 +1459,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"8e09ec6da18ed841c9546d7d4a0ba304\"",
-   "modified": "Wed, 18 Nov 2026 19:00:01 GMT"
+   "etag": "W/\"dd59d67939bc18256a6e9982262c0e3e\"",
+   "modified": "Thu, 19 Nov 2026 01:06:59 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
