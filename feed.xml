@@ -4,15 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:46:47 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>🌍 What we know about the latest Russian missile strikes on Ukraine</title>
-      <link>https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 15:14:01 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Nov 20, 10:14 AM ET</description>
+      <title>⚡ Tesla Update 2026.44 Brings FSD v14.3 and v14.3 Lite to Every Owner</title>
+      <link>https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner</guid>
+      <pubDate>Fri, 20 Nov 2026 21:10:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 20, 04:10 PM ET</description>
     </item>
     <item>
       <title>🏙️ NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032</title>
@@ -23,12 +23,28 @@
       <description>6abc Action News - Nov 20, 09:38 AM ET</description>
     </item>
     <item>
-      <title>🌍 Nearly 600 women killed in South Africa within three months</title>
-      <link>https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 15:55:16 +0000</pubDate>
+      <title>⚡ Tesla Expands Dallas Robotaxi Area by a Whole Square Mile</title>
+      <link>https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile</guid>
+      <pubDate>Fri, 20 Nov 2026 22:09:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 20, 05:09 PM ET</description>
+    </item>
+    <item>
+      <title>🏒 Elliotte Friedman says no blockbuster will save Flyers as Ristolainen trade talk grows</title>
+      <link>https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/</link>
+      <guid isPermaLink="true">https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/</guid>
+      <pubDate>Fri, 20 Nov 2026 20:27:44 +0000</pubDate>
+      <category>sports</category>
+      <description>Broad Street Hockey - Nov 20, 03:27 PM ET</description>
+    </item>
+    <item>
+      <title>🌍 What we know about the latest Russian missile strikes on Ukraine</title>
+      <link>https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 20 Nov 2026 15:14:01 +0000</pubDate>
       <category>breaking</category>
-      <description>BBC News - Nov 20, 10:55 AM ET</description>
+      <description>BBC News - Nov 20, 10:14 AM ET</description>
     </item>
     <item>
       <title>🤖 These tech outages are giving Y2K, AI agent style</title>
@@ -39,12 +55,12 @@
       <description>TechCrunch AI - Nov 19, 04:42 PM ET</description>
     </item>
     <item>
-      <title>⚡ Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More</title>
-      <link>https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes</guid>
-      <pubDate>Thu, 19 Nov 2026 17:07:08 +0000</pubDate>
-      <category>tesla</category>
-      <description>Not a Tesla App - Nov 19, 12:07 PM ET</description>
+      <title>🌍 Nearly 600 women killed in South Africa within three months</title>
+      <link>https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 20 Nov 2026 15:55:16 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News - Nov 20, 10:55 AM ET</description>
     </item>
   </channel>
 </rss>
