@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:50:57 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>🤖 These tech outages are giving Y2K, AI agent style</title>
@@ -21,30 +21,6 @@
       <pubDate>Thu, 19 Nov 2026 17:07:08 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 19, 12:07 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Haiti police say 34 gang members killed in capital raid</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 00:31:02 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Nov 19, 07:31 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks</title>
-      <link>https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks</link>
-      <guid isPermaLink="true">https://www.pbs.org/newshour/world/no-breakthroughs-from-trump-xi-and-putins-3-way-talks-on-nuclear-risks</guid>
-      <pubDate>Thu, 19 Nov 2026 15:45:15 +0000</pubDate>
-      <category>breaking</category>
-      <description>6abc Action News, Google News Breaking, PBS NewsHour - Nov 19, 10:45 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Robotaxi takes over for Uber credits and loaners at Service locations</title>
-      <link>https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/</guid>
-      <pubDate>Wed, 18 Nov 2026 20:03:42 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 18, 03:03 PM ET</description>
     </item>
   </channel>
 </rss>
