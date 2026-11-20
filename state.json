@@ -12,7 +12,7 @@
    "base": 80,
    "pub": "2026-11-16T17:32:00+00:00",
    "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -158,23 +158,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794864778_37": {
-   "title": "Is MB.DRIVE ASSIST PRO Ready to Challenge Tesla\u2019s Full Self-Driving Mode?",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmpwX1hfM1dZWjlHdjIyRUdWanhBTXlyeUwxdnlPSFcyWVRBeVBBN1VhdkJBcUl5NnJ2ZmpBamJNNUp6TmppRTNDNUFQNTB2QWtsYzdpX25oUU94S3ZtYlV2ZlJPWUhhb1ByLWNabUdMLW9rVjY1UlJLa1ZkejRCYV9obEhhamF2UWdCN0ZiR1o4b0hjV010Z3JvdjZxTFZXOHlN?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-16T15:45:59+00:00",
-   "first_seen": "2026-11-16T21:32:58.137343+00:00",
-   "last_seen": "2026-11-16T21:32:58.137343+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794888515_22": {
    "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
    "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
@@ -262,42 +245,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1794952364_0": {
-   "title": "Russian military plane crashes killing all 19 on board",
-   "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "Al Jazeera",
-    "BBC News",
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-17T21:06:11+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T03:11:06.245369+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794952364_2": {
-   "title": "Pilot killed in Sweden, Maine, plane crash identified by authorities",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYS1EVEVVZy1VVkJ3N2xMX3NMQnYxS0V6RU1HU1FzQ2NlaDNVUDk5LVpIU0VCemdUakk5NTdub1hTUnhsU1dONExDR081SVdSWWI5X2VpX0M5YzNaV2ZueEQwTEVXZGFQNktKRkFTTFI5ZFRVaXRTSFVveDU0MGRCYjBTM05VS1pMaEFQQlpzLTI5S3A5ZFRN?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-17T20:20:00+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-17T21:52:44.694964+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1794952364_14": {
    "title": "Phillies Talented Reliever Could Generate Trade Interest",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFBYT2dnSk1xTWpyWV9NNnNpZzZnQ2xlSjFKYVVsV1VNMHpIZVlJQV9kSDdfM3FKVTVCQVU1V19JY3ZQdjRLRDVULU1SdXl2eDdyOVhwR0NQa2EzLTdfMWVhQ25CMXUwVHl1MDM2bUd3Vm1QUFdySzFDV0tYcG9ZMGtLLTkteTRPZmthUzlTWV9qMTJI?oc=5",
@@ -336,13 +283,14 @@
    "title": "Flyers Showing Signs of Burgeoning Power Struggle",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaXdDamdXWG9Ga2JYZTdHVnNYdk9wdXFmVExncDZlaklxLU1BM251bWpDQUF4b0RWQ2dROFNmSEt0Zk9hUi13RmgyemRzSm16Q0JXeV9ZaE44a3RBdnQza000RUNON3BwUXg1ZzdsWlBsSXVKcHh4QlpUeTFvYXh6bDhmU0VEMVVCS0FxOA?oc=5",
    "sources": [
+    "Broad Street Hockey",
     "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-17T20:10:39+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T11:42:22.973976+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -359,7 +307,7 @@
    "base": 80,
    "pub": "2026-11-17T20:53:00+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -376,7 +324,7 @@
    "base": 80,
    "pub": "2026-11-17T18:01:00+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -394,7 +342,7 @@
    "base": 110,
    "pub": "2026-11-17T04:37:59+00:00",
    "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -702,7 +650,7 @@
    "base": 80,
    "pub": "2026-11-18T18:33:41+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -829,16 +777,17 @@
    "changelog": false
   },
   "s1795051670_3": {
-   "title": "WATCH:  Animal rescuers describe cat rescue after Brooklyn building collapse",
-   "link": "https://abcnews.com/video/138262254/",
+   "title": "New video shows moment of deadly Brooklyn building collapse",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkUtQjM4THo5WlpVLXFnOGpjY0pMX1BvUEFMOS1sclREb1A3dXExTlBFU3NfdWNhbEREMFhMemRNS1RrQkhIVUlSREcxMnEyb2l4OHExMVFlZlhWRHNBaWV4aVFBakNFZ2xWaVVtazJ2ZlFuNUJHY3UyMkVsODdzSDJXa3U2U2RZOFdLc1NPV3RMZnRmNG5OX2ZRMjd2R216SHd6OWpWVQ?oc=5",
    "sources": [
-    "ABC News"
+    "ABC News",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
-   "base": 60,
+   "base": 75,
    "pub": "2026-11-18T21:47:58+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -872,7 +821,7 @@
    "base": 80,
    "pub": "2026-11-18T19:44:45+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -890,7 +839,7 @@
    "base": 80,
    "pub": "2026-11-18T20:03:42+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -924,7 +873,7 @@
    "base": 80,
    "pub": "2026-11-18T22:15:00+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -941,7 +890,7 @@
    "base": 80,
    "pub": "2026-11-18T23:36:04+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-19T01:27:50.210093+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1038,13 +987,14 @@
    "title": "2026 Philadelphia Marathon: Road closures, course maps and SEPTA detours",
    "link": "https://www.phillyvoice.com/philadelphia-marathon-2026-road-closures-course-maps-and-septa-detours-weekend/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
    "sources": [
+    "Google News Philadelphia",
     "PhillyVoice"
    ],
    "cat": "local",
    "base": 80,
    "pub": "2026-11-17T22:43:59+00:00",
    "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1095,7 +1045,7 @@
    "base": 80,
    "pub": "2026-11-19T08:42:03+00:00",
    "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1114,7 +1064,7 @@
    "base": 120,
    "pub": "2026-11-19T15:45:15+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1183,7 +1133,7 @@
    "base": 80,
    "pub": "2026-11-19T13:49:47+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1201,7 +1151,7 @@
    "base": 80,
    "pub": "2026-11-19T12:00:43+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1218,7 +1168,7 @@
    "base": 80,
    "pub": "2026-11-19T15:59:21+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1235,7 +1185,7 @@
    "base": 80,
    "pub": "2026-11-19T12:00:07+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1286,7 +1236,7 @@
    "base": 110,
    "pub": "2026-11-19T17:07:08+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1320,7 +1270,7 @@
    "base": 80,
    "pub": "2026-11-19T12:46:19+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1360,6 +1310,160 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795135974_3": {
+   "title": "Haiti police say 34 gang members killed in capital raid",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 95,
+   "pub": "2026-11-20T00:31:02+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 34,
+   "changelog": false
+  },
+  "s1795135974_4": {
+   "title": "Six killed in suspected gas explosion at Georgia apartment building",
+   "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-19T23:09:48+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_5": {
+   "title": "Amtrak braces for record Thanksgiving travel at Philly's 30th Street Station",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2JwX0ZfbGFVcWxYV1RVcEFJM0lBaUlwRFlWN0QzeUFJWUQ0Y2FEcnVscDY0WkM1MW0yUGIwNnRLaDExaUJJLTd6TU1XSXZPX0RSaG12dU1xSldYeldMcWtoTUxEbzVMNGJfYWhZbV9lUE9nc1pQMWg2R3J5N2ItdUVKU2N5OG1WTTVyb05WV254cVZwM2F0SjBjT1AxSG4zcXBsdmowWjPSAbABQVVfeXFMUEVIM29RYlJRODI3VDdjSXJxekZXZ2pXbDhocEFIeDBVc3pkZGVRelpHZEVOLWRKZGdvWnpxc0dhWUpwNS1nMjZwbk12SFlKcHBwWnBHT2xDVFdVNFVzckVManpCbHhoUEhVOS1VZTkyS25FeEU4a0pQd2hHZS1fSUU3QWpoYW0xcldTaEdWalNmQ2J5VGlYamdWNGQ1Rm9tT1FNcE9RTW1obUdOb3lod1k?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-19T22:27:04+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_7": {
+   "title": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFN1Unp5eVhrQmNLS1RIczhLaGtBLTNfLU55d3RGMXlfWURpT0VHcGFLWGZVMG1BNlhacUduQ3ZEb00xSjFBbXVKdXpuVXFUaUVveG1hc25sVU9uZ3RyQU9fOXZvWUJZWlYtblRZTjJlMDVPaHlwdjlTZ2VmWi1XVXVSSWsxSnctRmJXTFdQTU5EVm9FZXNOT1lETXJRZl9pNk1jVGZlV2Q5aDR1RmVvdldrWURDcVZOekY1c1V3QV9aZ0h6SE1VTi1QTFZqVXc1?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-20T00:22:19+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_10": {
+   "title": "Will Trade Tensions Continue To Build Around The Philadelphia Flyers?: The Hockey News Wraparound",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1pSQ1J3RVhNUWZ4UTlJU2p0ZW9jbXREU01lY0dvbW14aDFZaEVjODJwWE1zYmdtbU1wSm1CblJzSlBmb2VLMWQxNG1GYkxSSzZZa19kc1duVkFkRzNUcHVsRnlEcmtna3hVcGlNaXhRS3UzVzBSbXhYME1YUlZqZHdybVBZbHB6WGtoQnRn?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-19T21:10:08+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_12": {
+   "title": "Eagles Add Jaydon Blue to 53-Man Roster: How the Signing Impacts the RB Room in Week 11",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rYzlnaUlxSFVNQkR5T3ZxSHp5dTNQeXdvNjBLZkNDeFZFQXQtSGhXSlRjQllHeXR5TzlPbmlZdXpkbFo4UjB2TE1lMVhWcTlzbXVDNnNtSkVFWVRwcGJTNThxS1ZEbzNSSkU1M2ZxY1FfWFBXb25rdGE2RjdQcXM?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-19T20:01:30+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_14": {
+   "title": "Phillies Have a Clear Most Likely Trade Candidate This Offseason",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUk2VVF1cTR2cVhocHNnYTVWUXZtSGU4MzhIN2dPVjZndGZmVjVCZFdHb1VGbFBZRWRfLWZ4THIyanRRaUpBcFlkOTdFMi03VGJTLUt3c2k1anpaSk8tSUZXbm5PVlA3dUhGRlFEU2s5THhLbTE0RkpFazJTNkppUDc1T1BNVkV2?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-19T16:00:03+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_31": {
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "sources": [
+    "TechCrunch AI"
+   ],
+   "cat": "ai",
+   "base": 110,
+   "pub": "2026-11-19T21:42:31+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795135974_32": {
+   "title": "Artificial intelligence Claude Code completed Grand Theft Auto VI in twelve hours.",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2EwZGVLM2ZBNlg2b0otVUxaQ2RYVXljaHRMNENnZmg2dzJQTmxyaV9IM0dRLUlzSHV5MkJnOVc0VjlreVhKYWcwWFhDNDlDaWl1aG5YaHV5Q0w4LUs1NDJmWWV3Q0VaNFAwVl9jU2J5a2ZYcVdZZmoxVmRZbXdxTTZEYU5jSVczb1pjVzhNTEljbl9tT1Axd2tpQ25KMFIwNU9Id003SzNDXzk5Rmlla1g1RmlmWjNOS3JwUnZkYw?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-19T19:33:54+00:00",
+   "first_seen": "2026-11-20T00:52:54.676537+00:00",
+   "last_seen": "2026-11-20T00:52:54.676537+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1372,8 +1476,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"701274f371b7b46d88cacd319ed0c756\"",
-   "modified": "Thu, 19 Nov 2026 18:29:43 GMT"
+   "etag": "W/\"635640f5a5cbea2f2e95caf58e37fd7d\"",
+   "modified": "Fri, 20 Nov 2026 00:48:25 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1385,15 +1489,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Thu, 19 Nov 2026 18:33:41 GMT"
+   "modified": "Fri, 20 Nov 2026 00:51:34 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"c29cc4e2b4220e295658cc08c74d0c61\"",
-   "modified": "Thu, 19 Nov 2026 18:17:59 GMT"
+   "etag": "W/\"7fcf25f0783ac9d00e7068b19e0fd561\"",
+   "modified": "Fri, 20 Nov 2026 00:47:39 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1401,23 +1505,23 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Thu, 19 Nov 2026 18:37:10 GMT"
+   "modified": "Fri, 20 Nov 2026 00:53:02 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"246517cb3219ee80a709f7639527411d\"",
-   "modified": "Thu, 19 Nov 2026 18:35:08 GMT"
+   "etag": "\"e8f8bb3cca2f202457e9587801a7ec16\"",
+   "modified": "Fri, 20 Nov 2026 00:10:58 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 19 Nov 2026 17:59:50 GMT"
+   "modified": "Thu, 19 Nov 2026 23:22:47 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"0b696f4335dbf783571978eb91bdbc55\"",
+   "etag": "W/\"04c3e7b5987fe077d3f7ab50f256fa8c\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"a24346118d526ecb681728fce7da2e2a\"",
-   "modified": "Thu, 19 Nov 2026 15:00:00 GMT"
+   "etag": "\"7791159147f566225b377be9b3643078\"",
+   "modified": "Thu, 19 Nov 2026 22:38:47 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"2c52c5977a254164c41dfddbfcc9ffd3\"",
@@ -1428,24 +1532,24 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"6d8744f4d800c1531322964d70bcc8d5\"",
-   "modified": "Thu, 19 Nov 2026 16:52:14 GMT"
+   "etag": "\"a35ce10e45674cb94370538d41784b28\"",
+   "modified": "Thu, 19 Nov 2026 23:30:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"98626654b71ddb7980b652fc894aa4f9\"",
-   "modified": "Thu, 19 Nov 2026 18:06:03 GMT"
+   "etag": "\"d2ef2eff9a21fa5dc07e6fe37379560f\"",
+   "modified": "Thu, 19 Nov 2026 19:12:16 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 19 Nov 2026 18:36:05 GMT"
+   "modified": "Thu, 19 Nov 2026 22:45:04 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"8ca6865c9f9d80d961d342b189a20c3c\"",
-   "modified": "Thu, 19 Nov 2026 17:58:46 GMT"
+   "etag": "W/\"fdc7ec0ff80135920a0876ea99818407\"",
+   "modified": "Fri, 20 Nov 2026 00:41:56 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1456,8 +1560,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"af9ec780238a906478bfa4d98fd748c2\"",
-   "modified": "Thu, 19 Nov 2026 18:36:28 GMT"
+   "etag": "W/\"23a9160aa4f43a3a4eaf462768665d78\"",
+   "modified": "Fri, 20 Nov 2026 00:43:50 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
