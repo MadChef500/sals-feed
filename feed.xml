@@ -4,8 +4,32 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 07:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:27:09 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 What we know about the latest Russian missile strikes on Ukraine</title>
+      <link>https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 20 Nov 2026 15:14:01 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News - Nov 20, 10:14 AM ET</description>
+    </item>
+    <item>
+      <title>🏙️ NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032</title>
+      <link>https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</link>
+      <guid isPermaLink="true">https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</guid>
+      <pubDate>Fri, 20 Nov 2026 14:38:37 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 20, 09:38 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 Nearly 600 women killed in South Africa within three months</title>
+      <link>https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 20 Nov 2026 15:55:16 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News - Nov 20, 10:55 AM ET</description>
+    </item>
     <item>
       <title>🤖 These tech outages are giving Y2K, AI agent style</title>
       <link>https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</link>
