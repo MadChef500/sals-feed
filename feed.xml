@@ -4,15 +4,15 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:19:38 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>⚡ Tesla Update 2026.44 Brings FSD v14.3 and v14.3 Lite to Every Owner</title>
-      <link>https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner</guid>
-      <pubDate>Fri, 20 Nov 2026 21:10:00 +0000</pubDate>
+      <title>⚡ Tesla Full Self-Driving v15 gets release date from Elon Musk</title>
+      <link>https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/</link>
+      <guid isPermaLink="true">https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/</guid>
+      <pubDate>Sat, 21 Nov 2026 13:47:01 +0000</pubDate>
       <category>tesla</category>
-      <description>Not a Tesla App - Nov 20, 04:10 PM ET</description>
+      <description>Google News Tesla, Teslarati - Nov 21, 08:47 AM ET</description>
     </item>
     <item>
       <title>⚡ Tesla FSD Jailbroken in China, Fix Already on the Way</title>
@@ -21,30 +21,6 @@
       <pubDate>Fri, 20 Nov 2026 18:50:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 20, 01:50 PM ET</description>
-    </item>
-    <item>
-      <title>🏒 Elliotte Friedman says no blockbuster will save Flyers as Ristolainen trade talk grows</title>
-      <link>https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/</guid>
-      <pubDate>Fri, 20 Nov 2026 20:27:44 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey, Google News Philly Sports - Nov 20, 03:27 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032</title>
-      <link>https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</link>
-      <guid isPermaLink="true">https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</guid>
-      <pubDate>Fri, 20 Nov 2026 14:38:37 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 20, 09:38 AM ET</description>
-    </item>
-    <item>
-      <title>🤖 These tech outages are giving Y2K, AI agent style</title>
-      <link>https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</guid>
-      <pubDate>Thu, 19 Nov 2026 21:42:31 +0000</pubDate>
-      <category>ai</category>
-      <description>TechCrunch AI - Nov 19, 04:42 PM ET</description>
     </item>
   </channel>
 </rss>
