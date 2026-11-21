@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 22:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:35:20 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla Update 2026.44 Brings FSD v14.3 and v14.3 Lite to Every Owner</title>
@@ -15,20 +15,20 @@
       <description>Not a Tesla App - Nov 20, 04:10 PM ET</description>
     </item>
     <item>
-      <title>🏙️ NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032</title>
-      <link>https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</link>
-      <guid isPermaLink="true">https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</guid>
-      <pubDate>Fri, 20 Nov 2026 14:38:37 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 20, 09:38 AM ET</description>
-    </item>
-    <item>
       <title>⚡ Tesla Expands Dallas Robotaxi Area by a Whole Square Mile</title>
       <link>https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile</link>
       <guid isPermaLink="true">https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile</guid>
       <pubDate>Fri, 20 Nov 2026 22:09:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 20, 05:09 PM ET</description>
+    </item>
+    <item>
+      <title>🏙️ NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032</title>
+      <link>https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</link>
+      <guid isPermaLink="true">https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/</guid>
+      <pubDate>Fri, 20 Nov 2026 14:38:37 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 20, 09:38 AM ET</description>
     </item>
     <item>
       <title>🏒 Elliotte Friedman says no blockbuster will save Flyers as Ristolainen trade talk grows</title>
@@ -39,28 +39,12 @@
       <description>Broad Street Hockey - Nov 20, 03:27 PM ET</description>
     </item>
     <item>
-      <title>🌍 What we know about the latest Russian missile strikes on Ukraine</title>
-      <link>https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 15:14:01 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Nov 20, 10:14 AM ET</description>
-    </item>
-    <item>
       <title>🤖 These tech outages are giving Y2K, AI agent style</title>
       <link>https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</guid>
       <pubDate>Thu, 19 Nov 2026 21:42:31 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Nov 19, 04:42 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Nearly 600 women killed in South Africa within three months</title>
-      <link>https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 15:55:16 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Nov 20, 10:55 AM ET</description>
     </item>
   </channel>
 </rss>
