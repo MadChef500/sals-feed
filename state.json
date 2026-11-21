@@ -1,73 +1,5 @@
 {
  "stories": {
-  "s1794952364_18": {
-   "title": "Tesla Launches Its First FSD Ad in Times Square",
-   "link": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
-   "sources": [
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-17T20:53:00+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-20T16:27:09.136139+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794952364_19": {
-   "title": "New Tesla Supercharger Adjusts Its Power Based on the Grid",
-   "link": "https://www.notateslaapp.com/news/5027/new-tesla-supercharger-adjusts-its-power-based-on-the-grid",
-   "sources": [
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-17T18:01:00+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-20T16:27:09.136139+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794952364_39": {
-   "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
-   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "sources": [
-    "TechCrunch AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-17T21:34:50+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T19:39:14.549315+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1794952364_40": {
-   "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-   "sources": [
-    "TechCrunch AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-17T17:32:25+00:00",
-   "first_seen": "2026-11-17T21:52:44.694964+00:00",
-   "last_seen": "2026-11-18T11:42:22.973976+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795002142_28": {
    "title": "Tesla Robotaxi Obeys Hand Signals, 0 Drivers Aboard",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2gxQ1BSRnhjMXNKaGQ3UVR6RTRrd2RHYlBMZTRVMTNrTm9NSGZfOWMxNlBGdW1lZUIxdHlYR2hlU3RnLUxLQ25qa2pSZTVIbGpJeDl2c3ZlaUhTbVc0ZFlpbVg2dG8ydW41bVVxUEZlTUI4cTZWdnF2eW1Ub2U2UHpuclFGeDhDY3FBNTNMNA?oc=5",
@@ -153,41 +85,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795002142_45": {
-   "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnIyYlA2MTF3bjg5VFFOOFkxdHNDbDBwYWc2SU9LXzIwVno5blktS0NNdV9CVXdnOTlzYkh0dWpFbEpMQkZpa1BCdXFpR0dLdlAzS3VCODFiQTBwbnFjTkdoVzlkYUUzY3VjT3c1MzB0cEZZdjQ4cUcyOHd1QzE3UGl2M2pZZkh1bG9lTktpSmIta0E?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-17T22:42:44+00:00",
-   "first_seen": "2026-11-18T11:42:22.973976+00:00",
-   "last_seen": "2026-11-18T11:42:22.973976+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795030754_5": {
-   "title": "Rounding up some minor league signings for the Phillies",
-   "link": "https://www.thegoodphight.com/philadelphia-phillies-roster/89391/rounding-up-some-minor-league-signings-for-the-phillies",
-   "sources": [
-    "Google News Philly Sports",
-    "The Good Phight"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-18T16:00:00+00:00",
-   "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
-   "team": "phillies",
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795030754_16": {
    "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
    "link": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
@@ -233,7 +130,7 @@
    "base": 80,
    "pub": "2026-11-18T15:07:36+00:00",
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -269,23 +166,6 @@
    "first_seen": "2026-11-18T19:39:14.549315+00:00",
    "last_seen": "2026-11-19T01:27:50.210093+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795051670_6": {
-   "title": "NFL insider reveals what Eagles want to do with Moro Ojomo after Jordan Davis trade",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFctSlV2aUZUQ3FUT2pqR1FneTdGOS1tUGc3UUNZZllFV2hIenNWVGV4SkwtM0NKV1FETk01b2wwY2dyRkNRanUxRGpvR01hUlplZDBrNkRIc1Azc3RWT3IzU3dra0JjUEd5NDVzeHF4ZUs4N1M1dXBCQkN5Y1NPeHg0dU1jX2M?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-18T19:44:45+00:00",
-   "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-20T07:50:57.903453+00:00",
-   "team": "eagles",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -336,7 +216,7 @@
    "base": 80,
    "pub": "2026-11-18T22:15:00+00:00",
    "first_seen": "2026-11-19T01:27:50.210093+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -357,92 +237,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795080359_0": {
-   "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-19T08:41:00+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795080359_2": {
-   "title": "South Korea\u2019s top court overturns charges against ex-prime minister for his role in martial law",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTFBYnY4Njd2ZTZpWmR3QVl2b1BmOFNMd3VSOXJKRGEyWXNwbHRsaXdBbHg5cGlSLWFoTU1ZNU15OUgyWkdTTFFfUzNyUEF5c0pWUmNqemh6bmYwVnpFUlEtdWQ4endRVWUzeUY1d2lRdF9TOVBSLVpxVGpIRDhTM05QSUZjNFMzdEVLRE9XWENJNE9PTTAzUC1tREt5TGs5NThRQi1BMEpGa2E1VTNJT0JzVU1nUzg4dzVXVHBkbGtnd0RJZllYcjltZXUyRGM5WjZOZDVwZGs5Zw?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-19T08:28:29+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795080359_4": {
-   "title": "Could Trump, Putin and Xi end the nuclear age?",
-   "link": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-19T06:15:55+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795080359_6": {
-   "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
-   "link": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-19T04:46:59+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795080359_7": {
-   "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
-   "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-19T03:58:10+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-19T09:25:59.182283+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -596,7 +390,7 @@
    "base": 80,
    "pub": "2026-11-19T12:00:43+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -681,7 +475,7 @@
    "base": 110,
    "pub": "2026-11-19T17:07:08+00:00",
    "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -818,7 +612,7 @@
    "base": 80,
    "pub": "2026-11-20T00:22:19+00:00",
    "first_seen": "2026-11-20T00:52:54.676537+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -886,7 +680,7 @@
    "base": 110,
    "pub": "2026-11-19T21:42:31+00:00",
    "first_seen": "2026-11-20T00:52:54.676537+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -906,23 +700,6 @@
    "last_seen": "2026-11-20T16:27:09.136139+00:00",
    "team": null,
    "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795161057_18": {
-   "title": "Tesla just doubled its Miami Robotaxi geofence",
-   "link": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
-   "sources": [
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-17T18:12:48+00:00",
-   "first_seen": "2026-11-20T07:50:57.903453+00:00",
-   "last_seen": "2026-11-20T07:50:57.903453+00:00",
-   "team": null,
-   "trust": 3,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -1026,7 +803,7 @@
    "base": 80,
    "pub": "2026-11-20T11:15:00+00:00",
    "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1060,7 +837,7 @@
    "base": 80,
    "pub": "2026-11-19T19:01:08+00:00",
    "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-20T22:46:47.908984+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1112,7 +889,7 @@
    "base": 80,
    "pub": "2026-11-20T15:50:46+00:00",
    "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1197,7 +974,7 @@
    "base": 75,
    "pub": "2026-11-20T21:54:27+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1214,7 +991,7 @@
    "base": 120,
    "pub": "2026-11-20T20:12:26+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1248,7 +1025,7 @@
    "base": 80,
    "pub": "2026-11-20T20:15:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1259,13 +1036,14 @@
    "title": "Elliotte Friedman says no blockbuster will save Flyers as Ristolainen trade talk grows",
    "link": "https://www.broadstreethockey.com/post/friedman-doesnt-see-big-trade-coming-for-flyers-who-must-make-decision-on-rasmus-ristolainen/",
    "sources": [
-    "Broad Street Hockey"
+    "Broad Street Hockey",
+    "Google News Philly Sports"
    ],
    "cat": "sports",
    "base": 80,
    "pub": "2026-11-20T20:27:44+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-20T22:46:47.908984+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "flyers",
    "trust": 3,
    "gate": 0,
@@ -1282,7 +1060,7 @@
    "base": 80,
    "pub": "2026-11-20T15:58:25+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1299,7 +1077,7 @@
    "base": 80,
    "pub": "2026-11-20T20:48:04+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1350,7 +1128,7 @@
    "base": 80,
    "pub": "2026-11-20T22:09:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1367,7 +1145,7 @@
    "base": 110,
    "pub": "2026-11-20T21:10:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1378,13 +1156,14 @@
    "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
    "link": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
    "sources": [
+    "Google News Tesla",
     "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-20T18:50:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1401,7 +1180,7 @@
    "base": 80,
    "pub": "2026-11-20T13:12:40+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-20T22:46:47.908984+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1418,7 +1197,7 @@
    "base": 80,
    "pub": "2026-11-20T21:04:32+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1435,7 +1214,7 @@
    "base": 80,
    "pub": "2026-11-20T20:11:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1452,7 +1231,7 @@
    "base": 80,
    "pub": "2026-11-20T18:26:33+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1469,7 +1248,7 @@
    "base": 80,
    "pub": "2026-11-20T16:30:08+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1520,7 +1299,7 @@
    "base": 60,
    "pub": "2026-11-20T22:52:22+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -1537,7 +1316,7 @@
    "base": 60,
    "pub": "2026-11-20T16:52:00+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1572,7 +1351,7 @@
    "base": 80,
    "pub": "2026-11-20T23:28:19+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1589,7 +1368,7 @@
    "base": 75,
    "pub": "2026-11-20T23:11:00+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1606,7 +1385,7 @@
    "base": 80,
    "pub": "2026-11-21T02:06:00+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1623,7 +1402,7 @@
    "base": 80,
    "pub": "2026-11-20T23:24:46+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1640,7 +1419,7 @@
    "base": 80,
    "pub": "2026-11-20T23:46:00+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1663,6 +1442,74 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795261235_16": {
+   "title": "Eagles ecstatic after bringing back coach who was \u2018secret sauce\u2019 behind Super Bowl, playoff runs",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUIxZlZabVlQZVNISl9nR0J2VGstREIyVWJrN2hRRlJqZnFvX0JKd0pCY01hNm14RTVsUUliTi13bnIzbUpiRFJ1N2stSVRCS0ozSlFOeWhqeHh5dWhPSUNhT0hmMmFLTDNUbXJGdVEzRi16Y3dGVFI4QjdaQ1VVdHcyMkU5SHk5QXdWOWswYUthcFFzeWlWVDBXUmIzaVpnN2ptQ3IwUXNpbFdZYkV2ZkE4bEVNSW1tbnFSMHgtQ2x5MTB3alA4ZkpIZFU?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-21T11:30:00+00:00",
+   "first_seen": "2026-11-21T11:40:35.650100+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795261235_19": {
+   "title": "Phillies Part Ways With .280 Hitter",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmdESDlKbW1tNmlCZkVLQ3lBajYzcFNIN053ZG5ZbjhILWFFX0VYeXJDUHNYd1A1bF9PR0ZkYlRQZHlxQ1psdnZiUVhvdm8wY0xabGxKV2NQLUJyTWZiUFRFS0x3Z2pnLWo2ZTVOd3N6aWtWUnJFSlpiMzFTdVlTX2RfamY?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-21T03:26:00+00:00",
+   "first_seen": "2026-11-21T11:40:35.650100+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795261235_22": {
+   "title": "Does Signing Randy Arozarena Mean the End for Brandon Marsh in Phillies Left Field?",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFluajEzQ183X2xSdExpOVBRUFU2OW9CVmM2YXB4Q1VFMVJkMFdBTEVDbDF2eGRqYU9zZGVobUVQMm53QndyZTVIMUVzYjZsOHU4QV9ERWxEc0s2cGJoYkdfUEhUcTd5N2xvMWQ1UDRkRm1yQXh3UGYydWYyLW5LY3hQTGZ4YjM3ZVE?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-20T20:21:09+00:00",
+   "first_seen": "2026-11-21T11:40:35.650100+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795261235_40": {
+   "title": "Anthropic: Claude may have solved a 167-year-old enigma",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkY2RzlUdGJNdy1uWnpUaEJaRi11TWgtZkpVLUpYLVM4cjItZFN3LWJPZWtnS21tVU01RmYzc1AzZUl2aGpPUnpCMjQwUlcxRHpQRnh5YWhPVUZSSTB0NlU0VXNoNW9URW9zWl9pNTJZR0tFakVPX25QWHIxZWZYbWtOc281U0NOakJ4NkZ3?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-21T08:15:07+00:00",
+   "first_seen": "2026-11-21T11:40:35.650100+00:00",
+   "last_seen": "2026-11-21T11:40:35.650100+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1675,8 +1522,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"a0c82eef57164e652def0070340149db\"",
-   "modified": "Sat, 21 Nov 2026 03:28:15 GMT"
+   "etag": "W/\"d427b315196ed27db299f2dc9fecb141\"",
+   "modified": "Sat, 21 Nov 2026 11:35:31 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1688,15 +1535,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sat, 21 Nov 2026 03:34:33 GMT"
+   "modified": "Sat, 21 Nov 2026 11:38:51 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"d57e0754f65aed64edc3f4ed804ac32c\"",
-   "modified": "Sat, 21 Nov 2026 03:02:35 GMT"
+   "etag": "W/\"5940129331acc38521f446cf3868dceb\"",
+   "modified": "Sat, 21 Nov 2026 11:25:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1704,23 +1551,23 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sat, 21 Nov 2026 03:35:53 GMT"
+   "modified": "Sat, 21 Nov 2026 11:41:05 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"b78e3d8ec77fa781c0faa590dda5e157\"",
-   "modified": "Sat, 21 Nov 2026 00:28:38 GMT"
+   "etag": "\"0bacc4f6a9fc9003d602f939a0c9e00f\"",
+   "modified": "Sat, 21 Nov 2026 11:00:31 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sat, 21 Nov 2026 01:37:25 GMT"
+   "modified": "Sat, 21 Nov 2026 10:00:00 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
    "etag": "W/\"a82f45229e336c72e7d5b120d207c8c1\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"1d40112b7008fcb309a9ec5bae090782\"",
-   "modified": "Fri, 20 Nov 2026 20:36:59 GMT"
+   "etag": "\"f1fbf23d95f9744f025c74dc075101bb\"",
+   "modified": "Sat, 21 Nov 2026 04:10:33 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"a6dbfba063ecad473290d46b81b3368f\"",
@@ -1744,7 +1591,7 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Fri, 20 Nov 2026 23:34:39 GMT"
+   "modified": "Fri, 20 Nov 2026 23:38:00 GMT"
   },
   "https://electrek.co/feed/": {
    "etag": "W/\"2d77d6ce8f703decffb8b3bacca89dbe\"",
@@ -1759,8 +1606,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"d92f433df2caae0c2064130d1fa9fda0\"",
-   "modified": "Fri, 20 Nov 2026 22:51:13 GMT"
+   "etag": "W/\"daf5b272d9c371b309475f2d6950a1e6\"",
+   "modified": "Sat, 21 Nov 2026 03:12:13 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
