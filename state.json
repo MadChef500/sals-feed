@@ -68,58 +68,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795113397_35": {
-   "title": "You Can Trick Claude Into Drone Striking Civilians and Wounded Soldiers in Real Life By Telling It Everything's a Video Game",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGtITkFkLVVlN0hIMF9BUE1EV2sxNFlLZy1qRzkycGNWQS1sWi13Y285TTVMRXJwZGV4dVY3VHlrRWl0ZzdVR1VXeEtELUZaYkI4SklPVjVEaGZhQ2w5Z193R2NGWVpxaHZpSDRvRFB3dlRsNHpOMS05My1hT1I2ZEhzZnB1czBJQzBkaG9FMkdOMmc?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-19T14:32:35+00:00",
-   "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795113397_36": {
-   "title": "ChatGPT, Claude, Gemini And Grok Produced Viable Terror Attack Plans, Government Finds",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM21qSkJIUmcyUGFGeFlhY252bGc0RjdueVowQjhhcHI0UkEwckdOTGZLbGV3U1hsdkRTUjlkdF9UMkplVWZpY19iNmRjQmxFUHkzbXVvQUczT25RcUh2RDhQTjJpX2dlbnB2SWlIa0M5VGViSWNmZUNOZm9tS0o2Q0tETy0yeUtpQXMyVTNoT0Zxd25Td1RVZzBlcFc1ZGFqbzQ1ZkMtZ2h5MXgyUndJNWp4RjJGT1AwRENEZTF0dFFEUVRqcE5fM05semQyZ18zejJMeGpuYk9HVEdVZnY0WFkxa1FjdkkwNEp1c054NEFfWGxScVVWVm1FQ2c?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-19T18:18:04+00:00",
-   "first_seen": "2026-11-19T18:36:37.662308+00:00",
-   "last_seen": "2026-11-19T18:36:37.662308+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795135974_7": {
-   "title": "The Steelers last won in Philadelphia in 1965. Can they top an Eagles team on 7-game losing streak?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFN1Unp5eVhrQmNLS1RIczhLaGtBLTNfLU55d3RGMXlfWURpT0VHcGFLWGZVMG1BNlhacUduQ3ZEb00xSjFBbXVKdXpuVXFUaUVveG1hc25sVU9uZ3RyQU9fOXZvWUJZWlYtblRZTjJlMDVPaHlwdjlTZ2VmWi1XVXVSSWsxSnctRmJXTFdQTU5EVm9FZXNOT1lETXJRZl9pNk1jVGZlV2Q5aDR1RmVvdldrWURDcVZOekY1c1V3QV9aZ0h6SE1VTi1QTFZqVXc1?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-20T00:22:19+00:00",
-   "first_seen": "2026-11-20T00:52:54.676537+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795135974_31": {
    "title": "These tech outages are giving Y2K, AI agent style",
    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
@@ -130,7 +78,7 @@
    "base": 110,
    "pub": "2026-11-19T21:42:31+00:00",
    "first_seen": "2026-11-20T00:52:54.676537+00:00",
-   "last_seen": "2026-11-21T23:27:05.222261+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -188,61 +136,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795192029_0": {
-   "title": "What we know about the latest Russian missile strikes on Ukraine",
-   "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "Al Jazeera",
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-20T15:14:01+00:00",
-   "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795192029_1": {
-   "title": "Nearly 600 women killed in South Africa within three months",
-   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 95,
-   "pub": "2026-11-20T15:55:16+00:00",
-   "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-20T16:27:09.136139+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 600,
-   "changelog": false
-  },
-  "s1795192029_2": {
-   "title": "Magnitude 4.4 earthquake hits near downtown Los Angeles",
-   "link": "https://abcnews.com/US/magnitude-44-earthquake-hits-downtown-los-angeles/story?id=138315998",
-   "sources": [
-    "6abc Action News",
-    "ABC News",
-    "CBS News",
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-20T12:08:49+00:00",
-   "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795192029_3": {
    "title": "Philadelphia Marathon weekend: Road closures, route and all you need to know",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEVxR0NvWW8yOU9TelQtM0Z5ZjVUV3BJX2NPMUs0S0oxTnE5TTFrZ2N2YVQtVERLeTNaR01VanAwZFpyR0U2RklRZWFadDF1Ulo2Y2R3NmZOTHd2TmlNOHdlQ09DNWdSTjA1TzJOR0xUdG15a0JpTUlkLVZ6UU8tNXNnYkpWQjFUUVNFdnNFLVgtTlhvaXlHelNYLVhXeFFzMVI0MmNkQ1pPTElOZnJaeDRuaw?oc=5",
@@ -295,23 +188,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795192029_11": {
-   "title": "The State Of The Opponent: Flyers Showing Signs Of A Turnaround",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmlIblRQb3JZOExnZnMwTDBmbUVfSVU1WHhrQ19uZDVCM29HUV9fck15eEdXVkxtbjNidnJMUWFmVVdtZEh4cUNydFdDdkYtX0JWTTBMLTNhb21iTEFUSkluTVRkRHFvbTBWMWxWRkdtUXI3RWdMTTNOZ0E2eXhySGdpZXRhcWV5cUNwUQ?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-20T00:14:00+00:00",
-   "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-20T16:27:09.136139+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795192029_19": {
    "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
    "link": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
@@ -323,7 +199,7 @@
    "base": 80,
    "pub": "2026-11-20T15:50:46+00:00",
    "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -562,7 +438,7 @@
    "base": 80,
    "pub": "2026-11-20T22:09:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T18:19:38.632810+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -580,7 +456,7 @@
    "base": 110,
    "pub": "2026-11-20T21:10:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T18:19:38.632810+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -598,7 +474,7 @@
    "base": 80,
    "pub": "2026-11-20T18:50:00+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-22T03:25:41.799097+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -666,7 +542,7 @@
    "base": 80,
    "pub": "2026-11-20T16:30:08+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -724,23 +600,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795232120_2": {
-   "title": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU291OEFTamphSmg2LXZBUzlrbzJzelRKUnZ0bEd6cTE1dFBWd1V4Xzk0RE1lOVBzTUprLUpDODVHb1J5RWNoT2FzODVnR2Fzd2tpb0NjckNxZlhMWXMzSGdjc2tadFFxREd3eFF6TDktOHRXZnNTMmJ6UEUxemNwdWNoMXNYWE5GY1piNlJxT0ZGaWRjR3pLSjNEekUxR251elAwWWdn?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-20T16:52:00+00:00",
-   "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T11:40:35.650100+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795232120_7": {
    "title": "At least 7 children dead, 50,000 people treated in hospitals amid early flu season surge",
    "link": "https://www.cbsnews.com/video/at-least-7-children-dead-50000-people-treated-in-hospitals-amid-early-flu-season-surge/",
@@ -769,7 +628,7 @@
    "base": 80,
    "pub": "2026-11-20T23:28:19+00:00",
    "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1111,7 +970,7 @@
    "base": 80,
    "pub": "2026-11-21T13:47:01+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T03:25:41.799097+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1122,13 +981,14 @@
    "title": "Tesla\u2019s FSD V15 Goes to Wide Release Next Month, Musk Says",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaklHcHNZeDJBTUZHSWQ4ZFNtTmpNYVlCRFp3dEtmbXlIR0xOWm9UcU1UTE01ZlFPcDBveVBsZ0VOMGlLSjBzeERDVGR2WF9MNzM5TlVsS01ITWtoaFNWVktHTzh2MXpGeURQRDlnaU5qbHZfNlVVVTBfTGJyUTg4VDk3dURxSmV6TnVXdVlFVVhOVVNDa1lJ?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-21T17:37:00+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1145,7 +1005,7 @@
    "base": 80,
    "pub": "2026-11-21T17:03:53+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1231,7 +1091,7 @@
    "base": 60,
    "pub": "2026-11-21T20:57:37+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1249,7 +1109,7 @@
    "base": 80,
    "pub": "2026-11-21T21:08:32+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": "sixers",
    "trust": 2,
    "gate": 0,
@@ -1267,7 +1127,7 @@
    "base": 110,
    "pub": "2026-11-21T21:19:57+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": "eagles",
    "trust": 3,
    "gate": 0,
@@ -1353,7 +1213,7 @@
    "base": 80,
    "pub": "2026-11-21T19:56:56+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1370,7 +1230,7 @@
    "base": 80,
    "pub": "2026-11-21T21:42:48+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1387,7 +1247,7 @@
    "base": 80,
    "pub": "2026-11-21T23:16:44+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1398,13 +1258,14 @@
    "title": "Tesla Starts FSD V15 Rollout, Adding Reality View and Speed-Camera Slowdown",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZndMWWJ1UjN6dG10aUpNSUZ3RnhlR2IydTk1X3lFTDNDbG96STU3T0RYSUl2MUtZTWNsay1QbnZ3TGlURlpNYTNXT0p6c09Rb3lVSUZ3b2NDS2o4ZG45VTcxOVRoRkRmS0laVXZKYVV3X01HOXpKYVViLUZacUFUNEFOWnJfMUhsTXI4SVhfbGxjc25hN3Y5ejFWcGhQbWZueVVIR3hyMF80bU5GOHlV?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-21T20:25:00+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1421,7 +1282,7 @@
    "base": 110,
    "pub": "2026-11-21T22:53:10+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1541,7 +1402,7 @@
    "base": 80,
    "pub": "2026-11-21T23:28:34+00:00",
    "first_seen": "2026-11-22T03:25:41.799097+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1610,7 +1471,7 @@
    "base": 80,
    "pub": "2026-11-22T08:33:49+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1627,7 +1488,7 @@
    "base": 80,
    "pub": "2026-11-22T06:34:41+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1644,7 +1505,7 @@
    "base": 80,
    "pub": "2026-11-22T03:49:00+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1661,7 +1522,7 @@
    "base": 80,
    "pub": "2026-11-22T04:39:23+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1678,7 +1539,7 @@
    "base": 80,
    "pub": "2026-11-22T07:10:15+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1752,6 +1613,282 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795373029_0": {
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "Al Jazeera",
+    "BBC News",
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-22T17:16:47+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_2": {
+   "title": "Watch the breaking news, coverage of President JFK's assassination in Dallas as it happened in 1963",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUjRzUVQzTXhPcDY3SXF1SG0tMkRTdkxSSjJucnZIUTM1NGZoeGNINFg0bzljYmtkLVR2dFE2YlZfZlNuUXItSGpmR0txYzlVUThnMldlMTV2UWJjQ01uTmxzekRZRGZkaVN5TXRXZzJla2U2am9zSWdISXFnUU51VGhwRDhGWHFXaW9Ub1RmU0lpRV9rNFNXNEFuTHNmRGFyR3d5d285Y3FZeHZIN1V6aW9NM0w5VExxYWhGXzRkczJGOHZqaXMtUWoyOUtOLU54a29RRnJGcS1ueUxvTlJlTUFB?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 135,
+   "pub": "2026-11-22T14:04:50+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_4": {
+   "title": "Looking back at Steelers' historic losing streak vs Eagles in Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHRONFE0YWhNNFJ2a3l1bnRmUnJtOU5VMkFfZnN0NHowWFdvYWtyLXBXVUJMT2VQYmZkT2V6Y2plMlFGS0xmN29WQmtGMkpQc05hZ0JJNjNHME1oN2ZrakNhUmVrM0g0SE9ISDY2WjBRWXRQNVg1RTJERVhYX2g0ZUprdVVmVDJMN3cweGhoQQ?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T10:05:15+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_9": {
+   "title": "76ers Hold Off Bucks 132-129 to Extend Win Streak",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yYTJXLXhadWFQUHZoY0RLSjNxamZXcHNlcFZMNDZ1RHlrZGMxOXgxTVItSWRWNTFtVVl4Qk00QW1kREdHNkl6Q1F5cjQzMGNpektibktibGQzRXE2QjlzVHFsb3ZObmZETE5TaUw1WkFaZ01VTDUw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T12:21:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_10": {
+   "title": "How long is Jalen Hurts out? Injury update as Eagles QB recovers from blood clots",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd19EanpmU3g3d3AteGxfb2ZwUHNyR0JPUDNmX1Z3NDBCU1lsRVgwYS1Qc0xPRlJlalh2QU5HYzltQ05XbUx4bnZFNWRxd2x5Q2JMMDVQNFFSWW5xY1ZxWDIwcXJDOUlNcnBNSDRxVGFULXFvZU1DdzZCbzN2QTY0VW84eDExZ2l1TnJLSTJHNUtXaTRVRG5QZENJUE1rMVcxenBJdDN2cVI?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 110,
+   "pub": "2026-11-22T16:23:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_14": {
+   "title": "Sabres Have Trade Target To Consider In Flyers Sniper",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNlUtbElwQmFzU2hUX3lpMkRydkRHSHhaME4xM3N4bzBRVUw5TWdYWl9wbEgtQkJuT3dtYzk2MU4tVzBaOWEyN2ZUSk10M05tVU5DLVlKVUp2X2trQm9PZ3lMWko0Tm5kX3NlWjBZVWI1QnRudTVPZ2luMll3LTR4ZXpPdUFORlpVckdYVA?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T13:54:55+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": "flyers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_17": {
+   "title": "Tesla's Updated Cybercab Manual Hints at Owner Robotaxis, Highway Access & More",
+   "link": "https://www.notateslaapp.com/news/5061/teslas-updated-cybercab-manual-hints-at-owner-robotaxis-highway-access-more",
+   "sources": [
+    "Google News Tesla",
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-21T16:25:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_25": {
+   "title": "J.P. Morgan Says Tesla\u2019s Robotaxi Fleet Could Match Waymo\u2019s Miles by Late 2027 With 18,000 Cars. The Number That Matters Is How Much Each Car Earns.",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVTdLazhaSW1HUjBVQ3c2MmJ4d2EzMi1MeEMteXBiZ0wxdWJzbXZfVVJBQkZiR0VNWXhQOGp6bVRqZWxCdEM4VjFCLUhfRWRIdzcyR0syaE1uTEZlcDBSM3BJUjZSOTQ0RW10dE00VXRTMnBrSExvSFgzdGdkQW9sUnYzeWNuUjNESVNTM2NidnF0MWxWcUJ4aC0wNWRpQ0p3MXptbGlHSjMtOXpsT2xhRG9vRFNwUkZsLXNPTWZGZUFTWnR5NzJsU0tSX2xmaEtRdEVOaTVIXzJNal9iTXVmb25scDZlRllha2d4MW5kS1ZWaWROR2kxd29NNUhwNVVXRU9BZm9MX1V5eEtUSG1scHVoMmN6MWM?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T13:12:02+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_32": {
+   "title": "Tesla Splits AI Hardware: AI5 Goes to Optimus, Cars Stay on AI4 - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnB0NDZKTVJ6ZFJGVnBqcUFaaXFjZy15SDNCNUdvUktVV3VpX1J3NUYtUVNXbmFTbmJlampPMkloS2l4cVk0bmlrV0RVMF8yUWZUZm1DSGlTOHd1bklyRG9VdFFWdW82YVBsZW8tcXpSeElBY3JDeTlBVmtCcGZYZFgtdF9PZzJMbW42Q0ZuV2prNnZEdmxkTFlZRGY?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T18:04:26+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_48": {
+   "title": "Waymo Pulls Robotaxis Off Freeways Again as Tesla Closes the Registration Gap in Texas",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yVjlCTWlJV3lSRzRKWFVwaTVSd3Qwb0hCLUgyTkR3ZV9QQmtteTYxNWREZE01VlZwV1djd3VQRVdoN3k3Q3pWaE5TR1lTMkNEc1d0cklwXzE4Ym83STVaQi1IaDdteHQxYVlHRGtNeHhyV0JoclE?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T17:25:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_55": {
+   "title": "Is Tesla FSD v15 unsupervised? No, the driver still has to watch the road and be ready to take over",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlpYd2FXYzU2ZXVkY0dIWU0xMmdVSUdPMjdsS3ZGOG56TmllNmZBUjR3LUdBV0NfclJUazNoUFczamgtQUVlLXNUY0l6LVRFT3FNWmNWc3JabDdyUC1SNUFhYXNqcFF4WjRZV3NYNk1ZUEJ6aEQ2VkR2TS1SYjRDUDY5Z1U3cF9DM0FUYWZCODZkbjBiMmhteUFmVVJtZGJYVXFIQ1Z5Z2JNR29yUjhXazBEUQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T01:40:44+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_57": {
+   "title": "Tesla Model Y's Full Self-Driving Stops Dead at Green Light, Owner Forced To Accelerate Through Intersection",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LZHlHVDg2Q05wNEdHLVQzVmwwOWJCSk41Y0pmaWc3R2I5ekNrbUVVZ09ndjFiMjM2TWVUR2VCTEZVdDFLaE9aLXlKNVhYZTV6dkxUOUo3WWR3SWlhNXFZbEZqeW9haEJ1ZFpLblkyUk0wUzNYUi1j?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-22T15:18:48+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_64": {
+   "title": "Claude deciphered math\u2019s greatest riddle: researcher",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6QzUyRnhlSEw1YWtvTEllV0RCSTVYUFV4YkJSbjA5dVRkekk4TWU5WVpLUGp2OTBMclVUS1pNQ0tEeVdXYnc2dHh2eFpFRWZHLVNfckNiRFJGWE9fa2ZLWWRIYks4dGtiNFJVVW5IdzlxUjdNMzBGRQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-22T16:00:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_66": {
+   "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-21T19:11:51+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_68": {
+   "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-21T16:39:00+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795373029_70": {
+   "title": "Artificial intelligence series: how AI coding could be responsilble for recent outages",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SZHlscUg0emp1bTFsMkRLNEVVdVF4QURkaWVMSk55MUNPTjJ6eklxcHIwSzlCSEw4elRHSlp3emExdFV4blE2SHlza1k3T0MwUklqRlR2cGcxUQ?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-22T06:32:24+00:00",
+   "first_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1764,8 +1901,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"79b79d58abe275b8340596203f961880\"",
-   "modified": "Sun, 22 Nov 2026 11:54:17 GMT"
+   "etag": "W/\"4019cbfdb1cee5f8c4c92633c19e21ce\"",
+   "modified": "Sun, 22 Nov 2026 18:40:51 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1777,15 +1914,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 11:51:06 GMT"
+   "modified": "Sun, 22 Nov 2026 18:43:02 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"2a20afcb45b7c1755e2830e1ae52c644\"",
-   "modified": "Sun, 22 Nov 2026 11:48:03 GMT"
+   "etag": "W/\"1795e849e6bc6727095c1e42a3ef233a\"",
+   "modified": "Sun, 22 Nov 2026 18:29:59 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1793,18 +1930,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 11:55:08 GMT"
+   "modified": "Sun, 22 Nov 2026 18:44:43 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"fed8dc2170c09d7b247a84e1c8d88295\"",
-   "modified": "Sun, 22 Nov 2026 11:50:16 GMT"
+   "etag": "\"4464208af5d4b789048dbcb1b86ebc6f\"",
+   "modified": "Sun, 22 Nov 2026 15:10:22 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 11:19:03 GMT"
+   "modified": "Sun, 22 Nov 2026 17:43:49 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"c734c8ef3c17dd3ae79798a2cda3caea\"",
+   "etag": "W/\"c42f14b923376ab6baff6b3460a92d4e\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1812,16 +1949,16 @@
    "modified": "Sun, 22 Nov 2026 10:15:41 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"ce29168ac33cb79d067330a39b33cb83\"",
+   "etag": "W/\"21ac876e1989be4a4ee4e2ec073515c9\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"6769f2c8289d278c3616892b0161310c\"",
+   "etag": "W/\"cf31c94821f7122e178d0fb1dafe3ef2\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"4d7810a1921deb9ef4ac8aad56b1034d\"",
-   "modified": "Sat, 21 Nov 2026 23:00:00 GMT"
+   "etag": "\"eeca1f769ae2a18ee9e007ff5520a493\"",
+   "modified": "Sun, 22 Nov 2026 17:45:33 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1833,11 +1970,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Sat, 21 Nov 2026 16:28:54 GMT"
+   "modified": "Sun, 22 Nov 2026 14:36:12 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"014d7e3bf01aa2b696bd6e183a6252c5\"",
-   "modified": "Sun, 22 Nov 2026 03:22:55 GMT"
+   "etag": "W/\"10760c9190b7d3446b5ee1f1a1bd5f65\"",
+   "modified": "Sun, 22 Nov 2026 14:22:49 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1848,8 +1985,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"9e09eff389fd11529dbbd4282587995f\"",
-   "modified": "Sat, 21 Nov 2026 21:39:35 GMT"
+   "etag": "W/\"53635c729b1be827ecde784f60a7ea45\"",
+   "modified": "Sun, 22 Nov 2026 18:12:03 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
