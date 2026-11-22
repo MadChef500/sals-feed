@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1795080359_34": {
-   "title": "Antropic, the developer of the artificial intelligence chatbot \"Claude,\" was nicknamed \"The Grim Rea..",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OMFczck5ta1dycnhETGJ0Zkl2UUJndnhXNXlRcUNtcjBqTGE3VW5KU1Y2RUhUWG44dlRreUQ4UlFuaXo3akNjME5waw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-19T08:42:03+00:00",
-   "first_seen": "2026-11-19T09:25:59.182283+00:00",
-   "last_seen": "2026-11-20T00:52:54.676537+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795113397_23": {
    "title": "Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More",
    "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes",
@@ -136,24 +119,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795192029_3": {
-   "title": "Philadelphia Marathon weekend: Road closures, route and all you need to know",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEVxR0NvWW8yOU9TelQtM0Z5ZjVUV3BJX2NPMUs0S0oxTnE5TTFrZ2N2YVQtVERLeTNaR01VanAwZFpyR0U2RklRZWFadDF1Ulo2Y2R3NmZOTHd2TmlNOHdlQ09DNWdSTjA1TzJOR0xUdG15a0JpTUlkLVZ6UU8tNXNnYkpWQjFUUVNFdnNFLVgtTlhvaXlHelNYLVhXeFFzMVI0MmNkQ1pPTElOZnJaeDRuaw?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-20T11:15:00+00:00",
-   "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-22T11:54:46.815556+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795192029_4": {
    "title": "NYC Mayor Zohran Mamdani proposes extending Rikers Island closure deadline by five years to 2032",
    "link": "https://6abc.com/story/nyc-mayor-zohran-mamdani-proposes-extending-rikers-island-closure-deadline-years-2032/20059097/",
@@ -199,7 +164,7 @@
    "base": 80,
    "pub": "2026-11-20T15:50:46+00:00",
    "first_seen": "2026-11-20T16:27:09.136139+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -271,57 +236,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795214807_3": {
-   "title": "Two Salvadoran soldiers die, two injured in explosion at Haiti base, authorities say | Breaking News",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlFfYVRFOWNfZG9SSWt4VkdzSlN1WHJkN0VCNk1mb0RsTVlwbTVxd3hoWEY1RnZBUlZ3azMxYTJIM2V0VU9TZEVaang3bW8tdl9scE9GUElDVEZOWGNXM1VGalI3RzJCeUZEYjI0RWFOVS1fUGh6NUhPY2tqOU5mcGpISFNUaUkzU09IaEQwYV96WFIyOGktX1NJeUhmTUdqNE1XY0hSZnJRUnlKQmMyTzVPNmZEcGFSaklVekY5VnFPMEIxRXNyN1g1U2gyZw?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-20T21:54:27+00:00",
-   "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-22T03:25:41.799097+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795214807_4": {
-   "title": "China's nuclear buildup is 'hot and heavy,' Trump says a day after meeting with Xi",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMm0xUng1TlFfWC1CclB3NTBKU0taYnlrTEJsdkdiX3lQUVoya2FrZy1GX3ctQ1NTX0hnNnBTQ01rS2dTZVVYQW9kb3hsMmdrTFJNWEdIUE1IMFV0VE9oMk8xQVZSdXVYTWR2WWxqNTh1SnN2MTg0VUZYOVlGNHVzcHFPV3NHVGppeVo4TGFpdUd3a05lcVRfaUZFN3gzdjBoeHVvTm00V2U2SmVwRzFlcnF3VHpKMXFGaVFTTnJvWmt3QjVMZFJNVw?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-20T20:12:26+00:00",
-   "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T23:27:05.222261+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795214807_6": {
-   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-   "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-20T19:40:07+00:00",
-   "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -404,7 +318,7 @@
    "base": 80,
    "pub": "2026-11-20T16:45:43+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-21T03:35:20.115196+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -542,7 +456,7 @@
    "base": 80,
    "pub": "2026-11-20T16:30:08+00:00",
    "first_seen": "2026-11-20T22:46:47.908984+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -583,23 +497,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795232120_1": {
-   "title": "Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse",
-   "link": "https://www.pbs.org/newshour/nation/lawsuits-allege-corner-cutting-ignored-warnings-led-to-fatal-brooklyn-building-collapse",
-   "sources": [
-    "PBS NewsHour"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-20T22:52:22+00:00",
-   "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T18:19:38.632810+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795232120_7": {
    "title": "At least 7 children dead, 50,000 people treated in hospitals amid early flu season surge",
    "link": "https://www.cbsnews.com/video/at-least-7-children-dead-50000-people-treated-in-hospitals-amid-early-flu-season-surge/",
@@ -632,23 +529,6 @@
    "team": "phillies",
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795232120_14": {
-   "title": "Plane crash in Lower Merion killed a U.S. senator and his sister. It took decades for a YA novelist to write about it",
-   "link": "https://www.phillyvoice.com/lower-merion-midair-collision-isaac-blum-novel/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-20T23:11:00+00:00",
-   "first_seen": "2026-11-21T03:35:20.115196+00:00",
-   "last_seen": "2026-11-21T23:27:05.222261+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -874,17 +754,17 @@
    "changelog": false
   },
   "s1795285178_12": {
-   "title": "Eagles notebook: Nolan Smith reacts to the Jordan Davis trade",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXhTMnZ4c3ExNjI2ZmM1U0R4cldoM29RYm5qQnZTdC0wNklVWTVjYTRTdzFDOXgxNE02R2tUYTExTG9oa3RYM3RtNXFmOFdmRGlwZnBRVkUzX0c4d3RzZlNya0ctdGdiaDBWVnJOd2hhLVdGV1p2MUswX1VNNS1lTmZxeDhNUWdBRXlYN3Z4SU1ZQTNNVFhqQkN0aUR2V0x3d1FMdm5EM2JteldscHNDWjVxZnhZZmFTMXlXaHFQNkJoRDlvOWNCS1pB0gHSAUFVX3lxTE9Dek1PbThJRUZ2YWl1dnliekltNFRFSEZZMEROMjhmZGlUUzlNZVNqRWVSQndaMnlzSVdJakV5dFhpWl9DYnBxQ1RLa2VvcFp2QWtlZ3ppM25vSk9aNXN4Z1M1UGgwT041WUVUMzlXM0tTZjg3SUc3RE5mVnJzRFIxWWFaUHRWY2VLdko1elBuQ2ZyaHhxUHNzUFJPZWc5dXBLclU3NklpOEpFZ1NQTU4xRVktY0tkRlpKT0ZpNG80UlpyNjFrR203RHlXVE12Qkpxdw?oc=5",
+   "title": "Eagles Make Roster Move vs Steelers For More Depth After Jordan Davis Trade",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXhsdDVXVW12TnQ1Tml2RW5tUmF2Mm5OYXAzZkQ1Z3hhaHpKMG1PNkUtZWhoVXFKS1NJVmRPbzc5a0lURlhuRnZObDNoSnZDbWh1QWtaMlZNalVNS3NCeThla0xlRC1BaGJrcllfc0tudXRhUTRFbzJyajV2d1h4cWNhb1NqUQ?oc=5",
    "sources": [
     "Google News Philadelphia",
     "Google News Philly Sports"
    ],
    "cat": "sports",
-   "base": 80,
+   "base": 110,
    "pub": "2026-11-21T12:00:00+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-21T23:27:05.222261+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -970,7 +850,7 @@
    "base": 80,
    "pub": "2026-11-21T13:47:01+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -988,7 +868,7 @@
    "base": 80,
    "pub": "2026-11-21T17:37:00+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1005,7 +885,7 @@
    "base": 80,
    "pub": "2026-11-21T17:03:53+00:00",
    "first_seen": "2026-11-21T18:19:38.632810+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1091,7 +971,7 @@
    "base": 60,
    "pub": "2026-11-21T20:57:37+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1213,7 +1093,7 @@
    "base": 80,
    "pub": "2026-11-21T19:56:56+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1230,7 +1110,7 @@
    "base": 80,
    "pub": "2026-11-21T21:42:48+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1265,7 +1145,7 @@
    "base": 80,
    "pub": "2026-11-21T20:25:00+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1282,7 +1162,7 @@
    "base": 110,
    "pub": "2026-11-21T22:53:10+00:00",
    "first_seen": "2026-11-21T23:27:05.222261+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1385,7 +1265,7 @@
    "base": 80,
    "pub": "2026-11-21T12:00:31+00:00",
    "first_seen": "2026-11-22T03:25:41.799097+00:00",
-   "last_seen": "2026-11-22T03:25:41.799097+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1471,7 +1351,7 @@
    "base": 80,
    "pub": "2026-11-22T08:33:49+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1488,7 +1368,7 @@
    "base": 80,
    "pub": "2026-11-22T06:34:41+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1505,7 +1385,7 @@
    "base": 80,
    "pub": "2026-11-22T03:49:00+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1522,7 +1402,7 @@
    "base": 80,
    "pub": "2026-11-22T04:39:23+00:00",
    "first_seen": "2026-11-22T11:54:46.815556+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1626,7 +1506,7 @@
    "base": 60,
    "pub": "2026-11-22T17:16:47+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -1643,7 +1523,7 @@
    "base": 135,
    "pub": "2026-11-22T14:04:50+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1654,6 +1534,7 @@
    "title": "Looking back at Steelers' historic losing streak vs Eagles in Philadelphia",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHRONFE0YWhNNFJ2a3l1bnRmUnJtOU5VMkFfZnN0NHowWFdvYWtyLXBXVUJMT2VQYmZkT2V6Y2plMlFGS0xmN29WQmtGMkpQc05hZ0JJNjNHME1oN2ZrakNhUmVrM0g0SE9ISDY2WjBRWXRQNVg1RTJERVhYX2g0ZUprdVVmVDJMN3cweGhoQQ?oc=5",
    "sources": [
+    "Bleeding Green Nation",
     "Google News Philadelphia",
     "Google News Philly Sports"
    ],
@@ -1661,7 +1542,7 @@
    "base": 80,
    "pub": "2026-11-22T10:05:15+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1730,7 +1611,7 @@
    "base": 110,
    "pub": "2026-11-21T16:25:00+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1747,7 +1628,7 @@
    "base": 80,
    "pub": "2026-11-22T13:12:02+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1764,7 +1645,7 @@
    "base": 80,
    "pub": "2026-11-22T18:04:26+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1781,7 +1662,7 @@
    "base": 80,
    "pub": "2026-11-22T17:25:00+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1815,7 +1696,7 @@
    "base": 110,
    "pub": "2026-11-22T15:18:48+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1832,7 +1713,7 @@
    "base": 80,
    "pub": "2026-11-22T16:00:00+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1849,7 +1730,7 @@
    "base": 80,
    "pub": "2026-11-21T19:11:51+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1866,7 +1747,7 @@
    "base": 80,
    "pub": "2026-11-21T16:39:00+00:00",
    "first_seen": "2026-11-22T18:43:49.059219+00:00",
-   "last_seen": "2026-11-22T18:43:49.059219+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1889,6 +1770,160 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795391697_3": {
+   "title": "Defending champion Hurricanes break open close game in second period, top Rangers",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEFoTGdieU93Q0tNdmlXN1M0eVdwZE9aQk92aTloQVRnVjdwcldkckUtcGxCcWlZUTJ5b1J0VFpBRUNzZGRRaDVhWFdwUWNqOW1QTnJxVUxjY2ZoQlJXSG9qU2dnWjU4STA3U2Y2c1lTdHRCN2NFRkJuMEo0MHg0dXJxVWt1REZSUGxsSi1pRkJ0cFk2WEU5SE5hWjdSQ2FtaEpYcw?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-22T22:17:52+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_4": {
+   "title": "Main Takeaways From The Rangers' Loss To Hurricanes",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFI3elQtLUE1Uy1JQmI0N3dVcUJSeWpqS0sydmYxcmxwbGw1eTg4YVZvc0FXdXlMdkQtaW5qOEdPeV8zdW90RWZtSTNKQXdQbVFVOEVFU3ZLYlZDdUJHbmJmanZ2N3VvU0t6TnZRNEY2Q0RYVHhybWZhb3ZTeFdLSnpGTGxhaUVaZHVDQUF3?oc=5",
+   "sources": [
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-22T22:10:59+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_6": {
+   "title": "Live updates: Eagles snap 7-game losing streak with win over Steelers",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSllKQXRQdVN6eVVkN1BmdXhETERYLUtHdTNmWnlQcmg4emtlVEg0bWJTQ0gxVUpyNERaRVlhQXpPVXdHZERtcVUzVWlHWGZKc0VZRFJZTm1xS0xfYm1oa3RRYzR2UGUySXVLS3VXdF9icU4xSml2YkNMTDNDX3RsaUdiMkJCQi13RGNhM1BKOHpHVW1GT2JkR0tqaWJweDR2UFFGdzFua2p1b0l6ZEl4akhKeFZoU0gtYVk3OGpyNTBVUE1XQkHSAc4BQVVfeXFMUDZaejRTMU81aE9FVXZuZ2hzb0V0b293cHEzRE9xcUhOOXpraXRTWUxmVXlFWFFkWmtRaHFvV3BPeGlpQ3hkYnZOTkt6aXIxZkoyVDNRQzEzWHVja0VEdVRzQXIwSUFRYnhncy13R3pubE90anBxTzFTOTA0V1BlUTd3RkN6STUwSnVMZVJJeGtPMlkxMUgtakdYLW5JN1ZIUS1sTG1KMUFfOEpjU1MyX0YyNlQ4RlNQb1VvRk10WVZwWmlpSVY0WWloY0RRT2c?oc=5",
+   "sources": [
+    "Google News Philadelphia",
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T23:35:56+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_19": {
+   "title": "Philadelphia Eagles snap losing streak as fans react on social media",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ3BYWXhlVDhTbmVLWS1aZ3p3X0tkN1huQXFnM3V2bVJqVFVxdlhGZnlZYXl3ZVhJem1mM0ZINVYwRVR6UmJRTUhrdVJKRG9BMXZUUG9jTEFCcVlRZ2V1UU55UDE0bHhYcG44U2huVW1iMEV1WERYZ0t4bHdKMG1GS2doZk9GZGs5SkNRc0o3ZDl2YXE4RGJKZmRLMWUyeU5iZnRiVmk5UFNhUHVxWVZMTWRtQlQ5V2ZCREJiYUV6RkN4QV9ZS0xtOGdjcHVZY2JRNTJaVXRHWXpDZEQ3c2IxUg?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T21:22:00+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_20": {
+   "title": "Eagles snap 7-game losing streak and keep Steelers winless in Philly since 1965 with 19-16 victory - Seattle Post-Intelligencer",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDNveTFOTXpGbnhDSXVWTWJrU2J1aEdzTUVOOUhYU1FubzhkT3YzeU1DbXU5QkJrdDFOOGplM3VGOFIxSU1MNExtV2RVYk9rSW5SZmtvbGx5NjluUGVXM1VVeXA2VDhSNEs0NFM0V0dwcThrUHFnY1E3UGhKeUY4blJQSjhnYzJqVFBfTg?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-22T23:01:50+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_33": {
+   "title": "Tesla FSD V15 Offers Stunning Visualizations That Distract From \u201c25x\u201d",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkMtS0s3WUk4czhUQTFkUFpfSEdTVDItRndTYXR5QW80eUxmck9EZTBIWlJmUXYxNlhKdm4zaFhlQy1Sa1k2Mk1FbDdFQUVfQ3ZsRnpDY0RiZUUyWHZHeDZRQk9WOTV6UWhVaTVsbWt4Y0ZyV3V1dVZBQTBqd1ZkWUNrMVpyOFZrYjFseU5PVXlqQWNGQ2xVbVY1MUpuYnlfLTJLT2tKZ2Z4R0l5YTl6MmUxdTNVR1dKcldfOUdfNA?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T20:32:17+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_44": {
+   "title": "Tesla skeptic praises 'Full Self-Driving,' then takes over to avoid a parking lot crash",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdfVEVvQWdMcUMtMWpMOEdrZ0lXQmRGMzJWV1J1MlljbVdYaS1QZ3pVSG5xUXI4VTJBT1VSQm9OMGtaZGNyTFJaUktQQXU0OVVFMWo3Q1pXZUpTN19tQl9WekdrN0w1Zks1WlFvV2RTUVd3bG53Ni1iQ19NdjVXM2RzTQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T20:39:00+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_51": {
+   "title": "How much does FSD v15 cost? Tesla has set no separate price, and FSD is $99 a month",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRhdHVyRnZPYVlMV3Y5bFhDdWxzekN5bmNjd19NaDU1TVNMWlpxRFdvTnpKamVHWkVDMi1oZ3BWYmhNcnhaNDFMWFF0eU56M1dlQzVLZUotWkU4SHRpdk5ZeGcySldPS2o2ZG4xV2ZlczdNTmpycUNaZGc2ZjRBYThYdzl1XzA4QmMzYk4yNEZUZHlpSno3cTdfMHBOeG13OTVjZ2d6Yw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-22T09:41:08+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795391697_68": {
+   "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5",
+   "sources": [
+    "Google News AI"
+   ],
+   "cat": "ai",
+   "base": 80,
+   "pub": "2026-11-22T16:17:53+00:00",
+   "first_seen": "2026-11-22T23:54:57.704290+00:00",
+   "last_seen": "2026-11-22T23:54:57.704290+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1901,8 +1936,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"4019cbfdb1cee5f8c4c92633c19e21ce\"",
-   "modified": "Sun, 22 Nov 2026 18:40:51 GMT"
+   "etag": "W/\"031f1662e1bfb40957cac54de5ac3926\"",
+   "modified": "Sun, 22 Nov 2026 23:53:09 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1914,15 +1949,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 18:43:02 GMT"
+   "modified": "Sun, 22 Nov 2026 23:52:21 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"1795e849e6bc6727095c1e42a3ef233a\"",
-   "modified": "Sun, 22 Nov 2026 18:29:59 GMT"
+   "etag": "W/\"d53839581cf0a4e474a456c1357b5222\"",
+   "modified": "Sun, 22 Nov 2026 23:30:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1930,18 +1965,18 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 18:44:43 GMT"
+   "modified": "Sun, 22 Nov 2026 23:55:21 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"4464208af5d4b789048dbcb1b86ebc6f\"",
-   "modified": "Sun, 22 Nov 2026 15:10:22 GMT"
+   "etag": "\"1a1fdd4d713b7e5be387ddf4d332bceb\"",
+   "modified": "Sun, 22 Nov 2026 21:25:49 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Sun, 22 Nov 2026 17:43:49 GMT"
+   "modified": "Sun, 22 Nov 2026 22:36:27 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"c42f14b923376ab6baff6b3460a92d4e\"",
+   "etag": "W/\"05030520a191e1387e90859faf3de27c\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
@@ -1949,11 +1984,11 @@
    "modified": "Sun, 22 Nov 2026 10:15:41 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"21ac876e1989be4a4ee4e2ec073515c9\"",
+   "etag": "W/\"ce29168ac33cb79d067330a39b33cb83\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"cf31c94821f7122e178d0fb1dafe3ef2\"",
+   "etag": "W/\"7afe39bbdf87856297a3a38d4b842db0\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
@@ -1965,16 +2000,16 @@
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"61a5fc4a6127f6fa6685bd02aaaaf44d\"",
-   "modified": "Sat, 21 Nov 2026 20:21:52 GMT"
+   "etag": "\"e53ca771485919ac6e2b71e6c5929275\"",
+   "modified": "Sun, 22 Nov 2026 21:43:32 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
    "modified": "Sun, 22 Nov 2026 14:36:12 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"10760c9190b7d3446b5ee1f1a1bd5f65\"",
-   "modified": "Sun, 22 Nov 2026 14:22:49 GMT"
+   "etag": "W/\"4e67a6a8e3d130fbcfb418f99e2fc9b8\"",
+   "modified": "Sun, 22 Nov 2026 19:44:06 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1985,8 +2020,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"53635c729b1be827ecde784f60a7ea45\"",
-   "modified": "Sun, 22 Nov 2026 18:12:03 GMT"
+   "etag": "W/\"a4c614cd4ad03e68b836fced62928383\"",
+   "modified": "Sun, 22 Nov 2026 21:42:48 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
