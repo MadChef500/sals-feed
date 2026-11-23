@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:14:04 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla's Updated Cybercab Manual Hints at Owner Robotaxis, Highway Access &amp; More</title>
@@ -13,22 +13,6 @@
       <pubDate>Sat, 21 Nov 2026 16:25:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 21, 11:25 AM ET</description>
-    </item>
-    <item>
-      <title>🦅 Eagles roster news includes Dontayvion Wicks and Zack Baun to injured reserve</title>
-      <link>https://www.bleedinggreennation.com/news/190910/eagles-roster-news-includes-dontayvion-wicks-and-zack-baun-to-injured-reserve</link>
-      <guid isPermaLink="true">https://www.bleedinggreennation.com/news/190910/eagles-roster-news-includes-dontayvion-wicks-and-zack-baun-to-injured-reserve</guid>
-      <pubDate>Sat, 21 Nov 2026 21:19:57 +0000</pubDate>
-      <category>sports</category>
-      <description>Bleeding Green Nation, Google News Philly Sports - Nov 21, 04:19 PM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla Full Self-Driving v15 gets release date from Elon Musk</title>
-      <link>https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/</guid>
-      <pubDate>Sat, 21 Nov 2026 13:47:01 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 21, 08:47 AM ET</description>
     </item>
   </channel>
 </rss>
