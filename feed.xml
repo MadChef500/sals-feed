@@ -4,15 +4,39 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:52:22 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>⚡ Tesla’s Unsupervised FSD future likely to bring Starlink to every model</title>
-      <link>https://www.teslarati.com/tesla-starlink-built-in-ai5/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-starlink-built-in-ai5/</guid>
-      <pubDate>Mon, 23 Nov 2026 06:20:59 +0000</pubDate>
+      <title>🤖 Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
+      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
+      <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
+      <category>ai</category>
+      <description>TechCrunch AI - Nov 23, 05:05 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla FSD V15 Finally Removes the Disengagement Menu</title>
+      <link>https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu</guid>
+      <pubDate>Mon, 23 Nov 2026 19:06:00 +0000</pubDate>
       <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 23, 01:20 AM ET</description>
+      <description>Not a Tesla App - Nov 23, 02:06 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ Tesla Confirms Its Next-Gen FSD Computer (AI4.5) Will Now Include Less Ram Than Planned</title>
+      <link>https://www.notateslaapp.com/news/5066/tesla-confirms-its-next-gen-fsd-computer-ai45-will-now-include-less-ram-than-planned</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5066/tesla-confirms-its-next-gen-fsd-computer-ai45-will-now-include-less-ram-than-planned</guid>
+      <pubDate>Mon, 23 Nov 2026 15:24:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 23, 10:24 AM ET</description>
+    </item>
+    <item>
+      <title>🏀 Sixers aim to extend win streak to six vs. Trail Blazers</title>
+      <link>https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard</link>
+      <guid isPermaLink="true">https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard</guid>
+      <pubDate>Mon, 23 Nov 2026 12:45:03 +0000</pubDate>
+      <category>sports</category>
+      <description>Liberty Ballers - Nov 23, 07:45 AM ET</description>
     </item>
     <item>
       <title>🏙️ Amtrak train derails after striking truck in Louisiana</title>
@@ -21,22 +45,6 @@
       <pubDate>Mon, 23 Nov 2026 12:44:33 +0000</pubDate>
       <category>local</category>
       <description>6abc Action News - Nov 23, 07:44 AM ET</description>
-    </item>
-    <item>
-      <title>🌍 At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks</title>
-      <link>https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss</guid>
-      <pubDate>Mon, 23 Nov 2026 09:34:25 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Nov 23, 04:34 AM ET</description>
-    </item>
-    <item>
-      <title>⚡ Tesla's Updated Cybercab Manual Hints at Owner Robotaxis, Highway Access &amp; More</title>
-      <link>https://www.notateslaapp.com/news/5061/teslas-updated-cybercab-manual-hints-at-owner-robotaxis-highway-access-more</link>
-      <guid isPermaLink="true">https://www.notateslaapp.com/news/5061/teslas-updated-cybercab-manual-hints-at-owner-robotaxis-highway-access-more</guid>
-      <pubDate>Sat, 21 Nov 2026 16:25:00 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Not a Tesla App - Nov 21, 11:25 AM ET</description>
     </item>
   </channel>
 </rss>
