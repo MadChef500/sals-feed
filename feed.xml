@@ -4,8 +4,16 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:42:09 +0000</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>🌍 Nato chief vows defence against space threat after Russian nuclear satellite reports</title>
+      <link>https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 24 Nov 2026 10:58:51 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News - Nov 24, 05:58 AM ET</description>
+    </item>
     <item>
       <title>🤖 Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
       <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
@@ -13,6 +21,14 @@
       <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Nov 23, 05:05 PM ET</description>
+    </item>
+    <item>
+      <title>🏙️ 6abc Dunkin' Thanksgiving Day Parade road closures and parking restrictions</title>
+      <link>https://6abc.com/post/6abc-dunkin-thanksgiving-day-parade-road-closures-parking-restrictions-philadelphia/20072686/</link>
+      <guid isPermaLink="true">https://6abc.com/post/6abc-dunkin-thanksgiving-day-parade-road-closures-parking-restrictions-philadelphia/20072686/</guid>
+      <pubDate>Tue, 24 Nov 2026 03:42:13 +0000</pubDate>
+      <category>local</category>
+      <description>6abc Action News - Nov 23, 10:42 PM ET</description>
     </item>
     <item>
       <title>⚡ Tesla FSD V15 Finally Removes the Disengagement Menu</title>
@@ -29,22 +45,6 @@
       <pubDate>Mon, 23 Nov 2026 15:24:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 23, 10:24 AM ET</description>
-    </item>
-    <item>
-      <title>🏀 Sixers aim to extend win streak to six vs. Trail Blazers</title>
-      <link>https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard</link>
-      <guid isPermaLink="true">https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard</guid>
-      <pubDate>Mon, 23 Nov 2026 12:45:03 +0000</pubDate>
-      <category>sports</category>
-      <description>Liberty Ballers - Nov 23, 07:45 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Amtrak train derails after striking truck in Louisiana</title>
-      <link>https://6abc.com/story/amtrak-train-derails-striking-truck-louisiana/20069303/</link>
-      <guid isPermaLink="true">https://6abc.com/story/amtrak-train-derails-striking-truck-louisiana/20069303/</guid>
-      <pubDate>Mon, 23 Nov 2026 12:44:33 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 23, 07:44 AM ET</description>
     </item>
   </channel>
 </rss>
