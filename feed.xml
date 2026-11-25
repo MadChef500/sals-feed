@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:32:12 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon</title>
@@ -15,20 +15,28 @@
       <description>Google News Tesla, Not a Tesla App - Nov 24, 11:39 AM ET</description>
     </item>
     <item>
-      <title>⚡ Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving</title>
-      <link>https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/</link>
-      <guid isPermaLink="true">https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:05:09 +0000</pubDate>
-      <category>tesla</category>
-      <description>Google News Tesla, Teslarati - Nov 24, 09:05 AM ET</description>
+      <title>🌍 Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel</title>
+      <link>https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 24 Nov 2026 22:49:41 +0000</pubDate>
+      <category>breaking</category>
+      <description>BBC News, Google News Top Stories - Nov 24, 05:49 PM ET</description>
     </item>
     <item>
-      <title>🌍 Armed men take hostages at supermarket in Cartagena, Colombia</title>
-      <link>https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/</guid>
-      <pubDate>Tue, 24 Nov 2026 20:59:44 +0000</pubDate>
+      <title>🌍 Nuclear test veterans speak to BBC about search for justice</title>
+      <link>https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 24 Nov 2026 22:45:03 +0000</pubDate>
       <category>breaking</category>
-      <description>Al Jazeera, CBS News - Nov 24, 03:59 PM ET</description>
+      <description>BBC News - Nov 24, 05:45 PM ET</description>
+    </item>
+    <item>
+      <title>⚡ New York Bans Car Subscriptions, Tesla FSD Likely Exempt</title>
+      <link>https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched</link>
+      <guid isPermaLink="true">https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched</guid>
+      <pubDate>Tue, 24 Nov 2026 22:32:00 +0000</pubDate>
+      <category>tesla</category>
+      <description>Not a Tesla App - Nov 24, 05:32 PM ET</description>
     </item>
     <item>
       <title>🤖 Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
@@ -37,22 +45,6 @@
       <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
       <category>ai</category>
       <description>TechCrunch AI - Nov 23, 05:05 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 Nato chief vows defence against space threat after Russian nuclear satellite reports</title>
-      <link>https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 24 Nov 2026 10:58:51 +0000</pubDate>
-      <category>breaking</category>
-      <description>BBC News - Nov 24, 05:58 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ 6abc Dunkin' Thanksgiving Day Parade road closures and parking restrictions</title>
-      <link>https://6abc.com/post/6abc-dunkin-thanksgiving-day-parade-road-closures-parking-restrictions-philadelphia/20072686/</link>
-      <guid isPermaLink="true">https://6abc.com/post/6abc-dunkin-thanksgiving-day-parade-road-closures-parking-restrictions-philadelphia/20072686/</guid>
-      <pubDate>Tue, 24 Nov 2026 03:42:13 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News, Google News Philadelphia, PhillyVoice - Nov 23, 10:42 PM ET</description>
     </item>
   </channel>
 </rss>
