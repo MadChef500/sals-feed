@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:23:03 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla removed the most annoying part of Full Self-Driving</title>
@@ -15,20 +15,20 @@
       <description>Electrek, Google News Tesla, Teslarati - Nov 25, 10:06 AM ET</description>
     </item>
     <item>
+      <title>🌍 At least 31 killed after fuel tanker crashes and catches fire near Cairo</title>
+      <link>https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:54:00 +0000</pubDate>
+      <category>breaking</category>
+      <description>CBS News - Nov 25, 07:54 PM ET</description>
+    </item>
+    <item>
       <title>⚡ Tesla FSD V15's New Parking Features [VIDEOS]</title>
       <link>https://www.notateslaapp.com/news/5084/tesla-fsd-v15s-new-parking-features-explained-videos</link>
       <guid isPermaLink="true">https://www.notateslaapp.com/news/5084/tesla-fsd-v15s-new-parking-features-explained-videos</guid>
       <pubDate>Wed, 25 Nov 2026 19:59:00 +0000</pubDate>
       <category>tesla</category>
       <description>Not a Tesla App - Nov 25, 02:59 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 At least 30 killed in Egypt vehicle fire, health ministry says</title>
-      <link>https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss</guid>
-      <pubDate>Wed, 25 Nov 2026 18:55:23 +0000</pubDate>
-      <category>breaking</category>
-      <description>Al Jazeera - Nov 25, 01:55 PM ET</description>
     </item>
   </channel>
 </rss>
