@@ -1,91 +1,5 @@
 {
  "stories": {
-  "s1795444766_53": {
-   "title": "Elon Musk reveals what makes Tesla\u2019s latest FSD update different",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTFFMEU2SE9FLWZEZVZTZm1jdlB5WFZ6RWlrNmtnYU92cFNTVHlqLVNxdHcxeFhsYm10dXVDQ0VsSGxYYWlDUzZSQXl4RzRPMGlHMm5iTjNxSi1YbE9FUExFQmVvSUpmSVEtN01OX2hsQ0R1WWctMXU2UjF3Zmt5cVdORlFPTzlCdHZ0VUdPaFpUbTVYNnU4ck1DNjhpd9IBngFBVV95cUxPVGdKUS15Z3lVOWhPdTFPend6aXNZdDMzaW1kbWk2SjFVSGxEOV83Zi1UY2MyVDZnQ2tLajFtWC1RZUlsdzc0M0Qya0NUMWdRODNDZms3MTQyVHA3cXRDSHhxOVJsVXl6RlhhUHVoSmxKYkdGRVFKS3dXaEx2cEU4OXhnamdQRG5TVG1fcVNDUjdvb2RkcFkzUUtfZEx0Zw?oc=5",
-   "sources": [
-    "Electrek",
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-23T13:10:00+00:00",
-   "first_seen": "2026-11-23T14:39:26.214857+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795444766_58": {
-   "title": "Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0FzTktNQ29UbzRjOHVubndOc0pmdWpscnpQTlVTZnhQOTZPS3laSjV6RHFtMW81SjBjTnNqVGRCV090eVRZbFFvbHJMQU1MenVFb1Vnd1h4U2NtSDk4Wl9UV0dqZW9DY3hWZWFPNFliVDFNRURTVlIzZ3J0dzRiWDJIbURQQXVkNExiOHBhTkw?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-23T13:29:04+00:00",
-   "first_seen": "2026-11-23T14:39:26.214857+00:00",
-   "last_seen": "2026-11-24T01:52:22.137470+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_17": {
-   "title": "Tesla FSD V15 Finally Removes the Disengagement Menu",
-   "link": "https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu",
-   "sources": [
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T19:06:00+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_19": {
-   "title": "Tesla Confirms Its Next-Gen FSD Computer (AI4.5) Will Now Include Less Ram Than Planned",
-   "link": "https://www.notateslaapp.com/news/5066/tesla-confirms-its-next-gen-fsd-computer-ai45-will-now-include-less-ram-than-planned",
-   "sources": [
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T15:24:00+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_27": {
-   "title": "Tesla Leaps 13%, Retakes Key Levels. New FSD Update Announced.",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRklMYUtseGRNMjJBTmk0V3Fnbjl6M0xfY0JTOHVYVGczeVpzeVNNb2gyUEhsXzNwaE5CcV9YZWx2ZUxfdWQtQjJDVl9ibHBKc1Z4c0hkbFhHenBscE81eUpGb2tiTGVEcmVEMWJsYm9FN2pDU0NRaVExdzZaV2JNRU5tZ0hpSFo0NHdFM2Rna0dVc3VpR094U2ZITko3SF9PV0RiMzBYZVREVTJF?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-23T16:29:00+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795485142_32": {
    "title": "Tesla FSD HW3 Lawsuits: What Owners Need to Know - BASENOR",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXZCbkVqZG4tRVlMOFNmYVMxN192emZrQTQ1TEZ2TEg4Um42aWx0WnlXSy0wbmxRNUpNWm9ucGl4UV9qcGNpT3JyenpRdHZMdlByUXVrN3dacWExVGJEOVZSYnoyOVBnQ1pOdXhvbnRCRUFUSGhVSDlvdVBab1FUSWtGVWhzMUNLX2c?oc=5",
@@ -95,40 +9,6 @@
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-24T01:10:17+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_34": {
-   "title": "Tesla jumps 50 places on the Roundtable 100 amid FSD v15 rollout",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVh3QkFRR3FOT1MzTHdXMTNVTV9qVEM4ck5NbEpORGJXZ1FKSnF5dzZNRHBWRGd2QkJpSm1XZVZ1OXRqdmdaT0NwRVNyQXZpSkgxM2xVcHNfLXNvQ2JmdW9zMndLT01GRUhCTU1wam1TcjQ0RExIVlBUSVRFNWJGS2lGaG9sWHdaWHJQY1JGVmxoLWJGNmwzNGt5UXBaUQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T16:43:07+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_36": {
-   "title": "Have you taken a ride in one of Waymo\u2019s or Tesla\u2019s robotaxis? Tell us about it. - San Antonio Express-News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzFqbTJ4NE9DVHhuU19xME9rVFhHaUNVbkozUVd5NzBEQWZUeEVVTkxFaU9LZUhNVzZER3BuZ2hKaUc5YW5lUU5YZkNsTVJFOE1VVDZ3YkF0NEhiWmNhUDhYcndMUExXMDhLbVVkOWxzNExVakxzLXhrZGlfNHlDdElxcVU?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T20:32:58+00:00",
    "first_seen": "2026-11-24T01:52:22.137470+00:00",
    "last_seen": "2026-11-24T11:42:09.714392+00:00",
    "team": null,
@@ -154,40 +34,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795485142_42": {
-   "title": "Tesla Opens Public Cybercab Rides in Dallas, Marking Second US Robotaxi Market",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVHFkRFEzOERneVZmcy16TDktMFZxVWYtSjdXNFFlTGl5NFV3MHRmbkY5aWJGZVhzaElhaVZsNnVvbEI5Y1NGMGJoOFl0RThSVDZJaFRWZzROQkxlQ1JzVS15UWJVSnJaVGRMVHZ0SWUwMDdhR3VlWnYyVE56M2FWeWdudw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T20:18:30+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_45": {
-   "title": "Tesla FSD v15 - an honest patch for half a decade of real-world failures",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmZkVlBlRGZyemFoR1hDZHVlZVNxSWFhQzU5M1RQNmh3Z0hkRWVqMnJ6ZWVLNWVZdmJGNHlOeU9qRWlENk44Y3RjSE5XSjhpWmtTUzdhTUVveXF5a3I1NGpyTmVST2hDZ2dwSlNSTkNqWGhMTjZVOTVfTDg0MUFQTHFLVzk1blZrNzhXOGdaRUdFOFUyak4tWWRTM2tBQWpUbG1sUjZyMXVTWGtH?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T20:38:01+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-24T01:52:22.137470+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795485142_49": {
    "title": "Tesla's new FSD screen makes an AI video of the road as you drive",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXVsZ2RiSFhuTnczXy01bk5ueEZWbGotMGcyNzhWWUd2UFRIb1BFZl9zNDZUV3VSOHU2bW9GRnE1Wlg2X1k1MlJiQnR5Z2p1TXZfOE1haGVJTVhSSWdid1ZGaXo4bVJwN2dpUUhKWEwtLS1zYWp3Z2dlVDFERm8wclB0MDlfTmpEQ19mdkJXbUNnY0h0MkhpRnJ5dVI2VGFTUEhucjlxcTFXazJFTlptZC1xQjJPaVdXdGotRklZUQ?oc=5",
@@ -197,24 +43,6 @@
    "cat": "tesla",
    "base": 80,
    "pub": "2026-11-23T20:51:49+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_50": {
-   "title": "Tesla rolls out new 'Reality Mode' update in FSD v15 \u2014 an AI-generated aerial view of your car that might be its best party trick yet",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVhIU2NHSEpaUy1oZE5yMDFpN1JGanVCMWVCNE9rcUY4Vm43dTlFMGlrV21WNHNCbmJ0blJ4d3p5R2VHeHM3emNXQUFycFdqZXgtRE9WbmJmOVdET2FncURhYkV6TkZGelpSS2x5dHE1SDZhU1RwZnZHR2VGTG9qdUVORW91aERWQldOcVhvQmtKc1FjdDJ3OXpucw?oc=5",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-23T13:20:45+00:00",
    "first_seen": "2026-11-24T01:52:22.137470+00:00",
    "last_seen": "2026-11-26T15:41:06.810101+00:00",
    "team": null,
@@ -236,23 +64,6 @@
    "last_seen": "2026-11-25T14:52:04.310307+00:00",
    "team": null,
    "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_55": {
-   "title": "Claude can ship code for you now \u2013 how to try it (if you dare)",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YdzNqWWozWExIQnJEYk9QUjFkcWU2V1ZSa2NfOHJod1pOQjNuTVpKQlAzUFg2dDNhN2x0WExPeEJ6NGhIWTZEdjdYWVJjOUxlWXZoeFNhTmxuWjQyRjZrQnRHaThQRUthVC1fSzVn?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-23T20:00:02+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-24T01:52:22.137470+00:00",
-   "team": null,
-   "trust": 2,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -308,23 +119,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795520529_40": {
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUW42Q3gySjYzdURoTHRGX0FaQ28yT1NUa0lETl9yVnNfT3h5OTdSOGpabm1wZVFaT1FJdUtKS1B4N1c4UFNzUXNlZHJGeU9oZmZBU2k0R2tScGhFNkNiTW82T0lhTnRRX3dwb0stQnZzaGNyeC1Mb012WlhZdWtwaEJIdTFDUUtUMC04eldWaDVJM1Z0MlFWeE9EaTZ2UTA?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-23T20:00:00+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795520529_41": {
    "title": "Claude helps produce a Riemann hypothesis proof in about six weeks",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOcEtGakg5QVRMaEZUSE14d2hfRWpkdHJUMHA5Q0lTT2tHeXVuWG9sTG1HWmEzY3h6VTJmaTNXcDlDWnJxNVpkSk03TXBudzJiNkNkU042Rjg0ckEwYWd4VTNpaWV0T1ozV3FZYU9iWQ?oc=5",
@@ -354,125 +148,6 @@
    "first_seen": "2026-11-24T11:42:09.714392+00:00",
    "last_seen": "2026-11-24T11:42:09.714392+00:00",
    "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_13": {
-   "title": "Is a Trea Turner trade looming for the Phillies?",
-   "link": "https://www.phillyvoice.com/phillies-trea-turner-trade-corey-seager-texas-rangers-mlb-rumor-hot-stove-reports-news-free-agency/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
-   "sources": [
-    "PhillyVoice"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T15:11:54+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_17": {
-   "title": "Trail Blazers Snap Philadelphia 76ers' Win Streak, 128-111",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mSENqNldoM0pDdC1nSF80bTVNSC1NeHRQMlFJREFhWDF5a0tMZUhfNmRORjFuVU1sUUNIUmN1VjB6RHIyNVhWTWktVzl5NGVHU0VvQ2lfaUJCaEFEUC1hSk5XMzEwTEZCWFVrTA?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T13:59:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_18": {
-   "title": "Phillies Missing Out on Signing Teruaki Sato is Major Blow for Their Offseason",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU2hDSDV3b2NROU9sakdBNFllSkQ0eERTTW5NV2thcS1ONS1xX3BZcW85YkIyTGdFSTNiX0N4VGhUZVJWQmo0TVRsbU5vLUE4QTdhbjhkNDhCZmI4TlVvLXd3VlF3QzJwcnJXMmZIRG1tM2JOZDQ2U2NCRjhFXzhsWkZrRm9WbHR2MVhQRmhOZw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T15:25:15+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_20": {
-   "title": "Bulls\u2019 $9.4 Million Big Man Was 76ers Trade Target After Past Pursuit",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ST0dSVjUwdVdYOTRWbFFVUDZzdlB4RUVPSk15MEFOMDVQX3FOeDJVZHdqenlUeno5eXlSTG41LTlwYUVKNF9JdERIYi1rQmdBajN0bFI2TVVtZ1J4V3BRTXlHS0FDbG1oSGU4ZDl6YTVxZzhrdlRjblpB?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T19:20:45+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_22": {
-   "title": "ESPN expert wants Phillies to trade top pitching prospect for regressing Red Sox OF",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWpqRE43MWFUbVNzS0ZHTWlkaElzMjNDR3NZWDZuMDROUDhvMm9GMVdjeFZQc0JNQm5BWEQ1anZpZFE3al9CbE5lUGZGalJ1SFV0YUZXbm10NnZ6T3FSVXVlTFllVzU3cUhldnB2SDVPc1p3bVJiSjI4Z09mLWM2MVI0eFVPektC?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T20:23:53+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_23": {
-   "title": "76ers Bolster Front Line With Shrewd Trade Idea",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFYtMWpNOWp1ZHVZZ1VMNHpaeFRJUFRMdDM5aERhanVZZU5FbUhiMUF3eGF2RFgwdU80SW1mS25nYkRBczBXR0MtUE9rWDRoQXduRGhZLWxOSEk5QmljYk5TSGVXcTdjSUZ1SmFHNWtCME9Qdy1JbXV5ZEx2aHFvRHFIYmJBQTg?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T17:40:54+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_24": {
-   "title": "Philadelphia 76ers Eye Chicago Bulls' Jalen SmithAs Potential Frontcourt Addition Ahead of NBA Trade Deadline",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT0hzeEFjaWJlNTNzOTBBY1diaWg1SVZGd25OX19WR3VHOEk1X0hQUlhTUTI3NXctOWZlWER0aHNMZW02aXR3M05DamVMbFFuYUxZNl9Ec2NvYzFrZk4tQnRrZ0N1YzFReWo3S2NUd3o3OXJZc2hVN09JcmVabXRLb1lQOVJkaFNJcTV0Q0JTbWVWc21SVlJHZl8yOFlNV3RscjltQ2RHMC10bFgyTmh0WmxLT0tocU9rTWdYUVVkZHpHdkZaODYxRHRTbEFMYm1RdXpIbHN2RHFaelY2TlNzUjZpTQ?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T18:59:38+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": "sixers",
    "trust": 2,
    "gate": 0,
    "cas": 0,
@@ -559,7 +234,7 @@
    "base": 80,
    "pub": "2026-11-24T16:01:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -699,57 +374,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_6": {
-   "title": "Police negotiating with hostage-takers at supermarket in Colombia",
-   "link": "https://www.cbsnews.com/video/police-negotiating-hostage-takers-supermarket-colombia/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T01:30:01+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_7": {
-   "title": "Iowa residents fearful of planned explosion, bracing for toxic cloud",
-   "link": "https://www.cbsnews.com/video/iowa-residents-fearful-planned-explosion-bracing-toxic-cloud/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T00:34:31+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_8": {
-   "title": "Gunmen hold dozens hostage in Colombia supermarket",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T00:49:35+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -907,23 +531,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795618324_0": {
-   "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1otTXZHZkpuTkt1bjljUUNJU0VKTmJRcW9UVXNOaUwyQkhrY1hpZngzWkM0WUtzdjBzeXRLVVVPZl9JZnFlM2xpcC1KQTdXZEJ0Z0YtZnZnQzNFYTYxdU11TkstVTBVcVhDaHRxdE9nczBMS3RBVlk1LWc5TXZZZmdjNnhuNWJGV29BMUoxVmNmYV9QT1Z6MHVSVS1fbWZwLTI1cnl6eXVaV1dMVkU0dDVSYw?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T08:31:00+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795618324_1": {
    "title": "Iowa Detonation Live Updates: Army\u2019s Planned Explosion at Ammunition Plant Risks Dangerous Lead Dust Cloud",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
@@ -1007,25 +614,6 @@
    "last_seen": "2026-11-25T14:52:04.310307+00:00",
    "team": "flyers",
    "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795618324_18": {
-   "title": "Tesla FSD v15\u2019s \u2018Reality View\u2019 has one complaint and Musk has the solution",
-   "link": "https://www.teslarati.com/tesla-fsd-v15s-reality-drive-one-complaint-musk-solution/",
-   "sources": [
-    "Google News Tesla",
-    "Not a Tesla App",
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T18:17:44+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
-   "team": null,
-   "trust": 3,
    "gate": 0,
    "cas": 0,
    "changelog": false
@@ -1195,7 +783,7 @@
    "base": 80,
    "pub": "2026-11-25T20:25:11+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1231,7 +819,7 @@
    "base": 110,
    "pub": "2026-11-25T15:06:13+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1283,7 +871,7 @@
    "base": 80,
    "pub": "2026-11-25T17:46:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1300,24 +888,7 @@
    "base": 80,
    "pub": "2026-11-25T20:08:06+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795648994_42": {
-   "title": "Tesla\u2019s FSD v15 turns driving visuals into Grand Theft Auto",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjY2ZWxiWGF1MFJXSHZ2am1HQjE2RVBaYlhrYzNTMy03eW4zdk8yaVdSNHJwWno4eG1ob1J0bWZtejBEck1HWnFXQ2xRb0N1Nm1sTFVXTjBFWDdpZ3VfNUszQVZMLUVCWmdEeGFIMFpMQmt4akJBVHpwWjlNZXNySll0YlByeXpwRk9FYXp1SEhmQTBtaFZMeW9aQ2kwbjNl?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T14:12:28+00:00",
-   "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1436,7 +1007,7 @@
    "base": 80,
    "pub": "2026-11-25T23:54:54+00:00",
    "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1556,7 +1127,7 @@
    "base": 120,
    "pub": "2026-11-26T13:31:28+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1710,7 +1281,7 @@
    "base": 80,
    "pub": "2026-11-26T13:18:54+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1761,7 +1332,7 @@
    "base": 120,
    "pub": "2026-11-25T23:09:59+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1779,7 +1350,7 @@
    "base": 60,
    "pub": "2026-11-26T19:16:29+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1813,7 +1384,7 @@
    "base": 80,
    "pub": "2026-11-26T22:32:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1830,7 +1401,7 @@
    "base": 75,
    "pub": "2026-11-26T20:53:55+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -1847,7 +1418,7 @@
    "base": 80,
    "pub": "2026-11-26T19:45:39+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1916,7 +1487,7 @@
    "base": 110,
    "pub": "2026-11-26T19:47:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1927,13 +1498,14 @@
    "title": "Tesla Update 2026.44.3.1 Release Notes",
    "link": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
    "sources": [
+    "Google News Tesla",
     "Not a Tesla App"
    ],
    "cat": "tesla",
    "base": 110,
    "pub": "2026-11-26T10:06:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1951,7 +1523,7 @@
    "base": 80,
    "pub": "2026-11-26T17:33:21+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1968,7 +1540,7 @@
    "base": 110,
    "pub": "2026-11-26T17:46:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1991,6 +1563,126 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795768436_2": {
+   "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGtQbFZSRXYxT3RpcmJsZlVUWmt6Rk1fMVI2b1d0MWkxUlhzbE1UTXlmM0dCeHd2ZTZVb0p0VV82VFJqTWxXX0tnTzl1U3FYZjc5LUk3d2lzRFl0ZmNhOEFEaFQxbTl0NXNnQ2ZFdEJWN2hYMEFfOXdjQ2RZVG5PaE52djY0RWpfTXNoTF9SOGVCb212Ymg4SWtwcllJUnRfc3BoMk9GMHNTVFZlZllpZ2x3emZPZ9IBuwFBVV95cUxNeVpjYTEzajhIc1gzcXByeHVObFNCLVJqOTRiTktMMjQzSjNJXzh5RXc2SDBiTTQ4bS1mTW80RWRZcHlGUVkzT0d5UlJqdVo1Smt2QUxZbmJ1dm5ZR3JTejJTd0NobWFCUlMxdHAyX2ZKYUF1c0ZnWmtwbzdlRlRzUUktejhoSVV3MVd4ZnNHWTh1dFBrLVZRUkMwS3JNbXFDZzhvWGdhcG5DZUpVS2dwT01HUG5FZDhPZFhB?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-27T01:42:11+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795768436_3": {
+   "title": "Putin has 'shown restraint' by not using nuclear weapons in Ukraine, Kushner says",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOODR2ajBzRFlGcHF5aGRJcDFBcFIxaHhLZGJaQWFwdGgwakQzbHpfLXJrSnJyV09QZlpWellRRkpZUG1vaDB5M0NJZmFJdzAxbURUUkQ5MXcxUHhGbUQyMVNnakJXc0JvSnJDTWZ2VTRQWVNSUnRZdDVnV3ZaT0FEdEdkT1lEZ2R3dmdlaThDWDgyNWZFNGxzdWlLMVRVclJXS1RmOVIxR0IxcHBvODJzMllVXzRTaGctNmF4OXh5eDhkS2E3?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-26T17:22:00+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795768436_6": {
+   "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+   "link": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 95,
+   "pub": "2026-11-27T04:06:52+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 13,
+   "changelog": false
+  },
+  "s1795768436_12": {
+   "title": "Here\u2019s Jerry Jones Doing the Walk of Shame After Cowboys Blow a 21-Point Lead in Home Loss to Three-Win Eagles Team Led by Quarterback Signed Off Dallas Practice Squad",
+   "link": "https://www.crossingbroad.com/news/eagles/heres-jerry-jones-doing-the-walk-of-shame-after-cowboys-blow-a-21-point-lead-in-home-loss-to-three-win-eagles-team-led-by-quarterback-signed-off-dallas-practice-squad/",
+   "sources": [
+    "Crossing Broad"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-27T02:15:50+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795768436_14": {
+   "title": "EU pushes back Tesla \u2018Full Self-Driving\u2019 vote meeting again, now set for December 15",
+   "link": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-25T15:45:37+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795768436_18": {
+   "title": "Tesla\u2019s latest FSD update adds camera-based visuals, pothole and animal detection",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2ZYeFB4a19vaWQ3eEFXWk5YdDdjQjRua3NKSzdnNTlQdzZrTXVGRVB3VHVKZkpyQzNhbm1xaG9VeFNWVXNha0lxOUw4YkFsZlpyakdXRnlQQ3g4bGlKYXpIdFFTRWFLYzFsWi1YYVo4U196bDBIQXdTS2lWZWQtc3h1MGczZl9ZMVJ1MWsxR0U0QW9uaHR6Tw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-27T02:14:18+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795768436_27": {
+   "title": "[News] TSMC Affiliate GUC Reportedly Lands Tesla AI5 ASIC Project; 3nm Constraints May Limit Near-Term Ramp-Up",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1FMnpoSFBKaFhzZDIyTFR0LTFCV19yRHZFaWFLLTdUaENUXzVYYWc4SWMwM3dqdnNzVFk0?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T04:01:00+00:00",
+   "first_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -2003,8 +1695,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"a6d8055e9ff35315c2fc27c6ee68fd74\"",
-   "modified": "Fri, 27 Nov 2026 00:04:54 GMT"
+   "etag": "W/\"1eda98ac01617b0338fb5d28df79ecca\"",
+   "modified": "Fri, 27 Nov 2026 08:30:27 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2016,15 +1708,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 00:06:07 GMT"
+   "modified": "Fri, 27 Nov 2026 08:30:46 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"cdd75053233a23ad5a6b24b7bcd3800c\"",
-   "modified": "Thu, 26 Nov 2026 23:45:04 GMT"
+   "etag": "W/\"92143ecd5e26ae5db24227ff26b43e2e\"",
+   "modified": "Fri, 27 Nov 2026 08:19:39 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2032,23 +1724,23 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 00:08:40 GMT"
+   "modified": "Fri, 27 Nov 2026 08:34:07 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"92cd0d3b69d297b167a672963716a0e6\"",
-   "modified": "Thu, 26 Nov 2026 22:10:37 GMT"
+   "etag": "\"795ae76286ffe002d7450d1bc0765814\"",
+   "modified": "Fri, 27 Nov 2026 00:10:58 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 23:25:02 GMT"
+   "modified": "Fri, 27 Nov 2026 04:26:09 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"37e5dfc61c7a16a3a4758b1425f87d2c\"",
+   "etag": "W/\"5dc59f2ecb76e2b79c38b1aaf2b0b5a1\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "",
-   "modified": ""
+   "etag": "\"d42d1f50a04c5f66e6617154056bf431\"",
+   "modified": "Thu, 26 Nov 2026 14:51:01 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
    "etag": "W/\"fc1eb43853bd2059ae2b675e742cd014\"",
@@ -2059,8 +1751,8 @@
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"4f0788c1868ecdd99622d525df2efa1c\"",
-   "modified": "Thu, 26 Nov 2026 21:00:00 GMT"
+   "etag": "\"dacce823bd8370ad40850839f5bf87e9\"",
+   "modified": "Fri, 27 Nov 2026 03:36:34 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2075,8 +1767,8 @@
    "modified": "Thu, 26 Nov 2026 22:37:28 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"99f3fc2e87cce4e9a6c2d70b735247c0\"",
-   "modified": "Thu, 26 Nov 2026 19:00:02 GMT"
+   "etag": "W/\"198e0caf81c2434f74eba906ef874324\"",
+   "modified": "Fri, 27 Nov 2026 08:12:39 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -2087,8 +1779,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"201e2449765e7b0e68bdf7dba18d3eb6\"",
-   "modified": "Thu, 26 Nov 2026 20:09:26 GMT"
+   "etag": "W/\"26f4f37ca60d8306539e6eb4ce04a8ac\"",
+   "modified": "Fri, 27 Nov 2026 04:02:49 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",

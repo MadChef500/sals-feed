@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 00:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:33:56 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla FSD V15 Rolls Out to Model Ys Without Front Bumper Cameras</title>
@@ -20,7 +20,15 @@
       <guid isPermaLink="true">https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes</guid>
       <pubDate>Thu, 26 Nov 2026 10:06:00 +0000</pubDate>
       <category>tesla</category>
-      <description>Not a Tesla App - Nov 26, 05:06 AM ET</description>
+      <description>Google News Tesla, Not a Tesla App - Nov 26, 05:06 AM ET</description>
+    </item>
+    <item>
+      <title>🌍 At least 13 Niger soldiers killed in Sanam armed attack</title>
+      <link>https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss</guid>
+      <pubDate>Fri, 27 Nov 2026 04:06:52 +0000</pubDate>
+      <category>breaking</category>
+      <description>Al Jazeera - Nov 26, 11:06 PM ET</description>
     </item>
     <item>
       <title>🏙️ Thanksgiving nor’easter brings record coastal flooding, damaging winds and power outages to Philly region</title>
@@ -29,22 +37,6 @@
       <pubDate>Thu, 26 Nov 2026 19:45:39 +0000</pubDate>
       <category>local</category>
       <description>WHYY - Nov 26, 02:45 PM ET</description>
-    </item>
-    <item>
-      <title>🌍 North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture</title>
-      <link>https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump</guid>
-      <pubDate>Thu, 26 Nov 2026 13:31:28 +0000</pubDate>
-      <category>breaking</category>
-      <description>NPR News, PBS NewsHour - Nov 26, 08:31 AM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Commodore Barry Bridge shut down for emergency repairs</title>
-      <link>https://6abc.com/post/commodore-barry-bridge-shut-down-emergency-repairs/20084527/</link>
-      <guid isPermaLink="true">https://6abc.com/post/commodore-barry-bridge-shut-down-emergency-repairs/20084527/</guid>
-      <pubDate>Thu, 26 Nov 2026 11:47:04 +0000</pubDate>
-      <category>local</category>
-      <description>6abc Action News - Nov 26, 06:47 AM ET</description>
     </item>
   </channel>
 </rss>
