@@ -1,57 +1,5 @@
 {
  "stories": {
-  "s1795444766_22": {
-   "title": "Tesla\u2019s Unsupervised FSD future likely to bring Starlink to every model",
-   "link": "https://www.teslarati.com/tesla-starlink-built-in-ai5/",
-   "sources": [
-    "Google News Tesla",
-    "Teslarati"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T06:20:59+00:00",
-   "first_seen": "2026-11-23T14:39:26.214857+00:00",
-   "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795444766_37": {
-   "title": "Tesla FSD Seniors: 9x Safer Claim Unverified",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFNVWUJxVWpjbkRkZy1WajhBNXFRS1NiMHN4TTM2T1dWWXJVTUU2SUs1b2hZai13UGUzdEptRTM2MDQ4X1RaRWhaQU9oSkZTSVhEd2Y3SHFuT2tiNXZVaWdQRW5XMlU0OUczMnBLLXI1NG1zcjBYLUViZWVJaFlZX3JOUQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T10:30:38+00:00",
-   "first_seen": "2026-11-23T14:39:26.214857+00:00",
-   "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795444766_40": {
-   "title": "Tesla AI4.5 Memory Cut to 24GB: What It Means for AI5",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXy1NY1dtS0VhbVVtZXdzb2ZxOUVTMkVxU0lwdExybEpvNVN2Mlh6eW1Qd1VDMU56bnJZaUJHV2NQRUwzZU5VdVlEelRLZ1ZteVNjWVBpZk1zZGk1RE9jdUlBLTh1aTRSNjdDUng0RlcyVHU2Slhobld4eHFDeWJrYWJLNXB1S2c?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T09:36:23+00:00",
-   "first_seen": "2026-11-23T14:39:26.214857+00:00",
-   "last_seen": "2026-11-24T01:52:22.137470+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795444766_53": {
    "title": "Elon Musk reveals what makes Tesla\u2019s latest FSD update different",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTFFMEU2SE9FLWZEZVZTZm1jdlB5WFZ6RWlrNmtnYU92cFNTVHlqLVNxdHcxeFhsYm10dXVDQ0VsSGxYYWlDUzZSQXl4RzRPMGlHMm5iTjNxSi1YbE9FUExFQmVvSUpmSVEtN01OX2hsQ0R1WWctMXU2UjF3Zmt5cVdORlFPTzlCdHZ0VUdPaFpUbTVYNnU4ck1DNjhpd9IBngFBVV95cUxPVGdKUS15Z3lVOWhPdTFPend6aXNZdDMzaW1kbWk2SjFVSGxEOV83Zi1UY2MyVDZnQ2tLajFtWC1RZUlsdzc0M0Qya0NUMWdRODNDZms3MTQyVHA3cXRDSHhxOVJsVXl6RlhhUHVoSmxKYkdGRVFKS3dXaEx2cEU4OXhnamdQRG5TVG1fcVNDUjdvb2RkcFkzUUtfZEx0Zw?oc=5",
@@ -97,7 +45,7 @@
    "base": 80,
    "pub": "2026-11-23T19:06:00+00:00",
    "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -309,60 +257,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795520529_2": {
-   "title": "SEPTA's pilot program testing bullet-resistant enclosures on hold",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWFPbmp4MWw0NW04Rm8wSWlOa2pmaDZPeU5UNkhwSnRpTkZFdU5uZnMyRWRraVpGb2o0SnZlTi1KYl93OWtNRFROVWZGaUhVY1dyWDdtbTBvTm5TZUQybW9laHFPMWRfT0FSVkNmbTFvQ1BTX2lOdmpjQjNpcWhmT1ZreHVNYUU3dzhxNlVyT2VSTW9Rb0dWNdIBngFBVV95cUxOdnRRNGx6TzM2SHl3VWM5UThvRTFJNzhEcm1vZWhnTzNJQU1LQXhMMG9IQ1ZEOVZGaXV6eEEzNTNoak0zN2hYdmJsYmY3R3RGR1hFT3k0Vlh5cmM3b1p6cEZKanE1ZVVGUmVjSnVtZ28tN1M1cnN0SnFsQVF5LU4zUXlYM1FtaXhpNkVRYk1MRmtIM3BGSFRsM04wWjRjZw?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-24T04:05:30+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_6": {
-   "title": "6abc Dunkin' Thanksgiving Day Parade road closures and parking restrictions",
-   "link": "https://6abc.com/post/6abc-dunkin-thanksgiving-day-parade-road-closures-parking-restrictions-philadelphia/20072686/",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia",
-    "PhillyVoice"
-   ],
-   "cat": "local",
-   "base": 80,
-   "pub": "2026-11-24T03:42:13+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_11": {
-   "title": "Corey Seager Willing to Waive No Trade Clause to Phillies",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXhjRmhRVDdKYzc0anAtUXhfRTBteVd2UGFJQjQxSDM0TmpuV0l1SF9qUUFiN1Rwbl82SGRCZTNld1luMVVxbUVnenplUFhITVJWeDFTNFplNV9yVHgyV3hLcEI4aE16a1RRaHlacHNCR1JLYlZlS0U3ZlZPejl2bkVuNTU?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T06:02:00+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795520529_27": {
    "title": "Tesla jumps 11.5% on FSD v15, a release most owners can't use yet",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmpFVUZFa0ZPWTFGTmtoQkh0MmRhSDNEcmNXaW5Uc0lONTJzVWtELW45eXVrVEw3NS1TMkRyQ0dlTGQxNGR2aUNSaVJmZUlWbnRPVnJfZngtR19FbEpLU05NZ09FaEFDaURlbi1EQ0FPUEJPQzhBQm81cy1kZU04cTR0X2poSDhlZ2tWZWd3UUY0bVU?oc=5",
@@ -462,114 +356,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_0": {
-   "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjBBNmluQUtFZGNIdTVyM3RqaFlvSWQxMGpaWnBEQlFGUjhJX3ZDc0J6MENrN294ZEZCVmVZbVBINVNpRndUaEdrRHhVYzdKUjVzN1ZtOWV1QXlwNW1ORlhDaXQ1MjNVYnBNU0s2Rk4welVsQmxWdGxNemJOR3gySEFhaWVaTWtsclBSYS13?oc=5",
-   "sources": [
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-24T21:00:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_2": {
-   "title": "Report of a plane down near Bowman Field",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QX1ZVOG1RR0lpQmY1UVVwM0c4WHoxWnEtOTNSZGtnR3FXVExlMHlYdGo4Q0s3a0Q5M0RfNWRXSDNiUHBPOHItYTdPQm0wRnpxQjgwbkh6TFdVWHpwM251WThxTVYtNzIxNXc?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-24T20:13:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_3": {
-   "title": "6 killed when plane crashes off Mississippi",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Al Jazeera",
-    "CBS News",
-    "Google News Breaking",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 125,
-   "pub": "2026-11-24T20:13:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 6,
-   "changelog": false
-  },
-  "s1795556178_4": {
-   "title": "Armed men take hostages at supermarket in Cartagena, Colombia",
-   "link": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/",
-   "sources": [
-    "Al Jazeera",
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-24T20:59:44+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_5": {
-   "title": "Army says planned detonation in Iowa is necessary to avoid spontaneous explosion",
-   "link": "https://www.cbsnews.com/video/army-says-planned-detonation-in-iowa-is-necessary-to-avoid-spontaneous-explosion/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-24T18:49:07+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_11": {
-   "title": "US Army details mitigation plans for controlled Iowa munition explosion",
-   "link": "https://6abc.com/story/us-army-details-mitigation-plans-controlled-iowa-munition-explosion/20074972/",
-   "sources": [
-    "6abc Action News"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-24T21:24:30+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -721,7 +507,7 @@
    "base": 80,
    "pub": "2026-11-24T20:03:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -739,7 +525,7 @@
    "base": 110,
    "pub": "2026-11-24T16:39:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -773,7 +559,7 @@
    "base": 80,
    "pub": "2026-11-24T16:01:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -913,41 +699,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_0": {
-   "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-   "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News",
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-24T22:49:41+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_1": {
-   "title": "Nuclear test veterans speak to BBC about search for justice",
-   "link": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    "BBC News"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-24T22:45:03+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -1115,7 +866,7 @@
    "base": 80,
    "pub": "2026-11-24T22:32:00+00:00",
    "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1272,7 +1023,7 @@
    "base": 80,
    "pub": "2026-11-23T18:17:44+00:00",
    "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1340,7 +1091,7 @@
    "base": 75,
    "pub": "2026-11-25T15:21:09+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1410,7 +1161,7 @@
    "base": 135,
    "pub": "2026-11-25T19:00:03+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 120,
@@ -1427,7 +1178,7 @@
    "base": 80,
    "pub": "2026-11-25T17:54:03+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1444,7 +1195,7 @@
    "base": 80,
    "pub": "2026-11-25T20:25:11+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -1469,18 +1220,18 @@
    "changelog": false
   },
   "s1795648994_18": {
-   "title": "Tesla removed the most annoying part of Full Self-Driving",
-   "link": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
+   "title": "Tesla Removes One of Full Self-Driving\u2019s Most Annoying Features: What the v15 Update Brings - Root-Nation.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjdKT085LWh5N0hycmg1cDlaTjh2Zkh3bjBYRjVoWXUxS0E4NnNvSDh2aTV4Q2lWdEVWbzNXUFliTEpTNWVpd2NDSTN5a2xfM1hZd1NmOVpkWGNRRlhQMnJ3RDM0WEZtemRlbFpjZHhUTGpkcmZjY2FRY1BXZG9Ccg?oc=5",
    "sources": [
     "Electrek",
     "Google News Tesla",
     "Teslarati"
    ],
    "cat": "tesla",
-   "base": 80,
+   "base": 110,
    "pub": "2026-11-25T15:06:13+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1497,7 +1248,7 @@
    "base": 80,
    "pub": "2026-11-25T19:59:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1514,7 +1265,7 @@
    "base": 80,
    "pub": "2026-11-25T18:54:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1532,7 +1283,7 @@
    "base": 80,
    "pub": "2026-11-25T17:46:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1685,7 +1436,7 @@
    "base": 80,
    "pub": "2026-11-25T23:54:54+00:00",
    "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1753,7 +1504,7 @@
    "base": 80,
    "pub": "2026-11-26T03:06:53+00:00",
    "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": "flyers",
    "trust": 2,
    "gate": 0,
@@ -1798,13 +1549,14 @@
    "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
    "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
    "sources": [
-    "NPR News"
+    "NPR News",
+    "PBS NewsHour"
    ],
    "cat": "breaking",
    "base": 120,
    "pub": "2026-11-26T13:31:28+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1829,16 +1581,17 @@
    "changelog": false
   },
   "s1795707666_5": {
-   "title": "Fuel tanker explosion kills 31 on Egyptian highway",
-   "link": "https://www.cbsnews.com/news/egypt-fuel-tanker-explosion-deaths-giza-cairo/",
+   "title": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJtLVRTTmczWXpYalJuY0hOeVNBWTFsU2xGVVc3TnhDVUFldHhCRU1lNEl6dFp2V0ROTTluYjQ4aFBUU0Y4SWF3NnNqWTkzQlg0NEFxMzI2RW9ibF9DTGVvZGVzVjFSX0lmem1ZR0V3Qm5kaGFFZHJxem9JbXJ0QQ?oc=5",
    "sources": [
-    "CBS News"
+    "CBS News",
+    "Google News Top Stories"
    ],
    "cat": "breaking",
-   "base": 60,
+   "base": 75,
    "pub": "2026-11-26T11:27:25+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1872,7 +1625,7 @@
    "base": 80,
    "pub": "2026-11-26T11:47:04+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1957,7 +1710,7 @@
    "base": 80,
    "pub": "2026-11-26T13:18:54+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1997,6 +1750,247 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795738093_3": {
+   "title": "NASA nuclear propulsion demo mission to make limited use of nuclear propulsion",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-25T23:09:59+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_5": {
+   "title": "Judge strikes down Trump\u2019s latest restrictions on US birthright citizenship",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVBLNFl2ckdFOE9EeGRZVm80YlNKRFpfTm5uR2pWaXF1UGl2YWpnSlpGOFZxY1JGUmFudWtpZ3lFNmhfYVJsSl85MXlaT3YySXJfaGhtVjgtNnY1bGRYT3NYdS1KNzc4a0pRUzNPaTRlXzN4QzRZTFo2djF6YXlpZ3J4dURfVXF2NHMyaEp1bDhrYl9jNHdxc0FGMlpLb0lSc3htcjlrcHhNdGVDV0cxbHEzckdlMUnSAbwBQVVfeXFMTkhXejgxZlZPek1FR0JiSjQya3dwY0tkcnlDTzJwY1FLc2lpazJnS0JTNGduZWNDUThQS2dTd0c0UWp1V3BmZm9WbW9qUENsYlNqWk5JdUcyeGEtVFhGSGtBbk9oNlRYZzF6ei16N3BJT3pNamtHbXFNOHU3cGRYVmZhYlNVcko0YUFsaEEyaDl3SHBRVi1vVUtoYXFiSnhzNE9DcFhuMnR3SGk2cUhCUnNSeS1LT2thT2psV1I?oc=5",
+   "sources": [
+    "Al Jazeera",
+    "Google News Breaking"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-26T19:16:29+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_6": {
+   "title": "In Canada, Quebec\u2019s religious symbols ban faces a Supreme Court test",
+   "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-26T22:51:55+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_9": {
+   "title": "Wind knocks down trees in Philadelphia area, blocking roads and causing power outages",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYng1Z3hTTENZYTVnUjV6TEJ4WGpULU1hQWlEQWl1TWVaY3k5cEhqaHZ4dTRCdjMtYzZ1VzB0SDVwRnhTZVVvV2NrcUtKRzhDQWcyNy1hQWlvaHd3d2s5MC02R2FYV3FLQ29ERkZpdHNEZEV0VF82QktYRjZPb19FU2NQYTJtU1B2Uk1IanM1cVRIZkp6bnFudFJMYUJNTVpGNnlaUGhfdFZPMVpjT2V1dlNzOUdtZElQVjlfXzFkTXNObm9Gb0Nn?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-26T22:32:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_12": {
+   "title": "Teaneck High School shooting: 19-year-old shot, killed during Turkey Bowl football game in New Jersey",
+   "link": "https://6abc.com/story/teaneck-high-school-shooting-19-year-old-shot-killed-during-turkey-bowl-football-game-new-jersey/20086669/",
+   "sources": [
+    "6abc Action News"
+   ],
+   "cat": "breaking",
+   "base": 75,
+   "pub": "2026-11-26T20:53:55+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_14": {
+   "title": "Thanksgiving nor\u2019easter brings record coastal flooding, damaging winds and power outages to Philly region",
+   "link": "https://whyy.org/articles/thanksgiving-philly-region-noreaster-coastal-flooding-damaging-winds-power-outages/",
+   "sources": [
+    "WHYY"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-26T19:45:39+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_16": {
+   "title": "Catcher Market Shrinking on Phillies With Marlins Signing Slugger",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkRydlpwWC1TUF9sbUltSklnVndOWHp1R2dPcVhEWXAxQzRGY3g1eWxsMEhuSjBpT3VFczhlWFU0a1VHTHNoLUNLMlJ4VWpKLThUWlhkbFhwRWo3dzhWaFd2TjFtcUNhTTdfaFpRdFVIZEl2bWJOQmVTUnpnVnNRTkk0c0JqaTJRZWFFU1pvQUVaVkZ6Wl80c2c0YzVKMFA1UVloZQ?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-26T18:00:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": "phillies",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_17": {
+   "title": "Charles Barkley\u2019s wild trade take on 76ers\u2019 VJ Edgecombe met with intense ridicule",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd094TWFPNzBGYVdLWlp1ZWN0QXJKWHhxeDVvcEszNDhScExDaVk2WFhncV9XNmo2MzFKakRxeWZwcTBoZGxMUzgyQUNOTVVNbm1VSjFVb0lBVkZvSlhReWpQeEUwbUZWY1J6SzJPNkxJM25Kb1F1clhiTG1rbUl5dVpqWjB6Y1l6REt3ZDZn?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-26T18:46:46+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": "sixers",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_18": {
+   "title": "Jalen Hurts Injury Update: Eagles QB Out vs. Cowboys on Thanksgiving, Expected to Miss Rest of Season With Blood Clots in His Lungs",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRFJ4dXFLaGdIOXR6Q1pJYnBOSjlzQVpWWFdsa3Bubm1wbk5FS1g5djBTREhJOW5MbDMzTkZhUTNQN0VRYVUwbkQ5b2JLSFdvbi0xNVNBQXRFMENSUXJPNk8tM3J1X09LM3BUXzdJY1ZMN1pCUnZMTDEyQk5zSmdnbEdVXzhYQ2x1?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 110,
+   "pub": "2026-11-26T20:30:44+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_20": {
+   "title": "Tesla FSD V15 Rolls Out to Model Ys Without Front Bumper Cameras",
+   "link": "https://www.notateslaapp.com/news/5092/tesla-fsd-v15-rolls-out-to-model-ys-without-front-bumper-cameras",
+   "sources": [
+    "Google News Tesla",
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-26T19:47:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_21": {
+   "title": "Tesla Update 2026.44.3.1 Release Notes",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-26T10:06:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_31": {
+   "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+   "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-26T17:33:21+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_41": {
+   "title": "Tesla Rolls Out Manual Battery Preconditioning With Software Update 2026.44.3.1",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1BhcGFKYTVOa2N2eXUxazhjSHZRbTV0Z2RvTzBrUlFiTm5BOVQzRGx3YXRzSDl6a09aWG5PbXhKbWpVcHNxU1FsZjFGTWZRZlNaU1FwUVljbFV5a1ZiRFk5SWtkeUN0dkJXS1JIT2UtQWluSDdQYzRyTjkybUJaSHRWVmZsX2dHQ3c?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-26T17:46:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795738093_42": {
+   "title": "Tesla HW3 FSD Claim Surpasses 9,500 Participants Across 41 Countries",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPa1V6c3VwNDZLOFFIcGFpVWtoQ3k4b2dOQnlZVmpYQjRfYS0wYkxaWF9uYWlkdnE1UUdlREkzUzBxeGRhZWNMVmQ1NlBOWS13XzlKSkh0MDJFY3pHT0hjRHJkODAzRmRuMy03NWJuQ2VLUnp1LWc?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-26T15:56:00+00:00",
+   "first_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -2009,8 +2003,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"2b5a7370bf82f0dd8e4ff7350609ae0a\"",
-   "modified": "Thu, 26 Nov 2026 15:36:27 GMT"
+   "etag": "W/\"a6d8055e9ff35315c2fc27c6ee68fd74\"",
+   "modified": "Fri, 27 Nov 2026 00:04:54 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2022,15 +2016,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 15:38:28 GMT"
+   "modified": "Fri, 27 Nov 2026 00:06:07 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"745dfa0a36395f90c8e0e040bece07b6\"",
-   "modified": "Thu, 26 Nov 2026 15:18:13 GMT"
+   "etag": "W/\"cdd75053233a23ad5a6b24b7bcd3800c\"",
+   "modified": "Thu, 26 Nov 2026 23:45:04 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2038,35 +2032,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 15:41:18 GMT"
+   "modified": "Fri, 27 Nov 2026 00:08:40 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"2d35271aa0c449d15247319d3647ab67\"",
-   "modified": "Thu, 26 Nov 2026 14:44:09 GMT"
+   "etag": "\"92cd0d3b69d297b167a672963716a0e6\"",
+   "modified": "Thu, 26 Nov 2026 22:10:37 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 14:36:10 GMT"
+   "modified": "Thu, 26 Nov 2026 23:25:02 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"f1f286239f943dcea10b957b2390328b\"",
+   "etag": "W/\"37e5dfc61c7a16a3a4758b1425f87d2c\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"d42d1f50a04c5f66e6617154056bf431\"",
-   "modified": "Thu, 26 Nov 2026 14:51:01 GMT"
+   "etag": "",
+   "modified": ""
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"9ab21e44a0674d5791537eb903482c23\"",
+   "etag": "W/\"fc1eb43853bd2059ae2b675e742cd014\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"2788f32675225256c28e2305048a5f0d\"",
+   "etag": "W/\"ca052b5bff74906f9904ff297fab42a3\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"743e5a4ee24da01075d9cf09284e3403\"",
-   "modified": "Thu, 26 Nov 2026 14:44:34 GMT"
+   "etag": "\"4f0788c1868ecdd99622d525df2efa1c\"",
+   "modified": "Thu, 26 Nov 2026 21:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -2078,11 +2072,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 13:31:10 GMT"
+   "modified": "Thu, 26 Nov 2026 22:37:28 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"33b0e75a5a948b7e6fa5cccd454c35cf\"",
-   "modified": "Thu, 26 Nov 2026 14:36:19 GMT"
+   "etag": "W/\"99f3fc2e87cce4e9a6c2d70b735247c0\"",
+   "modified": "Thu, 26 Nov 2026 19:00:02 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -2093,8 +2087,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"a94217dbb0849b1c9c1d60002ae773c6\"",
-   "modified": "Thu, 26 Nov 2026 02:52:56 GMT"
+   "etag": "W/\"201e2449765e7b0e68bdf7dba18d3eb6\"",
+   "modified": "Thu, 26 Nov 2026 20:09:26 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
