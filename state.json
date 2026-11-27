@@ -1,107 +1,5 @@
 {
  "stories": {
-  "s1795485142_32": {
-   "title": "Tesla FSD HW3 Lawsuits: What Owners Need to Know - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdXZCbkVqZG4tRVlMOFNmYVMxN192emZrQTQ1TEZ2TEg4Um42aWx0WnlXSy0wbmxRNUpNWm9ucGl4UV9qcGNpT3JyenpRdHZMdlByUXVrN3dacWExVGJEOVZSYnoyOVBnQ1pOdXhvbnRCRUFUSGhVSDlvdVBab1FUSWtGVWhzMUNLX2c?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-24T01:10:17+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_37": {
-   "title": "Tesla Opens 5 New Superchargers in China This Week - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVIyZ1Fid2ppOGRmOTNyM0txeDVtc3EyUDhyV0tqTHhlUEdhajhXeXFsNU9keGNkYTlfeTRWeU9iS2lwVDc5NGU3NFJacmlmX1NHOE8wd3N3RnZ6SHdTeHBZdnVsQU15cFpEbklWbnpYc2N5UGEyaUtzMlpYcWxLMUpDWjlwckhaZ0E4b19n?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T22:06:59+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_49": {
-   "title": "Tesla's new FSD screen makes an AI video of the road as you drive",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXVsZ2RiSFhuTnczXy01bk5ueEZWbGotMGcyNzhWWUd2UFRIb1BFZl9zNDZUV3VSOHU2bW9GRnE1Wlg2X1k1MlJiQnR5Z2p1TXZfOE1haGVJTVhSSWdid1ZGaXo4bVJwN2dpUUhKWEwtLS1zYWp3Z2dlVDFERm8wclB0MDlfTmpEQ19mdkJXbUNnY0h0MkhpRnJ5dVI2VGFTUEhucjlxcTFXazJFTlptZC1xQjJPaVdXdGotRklZUQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-23T20:51:49+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795485142_54": {
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "sources": [
-    "TechCrunch AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-23T22:05:50+00:00",
-   "first_seen": "2026-11-24T01:52:22.137470+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 3,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_27": {
-   "title": "Tesla jumps 11.5% on FSD v15, a release most owners can't use yet",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmpFVUZFa0ZPWTFGTmtoQkh0MmRhSDNEcmNXaW5Uc0lONTJzVWtELW45eXVrVEw3NS1TMkRyQ0dlTGQxNGR2aUNSaVJmZUlWbnRPVnJfZngtR19FbEpLU05NZ09FaEFDaURlbi1EQ0FPUEJPQzhBQm81cy1kZU04cTR0X2poSDhlZ2tWZWd3UUY0bVU?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-24T06:46:38+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_38": {
-   "title": "Italy just got a head start on Tesla FSD over the rest of Europe. While the rest is still stuck at the red light, Italians are about to let their Teslas do the driving. Picture it. Rush hour in Rome, and you're sipping an espresso while your car deals with the scooters. Ev",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFWVRDU0ktaE8xdUVSQ3hkWDBwTWg0MVBZRjVUaHZzOExXVXB1TW9XQ2hjYmwzbC00cGhvZXNNLTdMbTczOGVXTzlVN1BfVnpCSjQ1aG0yVWloRGFJT2VoblFVaDY1bFJqN2h5bg?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-24T07:00:02+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795520529_39": {
    "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
@@ -113,40 +11,6 @@
    "pub": "2026-11-24T11:14:26+00:00",
    "first_seen": "2026-11-24T11:42:09.714392+00:00",
    "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_41": {
-   "title": "Claude helps produce a Riemann hypothesis proof in about six weeks",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOcEtGakg5QVRMaEZUSE14d2hfRWpkdHJUMHA5Q0lTT2tHeXVuWG9sTG1HWmEzY3h6VTJmaTNXcDlDWnJxNVpkSk03TXBudzJiNkNkU042Rjg0ckEwYWd4VTNpaWV0T1ozV3FZYU9iWQ?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-24T02:35:40+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795520529_42": {
-   "title": "Claude Claims Breakthrough In 47-Year-Old Math Problem",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazg1NkRtZTczMzMzVUxXMktpbHFXNkhEVmRPZllRVjR4MXFYdmtBX0J0ay1fX3A3OG9SbWJaZDRBc0Q0aE45bnozZkY0REdOTUdpTVU4UUNwQlJjcnFZRlpBa1lnOWo0TVp6OEhVVnMtYWJQdUg1c3RzUVRYVUg2UHJQemI4OUw4emUxUnlIcnBXT01yRW5jSFFxNl9kZkdRZlQwSjY0aUZYMlF10gG0AUFVX3lxTFBWVTNsbnFoWUdlQ3AyTHdDYjVBdzVXT0VNV05OWldaNXM5RFdqakU5dW9oUjdPSmxpamNpQXY0WVNVaWcxMDRqa0lkNHA5UXZKNnJfa1dQVGlNa2hXNlZFbTZibkk0U1loT2lZYTA5UTA2bmVLVjFpTDNBV3BDTVZ3dEJXa0MyMkZXZnBVWXctd1RiSEx5SkNGeE45S1BwU2wtbzZ0QVhVNFJfbkNGV2d4ZGU5dQ?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 80,
-   "pub": "2026-11-24T06:57:38+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-24T11:42:09.714392+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -182,7 +46,7 @@
    "base": 80,
    "pub": "2026-11-24T20:03:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -234,7 +98,7 @@
    "base": 80,
    "pub": "2026-11-24T16:01:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -285,7 +149,7 @@
    "base": 80,
    "pub": "2026-11-24T13:03:39+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -377,109 +241,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795581132_11": {
-   "title": "Motorcyclist dies in crash on Schuylkill Expressway in Philadelphia, state police say",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0dzNEU1OW1pbHRDZjNmZmg4dUdvYmp5T1RNb0otX19aUzZCMDJaWDhpa09zRWFMWGoxRWd1cFQ3VW1EeFN5N3c0dndqeC1ST2lQVUpwemlEa3FqNi10RV92a0NINzVIZDlKYVZmVGVlZjBEbnd0VjAwYWpRNnlLU20zZHZVUTBFbktVeUNmQQ?oc=5",
-   "sources": [
-    "Google News Philadelphia"
-   ],
-   "cat": "local",
-   "base": 115,
-   "pub": "2026-11-25T03:19:18+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_18": {
-   "title": "Flyers Receiving Trade Interest in $25.5 Million Defenceman: Insider",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2xNN3VyNUpZUWQ0V1V0N2hMdkZteGpReDN2Rml4YjJTMGN0LTNWYW5IX0U1SFByc2MxSGhxX3V3R1IxOXN6ZHVZLXE5Tl82OFlZYTRIX0JISkFPZlQwV0lFa2hBc2Z6NEpZS1ZlQXJWN1RqMkdQV1c1bUQxMDhlOWNrR2oxTWhmMGs0U3VKZmc?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T21:33:05+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_21": {
-   "title": "Phillies Miss Out on Ideal Depth Piece as Ha-Seong Kim Signs With Tigers",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjV0Q0hyWmV3ZzRNRnVJT1owWDJHOWxuRFQ1LVB3b19jWk44NDZKUzQyS1ljenBOYTQ2aFhSdTAwR2xtZXJxbVpmRjdoaFREUUtCSVcwVUU2bklJRWtMbjFOQlpOMWZYOXlPYVlZcW1USmYyTUtRaGJaRXFYempKbldSUl92c0N6Z2NRaw?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T22:30:00+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_22": {
-   "title": "Phillies Should Balk at Hypothetical Jarren Duran Trade Package",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnJLV3BSRFc2eDFFc19HcGFfMzNpWFhMb24xSmdaRU1Qc0hEMXFPeml4dkF1TzhuTUhQTDFsYWNSVElodTd1UXVxYk9mYWl0UFdseWFsWVpqS2FjVzFmaUpOOGYwWjRsdmtBby1nSVhxd0U5WnB3UHp1OVdoVDAyc3pldVdzUzdyMGdDZWJiYngyMmN3ZEtIRk1BT1owUmtoT3c?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-25T00:00:00+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": "phillies",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_24": {
-   "title": "Sixers Need Cisse Before Trade Deadline Hits",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYURSdk9tUkdyUnZHeUpOeThJLWZPT29ORjlYM0xOZWxPQm52OHVoTDAxeEdZUVQ3WXRuQVZZOHgxX3lnbXIzeVdDeVBvLUpjRWNOd1dRUVp5TERfUzRFbnlKYmhYOW13dy1HT21jUlhDN3MweVF0UUpmMnUtZUg5RGl4aDFlQ3hIYldodUtn?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-24T21:01:35+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": "sixers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795581132_25": {
-   "title": "Flyers bring season-long win streak to game vs. struggling Capitals",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaW9jWkpNVVdwTDFTZUlQczlWanVDYkFxMF9nb0xnbzJvYVhyVmhmNEFQRVp4a3J2OGlNYlR6Slc0UDZKRG51VkN6WXVkY21xZ0JoTldvNTZRa2lkQzdEQmNQc1o0a2FtamlEZUdYM0dKTnVTNWUtYlIxbm9WZ2ZwMHJSRzRESTdkS3NKamFYT2NxcTZoeTlDZXZELWxGTFhBakgxblJZNFR5MHVKb0ww?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-25T00:47:54+00:00",
-   "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795581132_28": {
    "title": "New York Bans Car Subscriptions, Tesla FSD Likely Exempt",
    "link": "https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched",
@@ -490,7 +251,7 @@
    "base": 80,
    "pub": "2026-11-24T22:32:00+00:00",
    "first_seen": "2026-11-25T04:32:12.960903+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -528,58 +289,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795618324_1": {
-   "title": "Iowa Detonation Live Updates: Army\u2019s Planned Explosion at Ammunition Plant Risks Dangerous Lead Dust Cloud",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T14:46:05+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795618324_6": {
-   "title": "Powerful storm threatens East Coast with hurricane-level flooding, damaging winds",
-   "link": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983",
-   "sources": [
-    "ABC News",
-    "Google News Philadelphia"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T13:01:13+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795618324_7": {
-   "title": "Syrian teams clear landmines after deadly explosion",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-25T13:51:15+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
    "cas": 0,
    "changelog": false
   },
@@ -663,23 +372,6 @@
    "pub": "2026-11-25T19:26:44+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
    "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795648994_1": {
-   "title": "Breaking news: Live videos show an apparent explosion at the ammunition plant where the U.S. Army planned to detonate nearly 10,000 pounds of degrading lead explosives this morning.",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWnJQc3RCamFRVVBqWFctSENTdC1fYWgtbnc1NFRFTG1XVFNmSkdMLUU1REh5UlpqUl9XUG0wRXYtRl9JMm5KVmJKNnJURnh5MVgxQW05UlVGRWtBdmJ4dkxaX1dJdThucDVZNDVDZ2FOTWxMbDhJZWZXbTVkM0JpN0Rna1FiYzdiTThtY2ZtVzJfaGJQQ0VzVWZDRnUxcjk2OWQyVFVyQjFBeHYtVXoxQnFwcEE3RW1BamJ0UWZnX2hzN05aaC0yTUtHX3RWWUdJUGFvTXhBTW03QTRK?oc=5",
-   "sources": [
-    "Google News Breaking"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-25T15:21:09+00:00",
-   "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -783,7 +475,7 @@
    "base": 80,
    "pub": "2026-11-25T20:25:11+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": "phillies",
    "trust": 2,
    "gate": 0,
@@ -819,7 +511,7 @@
    "base": 110,
    "pub": "2026-11-25T15:06:13+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -836,7 +528,7 @@
    "base": 80,
    "pub": "2026-11-25T19:59:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -853,7 +545,7 @@
    "base": 80,
    "pub": "2026-11-25T18:54:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -871,7 +563,7 @@
    "base": 80,
    "pub": "2026-11-25T17:46:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1007,7 +699,7 @@
    "base": 80,
    "pub": "2026-11-25T23:54:54+00:00",
    "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1127,7 +819,7 @@
    "base": 120,
    "pub": "2026-11-26T13:31:28+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 120,
@@ -1281,7 +973,7 @@
    "base": 80,
    "pub": "2026-11-26T13:18:54+00:00",
    "first_seen": "2026-11-26T15:41:06.810101+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1350,7 +1042,7 @@
    "base": 60,
    "pub": "2026-11-26T19:16:29+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1384,7 +1076,7 @@
    "base": 80,
    "pub": "2026-11-26T22:32:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1418,7 +1110,7 @@
    "base": 80,
    "pub": "2026-11-26T19:45:39+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1487,7 +1179,7 @@
    "base": 110,
    "pub": "2026-11-26T19:47:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1505,7 +1197,7 @@
    "base": 110,
    "pub": "2026-11-26T10:06:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1523,7 +1215,7 @@
    "base": 80,
    "pub": "2026-11-26T17:33:21+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1534,13 +1226,14 @@
    "title": "Tesla Rolls Out Manual Battery Preconditioning With Software Update 2026.44.3.1",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1BhcGFKYTVOa2N2eXUxazhjSHZRbTV0Z2RvTzBrUlFiTm5BOVQzRGx3YXRzSDl6a09aWG5PbXhKbWpVcHNxU1FsZjFGTWZRZlNaU1FwUVljbFV5a1ZiRFk5SWtkeUN0dkJXS1JIT2UtQWluSDdQYzRyTjkybUJaSHRWVmZsX2dHQ3c?oc=5",
    "sources": [
-    "Google News Tesla"
+    "Google News Tesla",
+    "Teslarati"
    ],
    "cat": "tesla",
    "base": 110,
    "pub": "2026-11-26T17:46:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1625,7 +1318,7 @@
    "base": 80,
    "pub": "2026-11-27T02:15:50+00:00",
    "first_seen": "2026-11-27T08:33:56.425150+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1643,7 +1336,7 @@
    "base": 80,
    "pub": "2026-11-25T15:45:37+00:00",
    "first_seen": "2026-11-27T08:33:56.425150+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1660,7 +1353,7 @@
    "base": 110,
    "pub": "2026-11-27T02:14:18+00:00",
    "first_seen": "2026-11-27T08:33:56.425150+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1683,6 +1376,246 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795803898_0": {
+   "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    "BBC News"
+   ],
+   "cat": "breaking",
+   "base": 80,
+   "pub": "2026-11-27T17:19:31+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 123,
+   "changelog": false
+  },
+  "s1795803898_1": {
+   "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+   "sources": [
+    "Google News Top Stories",
+    "NPR News"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-27T10:00:00+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_4": {
+   "title": "Supreme Court to tackle AR-15 bans in blockbuster Second Amendment case",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlJaa1Q2M2p2YXZ2dVVhbXlxVU4ySVJpcTZwSzBmRlh4LS04VTRkU041TzNweDFGQ05QUGEyWll3cUROQlRPcEQ3dTFXQzFUX2dxNURUMjFUd2pHamxfZTZOYUhVanBRcGFTVm9rNEIzSTNWVkNPNVBMQ0libHd3WVRKd3p3bkE?oc=5",
+   "sources": [
+    "Google News Top Stories"
+   ],
+   "cat": "breaking",
+   "base": 60,
+   "pub": "2026-11-27T11:00:16+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 60,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_8": {
+   "title": "Missing 82-year-old Schuylkill County woman last seen in Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVF2WFhDak84THBPQm9KbjBrYzBVRl92czRBZ0JZTEluRmk4ZDBMa2VRVmc1TnU5XzdyMl9hNS1VRUVXUXhvSjdxdXViQlRESzdVMnRtcUV2UEJYWlJLb0JHQXBscFcxTDFlamExU09BQVhXRkxZYktXaWhrUkNNaWJDMU1Tc3AzZXhrdEFyVHlxb2k2TVJxWmJLYXRTUlE?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-27T15:01:17+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_9": {
+   "title": "Thousands of PECO customers remain without power after Thanksgiving nor\u2019easter",
+   "link": "https://whyy.org/articles/peco-power-outage-thanksgiving-noreaster-2026/",
+   "sources": [
+    "WHYY"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-27T18:18:46+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_11": {
+   "title": "Schuylkill Center\u2019s Winter Lights brings a glowing forest trail and fireside s\u2019mores to Northwest Philly",
+   "link": "https://www.phillyvoice.com/schuylkill-center-winter-lights-philadelphia-2026/?utm_source=pv-rss&utm_medium=rss&utm_campaign=pv-site",
+   "sources": [
+    "PhillyVoice"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-27T15:34:52+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_13": {
+   "title": "Flyers and Senators aren\u2019t ideal trade partners despite recent reports",
+   "link": "https://www.broadstreethockey.com/post/flyers-and-senators-arent-ideal-trade-partners-despite-recent-reports/",
+   "sources": [
+    "Broad Street Hockey"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-27T12:30:00+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": "flyers",
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_23": {
+   "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
+   "link": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-24T23:34:00+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_25": {
+   "title": "Tesla FSD V15 Finally Lets You Hide FSD Visuals and Use Maps Full Screen",
+   "link": "https://www.notateslaapp.com/news/5076/tesla-fsd-v15-lets-you-hide-fsd-visuals-with-map-view-and-calm-mode",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-24T21:25:00+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_27": {
+   "title": "This might be the real reason Elon Musk says Tesla\u2019s AI5 chip is going to Optimus",
+   "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+   "sources": [
+    "Electrek",
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T14:48:15+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_30": {
+   "title": "LA Times Letter Backs Tesla FSD: 3 Claims, 0 Stats",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk1yd0h0aW1BWEpVSEZId003eGo5bFV1SEhhTlpwbzhkSUctMDRLNXRaTW1ncHY0UUZTYzNxWXRDRF9wQktCM2ZnR19IVEtjSFVTZkxLUHRVMm1Ec0VNbGtFTkEyLXktSWktTEJRb2xMNmJJU0Q1eUpoa2NrNjZlZjNNdW4?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T16:45:05+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_34": {
+   "title": "Tesla AI5 Optimus: Cars Stay on AI4, Supply Unconfirmed",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ25iMU51Mk9pVE5fWUsyN0kwV0tIWHBZTVU1S0UyWElSQ1Npa3hLM09YbFNsYXphdXZ6UUZmeTd4Qkg3UmRwaEhVYjViaElBbUJkMXU1QjVOM1BjSy1ybmR4OWtlM3BGLXpjWkdLODlnMW5DdzNuRGlVajQ0d0w0V2RCdXBhTTl1QWd1aThJVQ?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T16:25:05+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_39": {
+   "title": "Tesla\u2019s limited AI5 supply may be why Optimus gets the chips first",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXd2UllvZVByVkFuN2xQSTdDRTlpSVJ4OFhFWC1KVmlVTlZWTkZmam1TRl91T0FUcUVOVUVjRFViSENnOVZUYllQcTd0WmpQQTlNa2dJckNTcnV5NHlZRi1vdl93eW1GdWNnSjd2Q2hHZGpmSUFQZDNSVTU1RnI4X3AxT1A?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T14:57:22+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795803898_40": {
+   "title": "Musk's AI5 Chip Slips to 2028 for Tesla Vehicles as TSMC Capacity Goes to Google, Microsoft",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aejVBQnlCZzhkNmxrbDBRbUlJdXlGZkMxMEhlZU91N1dTS2lMa2lzd2dhZmdEMDNNdE9FVi02QjVuckVfOUhhSUxmTjdhWFZCVU0tTkdoMWh3ajVBMU9pNFhiSXo3eWNaREtSTC0tbGlDS1Q3MlE?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T14:07:52+00:00",
+   "first_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1695,8 +1628,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"1eda98ac01617b0338fb5d28df79ecca\"",
-   "modified": "Fri, 27 Nov 2026 08:30:27 GMT"
+   "etag": "W/\"3d8812d39ee944de22029f9a4f595076\"",
+   "modified": "Fri, 27 Nov 2026 18:19:38 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1708,15 +1641,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 08:30:46 GMT"
+   "modified": "Fri, 27 Nov 2026 18:24:42 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"92143ecd5e26ae5db24227ff26b43e2e\"",
-   "modified": "Fri, 27 Nov 2026 08:19:39 GMT"
+   "etag": "W/\"05a5ca7e113eada04bb8c5609bb3b18d\"",
+   "modified": "Fri, 27 Nov 2026 18:21:13 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1724,51 +1657,51 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 08:34:07 GMT"
+   "modified": "Fri, 27 Nov 2026 18:25:26 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"795ae76286ffe002d7450d1bc0765814\"",
-   "modified": "Fri, 27 Nov 2026 00:10:58 GMT"
+   "etag": "\"4ee0c20344c197c7413d1f13c4df069f\"",
+   "modified": "Fri, 27 Nov 2026 18:20:40 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 04:26:09 GMT"
+   "modified": "Fri, 27 Nov 2026 16:53:06 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"5dc59f2ecb76e2b79c38b1aaf2b0b5a1\"",
+   "etag": "W/\"8e4168b9e22fcbbc5f5973a032b5bb7e\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"d42d1f50a04c5f66e6617154056bf431\"",
-   "modified": "Thu, 26 Nov 2026 14:51:01 GMT"
+   "etag": "\"8bc50c719a856dec09fbb31a42da83b7\"",
+   "modified": "Fri, 27 Nov 2026 18:18:38 GMT"
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"fc1eb43853bd2059ae2b675e742cd014\"",
+   "etag": "W/\"835e2f6db29afa7328cfc54a733f8801\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"ca052b5bff74906f9904ff297fab42a3\"",
+   "etag": "W/\"3ca0ae2dc8883c9f92f1c21d11ca7102\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"dacce823bd8370ad40850839f5bf87e9\"",
-   "modified": "Fri, 27 Nov 2026 03:36:34 GMT"
+   "etag": "\"a9a0b1b962957f3dadd606e854c70eda\"",
+   "modified": "Fri, 27 Nov 2026 17:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
    "modified": ""
   },
   "https://www.teslarati.com/feed/": {
-   "etag": "\"5844dcaccfe6648546cd2f558e1217f0\"",
-   "modified": "Wed, 25 Nov 2026 15:06:13 GMT"
+   "etag": "\"214d9c1d56371a18bb547435d2f62717\"",
+   "modified": "Fri, 27 Nov 2026 16:37:01 GMT"
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Thu, 26 Nov 2026 22:37:28 GMT"
+   "modified": "Fri, 27 Nov 2026 18:13:28 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"198e0caf81c2434f74eba906ef874324\"",
-   "modified": "Fri, 27 Nov 2026 08:12:39 GMT"
+   "etag": "W/\"d5eed8d87c6027eba7c4c1efaf90a862\"",
+   "modified": "Fri, 27 Nov 2026 18:01:39 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
@@ -1779,8 +1712,8 @@
    "modified": ""
   },
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
-   "etag": "W/\"26f4f37ca60d8306539e6eb4ce04a8ac\"",
-   "modified": "Fri, 27 Nov 2026 04:02:49 GMT"
+   "etag": "W/\"295f33c386134188603235972bd1fc1e\"",
+   "modified": "Fri, 27 Nov 2026 17:09:46 GMT"
   },
   "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20ChatGPT%20OR%20Claude&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
