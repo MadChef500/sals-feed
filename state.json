@@ -1,22 +1,5 @@
 {
  "stories": {
-  "s1795520529_39": {
-   "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
-   "sources": [
-    "Google News AI"
-   ],
-   "cat": "ai",
-   "base": 110,
-   "pub": "2026-11-24T11:14:26+00:00",
-   "first_seen": "2026-11-24T11:42:09.714392+00:00",
-   "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795556178_25": {
    "title": "Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving",
    "link": "https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/",
@@ -46,7 +29,7 @@
    "base": 80,
    "pub": "2026-11-24T20:03:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -139,23 +122,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795556178_46": {
-   "title": "Tesla Robotaxi Crosses 6 Million Autonomous Miles - BASENOR",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3d0b0hheVVWdGNzVFBIWjNDQWdLNWkyeFpONWdfeEhRbG5uZWd6VVNiQmc4d18wRDhzZk9kbnBMY1dGc0pBNHZqMW05ckhGcXpWeEJNaW5uZnV0V0R5eXZQRmJuWkM0UnpUYXZsS3kzZXBCWnowc25QMGo1bWtyWWx0OEF0bWdwTWNXRg?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-24T13:03:39+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795556178_51": {
    "title": "Vacant Largo lot emerges as potential Tesla supercharger site for robotaxis",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGNUR1N5TnhlMEFTS09pZE5WYUI3MTlJSURJOXN1SF8wT2hkODR1MzBYalVIbER4VkhUNUo2dmFIWENobHRLV1dNX0xhSTBYc1Q0QlkzYkxIMkRhNW1ESTJCVDFKNXAzZGZTZnZnZjhjbFhLQkdvOUZtcFJfdTczRlc5OGJGZkFDTG5BN21ROF9icEdVNEE?oc=5",
@@ -173,23 +139,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795556178_53": {
-   "title": "Tesla robotaxi business valued at $80B in updated UBS model",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhSOGdyWnpLLUc4aGFKbTF4Q1BDMUFibVppSDJWNy0waDNiLWF1dkJpUlFuM1Q0UGhUX3pxdFBEMDJOV21qcDNKbjg2dU5NTjM4NW5FVjFWUV9tQUt2SzFURnE1VzQ0WXMwZ1JmbzAwS2JtQ3hpeHNpTUZhNmZWQ0ZPaG1hNGctUUdSY0hZbU5teFp5S3EzY1pZS2dQT2xPazdxZF92N1pEdmlaOUZOZFdwWGhjZmlhTWRZWHpkMlNjVnNZVS1DVA?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-24T19:10:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795556178_54": {
    "title": "This New Tesla Supercharger Station Can 'Talk' To The Power Grid",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWtENUY1a1dUdmtZQmtvb2VhbFR0U3pCOGlnQnNxQU9CU2dhLUVDU2xEb2dSZW0zS0g2Z3BWZkV0a2pfeWFpaTZ0cVJlQXRMTmJBdTB6eUpTS3p4cDdOX2JBOXY5LUY3UUpwRW16TERLN2RzRFFSMDk0aVJpYTN0UlIzZFA?oc=5",
@@ -201,40 +150,6 @@
    "pub": "2026-11-24T18:17:00+00:00",
    "first_seen": "2026-11-24T21:36:18.099365+00:00",
    "last_seen": "2026-11-25T04:32:12.960903+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_55": {
-   "title": "An $11,800 Tesla Model 3 comes with 160,000 miles and a temporary Supercharger lockout",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlJpQUVaZ2Rmam9jTk14bUhtNEhBUk5rck9UeGo2ei00cEVxdHlUNGRhS2ZpNTBrOXBKV3JrVGdhX1B5Uzl6LW13Y3RHRmJVcHhBclBIWDlJUTlzR2FDbldpd0NnQ1ZFREVBR3o1TTRaa0dqMU9oR3JyaFp2dktsQkVOUjRXZw?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 110,
-   "pub": "2026-11-24T13:00:00+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795556178_56": {
-   "title": "Waymo and Tesla Test Robotaxis in Detroit Ahead of Michigan Winter",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzhNZVl6VGtzbHF6bU5Ed0ZUWkIycnpqYnpKdWtJR2E5cEpkblRnWjNRMUJ3MHVlaElkbFF2a2p3cjBpbTVYa3BzMDdQU21tWXlCajBqR0RCemozSTZFWlI4TjNxSkpJeDA1VC1ONWRrRDBKWFlZMG4xRG9EWUNlTXRqU0tRUXI3RlI5eVNEUkhqcWwtTkNzQ3ZzSQ?oc=5",
-   "sources": [
-    "Google News Tesla"
-   ],
-   "cat": "tesla",
-   "base": 80,
-   "pub": "2026-11-24T19:17:51+00:00",
-   "first_seen": "2026-11-24T21:36:18.099365+00:00",
-   "last_seen": "2026-11-24T21:36:18.099365+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -292,41 +207,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795618324_13": {
-   "title": "Jordan Davis surprises young Eagles fan upset over his trade to Jaguars",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzhqUTN0VHJuckZiaWxUdGxaQnVidURyY0JFa0syM0pPY2VVN2Y3OE9wMlNoTDE1Z2ZtTVVjSlYtVk9oYVhIVUd3d2NUM042X0FxR2pwSkEybC1DQnpRNlJUZ09PcFhYdlh5TmxROFYxOUdJeWtYcGtrRmZ1ZGJHbXdLMWhvN3BxNG5fTS1QZXJHNXBrMWdB?oc=5",
-   "sources": [
-    "Google News Philadelphia",
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-25T07:45:00+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": "eagles",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795618324_16": {
-   "title": "PhHN Daily: Flyers Breakout; Hagens Back; New NHL Trade Board",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT2RNOUhVWTFBOVBFaTlDdW9LNE83YjNFWm5nOXB5ZFNFcElQZHliQ0FBdzJLYVV2YnpEMDJiRU1KOWFSWXVwSWRTcGdyN2l2WmI2ZGw4S3VxZGFiRGpwdmJKeHhnZzRkT2I3cURvTGZMWEE2dzgwaFpQanRHWTJzSDkyX3BxMzF2VF95elF1c3VzcjBndDE3QVJhVmZ5ZjJaVkxKRVRDMWtVbmI5eU9BZ0R0THVsQVJfY25DUzZXTTAxRDlTYldyQ3l1bG9UUWc1M0k3S3B4TTBLYkVB?oc=5",
-   "sources": [
-    "Google News Philly Sports"
-   ],
-   "cat": "sports",
-   "base": 80,
-   "pub": "2026-11-25T10:31:40+00:00",
-   "first_seen": "2026-11-25T14:52:04.310307+00:00",
-   "last_seen": "2026-11-25T14:52:04.310307+00:00",
-   "team": "flyers",
-   "trust": 2,
-   "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795618324_32": {
    "title": "Tesla has built some incredible machines. And Optimus could top them ALL. The ambition? The BEST product ever made. Of ANY kind. One powerful AI, 3 different platforms. FSD, Robotaxi, and Optimus, all learning from a huge amount of real-world videos. N",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oRW84cmgzTDd5M2E2U1A1RVowZThyc0FnaExIc3c1clJNMi11bDY4RG45MEc3bUNQTDVDSVQ5a0Q5S1ExQXo4UkNJN1RJQjVRSXhaVTlleURBNGpUM3A5VDVSN0JITUloNkpQbA?oc=5",
@@ -361,40 +241,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795648994_0": {
-   "title": "Two children among six dead after plane crash off Mississippi coast",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8taE9WNHpNMzI0WXpWcWJQUi1MUmJNbThoLUdBQ3ZYWlZVcWo1TFBpTEd5TWZkczgxcXNPUEEwZ2xLNk5iTVZ2WTNoNWlZX0hJYkc5UENrTVJCM00?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 75,
-   "pub": "2026-11-25T19:26:44+00:00",
-   "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795648994_3": {
-   "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
-   "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 95,
-   "pub": "2026-11-25T18:55:23+00:00",
-   "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-25T23:23:14.193452+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 30,
-   "changelog": false
-  },
   "s1795648994_5": {
    "title": "7-Year Philadelphia Phillies Player Suddenly Signs With New Team",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUx6QnNXS2dkWjc4UzE0R2xWVEI0RGtIQWpQT0hmYl84RW5PcnNTSlN3UlhFZUQzOHFLa3NhWllESEtsNnlVVmZFZDY4N2NrM3lpMzNvc2tjTGpQNktGY3hzTjBIckVXMnA0TUIxSkFYT200R2xEd2VoRVVLYnBLUll0LUhiY0JYNzktSnZMUHR3NW1wSmpR?oc=5",
@@ -427,24 +273,6 @@
    "team": null,
    "trust": 2,
    "gate": 0,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795648994_7": {
-   "title": "NJ state of emergency for Thanksgiving storm, Atlantic City urges evacuations",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUF6bmhGSTRXV0g0YmxiZ0Y3b2dtQm1ubHR0S0Vpclg3cVd0LWtHYmJWc01sQmY1WVdiLXRjVm9xcl96a2tKYk96TXhSVndEdm9jMVVLcEExUXpvSnNZRFVZVEpjb2gtWUgwa3hGaUpqbGp3ZDZZRUtscGFKUW1XMUpPcEZrWUxHY0plODdDNlNUOUZ5SHItczI2MmNZRS1oaEHSAaoBQVVfeXFMUHBkSFRpTU9GNWVxdWtRbEY0S2R6ekVxeXNzMUtwQURnVnM2OUlhNGd0dnJobDRsUHQ2cnM5M2RNNzhENGQ1TEc5Q29pMzNjbVlOM29nSlExeFZNSGdQc2RrV2JUd0NPRlVMQmFrbFNoelhkV0U3bDJmNW84cE5lMDJPOGVyUUx0MzdxZG5mODg3a3ZHd3dyNEctYlNkbEJBa3JoQUtzdEluMnc?oc=5",
-   "sources": [
-    "6abc Action News",
-    "Google News Philadelphia"
-   ],
-   "cat": "breaking",
-   "base": 135,
-   "pub": "2026-11-25T19:00:03+00:00",
-   "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
    "cas": 0,
    "changelog": false
   },
@@ -511,7 +339,7 @@
    "base": 110,
    "pub": "2026-11-25T15:06:13+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -528,7 +356,7 @@
    "base": 80,
    "pub": "2026-11-25T19:59:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -545,7 +373,7 @@
    "base": 80,
    "pub": "2026-11-25T18:54:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -563,7 +391,7 @@
    "base": 80,
    "pub": "2026-11-25T17:46:00+00:00",
    "first_seen": "2026-11-25T23:23:14.193452+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -604,40 +432,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795670583_0": {
-   "title": "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVg5UHpONGNFdFNFMDVfQlFwT1p3dDItcHg2TWRmdDFkT1hCMTlXSGoxM2JLTXViNG1pbUwtZXY2WnB2U050QkViTVJQQkJsSnozaE1ISDMyRGJtSUJuTGNtdjhNWVNoVHVsV1ExYUhyWVM4QVdzNXlmbUg2LWE4b1hraGFCYXdkNEEzYW9LTExIZExfalhEOUtfTUh4MFFlU2dvT0hWUDRXLW1aUDZzNDJlWTNELVRSc09TVFA3SGpRR2FwcF82bXVHUnk0dHQ2TkhIbFJuUFNtNTJjelpfWURfMEFPakhHX2c?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-25T21:38:55+00:00",
-   "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-26T15:41:06.810101+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795670583_2": {
-   "title": "At least 31 killed after fuel tanker crashes and catches fire near Cairo",
-   "link": "https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/",
-   "sources": [
-    "CBS News"
-   ],
-   "cat": "breaking",
-   "base": 95,
-   "pub": "2026-11-26T00:54:00+00:00",
-   "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 0,
-   "cas": 31,
-   "changelog": false
-  },
   "s1795670583_3": {
    "title": "Puerto Rico\u2019s Supreme Court cancels major power contract",
    "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
@@ -664,23 +458,6 @@
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-26T03:23:24+00:00",
-   "first_seen": "2026-11-26T05:23:03.322203+00:00",
-   "last_seen": "2026-11-26T05:23:03.322203+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 60,
-   "cas": 0,
-   "changelog": false
-  },
-  "s1795670583_6": {
-   "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-   "sources": [
-    "Al Jazeera"
-   ],
-   "cat": "breaking",
-   "base": 60,
-   "pub": "2026-11-26T00:00:00+00:00",
    "first_seen": "2026-11-26T05:23:03.322203+00:00",
    "last_seen": "2026-11-26T05:23:03.322203+00:00",
    "team": null,
@@ -1014,23 +791,6 @@
    "cas": 0,
    "changelog": false
   },
-  "s1795738093_3": {
-   "title": "NASA nuclear propulsion demo mission to make limited use of nuclear propulsion",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGYxYVJvZmE2ZzVYTmFUWV95RTZQVkhQR2toQnlhWUpnMkQxSUJPcm1Vdm5tT0dJZ0lNMWFRMGlJOFJXcUNXVGg1WnY5OVVvRXBQMDVtYVVmbmVBSExQSk0tRG1FSVpZdzNfcnVnUFptZkQtZUNDNTVQMHhBTWJaTXdTX0x1ejdydXBPOUdkRWRYc0NRSTN5WlFGOUw3a1Y0VFM4?oc=5",
-   "sources": [
-    "Google News Top Stories"
-   ],
-   "cat": "breaking",
-   "base": 120,
-   "pub": "2026-11-25T23:09:59+00:00",
-   "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T08:33:56.425150+00:00",
-   "team": null,
-   "trust": 2,
-   "gate": 120,
-   "cas": 0,
-   "changelog": false
-  },
   "s1795738093_5": {
    "title": "Judge strikes down Trump\u2019s latest restrictions on US birthright citizenship",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVBLNFl2ckdFOE9EeGRZVm80YlNKRFpfTm5uR2pWaXF1UGl2YWpnSlpGOFZxY1JGUmFudWtpZ3lFNmhfYVJsSl85MXlaT3YySXJfaGhtVjgtNnY1bGRYT3NYdS1KNzc4a0pRUzNPaTRlXzN4QzRZTFo2djF6YXlpZ3J4dURfVXF2NHMyaEp1bDhrYl9jNHdxc0FGMlpLb0lSc3htcjlrcHhNdGVDV0cxbHEzckdlMUnSAbwBQVVfeXFMTkhXejgxZlZPek1FR0JiSjQya3dwY0tkcnlDTzJwY1FLc2lpazJnS0JTNGduZWNDUThQS2dTd0c0UWp1V3BmZm9WbW9qUENsYlNqWk5JdUcyeGEtVFhGSGtBbk9oNlRYZzF6ei16N3BJT3pNamtHbXFNOHU3cGRYVmZhYlNVcko0YUFsaEEyaDl3SHBRVi1vVUtoYXFiSnhzNE9DcFhuMnR3SGk2cUhCUnNSeS1LT2thT2psV1I?oc=5",
@@ -1042,7 +802,7 @@
    "base": 60,
    "pub": "2026-11-26T19:16:29+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1053,13 +813,15 @@
    "title": "In Canada, Quebec\u2019s religious symbols ban faces a Supreme Court test",
    "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
    "sources": [
-    "Al Jazeera"
+    "Al Jazeera",
+    "Google News Top Stories",
+    "PBS NewsHour"
    ],
    "cat": "breaking",
    "base": 60,
    "pub": "2026-11-26T22:51:55+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T00:08:13.834411+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 60,
@@ -1076,7 +838,7 @@
    "base": 80,
    "pub": "2026-11-26T22:32:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1179,7 +941,7 @@
    "base": 110,
    "pub": "2026-11-26T19:47:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1197,7 +959,7 @@
    "base": 110,
    "pub": "2026-11-26T10:06:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1215,7 +977,7 @@
    "base": 80,
    "pub": "2026-11-26T17:33:21+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1233,7 +995,7 @@
    "base": 110,
    "pub": "2026-11-26T17:46:00+00:00",
    "first_seen": "2026-11-27T00:08:13.834411+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1318,7 +1080,7 @@
    "base": 80,
    "pub": "2026-11-27T02:15:50+00:00",
    "first_seen": "2026-11-27T08:33:56.425150+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": "eagles",
    "trust": 2,
    "gate": 0,
@@ -1336,7 +1098,7 @@
    "base": 80,
    "pub": "2026-11-25T15:45:37+00:00",
    "first_seen": "2026-11-27T08:33:56.425150+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1381,13 +1143,14 @@
    "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
    "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
    "sources": [
+    "Al Jazeera",
     "BBC News"
    ],
    "cat": "breaking",
    "base": 80,
    "pub": "2026-11-27T17:19:31+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1405,7 +1168,7 @@
    "base": 60,
    "pub": "2026-11-27T10:00:00+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 60,
@@ -1456,7 +1219,7 @@
    "base": 80,
    "pub": "2026-11-27T18:18:46+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 3,
    "gate": 0,
@@ -1473,7 +1236,7 @@
    "base": 80,
    "pub": "2026-11-27T15:34:52+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1542,7 +1305,7 @@
    "base": 80,
    "pub": "2026-11-27T14:48:15+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1559,7 +1322,7 @@
    "base": 80,
    "pub": "2026-11-27T16:45:05+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1576,7 +1339,7 @@
    "base": 80,
    "pub": "2026-11-27T16:25:05+00:00",
    "first_seen": "2026-11-27T18:24:58.271027+00:00",
-   "last_seen": "2026-11-27T18:24:58.271027+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
    "team": null,
    "trust": 2,
    "gate": 0,
@@ -1616,6 +1379,142 @@
    "gate": 0,
    "cas": 0,
    "changelog": false
+  },
+  "s1795829844_4": {
+   "title": "Will Taiwan vote to revive nuclear power \u2013 and why does that matter for AI?",
+   "link": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-27T23:09:04+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_6": {
+   "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+   "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "sources": [
+    "Al Jazeera"
+   ],
+   "cat": "breaking",
+   "base": 120,
+   "pub": "2026-11-27T20:39:57+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 120,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_8": {
+   "title": "Amtrak cancels trains between Harrisburg and Philadelphia after tree blocks tracks",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVJkb28xeVppVEM2SXlIYTVhY3JTTlpwQmRRbXhEa2xlVGc0TVRFdDlmOU1ZNlhiWDQxR3RrbjB6c1dBWlFzeFljUVMtaVE4ejNvNkJ4M1F1VUdPZnhTR3BycjJMVzB2SGJzUVNwZVFfV3ZTNTAwNU5ndDlSMFk1SjA4UEZFZ3pfMkNxWEZJTXRHUGtCdDhubDlWSFk2NDlOTFotQjVRNG5zZTRTcXFBeTJLYWpDdFNEZzBNUnVqZGV2VlnSAdcBQVVfeXFMT3Vhamh6bi11bUhObVlaVVhON29qZ1JpS09wYVJCM085MDh5V3BWMUhHd3ljZW5sekRFYUlmYW5BUWVmanBfQnpud0VPOC1jZUVnNWZHZ2RMTUI0QWR1R2VqSllNSnBTcUduWkJDOXJYTko4N2VpYllCTWh6V015dU5Ed3JhYUo0OGY3Vm9CU2huQXJKMTlIME93OERlVTFLT3hTSjREdzZkV241RjM1djRBSEJCMFNsa2NqT1JvZXJhUTluRjBEQnVtVXg2aEI2eENzNUhFaWs?oc=5",
+   "sources": [
+    "Google News Philadelphia"
+   ],
+   "cat": "local",
+   "base": 80,
+   "pub": "2026-11-27T14:30:00+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_13": {
+   "title": "DeVonta Smith is giving Eagles a glimpse of their future, and the A.J. Brown trade looks different now",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDRIUU03czkxeFhnM1Z4WFRJMTJmdlJnUDg2RHVaZ1p4UkhHV2tpUE9tdzdtenY4THRVdlNNOFZNejFTcUQxNW44QXF3WE9VSmQ1QXg2YkpLVUNZZEt2ZTJUVThZV004d0F1MmZLc2ZWbVZnX0NYN25ETlU0ZkhSMFJSVW5vNFY1TVdxZUNjMkpmZw?oc=5",
+   "sources": [
+    "Google News Philly Sports"
+   ],
+   "cat": "sports",
+   "base": 80,
+   "pub": "2026-11-27T19:00:00+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": "eagles",
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_14": {
+   "title": "Tesla Files Plans for New Robotaxi Charging Station in Texas",
+   "link": "https://www.notateslaapp.com/news/5101/tesla-files-plans-for-new-robotaxi-charging-station-in-texas",
+   "sources": [
+    "Not a Tesla App"
+   ],
+   "cat": "tesla",
+   "base": 110,
+   "pub": "2026-11-27T20:46:00+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 3,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_25": {
+   "title": "NJ Man Rates Tesla FSD Safety 100%, Musk a Dealbreaker",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWY3WWg0Y1hRMWpUZ0RSTXpIVXY1cHI4ODhZUHNhUlVMbFp6Y2NoTUhkWWJpYm1qQkdTU3FfNmVnNjdtaTY4ai05ZmN4a0dMZTFnbnVrUlQ4QlFyb3FjemxDZmJaQzFLQ29pUEtoQ3IzNVZaYkNYUWJxYUZlejJnUVBldlY5bE5YNkxDVWdMRzItV21CbUdsb1N3?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-28T00:25:07+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_26": {
+   "title": "Tesla expands Dallas, TX, Robotaxi geofence by 83% just days after Cybercab launch, watch user reviews, more",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXlVbF9lbHptN3NMRGpnZzRraEZ4X0YtWUdmVVlwSEllNFhJbFJuZUxwWnFQa2RiZ1Z5YjRBOFVWc3VDSGRoUWtiOTNBVjRfbzBIUlh6dUVvc0RDdVJOQ2lvTDZIXzNCWWVqMDRHV01EYlRPVXpNdm9qanU4eGQwNjJsUEJKdFFNRTctXzZOWW9iM0pDM0RiZjdRNlBjTHBQbG9rUVZyNVhWM2tYMkhfYWh6ZzZsZ0RSNDhUenZVbEs1SEJQUFF2SEtR?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T19:48:19+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
+  },
+  "s1795829844_28": {
+   "title": "Tesla Robotaxi Geofences Found in Firmware for 9 European Cities - BASENOR",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjUzUkZLZXVadjk1UmdmRWtPNHpoeHd0MmZ3R0Eyd2l6UjZSc2ZObHdIQXloWUx4bzRkT3AtWDFMS3JRamJGbVVlZ05sOVN2WTN1TkhOWE9KT1BCVy1xck9zeGlxS1FhMDZpT1A0U09ORllaSWszaUt1cXRMYXJnQWhRcVZWQkFsd0Y0bjJJVnZ3RDNQY1h0cE14STJRRGUw?oc=5",
+   "sources": [
+    "Google News Tesla"
+   ],
+   "cat": "tesla",
+   "base": 80,
+   "pub": "2026-11-27T14:04:09+00:00",
+   "first_seen": "2026-11-28T01:37:24.237775+00:00",
+   "last_seen": "2026-11-28T01:37:24.237775+00:00",
+   "team": null,
+   "trust": 2,
+   "gate": 0,
+   "cas": 0,
+   "changelog": false
   }
  },
  "feeds": {
@@ -1628,8 +1527,8 @@
    "modified": ""
   },
   "https://www.pbs.org/newshour/feeds/rss/headlines": {
-   "etag": "W/\"3d8812d39ee944de22029f9a4f595076\"",
-   "modified": "Fri, 27 Nov 2026 18:19:38 GMT"
+   "etag": "W/\"8d4dae5fd81ab767aa6518bb42caf5c9\"",
+   "modified": "Sat, 28 Nov 2026 01:27:56 GMT"
   },
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1641,15 +1540,15 @@
   },
   "https://www.cbsnews.com/latest/rss/main": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 18:24:42 GMT"
+   "modified": "Sat, 28 Nov 2026 01:34:55 GMT"
   },
   "https://abcnews.go.com/abcnews/topstories": {
    "etag": "",
    "modified": ""
   },
   "https://www.aljazeera.com/xml/rss/all.xml": {
-   "etag": "W/\"05a5ca7e113eada04bb8c5609bb3b18d\"",
-   "modified": "Fri, 27 Nov 2026 18:21:13 GMT"
+   "etag": "W/\"8084d224b9d167ec52df2f7d72ab957d\"",
+   "modified": "Sat, 28 Nov 2026 01:20:03 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1657,35 +1556,35 @@
   },
   "https://6abc.com/feed/": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 18:25:26 GMT"
+   "modified": "Sat, 28 Nov 2026 01:38:06 GMT"
   },
   "https://whyy.org/feed/": {
-   "etag": "\"4ee0c20344c197c7413d1f13c4df069f\"",
-   "modified": "Fri, 27 Nov 2026 18:20:40 GMT"
+   "etag": "\"717efac5459ebb4eedc47ff5c7b50763\"",
+   "modified": "Sat, 28 Nov 2026 00:10:50 GMT"
   },
   "https://www.phillyvoice.com/feed/": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 16:53:06 GMT"
+   "modified": "Fri, 27 Nov 2026 23:18:04 GMT"
   },
   "https://www.bleedinggreennation.com/rss/index.xml": {
-   "etag": "W/\"8e4168b9e22fcbbc5f5973a032b5bb7e\"",
+   "etag": "W/\"c1eef29d3a1ea7f6387b7e19a613f97e\"",
    "modified": ""
   },
   "https://www.broadstreethockey.com/rss/index.xml": {
-   "etag": "\"8bc50c719a856dec09fbb31a42da83b7\"",
-   "modified": "Fri, 27 Nov 2026 18:18:38 GMT"
+   "etag": "",
+   "modified": ""
   },
   "https://www.thegoodphight.com/rss/index.xml": {
-   "etag": "W/\"835e2f6db29afa7328cfc54a733f8801\"",
+   "etag": "W/\"d7f09fc2a58e9970b338d93c62343cb2\"",
    "modified": ""
   },
   "https://www.libertyballers.com/rss/index.xml": {
-   "etag": "W/\"3ca0ae2dc8883c9f92f1c21d11ca7102\"",
+   "etag": "W/\"099b5a995d088f6aa1bc322e39d28570\"",
    "modified": ""
   },
   "https://www.crossingbroad.com/feed/": {
-   "etag": "\"a9a0b1b962957f3dadd606e854c70eda\"",
-   "modified": "Fri, 27 Nov 2026 17:00:00 GMT"
+   "etag": "\"cb4d6a0f4d3f0028191fa099ddd8e4d4\"",
+   "modified": "Sat, 28 Nov 2026 01:00:00 GMT"
   },
   "https://news.google.com/rss/search?q=Philadelphia%20Eagles%20OR%20Flyers%20OR%20Phillies%20OR%2076ers&hl=en-US&gl=US&ceid=US:en": {
    "etag": "",
@@ -1697,11 +1596,11 @@
   },
   "https://www.notateslaapp.com/rss": {
    "etag": "",
-   "modified": "Fri, 27 Nov 2026 18:13:28 GMT"
+   "modified": "Fri, 27 Nov 2026 20:47:28 GMT"
   },
   "https://electrek.co/feed/": {
-   "etag": "W/\"d5eed8d87c6027eba7c4c1efaf90a862\"",
-   "modified": "Fri, 27 Nov 2026 18:01:39 GMT"
+   "etag": "W/\"1501a8e4aa34af45d18b2c89e2732a2f\"",
+   "modified": "Sat, 28 Nov 2026 00:21:10 GMT"
   },
   "https://insideevs.com/feed/": {
    "etag": "",
