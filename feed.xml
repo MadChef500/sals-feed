@@ -4,7 +4,7 @@
     <title>Sal's Feed</title>
     <description>Only the stories worth your time: major breaking news, Philadelphia headlines, Philly sports, Tesla owner news, and AI developments.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2026 01:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:24:30 +0000</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>⚡ Tesla Files Plans for New Robotaxi Charging Station in Texas</title>
@@ -21,22 +21,6 @@
       <pubDate>Thu, 26 Nov 2026 19:47:00 +0000</pubDate>
       <category>tesla</category>
       <description>Google News Tesla, Not a Tesla App - Nov 26, 02:47 PM ET</description>
-    </item>
-    <item>
-      <title>🏙️ Thousands of PECO customers remain without power after Thanksgiving nor’easter</title>
-      <link>https://whyy.org/articles/peco-power-outage-thanksgiving-noreaster-2026/</link>
-      <guid isPermaLink="true">https://whyy.org/articles/peco-power-outage-thanksgiving-noreaster-2026/</guid>
-      <pubDate>Fri, 27 Nov 2026 18:18:46 +0000</pubDate>
-      <category>local</category>
-      <description>WHYY - Nov 27, 01:18 PM ET</description>
-    </item>
-    <item>
-      <title>🏒 Flyers and Senators aren’t ideal trade partners despite recent reports</title>
-      <link>https://www.broadstreethockey.com/post/flyers-and-senators-arent-ideal-trade-partners-despite-recent-reports/</link>
-      <guid isPermaLink="true">https://www.broadstreethockey.com/post/flyers-and-senators-arent-ideal-trade-partners-despite-recent-reports/</guid>
-      <pubDate>Fri, 27 Nov 2026 12:30:00 +0000</pubDate>
-      <category>sports</category>
-      <description>Broad Street Hockey - Nov 27, 07:30 AM ET</description>
     </item>
   </channel>
 </rss>
